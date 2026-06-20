@@ -11,7 +11,7 @@
         },
         {
           "id": "b",
-          "text": "has / started"
+          "text": "did / start"
         },
         {
           "id": "c",
@@ -19,7 +19,7 @@
         },
         {
           "id": "d",
-          "text": "did / start"
+          "text": "has / started"
         }
       ],
       "correctOptionId": "c",
@@ -31,22 +31,22 @@
       "options": [
         {
           "id": "a",
-          "text": "lived"
+          "text": "has lived"
         },
         {
           "id": "b",
-          "text": "was living"
-        },
-        {
-          "id": "c",
           "text": "is living"
         },
         {
+          "id": "c",
+          "text": "lived"
+        },
+        {
           "id": "d",
-          "text": "has lived"
+          "text": "was living"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "a",
       "explanation": "Present perfect + since untuk durasi hingga sekarang."
     },
     {
@@ -55,15 +55,15 @@
       "options": [
         {
           "id": "a",
-          "text": "lost"
+          "text": "had lost"
         },
         {
           "id": "b",
-          "text": "was losing"
+          "text": "lost"
         },
         {
           "id": "c",
-          "text": "had lost"
+          "text": "was losing"
         },
         {
           "id": "d",
@@ -83,11 +83,11 @@
         },
         {
           "id": "b",
-          "text": "By next year, I will graduate."
+          "text": "By next year, I graduated."
         },
         {
           "id": "c",
-          "text": "By next year, I graduated."
+          "text": "By next year, I will graduate."
         },
         {
           "id": "d",
@@ -103,7 +103,7 @@
       "options": [
         {
           "id": "a",
-          "text": "have had"
+          "text": "am having"
         },
         {
           "id": "b",
@@ -111,7 +111,7 @@
         },
         {
           "id": "c",
-          "text": "am having"
+          "text": "have had"
         },
         {
           "id": "d",
@@ -127,22 +127,22 @@
       "options": [
         {
           "id": "a",
-          "text": "knew"
+          "text": "had known"
         },
         {
           "id": "b",
-          "text": "were knowing"
-        },
-        {
-          "id": "c",
           "text": "have known"
         },
         {
+          "id": "c",
+          "text": "knew"
+        },
+        {
           "id": "d",
-          "text": "had known"
+          "text": "were knowing"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "a",
       "explanation": "Past perfect untuk durasi sebelum peristiwa masa lalu lain."
     },
     {
@@ -151,11 +151,11 @@
       "options": [
         {
           "id": "a",
-          "text": "was"
+          "text": "be"
         },
         {
           "id": "b",
-          "text": "be"
+          "text": "am"
         },
         {
           "id": "c",
@@ -163,7 +163,7 @@
         },
         {
           "id": "d",
-          "text": "am"
+          "text": "was"
         }
       ],
       "correctOptionId": "c",
@@ -175,7 +175,7 @@
       "options": [
         {
           "id": "a",
-          "text": "had finished"
+          "text": "finished"
         },
         {
           "id": "b",
@@ -187,10 +187,10 @@
         },
         {
           "id": "d",
-          "text": "finished"
+          "text": "had finished"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "d",
       "explanation": "Reported speech: past perfect untuk backshift."
     },
     {
@@ -203,18 +203,18 @@
         },
         {
           "id": "b",
-          "text": "She has studied all morning and finished."
+          "text": "She has been studying all morning."
         },
         {
           "id": "c",
-          "text": "She has been studying all morning."
+          "text": "She has studied all morning and finished."
         },
         {
           "id": "d",
           "text": "She is studying since morning."
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "b",
       "explanation": "Present perfect continuous: has been + verb-ing."
     },
     {
@@ -227,18 +227,18 @@
         },
         {
           "id": "b",
-          "text": "boils"
+          "text": "boiled"
         },
         {
           "id": "c",
-          "text": "is boiling"
+          "text": "boils"
         },
         {
           "id": "d",
-          "text": "boiled"
+          "text": "is boiling"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "c",
       "explanation": "Present simple untuk fakta ilmiah umum."
     },
     {
@@ -255,11 +255,11 @@
         },
         {
           "id": "c",
-          "text": "but we went for a walk"
+          "text": "however we went"
         },
         {
           "id": "d",
-          "text": "however we went"
+          "text": "but we went for a walk"
         }
       ],
       "correctOptionId": "b",
@@ -275,18 +275,18 @@
         },
         {
           "id": "b",
-          "text": "In order to"
+          "text": "Even though"
         },
         {
           "id": "c",
-          "text": "Because"
+          "text": "In order to"
         },
         {
           "id": "d",
-          "text": "Even though"
+          "text": "Because"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "b",
       "explanation": "Even though = meskipun (kontras)."
     },
     {
@@ -295,11 +295,11 @@
       "options": [
         {
           "id": "a",
-          "text": "whereas"
+          "text": "despite"
         },
         {
           "id": "b",
-          "text": "despite"
+          "text": "whereas"
         },
         {
           "id": "c",
@@ -319,11 +319,11 @@
       "options": [
         {
           "id": "a",
-          "text": "The book that I borrowed is fascinating."
+          "text": "The book, I borrowed is fascinating."
         },
         {
           "id": "b",
-          "text": "The book which I borrowed, it is fascinating."
+          "text": "The book that I borrowed is fascinating."
         },
         {
           "id": "c",
@@ -331,10 +331,10 @@
         },
         {
           "id": "d",
-          "text": "The book, I borrowed is fascinating."
+          "text": "The book which I borrowed, it is fascinating."
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "b",
       "explanation": "Relative clause terhubung dengan benar ke noun."
     },
     {
@@ -343,7 +343,7 @@
       "options": [
         {
           "id": "a",
-          "text": "furthermore"
+          "text": "therefore"
         },
         {
           "id": "b",
@@ -351,14 +351,14 @@
         },
         {
           "id": "c",
-          "text": "therefore"
+          "text": "nevertheless"
         },
         {
           "id": "d",
-          "text": "nevertheless"
+          "text": "furthermore"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "c",
       "explanation": "Nevertheless = meskipun demikian (kontras)."
     },
     {
@@ -367,22 +367,22 @@
       "options": [
         {
           "id": "a",
-          "text": "as well"
-        },
-        {
-          "id": "b",
-          "text": "too"
-        },
-        {
-          "id": "c",
           "text": "and also"
         },
         {
-          "id": "d",
+          "id": "b",
           "text": "but also"
+        },
+        {
+          "id": "c",
+          "text": "too"
+        },
+        {
+          "id": "d",
+          "text": "as well"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "b",
       "explanation": "Correlative: Not only ... but also."
     },
     {
@@ -391,22 +391,22 @@
       "options": [
         {
           "id": "a",
-          "text": "menghadapi"
+          "text": "bangun"
         },
         {
           "id": "b",
-          "text": "menyerah / berhenti"
+          "text": "menghadapi"
         },
         {
           "id": "c",
-          "text": "memberikan"
+          "text": "menyerah / berhenti"
         },
         {
           "id": "d",
-          "text": "bangun"
+          "text": "memberikan"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "c",
       "explanation": "Give up = stop trying / surrender."
     },
     {
@@ -415,22 +415,22 @@
       "options": [
         {
           "id": "a",
-          "text": "turn in"
+          "text": "turn up"
         },
         {
           "id": "b",
-          "text": "turn off"
+          "text": "turn in"
         },
         {
           "id": "c",
-          "text": "turn on"
+          "text": "turn off"
         },
         {
           "id": "d",
-          "text": "turn up"
+          "text": "turn on"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "c",
       "explanation": "Turn off = mematikan (lampu)."
     },
     {
@@ -447,11 +447,11 @@
         },
         {
           "id": "c",
-          "text": "mencari"
+          "text": "melihat ke belakang"
         },
         {
           "id": "d",
-          "text": "melihat ke belakang"
+          "text": "mencari"
         }
       ],
       "correctOptionId": "a",
@@ -463,22 +463,22 @@
       "options": [
         {
           "id": "a",
-          "text": "deal with"
-        },
-        {
-          "id": "b",
           "text": "deal off"
         },
         {
-          "id": "c",
+          "id": "b",
           "text": "deal in"
         },
         {
-          "id": "d",
+          "id": "c",
           "text": "deal out"
+        },
+        {
+          "id": "d",
+          "text": "deal with"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "d",
       "explanation": "Deal with = menangani/mengatasi."
     },
     {
@@ -487,22 +487,22 @@
       "options": [
         {
           "id": "a",
-          "text": "menghabiskan waktu"
+          "text": "memulai"
         },
         {
           "id": "b",
-          "text": "kehabisan"
+          "text": "menghabiskan waktu"
         },
         {
           "id": "c",
-          "text": "lari keluar"
+          "text": "kehabisan"
         },
         {
           "id": "d",
-          "text": "memulai"
+          "text": "lari keluar"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "c",
       "explanation": "Run out of = habis (stok/waktu)."
     },
     {
@@ -511,7 +511,7 @@
       "options": [
         {
           "id": "a",
-          "text": "look after"
+          "text": "look down"
         },
         {
           "id": "b",
@@ -523,7 +523,7 @@
         },
         {
           "id": "d",
-          "text": "look down"
+          "text": "look after"
         }
       ],
       "correctOptionId": "b",
@@ -535,22 +535,22 @@
       "options": [
         {
           "id": "a",
-          "text": "menunda"
+          "text": "meletakkan"
         },
         {
           "id": "b",
-          "text": "mematikan"
+          "text": "menunda"
         },
         {
           "id": "c",
-          "text": "meletakkan"
+          "text": "mematikan"
         },
         {
           "id": "d",
           "text": "menghapus"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "b",
       "explanation": "Put off = postpone."
     },
     {
@@ -559,11 +559,11 @@
       "options": [
         {
           "id": "a",
-          "text": "got into"
+          "text": "got by"
         },
         {
           "id": "b",
-          "text": "got up"
+          "text": "got into"
         },
         {
           "id": "c",
@@ -571,7 +571,7 @@
         },
         {
           "id": "d",
-          "text": "got by"
+          "text": "got up"
         }
       ],
       "correctOptionId": "c",
@@ -583,11 +583,11 @@
       "options": [
         {
           "id": "a",
-          "text": "memecahkan es"
+          "text": "menyebabkan masalah"
         },
         {
           "id": "b",
-          "text": "menyebabkan masalah"
+          "text": "memecah kebekuan / memulai percakapan"
         },
         {
           "id": "c",
@@ -595,10 +595,10 @@
         },
         {
           "id": "d",
-          "text": "memecah kebekuan / memulai percakapan"
+          "text": "memecahkan es"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "b",
       "explanation": "Break the ice = memulai interaksi yang canggung."
     },
     {
@@ -611,11 +611,11 @@
         },
         {
           "id": "b",
-          "text": "di malam hari"
+          "text": "sering"
         },
         {
           "id": "c",
-          "text": "sering"
+          "text": "di malam hari"
         },
         {
           "id": "d",
@@ -631,22 +631,22 @@
       "options": [
         {
           "id": "a",
-          "text": "rice"
-        },
-        {
-          "id": "b",
           "text": "beans"
         },
         {
-          "id": "c",
+          "id": "b",
           "text": "water"
+        },
+        {
+          "id": "c",
+          "text": "rice"
         },
         {
           "id": "d",
           "text": "milk"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "a",
       "explanation": "Spill the beans = membocorkan rahasia."
     },
     {
@@ -655,7 +655,7 @@
       "options": [
         {
           "id": "a",
-          "text": "gagal"
+          "text": "tepat sasaran / benar sekali"
         },
         {
           "id": "b",
@@ -663,14 +663,14 @@
         },
         {
           "id": "c",
-          "text": "tepat sasaran / benar sekali"
+          "text": "terburu-buru"
         },
         {
           "id": "d",
-          "text": "terburu-buru"
+          "text": "gagal"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "a",
       "explanation": "Hit the nail on the head = exactly right."
     },
     {
@@ -679,11 +679,11 @@
       "options": [
         {
           "id": "a",
-          "text": "di bawah awan"
+          "text": "lelah bekerja"
         },
         {
           "id": "b",
-          "text": "kurang sehat / sedang sakit ringan"
+          "text": "di bawah awan"
         },
         {
           "id": "c",
@@ -691,10 +691,10 @@
         },
         {
           "id": "d",
-          "text": "lelah bekerja"
+          "text": "kurang sehat / sedang sakit ringan"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "d",
       "explanation": "Under the weather = feeling slightly ill."
     },
     {
@@ -707,7 +707,7 @@
         },
         {
           "id": "b",
-          "text": "climb"
+          "text": "swim"
         },
         {
           "id": "c",
@@ -715,7 +715,7 @@
         },
         {
           "id": "d",
-          "text": "swim"
+          "text": "climb"
         }
       ],
       "correctOptionId": "c",
@@ -727,22 +727,22 @@
       "options": [
         {
           "id": "a",
-          "text": "gratis"
+          "text": "murah"
         },
         {
           "id": "b",
-          "text": "sangat mahal"
+          "text": "gratis"
         },
         {
           "id": "c",
-          "text": "murah"
+          "text": "sangat mahal"
         },
         {
           "id": "d",
           "text": "berbahaya"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "c",
       "explanation": "Cost an arm and a leg = extremely expensive."
     },
     {
@@ -751,22 +751,22 @@
       "options": [
         {
           "id": "a",
-          "text": "make"
-        },
-        {
-          "id": "b",
-          "text": "have"
-        },
-        {
-          "id": "c",
           "text": "take"
         },
         {
-          "id": "d",
+          "id": "b",
           "text": "do"
+        },
+        {
+          "id": "c",
+          "text": "have"
+        },
+        {
+          "id": "d",
+          "text": "make"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "d",
       "explanation": "Make a decision (bukan do a decision)."
     },
     {
@@ -775,15 +775,15 @@
       "options": [
         {
           "id": "a",
-          "text": "take"
+          "text": "make"
         },
         {
           "id": "b",
-          "text": "do a"
+          "text": "take"
         },
         {
           "id": "c",
-          "text": "make"
+          "text": "do a"
         },
         {
           "id": "d",
@@ -799,22 +799,22 @@
       "options": [
         {
           "id": "a",
-          "text": "give"
-        },
-        {
-          "id": "b",
-          "text": "do"
-        },
-        {
-          "id": "c",
           "text": "make"
         },
         {
-          "id": "d",
+          "id": "b",
           "text": "pay"
+        },
+        {
+          "id": "c",
+          "text": "do"
+        },
+        {
+          "id": "d",
+          "text": "give"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "b",
       "explanation": "Pay attention."
     },
     {
@@ -823,7 +823,7 @@
       "options": [
         {
           "id": "a",
-          "text": "do"
+          "text": "make"
         },
         {
           "id": "b",
@@ -831,14 +831,14 @@
         },
         {
           "id": "c",
-          "text": "make"
+          "text": "take"
         },
         {
           "id": "d",
-          "text": "take"
+          "text": "do"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "a",
       "explanation": "Make a mistake."
     },
     {
@@ -847,22 +847,22 @@
       "options": [
         {
           "id": "a",
-          "text": "raining"
+          "text": "rains"
         },
         {
           "id": "b",
-          "text": "rain"
+          "text": "raining"
         },
         {
           "id": "c",
-          "text": "rains"
+          "text": "rain"
         },
         {
           "id": "d",
           "text": "rained"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "c",
       "explanation": "Heavy rain (noun phrase)."
     },
     {
@@ -871,22 +871,22 @@
       "options": [
         {
           "id": "a",
-          "text": "she was"
-        },
-        {
-          "id": "b",
-          "text": "being"
-        },
-        {
-          "id": "c",
           "text": "be"
         },
         {
-          "id": "d",
+          "id": "b",
           "text": "was"
+        },
+        {
+          "id": "c",
+          "text": "being"
+        },
+        {
+          "id": "d",
+          "text": "she was"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "c",
       "explanation": "Despite + gerund/noun (being tired)."
     },
     {
@@ -899,11 +899,11 @@
         },
         {
           "id": "b",
-          "text": "I never have seen such beauty never."
+          "text": "Never I have seen such beauty."
         },
         {
           "id": "c",
-          "text": "Never I have seen such beauty."
+          "text": "I never have seen such beauty never."
         },
         {
           "id": "d",
@@ -919,22 +919,22 @@
       "options": [
         {
           "id": "a",
-          "text": "will act"
-        },
-        {
-          "id": "b",
           "text": "would act"
         },
         {
+          "id": "b",
+          "text": "will act"
+        },
+        {
           "id": "c",
-          "text": "acted"
+          "text": "would have acted"
         },
         {
           "id": "d",
-          "text": "would have acted"
+          "text": "acted"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "c",
       "explanation": "Third conditional inverted: Had I known..."
     },
     {
@@ -943,7 +943,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Although"
+          "text": "Whereas"
         },
         {
           "id": "b",
@@ -955,7 +955,7 @@
         },
         {
           "id": "d",
-          "text": "Whereas"
+          "text": "Although"
         }
       ],
       "correctOptionId": "c",
@@ -967,22 +967,22 @@
       "options": [
         {
           "id": "a",
-          "text": "membawa ke atas"
-        },
-        {
-          "id": "b",
           "text": "menurunkan"
         },
         {
-          "id": "c",
+          "id": "b",
           "text": "membesarkan / mengangkat topik"
         },
         {
-          "id": "d",
+          "id": "c",
           "text": "menghapus"
+        },
+        {
+          "id": "d",
+          "text": "membawa ke atas"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "b",
       "explanation": "Bring up = raise children or raise a topic."
     },
     {
@@ -1015,7 +1015,7 @@
       "options": [
         {
           "id": "a",
-          "text": "off"
+          "text": "out"
         },
         {
           "id": "b",
@@ -1027,10 +1027,10 @@
         },
         {
           "id": "d",
-          "text": "out"
+          "text": "off"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "d",
       "explanation": "Call off = membatalkan."
     },
     {
@@ -1039,11 +1039,11 @@
       "options": [
         {
           "id": "a",
-          "text": "sulit"
+          "text": "kue enak"
         },
         {
           "id": "b",
-          "text": "kue enak"
+          "text": "sulit"
         },
         {
           "id": "c",
@@ -1063,22 +1063,22 @@
       "options": [
         {
           "id": "a",
-          "text": "do"
-        },
-        {
-          "id": "b",
           "text": "make"
         },
         {
-          "id": "c",
+          "id": "b",
           "text": "take"
+        },
+        {
+          "id": "c",
+          "text": "do"
         },
         {
           "id": "d",
           "text": "give"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "a",
       "explanation": "Make progress."
     },
     {
@@ -1087,22 +1087,22 @@
       "options": [
         {
           "id": "a",
-          "text": "am lying"
+          "text": "lie"
         },
         {
           "id": "b",
-          "text": "will be lying"
-        },
-        {
-          "id": "c",
           "text": "will lie"
         },
         {
+          "id": "c",
+          "text": "am lying"
+        },
+        {
           "id": "d",
-          "text": "lie"
+          "text": "will be lying"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "d",
       "explanation": "Future continuous untuk aksi sedang berlangsung di masa depan."
     },
     {
@@ -1111,7 +1111,7 @@
       "options": [
         {
           "id": "a",
-          "text": "will have"
+          "text": "has"
         },
         {
           "id": "b",
@@ -1123,7 +1123,7 @@
         },
         {
           "id": "d",
-          "text": "has"
+          "text": "will have"
         }
       ],
       "correctOptionId": "c",
@@ -1135,22 +1135,22 @@
       "options": [
         {
           "id": "a",
-          "text": "mengakhiri pekerjaan untuk hari itu"
-        },
-        {
-          "id": "b",
           "text": "menghubungi hari"
         },
         {
-          "id": "c",
+          "id": "b",
           "text": "libur panjang"
         },
         {
-          "id": "d",
+          "id": "c",
           "text": "memulai hari"
+        },
+        {
+          "id": "d",
+          "text": "mengakhiri pekerjaan untuk hari itu"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "d",
       "explanation": "Call it a day = stop working for the day."
     },
     {
@@ -1159,22 +1159,22 @@
       "options": [
         {
           "id": "a",
-          "text": "Unless"
+          "text": "Although"
         },
         {
           "id": "b",
-          "text": "Moreover"
+          "text": "Unless"
         },
         {
           "id": "c",
-          "text": "Although"
+          "text": "Moreover"
         },
         {
           "id": "d",
           "text": "However"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "c",
       "explanation": "Moreover = selain itu (penambahan)."
     },
     {
@@ -1183,7 +1183,7 @@
       "options": [
         {
           "id": "a",
-          "text": "than"
+          "text": "when"
         },
         {
           "id": "b",
@@ -1191,14 +1191,14 @@
         },
         {
           "id": "c",
-          "text": "when"
+          "text": "than"
         },
         {
           "id": "d",
           "text": "that"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "c",
       "explanation": "No sooner ... than (inversion)."
     }
   ]

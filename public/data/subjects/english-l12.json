@@ -7,11 +7,11 @@
       "options": [
         {
           "id": "a",
-          "text": "ask around"
+          "text": "hit up"
         },
         {
           "id": "b",
-          "text": "inquire"
+          "text": "ask around"
         },
         {
           "id": "c",
@@ -19,10 +19,10 @@
         },
         {
           "id": "d",
-          "text": "hit up"
+          "text": "inquire"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "d",
       "explanation": "Inquire = ask (formal)."
     },
     {
@@ -31,7 +31,7 @@
       "options": [
         {
           "id": "a",
-          "text": "render"
+          "text": "execute"
         },
         {
           "id": "b",
@@ -39,7 +39,7 @@
         },
         {
           "id": "c",
-          "text": "execute"
+          "text": "render"
         },
         {
           "id": "d",
@@ -55,11 +55,11 @@
       "options": [
         {
           "id": "a",
-          "text": "obtain / receive"
+          "text": "grab"
         },
         {
           "id": "b",
-          "text": "pick up"
+          "text": "obtain / receive"
         },
         {
           "id": "c",
@@ -67,10 +67,10 @@
         },
         {
           "id": "d",
-          "text": "grab"
+          "text": "pick up"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "b",
       "explanation": "Obtain lebih formal dari get."
     },
     {
@@ -87,14 +87,14 @@
         },
         {
           "id": "c",
-          "text": "really / so"
+          "text": "certainly"
         },
         {
           "id": "d",
-          "text": "certainly"
+          "text": "really / so"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "d",
       "explanation": "Really/so untuk penekanan informal."
     },
     {
@@ -107,7 +107,7 @@
         },
         {
           "id": "b",
-          "text": "need bad"
+          "text": "really want"
         },
         {
           "id": "c",
@@ -115,7 +115,7 @@
         },
         {
           "id": "d",
-          "text": "really want"
+          "text": "need bad"
         }
       ],
       "correctOptionId": "c",
@@ -127,7 +127,7 @@
       "options": [
         {
           "id": "a",
-          "text": "kids"
+          "text": "minors"
         },
         {
           "id": "b",
@@ -135,14 +135,14 @@
         },
         {
           "id": "c",
-          "text": "juveniles"
+          "text": "kids"
         },
         {
           "id": "d",
-          "text": "minors"
+          "text": "juveniles"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "c",
       "explanation": "Kids = informal."
     },
     {
@@ -151,22 +151,22 @@
       "options": [
         {
           "id": "a",
-          "text": "find / refer to"
-        },
-        {
-          "id": "b",
           "text": "peep"
         },
         {
+          "id": "b",
+          "text": "find / refer to"
+        },
+        {
           "id": "c",
-          "text": "check out"
+          "text": "look at"
         },
         {
           "id": "d",
-          "text": "look at"
+          "text": "check out"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "b",
       "explanation": "Refer to/find enclosed (formal)."
     },
     {
@@ -175,22 +175,22 @@
       "options": [
         {
           "id": "a",
-          "text": "show big time"
-        },
-        {
-          "id": "b",
-          "text": "suggest / indicate"
-        },
-        {
-          "id": "c",
           "text": "say"
         },
         {
-          "id": "d",
+          "id": "b",
+          "text": "show big time"
+        },
+        {
+          "id": "c",
           "text": "prove for sure"
+        },
+        {
+          "id": "d",
+          "text": "suggest / indicate"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "d",
       "explanation": "Suggest/indicate = hedging akademik."
     },
     {
@@ -199,22 +199,22 @@
       "options": [
         {
           "id": "a",
-          "text": "ignores totally"
+          "text": "steals from"
         },
         {
           "id": "b",
-          "text": "copies"
+          "text": "ignores totally"
         },
         {
           "id": "c",
-          "text": "builds on / extends"
+          "text": "copies"
         },
         {
           "id": "d",
-          "text": "steals from"
+          "text": "builds on / extends"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "d",
       "explanation": "Builds on = melanjutkan penelitian."
     },
     {
@@ -223,11 +223,11 @@
       "options": [
         {
           "id": "a",
-          "text": "fakta"
+          "text": "opini pribadi"
         },
         {
           "id": "b",
-          "text": "opini pribadi"
+          "text": "hipotesis / dugaan ilmiah yang diuji"
         },
         {
           "id": "c",
@@ -235,10 +235,10 @@
         },
         {
           "id": "d",
-          "text": "hipotesis / dugaan ilmiah yang diuji"
+          "text": "fakta"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "b",
       "explanation": "Hypothesis = proposed explanation to test."
     },
     {
@@ -247,22 +247,22 @@
       "options": [
         {
           "id": "a",
-          "text": "metodologi / cara penelitian"
-        },
-        {
-          "id": "b",
-          "text": "hasil penelitian"
-        },
-        {
-          "id": "c",
           "text": "abstrak"
         },
         {
-          "id": "d",
+          "id": "b",
           "text": "judul"
+        },
+        {
+          "id": "c",
+          "text": "hasil penelitian"
+        },
+        {
+          "id": "d",
+          "text": "metodologi / cara penelitian"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "d",
       "explanation": "Methodology = research methods."
     },
     {
@@ -271,22 +271,22 @@
       "options": [
         {
           "id": "a",
-          "text": "are being"
-        },
-        {
-          "id": "b",
           "text": "was"
         },
         {
+          "id": "b",
+          "text": "are being"
+        },
+        {
           "id": "c",
-          "text": "is"
+          "text": "were"
         },
         {
           "id": "d",
-          "text": "were"
+          "text": "is"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "c",
       "explanation": "Data plural dalam akademik (were)."
     },
     {
@@ -295,22 +295,22 @@
       "options": [
         {
           "id": "a",
-          "text": "ditulis teman"
-        },
-        {
-          "id": "b",
           "text": "ditinjau oleh ahli sebidang"
         },
         {
-          "id": "c",
+          "id": "b",
           "text": "dipublikasikan online"
         },
         {
-          "id": "d",
+          "id": "c",
           "text": "diulas media"
+        },
+        {
+          "id": "d",
+          "text": "ditulis teman"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "a",
       "explanation": "Peer-reviewed = expert review."
     },
     {
@@ -371,11 +371,11 @@
         },
         {
           "id": "b",
-          "text": "Rate of Interest"
+          "text": "Revenue on Income"
         },
         {
           "id": "c",
-          "text": "Revenue on Income"
+          "text": "Rate of Interest"
         },
         {
           "id": "d",
@@ -391,22 +391,22 @@
       "options": [
         {
           "id": "a",
-          "text": "postpone / reschedule"
-        },
-        {
-          "id": "b",
           "text": "kill"
         },
         {
+          "id": "b",
+          "text": "postpone / reschedule"
+        },
+        {
           "id": "c",
-          "text": "skip out"
+          "text": "dump"
         },
         {
           "id": "d",
-          "text": "dump"
+          "text": "skip out"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "b",
       "explanation": "Postpone = menunda rapat."
     },
     {
@@ -415,22 +415,22 @@
       "options": [
         {
           "id": "a",
-          "text": "pemegang saham saja"
-        },
-        {
-          "id": "b",
-          "text": "karyawan saja"
-        },
-        {
-          "id": "c",
           "text": "kompetitor"
         },
         {
-          "id": "d",
+          "id": "b",
           "text": "pihak yang berkepentingan"
+        },
+        {
+          "id": "c",
+          "text": "pemegang saham saja"
+        },
+        {
+          "id": "d",
+          "text": "karyawan saja"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "b",
       "explanation": "Stakeholder = interested party."
     },
     {
@@ -439,22 +439,22 @@
       "options": [
         {
           "id": "a",
-          "text": "cost-effective / scalable"
-        },
-        {
-          "id": "b",
-          "text": "random"
-        },
-        {
-          "id": "c",
           "text": "okay enough"
         },
         {
-          "id": "d",
+          "id": "b",
+          "text": "cost-effective / scalable"
+        },
+        {
+          "id": "c",
           "text": "cheap-ish"
+        },
+        {
+          "id": "d",
+          "text": "random"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "b",
       "explanation": "Cost-effective = efisien biaya."
     },
     {
@@ -463,11 +463,11 @@
       "options": [
         {
           "id": "a",
-          "text": "laba bersih / inti masalah"
+          "text": "gaji minimum"
         },
         {
           "id": "b",
-          "text": "gaji minimum"
+          "text": "laba bersih / inti masalah"
         },
         {
           "id": "c",
@@ -478,7 +478,7 @@
           "text": "baris terbawah"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "b",
       "explanation": "Bottom line = net profit or main point."
     },
     {
@@ -487,22 +487,22 @@
       "options": [
         {
           "id": "a",
-          "text": "broken dead"
-        },
-        {
-          "id": "b",
           "text": "sleeping"
         },
         {
-          "id": "c",
+          "id": "b",
           "text": "down / offline"
         },
         {
-          "id": "d",
+          "id": "c",
           "text": "gone"
+        },
+        {
+          "id": "d",
+          "text": "broken dead"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "b",
       "explanation": "Server down/offline."
     },
     {
@@ -511,22 +511,22 @@
       "options": [
         {
           "id": "a",
-          "text": "kecepatan prosesor"
-        },
-        {
-          "id": "b",
           "text": "kapasitas transmisi data / ketersediaan waktu"
         },
         {
+          "id": "b",
+          "text": "kecepatan prosesor"
+        },
+        {
           "id": "c",
-          "text": "lebar pita fisik"
+          "text": "ukuran file"
         },
         {
           "id": "d",
-          "text": "ukuran file"
+          "text": "lebar pita fisik"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "a",
       "explanation": "Bandwidth = data capacity or availability."
     },
     {
@@ -535,22 +535,22 @@
       "options": [
         {
           "id": "a",
-          "text": "deploy / install"
-        },
-        {
-          "id": "b",
-          "text": "put in"
-        },
-        {
-          "id": "c",
           "text": "slap"
         },
         {
-          "id": "d",
+          "id": "b",
           "text": "throw on"
+        },
+        {
+          "id": "c",
+          "text": "deploy / install"
+        },
+        {
+          "id": "d",
+          "text": "put in"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "c",
       "explanation": "Deploy/install (technical)."
     },
     {
@@ -559,15 +559,15 @@
       "options": [
         {
           "id": "a",
-          "text": "menghapus program"
-        },
-        {
-          "id": "b",
           "text": "membuat bug"
         },
         {
-          "id": "c",
+          "id": "b",
           "text": "menguji kecepatan"
+        },
+        {
+          "id": "c",
+          "text": "menghapus program"
         },
         {
           "id": "d",
@@ -583,7 +583,7 @@
       "options": [
         {
           "id": "a",
-          "text": "error / status"
+          "text": "bug only"
         },
         {
           "id": "b",
@@ -591,14 +591,14 @@
         },
         {
           "id": "c",
-          "text": "bug only"
+          "text": "error / status"
         },
         {
           "id": "d",
           "text": "crash always"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "c",
       "explanation": "404 = not found status."
     },
     {
@@ -607,11 +607,11 @@
       "options": [
         {
           "id": "a",
-          "text": "daya prosesor"
+          "text": "ukuran memori"
         },
         {
           "id": "b",
-          "text": "ukuran memori"
+          "text": "daya prosesor"
         },
         {
           "id": "c",
@@ -639,11 +639,11 @@
         },
         {
           "id": "c",
-          "text": "informal"
+          "text": "sarkasme"
         },
         {
           "id": "d",
-          "text": "sarkasme"
+          "text": "informal"
         }
       ],
       "correctOptionId": "b",
@@ -655,7 +655,7 @@
       "options": [
         {
           "id": "a",
-          "text": "contoh"
+          "text": "menambahkan argumen/poin"
         },
         {
           "id": "b",
@@ -663,14 +663,14 @@
         },
         {
           "id": "c",
-          "text": "kontras"
+          "text": "contoh"
         },
         {
           "id": "d",
-          "text": "menambahkan argumen/poin"
+          "text": "kontras"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "a",
       "explanation": "Furthermore = in addition (formal)."
     },
     {
@@ -683,7 +683,7 @@
         },
         {
           "id": "b",
-          "text": "Hey there,"
+          "text": "Yo,"
         },
         {
           "id": "c",
@@ -691,7 +691,7 @@
         },
         {
           "id": "d",
-          "text": "Yo,"
+          "text": "Hey there,"
         }
       ],
       "correctOptionId": "c",
@@ -711,14 +711,14 @@
         },
         {
           "id": "c",
-          "text": "laporan triwulanan"
+          "text": "laporan mingguan"
         },
         {
           "id": "d",
-          "text": "laporan mingguan"
+          "text": "laporan triwulanan"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "d",
       "explanation": "Quarterly = every three months."
     },
     {
@@ -727,22 +727,22 @@
       "options": [
         {
           "id": "a",
-          "text": "mengompres"
+          "text": "mundur"
         },
         {
           "id": "b",
-          "text": "menghapus"
-        },
-        {
-          "id": "c",
           "text": "mencadangkan data"
         },
         {
+          "id": "c",
+          "text": "mengompres"
+        },
+        {
           "id": "d",
-          "text": "mundur"
+          "text": "menghapus"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "b",
       "explanation": "Back up = create a copy for safety."
     },
     {
@@ -755,7 +755,7 @@
         },
         {
           "id": "b",
-          "text": "etcetera always"
+          "text": "and later"
         },
         {
           "id": "c",
@@ -763,7 +763,7 @@
         },
         {
           "id": "d",
-          "text": "and later"
+          "text": "etcetera always"
         }
       ],
       "correctOptionId": "c",
@@ -779,15 +779,15 @@
         },
         {
           "id": "b",
-          "text": "konflik"
-        },
-        {
-          "id": "c",
           "text": "kerugian"
         },
         {
-          "id": "d",
+          "id": "c",
           "text": "persaingan"
+        },
+        {
+          "id": "d",
+          "text": "konflik"
         }
       ],
       "correctOptionId": "a",
@@ -803,7 +803,7 @@
         },
         {
           "id": "b",
-          "text": "psyched"
+          "text": "stoked"
         },
         {
           "id": "c",
@@ -811,7 +811,7 @@
         },
         {
           "id": "d",
-          "text": "stoked"
+          "text": "psyched"
         }
       ],
       "correctOptionId": "c",
@@ -823,7 +823,7 @@
       "options": [
         {
           "id": "a",
-          "text": "occurring"
+          "text": "up"
         },
         {
           "id": "b",
@@ -835,10 +835,10 @@
         },
         {
           "id": "d",
-          "text": "up"
+          "text": "occurring"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "a",
       "explanation": "What's up = casual greeting."
     },
     {
@@ -847,7 +847,7 @@
       "options": [
         {
           "id": "a",
-          "text": "korelasi / hubungan statistik"
+          "text": "tidak terkait"
         },
         {
           "id": "b",
@@ -855,14 +855,14 @@
         },
         {
           "id": "c",
-          "text": "sebab pasti"
+          "text": "korelasi / hubungan statistik"
         },
         {
           "id": "d",
-          "text": "tidak terkait"
+          "text": "sebab pasti"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "c",
       "explanation": "Correlation ≠ causation."
     },
     {
@@ -871,11 +871,11 @@
       "options": [
         {
           "id": "a",
-          "text": "gratis selalu"
+          "text": "kode sumber terbuka untuk umum"
         },
         {
           "id": "b",
-          "text": "tanpa dukungan"
+          "text": "gratis selalu"
         },
         {
           "id": "c",
@@ -883,10 +883,10 @@
         },
         {
           "id": "d",
-          "text": "kode sumber terbuka untuk umum"
+          "text": "tanpa dukungan"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "a",
       "explanation": "Open source = publicly available code."
     },
     {
@@ -895,22 +895,22 @@
       "options": [
         {
           "id": "a",
-          "text": "utang"
-        },
-        {
-          "id": "b",
           "text": "laba kotor"
         },
         {
-          "id": "c",
+          "id": "b",
           "text": "arus kas"
+        },
+        {
+          "id": "c",
+          "text": "utang"
         },
         {
           "id": "d",
           "text": "aset tetap"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "b",
       "explanation": "Cash flow = money in and out."
     },
     {
@@ -919,7 +919,7 @@
       "options": [
         {
           "id": "a",
-          "text": "kecil"
+          "text": "dapat ditingkatkan kapasitasnya"
         },
         {
           "id": "b",
@@ -927,14 +927,14 @@
         },
         {
           "id": "c",
-          "text": "dapat ditingkatkan kapasitasnya"
+          "text": "kecil"
         },
         {
           "id": "d",
           "text": "murah"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "a",
       "explanation": "Scalable = can grow in capacity."
     },
     {
@@ -967,22 +967,22 @@
       "options": [
         {
           "id": "a",
-          "text": "tinjauan pustaka"
+          "text": "ringkasan novel"
         },
         {
           "id": "b",
-          "text": "kutipan acak"
+          "text": "tinjauan pustaka"
         },
         {
           "id": "c",
-          "text": "ulasan buku fiksi"
+          "text": "kutipan acak"
         },
         {
           "id": "d",
-          "text": "ringkasan novel"
+          "text": "ulasan buku fiksi"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "b",
       "explanation": "Literature review = survey of research."
     },
     {
@@ -991,22 +991,22 @@
       "options": [
         {
           "id": "a",
-          "text": "penggabungan perusahaan"
-        },
-        {
-          "id": "b",
           "text": "pemutusan kontrak"
         },
         {
-          "id": "c",
+          "id": "b",
           "text": "PHK massal"
+        },
+        {
+          "id": "c",
+          "text": "penggabungan perusahaan"
         },
         {
           "id": "d",
           "text": "likuidasi"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "c",
       "explanation": "Merger = companies combine."
     },
     {
@@ -1015,11 +1015,11 @@
       "options": [
         {
           "id": "a",
-          "text": "dinding api fisik"
+          "text": "sistem keamanan jaringan"
         },
         {
           "id": "b",
-          "text": "sistem keamanan jaringan"
+          "text": "dinding api fisik"
         },
         {
           "id": "c",
@@ -1030,7 +1030,7 @@
           "text": "antivirus saja"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "a",
       "explanation": "Firewall = network security barrier."
     },
     {
@@ -1039,7 +1039,7 @@
       "options": [
         {
           "id": "a",
-          "text": "dolar (uang)"
+          "text": "cek"
         },
         {
           "id": "b",
@@ -1047,14 +1047,14 @@
         },
         {
           "id": "c",
-          "text": "cek"
+          "text": "kijang"
         },
         {
           "id": "d",
-          "text": "kijang"
+          "text": "dolar (uang)"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "d",
       "explanation": "Bucks = dollars (informal)."
     },
     {
@@ -1087,7 +1087,7 @@
       "options": [
         {
           "id": "a",
-          "text": "back to back"
+          "text": "business to business"
         },
         {
           "id": "b",
@@ -1095,14 +1095,14 @@
         },
         {
           "id": "c",
-          "text": "business to business"
+          "text": "brand to brand"
         },
         {
           "id": "d",
-          "text": "brand to brand"
+          "text": "back to back"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "a",
       "explanation": "B2B = business-to-business."
     },
     {
@@ -1111,7 +1111,7 @@
       "options": [
         {
           "id": "a",
-          "text": "server email"
+          "text": "tempat penyimpanan kode/proyek"
         },
         {
           "id": "b",
@@ -1119,14 +1119,14 @@
         },
         {
           "id": "c",
-          "text": "tempat penyimpanan kode/proyek"
+          "text": "laporan keuangan"
         },
         {
           "id": "d",
-          "text": "laporan keuangan"
+          "text": "server email"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "a",
       "explanation": "Repository = code storage."
     },
     {
@@ -1139,7 +1139,7 @@
         },
         {
           "id": "b",
-          "text": "Yours sincerely,"
+          "text": "Cheers mate,"
         },
         {
           "id": "c",
@@ -1147,10 +1147,10 @@
         },
         {
           "id": "d",
-          "text": "Cheers mate,"
+          "text": "Yours sincerely,"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "d",
       "explanation": "Yours sincerely = formal close."
     },
     {
@@ -1159,7 +1159,7 @@
       "options": [
         {
           "id": "a",
-          "text": "ringkasan singkat penelitian"
+          "text": "kutipan"
         },
         {
           "id": "b",
@@ -1167,14 +1167,14 @@
         },
         {
           "id": "c",
-          "text": "lampiran"
+          "text": "ringkasan singkat penelitian"
         },
         {
           "id": "d",
-          "text": "kutipan"
+          "text": "lampiran"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "c",
       "explanation": "Abstract = summary of paper."
     },
     {
@@ -1183,11 +1183,11 @@
       "options": [
         {
           "id": "a",
-          "text": "Kinetic Process Integration"
+          "text": "Known Product Item"
         },
         {
           "id": "b",
-          "text": "Key Performance Indicator"
+          "text": "Kinetic Process Integration"
         },
         {
           "id": "c",
@@ -1195,10 +1195,10 @@
         },
         {
           "id": "d",
-          "text": "Known Product Item"
+          "text": "Key Performance Indicator"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "d",
       "explanation": "KPI = Key Performance Indicator."
     },
     {
@@ -1207,22 +1207,22 @@
       "options": [
         {
           "id": "a",
-          "text": "hanya email"
+          "text": "komputer awan fisik"
         },
         {
           "id": "b",
-          "text": "tanpa internet"
-        },
-        {
-          "id": "c",
           "text": "komputasi berbasis internet/server remote"
         },
         {
+          "id": "c",
+          "text": "hanya email"
+        },
+        {
           "id": "d",
-          "text": "komputer awan fisik"
+          "text": "tanpa internet"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "b",
       "explanation": "Cloud = remote servers over internet."
     },
     {
@@ -1231,22 +1231,22 @@
       "options": [
         {
           "id": "a",
-          "text": "tell informal only"
-        },
-        {
-          "id": "b",
           "text": "say"
         },
         {
-          "id": "c",
+          "id": "b",
           "text": "let"
         },
         {
-          "id": "d",
+          "id": "c",
           "text": "give"
+        },
+        {
+          "id": "d",
+          "text": "tell informal only"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "b",
       "explanation": "Let me know = formal-polite."
     },
     {
@@ -1255,22 +1255,22 @@
       "options": [
         {
           "id": "a",
-          "text": "pergeseran cara pandang fundamental"
-        },
-        {
-          "id": "b",
-          "text": "kesalahan data"
-        },
-        {
-          "id": "c",
           "text": "perubahan kecil"
         },
         {
-          "id": "d",
+          "id": "b",
           "text": "revisi typo"
+        },
+        {
+          "id": "c",
+          "text": "kesalahan data"
+        },
+        {
+          "id": "d",
+          "text": "pergeseran cara pandang fundamental"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "d",
       "explanation": "Paradigm shift = fundamental change."
     },
     {
@@ -1279,22 +1279,22 @@
       "options": [
         {
           "id": "a",
-          "text": "tenggat waktu"
-        },
-        {
-          "id": "b",
           "text": "audit pajak saja"
         },
         {
+          "id": "b",
+          "text": "tenggat waktu"
+        },
+        {
           "id": "c",
-          "text": "keterlambatan bayar"
+          "text": "pemeriksaan menyeluruh sebelum transaksi"
         },
         {
           "id": "d",
-          "text": "pemeriksaan menyeluruh sebelum transaksi"
+          "text": "keterlambatan bayar"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "c",
       "explanation": "Due diligence = thorough investigation."
     },
     {
@@ -1307,7 +1307,7 @@
         },
         {
           "id": "b",
-          "text": "kompresi file"
+          "text": "backup"
         },
         {
           "id": "c",
@@ -1315,7 +1315,7 @@
         },
         {
           "id": "d",
-          "text": "backup"
+          "text": "kompresi file"
         }
       ],
       "correctOptionId": "a",
@@ -1331,18 +1331,18 @@
         },
         {
           "id": "b",
-          "text": "as soon as possible"
+          "text": "always stay at post"
         },
         {
           "id": "c",
-          "text": "always stay at post"
+          "text": "as soon as possible"
         },
         {
           "id": "d",
           "text": "a special appointment"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "c",
       "explanation": "ASAP = secepatnya."
     },
     {
@@ -1355,7 +1355,7 @@
         },
         {
           "id": "b",
-          "text": "glosarium"
+          "text": "abstrak"
         },
         {
           "id": "c",
@@ -1363,7 +1363,7 @@
         },
         {
           "id": "d",
-          "text": "abstrak"
+          "text": "glosarium"
         }
       ],
       "correctOptionId": "c",
@@ -1375,22 +1375,22 @@
       "options": [
         {
           "id": "a",
-          "text": "putar meja"
-        },
-        {
-          "id": "b",
           "text": "tetap sama"
         },
         {
+          "id": "b",
+          "text": "putar meja"
+        },
+        {
           "id": "c",
-          "text": "gagal total"
+          "text": "perubahan arah strategi bisnis"
         },
         {
           "id": "d",
-          "text": "perubahan arah strategi bisnis"
+          "text": "gagal total"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "c",
       "explanation": "Pivot = strategic direction change."
     },
     {
@@ -1399,22 +1399,22 @@
       "options": [
         {
           "id": "a",
-          "text": "paling stabil"
-        },
-        {
-          "id": "b",
           "text": "baru dirilis"
         },
         {
+          "id": "b",
+          "text": "paling stabil"
+        },
+        {
           "id": "c",
-          "text": "gratis"
+          "text": "tidak lagi direkomendasikan / akan dihapus"
         },
         {
           "id": "d",
-          "text": "tidak lagi direkomendasikan / akan dihapus"
+          "text": "gratis"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "c",
       "explanation": "Deprecated = outdated, to be removed."
     },
     {
@@ -1423,7 +1423,7 @@
       "options": [
         {
           "id": "a",
-          "text": "persentase keuntungan dari pendapatan"
+          "text": "total aset"
         },
         {
           "id": "b",
@@ -1431,14 +1431,14 @@
         },
         {
           "id": "c",
-          "text": "total aset"
+          "text": "persentase keuntungan dari pendapatan"
         },
         {
           "id": "d",
           "text": "biaya operasional saja"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "c",
       "explanation": "Profit margin = profit as % of revenue."
     }
   ]

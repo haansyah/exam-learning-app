@@ -7,7 +7,7 @@
       "options": [
         {
           "id": "a",
-          "text": "saya marah"
+          "text": "saya menang"
         },
         {
           "id": "b",
@@ -15,7 +15,7 @@
         },
         {
           "id": "c",
-          "text": "saya menang"
+          "text": "saya marah"
         },
         {
           "id": "d",
@@ -35,18 +35,18 @@
         },
         {
           "id": "b",
-          "text": "itu berbahaya"
-        },
-        {
-          "id": "c",
           "text": "itu keren/hebat"
         },
         {
-          "id": "d",
+          "id": "c",
           "text": "itu panas"
+        },
+        {
+          "id": "d",
+          "text": "itu berbahaya"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "b",
       "explanation": "Fire = excellent (slang)."
     },
     {
@@ -59,7 +59,7 @@
         },
         {
           "id": "b",
-          "text": "waktu sangat berharga"
+          "text": "kerja di bank"
         },
         {
           "id": "c",
@@ -67,10 +67,10 @@
         },
         {
           "id": "d",
-          "text": "kerja di bank"
+          "text": "waktu sangat berharga"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "d",
       "explanation": "Idiom: time is valuable."
     },
     {
@@ -79,22 +79,22 @@
       "options": [
         {
           "id": "a",
-          "text": "got to"
+          "text": "have to"
         },
         {
           "id": "b",
-          "text": "want to"
-        },
-        {
-          "id": "c",
           "text": "going to"
         },
         {
+          "id": "c",
+          "text": "want to"
+        },
+        {
           "id": "d",
-          "text": "have to"
+          "text": "got to"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "b",
       "explanation": "Gonna = going to."
     },
     {
@@ -103,11 +103,11 @@
       "options": [
         {
           "id": "a",
-          "text": "tunggu di luar"
+          "text": "pergi dari sini"
         },
         {
           "id": "b",
-          "text": "pergi dari sini"
+          "text": "bertahan / sabar ya"
         },
         {
           "id": "c",
@@ -115,10 +115,10 @@
         },
         {
           "id": "d",
-          "text": "bertahan / sabar ya"
+          "text": "tunggu di luar"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "b",
       "explanation": "Hang in there = persevere."
     },
     {
@@ -127,11 +127,11 @@
       "options": [
         {
           "id": "a",
-          "text": "celaka"
+          "text": "semoga sukses (untuk pertunjukan)"
         },
         {
           "id": "b",
-          "text": "sakit kaki"
+          "text": "celaka"
         },
         {
           "id": "c",
@@ -139,10 +139,10 @@
         },
         {
           "id": "d",
-          "text": "semoga sukses (untuk pertunjukan)"
+          "text": "sakit kaki"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "a",
       "explanation": "Break a leg = good luck (theater)."
     },
     {
@@ -151,7 +151,7 @@
       "options": [
         {
           "id": "a",
-          "text": "tidak bohong / serius"
+          "text": "tidak mungkin"
         },
         {
           "id": "b",
@@ -159,14 +159,14 @@
         },
         {
           "id": "c",
-          "text": "tidak mungkin"
+          "text": "bohong"
         },
         {
           "id": "d",
-          "text": "bohong"
+          "text": "tidak bohong / serius"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "d",
       "explanation": "No cap = no lie."
     },
     {
@@ -175,22 +175,22 @@
       "options": [
         {
           "id": "a",
-          "text": "sarkastik — tidak senang"
-        },
-        {
-          "id": "b",
           "text": "bingung"
         },
         {
-          "id": "c",
+          "id": "b",
           "text": "netral"
+        },
+        {
+          "id": "c",
+          "text": "sarkastik — tidak senang"
         },
         {
           "id": "d",
           "text": "sangat antusias"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "c",
       "explanation": "Great dengan nada datar = sarcasm."
     },
     {
@@ -199,22 +199,22 @@
       "options": [
         {
           "id": "a",
-          "text": "hujan sangat lebat"
-        },
-        {
-          "id": "b",
-          "text": "badai salju"
-        },
-        {
-          "id": "c",
           "text": "hewan jatuh"
         },
         {
-          "id": "d",
+          "id": "b",
           "text": "hujan ringan"
+        },
+        {
+          "id": "c",
+          "text": "badai salju"
+        },
+        {
+          "id": "d",
+          "text": "hujan sangat lebat"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "d",
       "explanation": "Raining cats and dogs = heavy rain."
     },
     {
@@ -223,22 +223,22 @@
       "options": [
         {
           "id": "a",
-          "text": "saya benar"
-        },
-        {
-          "id": "b",
           "text": "saya buruk"
         },
         {
+          "id": "b",
+          "text": "bukan urusan saya"
+        },
+        {
           "id": "c",
-          "text": "maaf, salah saya"
+          "text": "saya benar"
         },
         {
           "id": "d",
-          "text": "bukan urusan saya"
+          "text": "maaf, salah saya"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "d",
       "explanation": "My bad = my mistake."
     },
     {
@@ -271,22 +271,22 @@
       "options": [
         {
           "id": "a",
-          "text": "main tenis"
+          "text": "giliranmu untuk bertindak"
         },
         {
           "id": "b",
-          "text": "keputusan wasit"
+          "text": "main tenis"
         },
         {
           "id": "c",
-          "text": "giliranmu untuk bertindak"
+          "text": "keputusan wasit"
         },
         {
           "id": "d",
           "text": "bola hilang"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "a",
       "explanation": "Ball in your court = your turn to act."
     },
     {
@@ -295,22 +295,22 @@
       "options": [
         {
           "id": "a",
-          "text": "bertanya"
+          "text": "senang"
         },
         {
           "id": "b",
-          "text": "setuju penuh"
-        },
-        {
-          "id": "c",
           "text": "tidak percaya / ironi"
         },
         {
+          "id": "c",
+          "text": "setuju penuh"
+        },
+        {
           "id": "d",
-          "text": "senang"
+          "text": "bertanya"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "b",
       "explanation": "Yeah, right = doubtful/sarcastic."
     },
     {
@@ -319,22 +319,22 @@
       "options": [
         {
           "id": "a",
-          "text": "saya menolak"
-        },
-        {
-          "id": "b",
-          "text": "saya mau / saya ikut"
-        },
-        {
-          "id": "c",
           "text": "saya sedih"
         },
         {
-          "id": "d",
+          "id": "b",
+          "text": "saya menolak"
+        },
+        {
+          "id": "c",
           "text": "saya di bawah"
+        },
+        {
+          "id": "d",
+          "text": "saya mau / saya ikut"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "d",
       "explanation": "I'm down = I'm in / willing."
     },
     {
@@ -351,11 +351,11 @@
         },
         {
           "id": "c",
-          "text": "gelap"
+          "text": "terbakar"
         },
         {
           "id": "d",
-          "text": "terbakar"
+          "text": "gelap"
         }
       ],
       "correctOptionId": "b",
@@ -367,11 +367,11 @@
       "options": [
         {
           "id": "a",
-          "text": "berburu"
+          "text": "kekerasan"
         },
         {
           "id": "b",
-          "text": "satu tindakan dua tujuan"
+          "text": "berburu"
         },
         {
           "id": "c",
@@ -379,10 +379,10 @@
         },
         {
           "id": "d",
-          "text": "kekerasan"
+          "text": "satu tindakan dua tujuan"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "d",
       "explanation": "One action, two results."
     },
     {
@@ -391,22 +391,22 @@
       "options": [
         {
           "id": "a",
-          "text": "teriak"
+          "text": "humor datar tanpa ekspresi"
         },
         {
           "id": "b",
-          "text": "tertawa keras"
-        },
-        {
-          "id": "c",
           "text": "menangis"
         },
         {
+          "id": "c",
+          "text": "teriak"
+        },
+        {
           "id": "d",
-          "text": "humor datar tanpa ekspresi"
+          "text": "tertawa keras"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "a",
       "explanation": "Deadpan = dry, expressionless humor."
     },
     {
@@ -423,11 +423,11 @@
         },
         {
           "id": "c",
-          "text": "untuk nyata"
+          "text": "palsu"
         },
         {
           "id": "d",
-          "text": "palsu"
+          "text": "untuk nyata"
         }
       ],
       "correctOptionId": "a",
@@ -439,22 +439,22 @@
       "options": [
         {
           "id": "a",
-          "text": "kesal / rengginang (marah kecil)"
+          "text": "asin"
         },
         {
           "id": "b",
-          "text": "sedih"
+          "text": "kesal / rengginang (marah kecil)"
         },
         {
           "id": "c",
-          "text": "asin"
+          "text": "sedih"
         },
         {
           "id": "d",
           "text": "bahagia"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "b",
       "explanation": "Salty = upset/annoyed."
     },
     {
@@ -467,18 +467,18 @@
         },
         {
           "id": "b",
-          "text": "olahraga"
-        },
-        {
-          "id": "c",
           "text": "dingin sekali"
         },
         {
-          "id": "d",
+          "id": "c",
           "text": "dalam situasi berisiko"
+        },
+        {
+          "id": "d",
+          "text": "olahraga"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "c",
       "explanation": "On thin ice = in danger."
     },
     {
@@ -491,15 +491,15 @@
         },
         {
           "id": "b",
-          "text": "pujian"
-        },
-        {
-          "id": "c",
           "text": "sangat mengejutkan"
         },
         {
-          "id": "d",
+          "id": "c",
           "text": "pertanyaan"
+        },
+        {
+          "id": "d",
+          "text": "pujian"
         }
       ],
       "correctOptionId": "a",
@@ -511,11 +511,11 @@
       "options": [
         {
           "id": "a",
-          "text": "setuju"
+          "text": "tidak bisa menghitung"
         },
         {
           "id": "b",
-          "text": "tidak bisa menghitung"
+          "text": "keterkejutan/frustrasi (tanpa kata lanjutan)"
         },
         {
           "id": "c",
@@ -523,10 +523,10 @@
         },
         {
           "id": "d",
-          "text": "keterkejutan/frustrasi (tanpa kata lanjutan)"
+          "text": "setuju"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "b",
       "explanation": "I can't even = overwhelmed expression."
     },
     {
@@ -535,22 +535,22 @@
       "options": [
         {
           "id": "a",
-          "text": "menolak"
+          "text": "menekuk"
         },
         {
           "id": "b",
-          "text": "pamer / menunjukkan kehebatan"
-        },
-        {
-          "id": "c",
           "text": "olahraga"
         },
         {
+          "id": "c",
+          "text": "menolak"
+        },
+        {
           "id": "d",
-          "text": "menekuk"
+          "text": "pamer / menunjukkan kehebatan"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "d",
       "explanation": "Flex = show off."
     },
     {
@@ -559,7 +559,7 @@
       "options": [
         {
           "id": "a",
-          "text": "anjing menggonggong"
+          "text": "salah menyalahkan / salah arah"
         },
         {
           "id": "b",
@@ -567,14 +567,14 @@
         },
         {
           "id": "c",
-          "text": "salah menyalahkan / salah arah"
+          "text": "anjing menggonggong"
         },
         {
           "id": "d",
           "text": "berhasil"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "a",
       "explanation": "Wrong approach or blame."
     },
     {
@@ -583,22 +583,22 @@
       "options": [
         {
           "id": "a",
-          "text": "tidak masalah / santai saja"
-        },
-        {
-          "id": "b",
           "text": "tidak ada kekhawatiran sama sekali di dunia"
         },
         {
-          "id": "c",
+          "id": "b",
           "text": "marah"
         },
         {
-          "id": "d",
+          "id": "c",
           "text": "tolong khawatir"
+        },
+        {
+          "id": "d",
+          "text": "tidak masalah / santai saja"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "d",
       "explanation": "No worries = it's fine."
     },
     {
@@ -607,22 +607,22 @@
       "options": [
         {
           "id": "a",
-          "text": "musik saja"
-        },
-        {
-          "id": "b",
-          "text": "getaran fisik"
-        },
-        {
-          "id": "c",
           "text": "suasana / kesan"
         },
         {
-          "id": "d",
+          "id": "b",
+          "text": "musik saja"
+        },
+        {
+          "id": "c",
           "text": "cuaca"
+        },
+        {
+          "id": "d",
+          "text": "getaran fisik"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "a",
       "explanation": "Vibe = atmosphere/feeling."
     },
     {
@@ -635,18 +635,18 @@
         },
         {
           "id": "b",
-          "text": "membocorkan rahasia"
-        },
-        {
-          "id": "c",
           "text": "berbohong"
         },
         {
-          "id": "d",
+          "id": "c",
           "text": "belanja"
+        },
+        {
+          "id": "d",
+          "text": "membocorkan rahasia"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "d",
       "explanation": "Reveal a secret."
     },
     {
@@ -655,7 +655,7 @@
       "options": [
         {
           "id": "a",
-          "text": "ejekan — itu salah"
+          "text": "pujian tulus"
         },
         {
           "id": "b",
@@ -663,14 +663,14 @@
         },
         {
           "id": "c",
-          "text": "pujian tulus"
+          "text": "saran"
         },
         {
           "id": "d",
-          "text": "saran"
+          "text": "ejekan — itu salah"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "d",
       "explanation": "Nice going = sarcastic after error."
     },
     {
@@ -683,18 +683,18 @@
         },
         {
           "id": "b",
-          "text": "saya telinga"
+          "text": "saya siap mendengarkan"
         },
         {
           "id": "c",
-          "text": "saya tidak peduli"
+          "text": "saya telinga"
         },
         {
           "id": "d",
-          "text": "saya siap mendengarkan"
+          "text": "saya tidak peduli"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "b",
       "explanation": "All ears = ready to listen."
     },
     {
@@ -703,22 +703,22 @@
       "options": [
         {
           "id": "a",
-          "text": "saat musim dingin"
+          "text": "segera"
         },
         {
           "id": "b",
-          "text": "tidak mungkin sekali"
-        },
-        {
-          "id": "c",
           "text": "terbang liburan"
         },
         {
+          "id": "c",
+          "text": "tidak mungkin sekali"
+        },
+        {
           "id": "d",
-          "text": "segera"
+          "text": "saat musim dingin"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "c",
       "explanation": "When pigs fly = never going to happen."
     }
   ]

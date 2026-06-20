@@ -7,22 +7,22 @@
       "options": [
         {
           "id": "a",
-          "text": "tiny"
+          "text": "narrow"
         },
         {
           "id": "b",
-          "text": "huge / vast"
-        },
-        {
-          "id": "c",
           "text": "brief"
         },
         {
+          "id": "c",
+          "text": "tiny"
+        },
+        {
           "id": "d",
-          "text": "narrow"
+          "text": "huge / vast"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "d",
       "explanation": "Enormous = sangat besar."
     },
     {
@@ -31,11 +31,11 @@
       "options": [
         {
           "id": "a",
-          "text": "kind"
+          "text": "stingy / miserly"
         },
         {
           "id": "b",
-          "text": "stingy / miserly"
+          "text": "kind"
         },
         {
           "id": "c",
@@ -46,7 +46,7 @@
           "text": "open"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "a",
       "explanation": "Generous lawan kata stingy."
     },
     {
@@ -59,11 +59,11 @@
         },
         {
           "id": "b",
-          "text": "calm"
+          "text": "heavy"
         },
         {
           "id": "c",
-          "text": "heavy"
+          "text": "calm"
         },
         {
           "id": "d",
@@ -79,22 +79,22 @@
       "options": [
         {
           "id": "a",
-          "text": "old"
-        },
-        {
-          "id": "b",
-          "text": "modern / new"
-        },
-        {
-          "id": "c",
           "text": "aged"
         },
         {
-          "id": "d",
+          "id": "b",
           "text": "historic"
+        },
+        {
+          "id": "c",
+          "text": "old"
+        },
+        {
+          "id": "d",
+          "text": "modern / new"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "d",
       "explanation": "Ancient = kuno; lawannya modern."
     },
     {
@@ -127,7 +127,7 @@
       "options": [
         {
           "id": "a",
-          "text": "honest"
+          "text": "obvious"
         },
         {
           "id": "b",
@@ -139,7 +139,7 @@
         },
         {
           "id": "d",
-          "text": "obvious"
+          "text": "honest"
         }
       ],
       "correctOptionId": "b",
@@ -151,22 +151,22 @@
       "options": [
         {
           "id": "a",
-          "text": "expand"
-        },
-        {
-          "id": "b",
-          "text": "maintain"
-        },
-        {
-          "id": "c",
           "text": "reduce / decrease"
         },
         {
-          "id": "d",
+          "id": "b",
           "text": "increase"
+        },
+        {
+          "id": "c",
+          "text": "expand"
+        },
+        {
+          "id": "d",
+          "text": "maintain"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "a",
       "explanation": "Diminish = berkurang."
     },
     {
@@ -175,22 +175,22 @@
       "options": [
         {
           "id": "a",
-          "text": "hopeful"
-        },
-        {
-          "id": "b",
           "text": "pessimistic"
         },
         {
-          "id": "c",
+          "id": "b",
           "text": "cheerful"
+        },
+        {
+          "id": "c",
+          "text": "hopeful"
         },
         {
           "id": "d",
           "text": "positive"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "a",
       "explanation": "Optimistic vs pessimistic."
     },
     {
@@ -199,7 +199,7 @@
       "options": [
         {
           "id": "a",
-          "text": "decision"
+          "text": "deciding"
         },
         {
           "id": "b",
@@ -207,14 +207,14 @@
         },
         {
           "id": "c",
-          "text": "deciding"
+          "text": "decision"
         },
         {
           "id": "d",
           "text": "decidedly"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "c",
       "explanation": "Decide → decision."
     },
     {
@@ -223,22 +223,22 @@
       "options": [
         {
           "id": "a",
-          "text": "succeed"
-        },
-        {
-          "id": "b",
           "text": "succession"
         },
         {
+          "id": "b",
+          "text": "successfully"
+        },
+        {
           "id": "c",
-          "text": "successful"
+          "text": "succeed"
         },
         {
           "id": "d",
-          "text": "successfully"
+          "text": "successful"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "d",
       "explanation": "Success → successful."
     },
     {
@@ -251,11 +251,11 @@
         },
         {
           "id": "b",
-          "text": "strongly"
+          "text": "strengthened"
         },
         {
           "id": "c",
-          "text": "strengthened"
+          "text": "strongly"
         },
         {
           "id": "d",
@@ -271,7 +271,7 @@
       "options": [
         {
           "id": "a",
-          "text": "quickest"
+          "text": "quickly"
         },
         {
           "id": "b",
@@ -283,10 +283,10 @@
         },
         {
           "id": "d",
-          "text": "quickly"
+          "text": "quickest"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "a",
       "explanation": "Quick → quickly."
     },
     {
@@ -295,15 +295,15 @@
       "options": [
         {
           "id": "a",
-          "text": "developed"
-        },
-        {
-          "id": "b",
           "text": "developer"
         },
         {
-          "id": "c",
+          "id": "b",
           "text": "developing"
+        },
+        {
+          "id": "c",
+          "text": "developed"
         },
         {
           "id": "d",
@@ -323,7 +323,7 @@
         },
         {
           "id": "b",
-          "text": "tidak bahagia (unhappy)"
+          "text": "sangat bahagia"
         },
         {
           "id": "c",
@@ -331,10 +331,10 @@
         },
         {
           "id": "d",
-          "text": "sangat bahagia"
+          "text": "tidak bahagia (unhappy)"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "d",
       "explanation": "Un- = negasi."
     },
     {
@@ -343,22 +343,22 @@
       "options": [
         {
           "id": "a",
-          "text": "setelah"
-        },
-        {
-          "id": "b",
-          "text": "pratinjau (sebelum ditampilkan)"
-        },
-        {
-          "id": "c",
           "text": "tanpa"
         },
         {
-          "id": "d",
+          "id": "b",
           "text": "ulang"
+        },
+        {
+          "id": "c",
+          "text": "setelah"
+        },
+        {
+          "id": "d",
+          "text": "pratinjau (sebelum ditampilkan)"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "d",
       "explanation": "Pre- = before."
     },
     {
@@ -367,22 +367,22 @@
       "options": [
         {
           "id": "a",
-          "text": "harapan"
-        },
-        {
-          "id": "b",
           "text": "penuh harapan"
         },
         {
+          "id": "b",
+          "text": "berharap"
+        },
+        {
           "id": "c",
-          "text": "tanpa harapan (hopeless)"
+          "text": "harapan"
         },
         {
           "id": "d",
-          "text": "berharap"
+          "text": "tanpa harapan (hopeless)"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "d",
       "explanation": "-less = without."
     },
     {
@@ -391,7 +391,7 @@
       "options": [
         {
           "id": "a",
-          "text": "tanpa perhatian"
+          "text": "perawatan"
         },
         {
           "id": "b",
@@ -399,14 +399,14 @@
         },
         {
           "id": "c",
-          "text": "perawatan"
+          "text": "penuh perhatian (careful)"
         },
         {
           "id": "d",
-          "text": "penuh perhatian (careful)"
+          "text": "tanpa perhatian"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "c",
       "explanation": "-ful = full of."
     },
     {
@@ -415,22 +415,22 @@
       "options": [
         {
           "id": "a",
-          "text": "salah paham (misunderstand)"
-        },
-        {
-          "id": "b",
           "text": "tidak paham sama sekali"
         },
         {
-          "id": "c",
+          "id": "b",
           "text": "paham"
         },
         {
-          "id": "d",
+          "id": "c",
           "text": "paham sebagian"
+        },
+        {
+          "id": "d",
+          "text": "salah paham (misunderstand)"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "d",
       "explanation": "Mis- = wrongly."
     },
     {
@@ -439,11 +439,11 @@
       "options": [
         {
           "id": "a",
-          "text": "mendidik"
+          "text": "pendidikan (education)"
         },
         {
           "id": "b",
-          "text": "terdidik"
+          "text": "mendidik"
         },
         {
           "id": "c",
@@ -451,10 +451,10 @@
         },
         {
           "id": "d",
-          "text": "pendidikan (education)"
+          "text": "terdidik"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "a",
       "explanation": "-tion membentuk noun."
     },
     {
@@ -463,22 +463,22 @@
       "options": [
         {
           "id": "a",
-          "text": "big tidak bisa untuk abstrak"
+          "text": "large lebih formal/netral; big lebih umum/sehari-hari"
         },
         {
           "id": "b",
-          "text": "sama persis"
+          "text": "big tidak bisa untuk abstrak"
         },
         {
           "id": "c",
-          "text": "large lebih formal/netral; big lebih umum/sehari-hari"
+          "text": "sama persis"
         },
         {
           "id": "d",
           "text": "large selalu fisik"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "a",
       "explanation": "Large sedikit lebih formal."
     },
     {
@@ -487,11 +487,11 @@
       "options": [
         {
           "id": "a",
-          "text": "house lebih emosional"
+          "text": "home hanya apartemen"
         },
         {
           "id": "b",
-          "text": "home hanya apartemen"
+          "text": "house lebih emosional"
         },
         {
           "id": "c",
@@ -511,7 +511,7 @@
       "options": [
         {
           "id": "a",
-          "text": "watch tidak bisa matahari"
+          "text": "see selalu TV"
         },
         {
           "id": "b",
@@ -523,7 +523,7 @@
         },
         {
           "id": "d",
-          "text": "see selalu TV"
+          "text": "watch tidak bisa matahari"
         }
       ],
       "correctOptionId": "b",
@@ -535,22 +535,22 @@
       "options": [
         {
           "id": "a",
-          "text": "career jalur profesional jangka panjang; job pekerjaan spesifik"
+          "text": "sama persis"
         },
         {
           "id": "b",
-          "text": "job lebih formal"
+          "text": "career jalur profesional jangka panjang; job pekerjaan spesifik"
         },
         {
           "id": "c",
-          "text": "career hanya guru"
+          "text": "job lebih formal"
         },
         {
           "id": "d",
-          "text": "sama persis"
+          "text": "career hanya guru"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "b",
       "explanation": "Career = long-term path."
     },
     {
@@ -559,11 +559,11 @@
       "options": [
         {
           "id": "a",
-          "text": "skinny cenderung negatif; slim lebih netral/positif"
+          "text": "slim selalu negatif"
         },
         {
           "id": "b",
-          "text": "slim selalu negatif"
+          "text": "sama persis"
         },
         {
           "id": "c",
@@ -571,10 +571,10 @@
         },
         {
           "id": "d",
-          "text": "sama persis"
+          "text": "skinny cenderung negatif; slim lebih netral/positif"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "d",
       "explanation": "Slim = politely thin."
     },
     {
@@ -583,22 +583,22 @@
       "options": [
         {
           "id": "a",
-          "text": "buy"
-        },
-        {
-          "id": "b",
-          "text": "sell"
-        },
-        {
-          "id": "c",
           "text": "borrow"
         },
         {
-          "id": "d",
+          "id": "b",
           "text": "rent"
+        },
+        {
+          "id": "c",
+          "text": "sell"
+        },
+        {
+          "id": "d",
+          "text": "buy"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "d",
       "explanation": "Purchase = buy (lebih formal)."
     },
     {
@@ -607,15 +607,15 @@
       "options": [
         {
           "id": "a",
-          "text": "enable"
-        },
-        {
-          "id": "b",
           "text": "grant"
         },
         {
-          "id": "c",
+          "id": "b",
           "text": "allow"
+        },
+        {
+          "id": "c",
+          "text": "enable"
         },
         {
           "id": "d",
@@ -631,22 +631,22 @@
       "options": [
         {
           "id": "a",
-          "text": "beautifully"
-        },
-        {
-          "id": "b",
-          "text": "beautiful"
-        },
-        {
-          "id": "c",
           "text": "beautify"
         },
         {
-          "id": "d",
+          "id": "b",
           "text": "beauteous"
+        },
+        {
+          "id": "c",
+          "text": "beautiful"
+        },
+        {
+          "id": "d",
+          "text": "beautifully"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "c",
       "explanation": "Beauty → beautiful."
     },
     {
@@ -663,14 +663,14 @@
         },
         {
           "id": "c",
-          "text": "achievable"
+          "text": "achievement"
         },
         {
           "id": "d",
-          "text": "achievement"
+          "text": "achievable"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "c",
       "explanation": "Achieve → achievement."
     },
     {
@@ -683,18 +683,18 @@
         },
         {
           "id": "b",
-          "text": "menulis bersama"
+          "text": "menulis ulang (rewrite)"
         },
         {
           "id": "c",
-          "text": "tidak menulis"
+          "text": "menulis bersama"
         },
         {
           "id": "d",
-          "text": "menulis ulang (rewrite)"
+          "text": "tidak menulis"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "b",
       "explanation": "Re- = again."
     },
     {
@@ -703,15 +703,15 @@
       "options": [
         {
           "id": "a",
-          "text": "pembaca"
+          "text": "sedang membaca"
         },
         {
           "id": "b",
-          "text": "bacaan"
+          "text": "pembaca"
         },
         {
           "id": "c",
-          "text": "sedang membaca"
+          "text": "bacaan"
         },
         {
           "id": "d",
@@ -727,7 +727,7 @@
       "options": [
         {
           "id": "a",
-          "text": "notorious terkenal karena hal negatif"
+          "text": "notorious positif"
         },
         {
           "id": "b",
@@ -735,14 +735,14 @@
         },
         {
           "id": "c",
-          "text": "notorious positif"
+          "text": "notorious terkenal karena hal negatif"
         },
         {
           "id": "d",
           "text": "famous selalu negatif"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "c",
       "explanation": "Notorious = famous for bad reasons."
     },
     {
@@ -751,22 +751,22 @@
       "options": [
         {
           "id": "a",
-          "text": "sama persis"
-        },
-        {
-          "id": "b",
-          "text": "inexpensive negatif"
-        },
-        {
-          "id": "c",
           "text": "inexpensive lebih sopan/netral"
         },
         {
-          "id": "d",
+          "id": "b",
           "text": "cheap selalu positif"
+        },
+        {
+          "id": "c",
+          "text": "inexpensive negatif"
+        },
+        {
+          "id": "d",
+          "text": "sama persis"
         }
       ],
-      "correctOptionId": "c",
+      "correctOptionId": "a",
       "explanation": "Cheap bisa negatif (low quality)."
     },
     {
@@ -779,18 +779,18 @@
         },
         {
           "id": "b",
-          "text": "delay"
-        },
-        {
-          "id": "c",
           "text": "end"
         },
         {
-          "id": "d",
+          "id": "c",
           "text": "begin / start"
+        },
+        {
+          "id": "d",
+          "text": "delay"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "c",
       "explanation": "Commence = begin (formal)."
     },
     {
@@ -799,7 +799,7 @@
       "options": [
         {
           "id": "a",
-          "text": "enlarge"
+          "text": "grow"
         },
         {
           "id": "b",
@@ -811,7 +811,7 @@
         },
         {
           "id": "d",
-          "text": "grow"
+          "text": "enlarge"
         }
       ],
       "correctOptionId": "c",
@@ -827,18 +827,18 @@
         },
         {
           "id": "b",
-          "text": "simply"
+          "text": "simplify"
         },
         {
           "id": "c",
-          "text": "simplification"
+          "text": "simply"
         },
         {
           "id": "d",
-          "text": "simplify"
+          "text": "simplification"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "b",
       "explanation": "Simple → simplify."
     },
     {
@@ -847,22 +847,22 @@
       "options": [
         {
           "id": "a",
-          "text": "tidak bekerja"
-        },
-        {
-          "id": "b",
-          "text": "bekerja terlalu keras (overwork)"
-        },
-        {
-          "id": "c",
           "text": "bekerja lagi"
         },
         {
-          "id": "d",
+          "id": "b",
           "text": "bekerja kurang"
+        },
+        {
+          "id": "c",
+          "text": "tidak bekerja"
+        },
+        {
+          "id": "d",
+          "text": "bekerja terlalu keras (overwork)"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "d",
       "explanation": "Over- = too much."
     },
     {
@@ -871,22 +871,22 @@
       "options": [
         {
           "id": "a",
-          "text": "childlike negatif"
-        },
-        {
-          "id": "b",
-          "text": "sama artinya"
-        },
-        {
-          "id": "c",
           "text": "childish positif"
         },
         {
-          "id": "d",
+          "id": "b",
           "text": "childish negatif (kekanak-kanakan); childlike positif (polos)"
+        },
+        {
+          "id": "c",
+          "text": "sama artinya"
+        },
+        {
+          "id": "d",
+          "text": "childlike negatif"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "b",
       "explanation": "Childish = immature; childlike = innocent."
     },
     {
@@ -895,22 +895,22 @@
       "options": [
         {
           "id": "a",
-          "text": "help"
-        },
-        {
-          "id": "b",
           "text": "ignore"
         },
         {
+          "id": "b",
+          "text": "help"
+        },
+        {
           "id": "c",
-          "text": "refuse"
+          "text": "hinder"
         },
         {
           "id": "d",
-          "text": "hinder"
+          "text": "refuse"
         }
       ],
-      "correctOptionId": "a",
+      "correctOptionId": "b",
       "explanation": "Assist = help (formal)."
     },
     {
@@ -923,7 +923,7 @@
         },
         {
           "id": "b",
-          "text": "information"
+          "text": "informer"
         },
         {
           "id": "c",
@@ -931,10 +931,10 @@
         },
         {
           "id": "d",
-          "text": "informer"
+          "text": "information"
         }
       ],
-      "correctOptionId": "b",
+      "correctOptionId": "d",
       "explanation": "Inform → information."
     },
     {
@@ -943,22 +943,22 @@
       "options": [
         {
           "id": "a",
-          "text": "limited"
+          "text": "plentiful / ample"
         },
         {
           "id": "b",
-          "text": "rare"
+          "text": "limited"
         },
         {
           "id": "c",
-          "text": "scarce"
+          "text": "rare"
         },
         {
           "id": "d",
-          "text": "plentiful / ample"
+          "text": "scarce"
         }
       ],
-      "correctOptionId": "d",
+      "correctOptionId": "a",
       "explanation": "Abundant = banyak/berlimpah."
     }
   ]
