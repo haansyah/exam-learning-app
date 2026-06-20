@@ -1,0 +1,1205 @@
+{
+  "subjectId": "english-l4",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Manakah yang merupakan uncountable noun?",
+      "options": [
+        {
+          "id": "a",
+          "text": "apple"
+        },
+        {
+          "id": "b",
+          "text": "water"
+        },
+        {
+          "id": "c",
+          "text": "book"
+        },
+        {
+          "id": "d",
+          "text": "chair"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Water' tidak bisa dihitung satu per satu tanpa satuan (a glass of water), jadi uncountable."
+    },
+    {
+      "id": "q2",
+      "text": "Manakah yang merupakan countable noun?",
+      "options": [
+        {
+          "id": "a",
+          "text": "rice"
+        },
+        {
+          "id": "b",
+          "text": "money"
+        },
+        {
+          "id": "c",
+          "text": "student"
+        },
+        {
+          "id": "d",
+          "text": "information"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Student' bisa dihitung (one student, two students), jadi countable."
+    },
+    {
+      "id": "q3",
+      "text": "Bentuk jamak yang benar: 'There are three ___ on the table.' (apel)",
+      "options": [
+        {
+          "id": "a",
+          "text": "apple"
+        },
+        {
+          "id": "b",
+          "text": "apples"
+        },
+        {
+          "id": "c",
+          "text": "apples'"
+        },
+        {
+          "id": "d",
+          "text": "an apple"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Countable noun jamak: apple → apples."
+    },
+    {
+      "id": "q4",
+      "text": "Manakah kalimat yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I need an advice."
+        },
+        {
+          "id": "b",
+          "text": "I need some advice."
+        },
+        {
+          "id": "c",
+          "text": "I need advices."
+        },
+        {
+          "id": "d",
+          "text": "I need a advices."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Advice' adalah uncountable, tidak pakai 'a/an' dan tidak ada bentuk jamak."
+    },
+    {
+      "id": "q5",
+      "text": "Manakah kalimat yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She bought two breads."
+        },
+        {
+          "id": "b",
+          "text": "She bought two loaves of bread."
+        },
+        {
+          "id": "c",
+          "text": "She bought two bread."
+        },
+        {
+          "id": "d",
+          "text": "She bought a breads."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Bread' uncountable; gunakan 'loaves of bread' untuk menghitung."
+    },
+    {
+      "id": "q6",
+      "text": "Kata 'furniture' termasuk jenis noun...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Countable"
+        },
+        {
+          "id": "b",
+          "text": "Uncountable"
+        },
+        {
+          "id": "c",
+          "text": "Proper noun"
+        },
+        {
+          "id": "d",
+          "text": "Abstract countable"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Furniture' adalah uncountable noun (perabotan secara umum)."
+    },
+    {
+      "id": "q7",
+      "text": "Manakah pasangan yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "a news"
+        },
+        {
+          "id": "b",
+          "text": "some news"
+        },
+        {
+          "id": "c",
+          "text": "many news"
+        },
+        {
+          "id": "d",
+          "text": "few news"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'News' uncountable, gunakan 'some news'."
+    },
+    {
+      "id": "q8",
+      "text": "Lengkapi: 'There aren't ___ students in the classroom.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "some"
+        },
+        {
+          "id": "b",
+          "text": "any"
+        },
+        {
+          "id": "c",
+          "text": "much"
+        },
+        {
+          "id": "d",
+          "text": "little"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Dalam kalimat negatif, gunakan 'any': There aren't any students."
+    },
+    {
+      "id": "q9",
+      "text": "Lengkapi: 'How ___ money do you have?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "many"
+        },
+        {
+          "id": "b",
+          "text": "much"
+        },
+        {
+          "id": "c",
+          "text": "few"
+        },
+        {
+          "id": "d",
+          "text": "little"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Money' uncountable → gunakan 'much': How much money?"
+    },
+    {
+      "id": "q10",
+      "text": "Lengkapi: 'How ___ books did you read?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "much"
+        },
+        {
+          "id": "b",
+          "text": "many"
+        },
+        {
+          "id": "c",
+          "text": "little"
+        },
+        {
+          "id": "d",
+          "text": "few"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Books' countable → gunakan 'many': How many books?"
+    },
+    {
+      "id": "q11",
+      "text": "Lengkapi: 'I have very ___ free time these days.' (hampir tidak ada)",
+      "options": [
+        {
+          "id": "a",
+          "text": "few"
+        },
+        {
+          "id": "b",
+          "text": "little"
+        },
+        {
+          "id": "c",
+          "text": "many"
+        },
+        {
+          "id": "d",
+          "text": "much"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Little' + uncountable = sedikit/hampir tidak ada. Free time uncountable."
+    },
+    {
+      "id": "q12",
+      "text": "Lengkapi: 'She has ___ friends at the new school.' (cukup banyak)",
+      "options": [
+        {
+          "id": "a",
+          "text": "a few"
+        },
+        {
+          "id": "b",
+          "text": "a little"
+        },
+        {
+          "id": "c",
+          "text": "much"
+        },
+        {
+          "id": "d",
+          "text": "little"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'A few' + countable = beberapa (cukup). Friends countable."
+    },
+    {
+      "id": "q13",
+      "text": "Lengkapi: 'Would you like ___ coffee?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "any"
+        },
+        {
+          "id": "b",
+          "text": "some"
+        },
+        {
+          "id": "c",
+          "text": "many"
+        },
+        {
+          "id": "d",
+          "text": "few"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Dalam tawaran/permintaan sopan, gunakan 'some': Would you like some coffee?"
+    },
+    {
+      "id": "q14",
+      "text": "Lengkapi: 'There is ___ sugar left in the jar.' (hampir habis)",
+      "options": [
+        {
+          "id": "a",
+          "text": "few"
+        },
+        {
+          "id": "b",
+          "text": "little"
+        },
+        {
+          "id": "c",
+          "text": "many"
+        },
+        {
+          "id": "d",
+          "text": "a few"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Little' dengan uncountable noun (sugar) = sedikit/hampir habis."
+    },
+    {
+      "id": "q15",
+      "text": "Lengkapi: 'She ___ lived here for five years.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Present perfect: has/have + past participle. She has lived."
+    },
+    {
+      "id": "q16",
+      "text": "Lengkapi: 'I ___ never been to Japan.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "am"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Present perfect dengan 'I': I have never been."
+    },
+    {
+      "id": "q17",
+      "text": "Manakah kalimat present perfect yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He have finished his homework."
+        },
+        {
+          "id": "b",
+          "text": "He has finished his homework."
+        },
+        {
+          "id": "c",
+          "text": "He has finish his homework."
+        },
+        {
+          "id": "d",
+          "text": "He has finishing his homework."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Present perfect: has + past participle (finished)."
+    },
+    {
+      "id": "q18",
+      "text": "Lengkapi: 'They ___ already eaten lunch.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "were"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'They' menggunakan 'have': They have already eaten."
+    },
+    {
+      "id": "q19",
+      "text": "Present perfect digunakan untuk...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aksi di masa lalu tanpa kaitan sekarang"
+        },
+        {
+          "id": "b",
+          "text": "Pengalaman/aksi yang relevan dengan sekarang"
+        },
+        {
+          "id": "c",
+          "text": "Rencana masa depan"
+        },
+        {
+          "id": "d",
+          "text": "Kebiasaan harian"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Present perfect menghubungkan masa lalu dengan masa sekarang (pengalaman, hasil sekarang)."
+    },
+    {
+      "id": "q20",
+      "text": "Lengkapi: '___ you ever tried sushi?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Do"
+        },
+        {
+          "id": "b",
+          "text": "Did"
+        },
+        {
+          "id": "c",
+          "text": "Have"
+        },
+        {
+          "id": "d",
+          "text": "Has"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Pertanyaan pengalaman: Have you ever tried...?"
+    },
+    {
+      "id": "q21",
+      "text": "Lengkapi: 'I have studied English ___ 2020.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "for"
+        },
+        {
+          "id": "b",
+          "text": "since"
+        },
+        {
+          "id": "c",
+          "text": "during"
+        },
+        {
+          "id": "d",
+          "text": "from"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Since' + titik waktu tertentu: since 2020."
+    },
+    {
+      "id": "q22",
+      "text": "Lengkapi: 'She has worked here ___ ten years.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "since"
+        },
+        {
+          "id": "b",
+          "text": "for"
+        },
+        {
+          "id": "c",
+          "text": "during"
+        },
+        {
+          "id": "d",
+          "text": "ago"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'For' + durasi: for ten years."
+    },
+    {
+      "id": "q23",
+      "text": "Manakah yang tepat digunakan dengan 'since'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "two hours"
+        },
+        {
+          "id": "b",
+          "text": "Monday"
+        },
+        {
+          "id": "c",
+          "text": "a week"
+        },
+        {
+          "id": "d",
+          "text": "three days"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Since' diikuti titik waktu: since Monday, since 2020."
+    },
+    {
+      "id": "q24",
+      "text": "Manakah yang tepat digunakan dengan 'for'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "January"
+        },
+        {
+          "id": "b",
+          "text": "last year"
+        },
+        {
+          "id": "c",
+          "text": "six months"
+        },
+        {
+          "id": "d",
+          "text": "yesterday"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'For' diikuti durasi: for six months, for two weeks."
+    },
+    {
+      "id": "q25",
+      "text": "Lengkapi: 'We have known each other ___ we were children.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "for"
+        },
+        {
+          "id": "b",
+          "text": "since"
+        },
+        {
+          "id": "c",
+          "text": "during"
+        },
+        {
+          "id": "d",
+          "text": "from"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Since' + clause/kondisi masa lalu: since we were children."
+    },
+    {
+      "id": "q26",
+      "text": "Apa bahasa Inggris untuk 'rumah sakit'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "hospital"
+        },
+        {
+          "id": "b",
+          "text": "clinic"
+        },
+        {
+          "id": "c",
+          "text": "pharmacy"
+        },
+        {
+          "id": "d",
+          "text": "ambulance"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Hospital' berarti rumah sakit."
+    },
+    {
+      "id": "q27",
+      "text": "Apa bahasa Inggris untuk 'obat'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "medicine"
+        },
+        {
+          "id": "b",
+          "text": "vitamin"
+        },
+        {
+          "id": "c",
+          "text": "injection"
+        },
+        {
+          "id": "d",
+          "text": "bandage"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Medicine' berarti obat."
+    },
+    {
+      "id": "q28",
+      "text": "Apa bahasa Inggris untuk 'sakit kepala'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "headache"
+        },
+        {
+          "id": "b",
+          "text": "stomachache"
+        },
+        {
+          "id": "c",
+          "text": "toothache"
+        },
+        {
+          "id": "d",
+          "text": "fever"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Headache' berarti sakit kepala."
+    },
+    {
+      "id": "q29",
+      "text": "Apa bahasa Inggris untuk 'demam'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "fever"
+        },
+        {
+          "id": "b",
+          "text": "cough"
+        },
+        {
+          "id": "c",
+          "text": "cold"
+        },
+        {
+          "id": "d",
+          "text": "flu"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Fever' berarti demam."
+    },
+    {
+      "id": "q30",
+      "text": "Apa bahasa Inggris untuk 'dokter gigi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "dentist"
+        },
+        {
+          "id": "b",
+          "text": "surgeon"
+        },
+        {
+          "id": "c",
+          "text": "nurse"
+        },
+        {
+          "id": "d",
+          "text": "pharmacist"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Dentist' berarti dokter gigi."
+    },
+    {
+      "id": "q31",
+      "text": "Apa bahasa Inggris untuk 'sehat'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "healthy"
+        },
+        {
+          "id": "b",
+          "text": "sick"
+        },
+        {
+          "id": "c",
+          "text": "ill"
+        },
+        {
+          "id": "d",
+          "text": "weak"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Healthy' berarti sehat."
+    },
+    {
+      "id": "q32",
+      "text": "Apa bahasa Inggris untuk 'toko/mall'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "shop/store/mall"
+        },
+        {
+          "id": "b",
+          "text": "market only"
+        },
+        {
+          "id": "c",
+          "text": "warehouse"
+        },
+        {
+          "id": "d",
+          "text": "factory"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Shop', 'store', atau 'mall' berarti tempat belanja."
+    },
+    {
+      "id": "q33",
+      "text": "Apa bahasa Inggris untuk 'harga'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "price"
+        },
+        {
+          "id": "b",
+          "text": "cost"
+        },
+        {
+          "id": "c",
+          "text": "fee"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Price, cost, dan fee semuanya terkait harga/biaya."
+    },
+    {
+      "id": "q34",
+      "text": "Apa bahasa Inggris untuk 'diskon'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "discount"
+        },
+        {
+          "id": "b",
+          "text": "sale"
+        },
+        {
+          "id": "c",
+          "text": "offer"
+        },
+        {
+          "id": "d",
+          "text": "bargain"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Discount' berarti diskon."
+    },
+    {
+      "id": "q35",
+      "text": "Apa bahasa Inggris untuk 'ukuran'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "size"
+        },
+        {
+          "id": "b",
+          "text": "color"
+        },
+        {
+          "id": "c",
+          "text": "weight"
+        },
+        {
+          "id": "d",
+          "text": "shape"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Size' berarti ukuran."
+    },
+    {
+      "id": "q36",
+      "text": "Apa bahasa Inggris untuk 'kembalian'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "change"
+        },
+        {
+          "id": "b",
+          "text": "receipt"
+        },
+        {
+          "id": "c",
+          "text": "cash"
+        },
+        {
+          "id": "d",
+          "text": "card"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Change' berarti kembalian (uang)."
+    },
+    {
+      "id": "q37",
+      "text": "Apa bahasa Inggris untuk 'struk'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "receipt"
+        },
+        {
+          "id": "b",
+          "text": "invoice"
+        },
+        {
+          "id": "c",
+          "text": "bill"
+        },
+        {
+          "id": "d",
+          "text": "ticket"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Receipt' berarti struk belanja."
+    },
+    {
+      "id": "q38",
+      "text": "Apa bahasa Inggris untuk 'uang tunai'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "cash"
+        },
+        {
+          "id": "b",
+          "text": "credit"
+        },
+        {
+          "id": "c",
+          "text": "loan"
+        },
+        {
+          "id": "d",
+          "text": "debt"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Cash' berarti uang tunai."
+    },
+    {
+      "id": "q39",
+      "text": "Apa bahasa Inggris untuk 'dompet'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "wallet"
+        },
+        {
+          "id": "b",
+          "text": "purse"
+        },
+        {
+          "id": "c",
+          "text": "pocket"
+        },
+        {
+          "id": "d",
+          "text": "bag"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Wallet' berarti dompet."
+    },
+    {
+      "id": "q40",
+      "text": "Apa bahasa Inggris untuk 'tabungan'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "savings"
+        },
+        {
+          "id": "b",
+          "text": "salary"
+        },
+        {
+          "id": "c",
+          "text": "income"
+        },
+        {
+          "id": "d",
+          "text": "expense"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Savings' berarti tabungan."
+    },
+    {
+      "id": "q41",
+      "text": "Apa bahasa Inggris untuk 'gaji'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "salary/wage"
+        },
+        {
+          "id": "b",
+          "text": "bonus"
+        },
+        {
+          "id": "c",
+          "text": "allowance"
+        },
+        {
+          "id": "d",
+          "text": "pension"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Salary' atau 'wage' berarti gaji."
+    },
+    {
+      "id": "q42",
+      "text": "Apa bahasa Inggris untuk 'utang'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "debt/loan"
+        },
+        {
+          "id": "b",
+          "text": "credit"
+        },
+        {
+          "id": "c",
+          "text": "interest"
+        },
+        {
+          "id": "d",
+          "text": "tax"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Debt' atau 'loan' berarti utang."
+    },
+    {
+      "id": "q43",
+      "text": "Apa bahasa Inggris untuk 'bank'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "bank"
+        },
+        {
+          "id": "b",
+          "text": "ATM"
+        },
+        {
+          "id": "c",
+          "text": "account"
+        },
+        {
+          "id": "d",
+          "text": "transfer"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Bank' berarti bank."
+    },
+    {
+      "id": "q44",
+      "text": "Apa bahasa Inggris untuk 'menu'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "menu"
+        },
+        {
+          "id": "b",
+          "text": "order"
+        },
+        {
+          "id": "c",
+          "text": "bill"
+        },
+        {
+          "id": "d",
+          "text": "tip"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Menu' berarti menu makanan."
+    },
+    {
+      "id": "q45",
+      "text": "Apa bahasa Inggris untuk 'pesanan'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "order"
+        },
+        {
+          "id": "b",
+          "text": "reservation"
+        },
+        {
+          "id": "c",
+          "text": "table"
+        },
+        {
+          "id": "d",
+          "text": "waiter"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Order' berarti pesanan."
+    },
+    {
+      "id": "q46",
+      "text": "Apa bahasa Inggris untuk 'pelayan'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "waiter/waitress"
+        },
+        {
+          "id": "b",
+          "text": "chef"
+        },
+        {
+          "id": "c",
+          "text": "manager"
+        },
+        {
+          "id": "d",
+          "text": "customer"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Waiter' (laki) atau 'waitress' (perempuan) berarti pelayan."
+    },
+    {
+      "id": "q47",
+      "text": "Apa bahasa Inggris untuk 'makanan pembuka'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "appetizer/starter"
+        },
+        {
+          "id": "b",
+          "text": "main course"
+        },
+        {
+          "id": "c",
+          "text": "dessert"
+        },
+        {
+          "id": "d",
+          "text": "beverage"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Appetizer' atau 'starter' berarti makanan pembuka."
+    },
+    {
+      "id": "q48",
+      "text": "Apa bahasa Inggris untuk 'hidangan utama'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "main course"
+        },
+        {
+          "id": "b",
+          "text": "side dish"
+        },
+        {
+          "id": "c",
+          "text": "snack"
+        },
+        {
+          "id": "d",
+          "text": "soup"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Main course' berarti hidangan utama."
+    },
+    {
+      "id": "q49",
+      "text": "Apa bahasa Inggris untuk 'tagihan' (di restoran)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "bill/check"
+        },
+        {
+          "id": "b",
+          "text": "receipt"
+        },
+        {
+          "id": "c",
+          "text": "invoice"
+        },
+        {
+          "id": "d",
+          "text": "ticket"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Bill' (UK) atau 'check' (US) berarti tagihan di restoran."
+    },
+    {
+      "id": "q50",
+      "text": "Apa bahasa Inggris untuk 'tip (uang tambahan untuk pelayan)'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "tip"
+        },
+        {
+          "id": "b",
+          "text": "tax"
+        },
+        {
+          "id": "c",
+          "text": "fee"
+        },
+        {
+          "id": "d",
+          "text": "change"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Tip' berarti tip/uang tambahan untuk pelayan."
+    }
+  ]
+}

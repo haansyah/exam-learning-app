@@ -1,0 +1,1685 @@
+{
+  "subjectId": "english-l14",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Advanced grammar: 'Were it not for your help, I ___ .'",
+      "options": [
+        {
+          "id": "a",
+          "text": "would have failed"
+        },
+        {
+          "id": "b",
+          "text": "would fail"
+        },
+        {
+          "id": "c",
+          "text": "will fail"
+        },
+        {
+          "id": "d",
+          "text": "failed"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Inverted conditional: Were it not for..."
+    },
+    {
+      "id": "q2",
+      "text": "Complex pattern: 'So ___ was the storm that flights were cancelled.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "severely"
+        },
+        {
+          "id": "b",
+          "text": "severest"
+        },
+        {
+          "id": "c",
+          "text": "severe"
+        },
+        {
+          "id": "d",
+          "text": "severity"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "So + adjective + that (inversion emphasis)."
+    },
+    {
+      "id": "q3",
+      "text": "Lengkapi: 'Little ___ that he would become famous.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "he knew"
+        },
+        {
+          "id": "b",
+          "text": "did he know"
+        },
+        {
+          "id": "c",
+          "text": "he had known"
+        },
+        {
+          "id": "d",
+          "text": "he knows"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Little did he know (inversion)."
+    },
+    {
+      "id": "q4",
+      "text": "Advanced: 'Not until yesterday ___ the truth.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "I learn"
+        },
+        {
+          "id": "b",
+          "text": "I learned"
+        },
+        {
+          "id": "c",
+          "text": "did I learn"
+        },
+        {
+          "id": "d",
+          "text": "learned I"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Not until + inversion."
+    },
+    {
+      "id": "q5",
+      "text": "Complex: 'The more you practice, ___ you become.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "the better"
+        },
+        {
+          "id": "b",
+          "text": "the best"
+        },
+        {
+          "id": "c",
+          "text": "better"
+        },
+        {
+          "id": "d",
+          "text": "more good"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The more..., the more/better..."
+    },
+    {
+      "id": "q6",
+      "text": "Grammar: subjunctive 'I suggest he ___ early.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "left"
+        },
+        {
+          "id": "b",
+          "text": "leaves"
+        },
+        {
+          "id": "c",
+          "text": "leave"
+        },
+        {
+          "id": "d",
+          "text": "leaving"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Suggest + base verb (subjunctive)."
+    },
+    {
+      "id": "q7",
+      "text": "Pattern: 'It is essential that she ___ informed.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "be"
+        },
+        {
+          "id": "c",
+          "text": "being"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Essential that + base form (subjunctive)."
+    },
+    {
+      "id": "q8",
+      "text": "Advanced: 'Had they arrived earlier, they ___ the show.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "see"
+        },
+        {
+          "id": "b",
+          "text": "saw"
+        },
+        {
+          "id": "c",
+          "text": "would have seen"
+        },
+        {
+          "id": "d",
+          "text": "will see"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Third conditional."
+    },
+    {
+      "id": "q9",
+      "text": "Complex: 'Scarcely ___ the door when the phone rang.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "I had closed"
+        },
+        {
+          "id": "b",
+          "text": "did I close"
+        },
+        {
+          "id": "c",
+          "text": "I closed"
+        },
+        {
+          "id": "d",
+          "text": "had I closed"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Scarcely had... when..."
+    },
+    {
+      "id": "q10",
+      "text": "Grammar: 'I wish I ___ harder last year.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "studied"
+        },
+        {
+          "id": "b",
+          "text": "would study"
+        },
+        {
+          "id": "c",
+          "text": "study"
+        },
+        {
+          "id": "d",
+          "text": "had studied"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Wish + past perfect for past regret."
+    },
+    {
+      "id": "q11",
+      "text": "Pattern: 'Such ___ the demand that we ran out.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "was"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "were"
+        },
+        {
+          "id": "d",
+          "text": "had been"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Such was the demand (inversion)."
+    },
+    {
+      "id": "q12",
+      "text": "Advanced: 'Were I you, I ___ accept.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "won't"
+        },
+        {
+          "id": "b",
+          "text": "don't"
+        },
+        {
+          "id": "c",
+          "text": "didn't"
+        },
+        {
+          "id": "d",
+          "text": "wouldn't"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Were I you = If I were you."
+    },
+    {
+      "id": "q13",
+      "text": "Complex: 'Only by working together ___ solve this.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "could we"
+        },
+        {
+          "id": "b",
+          "text": "we can"
+        },
+        {
+          "id": "c",
+          "text": "can we"
+        },
+        {
+          "id": "d",
+          "text": "we could"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Only by... + inversion."
+    },
+    {
+      "id": "q14",
+      "text": "Vocabulary: 'ubiquitous' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "langka"
+        },
+        {
+          "id": "b",
+          "text": "ada di mana-mana"
+        },
+        {
+          "id": "c",
+          "text": "kuno"
+        },
+        {
+          "id": "d",
+          "text": "rahasia"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Ubiquitous = everywhere."
+    },
+    {
+      "id": "q15",
+      "text": "Vocabulary: 'ephemeral' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "kuat"
+        },
+        {
+          "id": "b",
+          "text": "besar"
+        },
+        {
+          "id": "c",
+          "text": "sementara / fana"
+        },
+        {
+          "id": "d",
+          "text": "abadi"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Ephemeral = short-lived."
+    },
+    {
+      "id": "q16",
+      "text": "Vocabulary: 'pragmatic' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "idealis ekstrem"
+        },
+        {
+          "id": "b",
+          "text": "teoretis saja"
+        },
+        {
+          "id": "c",
+          "text": "emosional"
+        },
+        {
+          "id": "d",
+          "text": "praktis / realistis"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Pragmatic = practical."
+    },
+    {
+      "id": "q17",
+      "text": "Vocabulary: 'ambiguous' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "pasti"
+        },
+        {
+          "id": "b",
+          "text": "tunggal"
+        },
+        {
+          "id": "c",
+          "text": "jelas"
+        },
+        {
+          "id": "d",
+          "text": "ambigu / multi-tafsir"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Ambiguous = unclear/multiple meanings."
+    },
+    {
+      "id": "q18",
+      "text": "Vocabulary: 'meticulous' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "cepat"
+        },
+        {
+          "id": "b",
+          "text": "sangat teliti"
+        },
+        {
+          "id": "c",
+          "text": "ceroboh"
+        },
+        {
+          "id": "d",
+          "text": "malas"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Meticulous = very careful."
+    },
+    {
+      "id": "q19",
+      "text": "Idiom: 'the elephant in the room' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "rahasia kecil"
+        },
+        {
+          "id": "b",
+          "text": "masalah besar yang diabaikan"
+        },
+        {
+          "id": "c",
+          "text": "hewan di ruangan"
+        },
+        {
+          "id": "d",
+          "text": "dekorasi"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Obvious problem nobody mentions."
+    },
+    {
+      "id": "q20",
+      "text": "Idiom: 'burn bridges' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "merusak hubungan tanpa jalan kembali"
+        },
+        {
+          "id": "b",
+          "text": "membangun jaringan"
+        },
+        {
+          "id": "c",
+          "text": "berlibur"
+        },
+        {
+          "id": "d",
+          "text": "membakar jembatan"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Destroy relationships irreversibly."
+    },
+    {
+      "id": "q21",
+      "text": "Idiom: 'go the extra mile' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "berusaha lebih dari yang diharapkan"
+        },
+        {
+          "id": "b",
+          "text": "menyerah"
+        },
+        {
+          "id": "c",
+          "text": "terlambat"
+        },
+        {
+          "id": "d",
+          "text": "lari marathon"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Make extra effort."
+    },
+    {
+      "id": "q22",
+      "text": "Complex: 'Rarely ___ such dedication.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "have I seen"
+        },
+        {
+          "id": "b",
+          "text": "I see"
+        },
+        {
+          "id": "c",
+          "text": "I saw"
+        },
+        {
+          "id": "d",
+          "text": "I have seen"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Rarely + inversion."
+    },
+    {
+      "id": "q23",
+      "text": "Grammar: 'It's high time we ___ action.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "taken"
+        },
+        {
+          "id": "b",
+          "text": "took"
+        },
+        {
+          "id": "c",
+          "text": "taking"
+        },
+        {
+          "id": "d",
+          "text": "take"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "It's high time + past simple."
+    },
+    {
+      "id": "q24",
+      "text": "Pattern: 'No matter how hard he ___, he couldn't win.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "tries"
+        },
+        {
+          "id": "b",
+          "text": "trying"
+        },
+        {
+          "id": "c",
+          "text": "try"
+        },
+        {
+          "id": "d",
+          "text": "tried"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "No matter how + clause."
+    },
+    {
+      "id": "q25",
+      "text": "Advanced: 'But for the rain, we ___ picnicked.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "would have"
+        },
+        {
+          "id": "b",
+          "text": "had"
+        },
+        {
+          "id": "c",
+          "text": "will have"
+        },
+        {
+          "id": "d",
+          "text": "have"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "But for = if it hadn't been for."
+    },
+    {
+      "id": "q26",
+      "text": "Vocabulary: 'resilient' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "lemah"
+        },
+        {
+          "id": "b",
+          "text": "rapuh"
+        },
+        {
+          "id": "c",
+          "text": "tangguh / cepat pulih"
+        },
+        {
+          "id": "d",
+          "text": "pasif"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Resilient = recovers quickly."
+    },
+    {
+      "id": "q27",
+      "text": "Vocabulary: 'obsolete' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "usang / tidak dipakai lagi"
+        },
+        {
+          "id": "b",
+          "text": "populer"
+        },
+        {
+          "id": "c",
+          "text": "modern"
+        },
+        {
+          "id": "d",
+          "text": "baru"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Obsolete = outdated."
+    },
+    {
+      "id": "q28",
+      "text": "Idiom: 'read between the lines' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "menyalin"
+        },
+        {
+          "id": "b",
+          "text": "menghapus teks"
+        },
+        {
+          "id": "c",
+          "text": "membaca pelan"
+        },
+        {
+          "id": "d",
+          "text": "memahami makna tersembunyi"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Understand implicit meaning."
+    },
+    {
+      "id": "q29",
+      "text": "Idiom: 'cut corners' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "rajin"
+        },
+        {
+          "id": "b",
+          "text": "mengambil jalan pintas / mengorbankan kualitas"
+        },
+        {
+          "id": "c",
+          "text": "hemat waktu dengan benar"
+        },
+        {
+          "id": "d",
+          "text": "memotong sudut"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Do something poorly to save effort."
+    },
+    {
+      "id": "q30",
+      "text": "Complex: 'Under no circumstances ___ enter.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "you should"
+        },
+        {
+          "id": "b",
+          "text": "should"
+        },
+        {
+          "id": "c",
+          "text": "you will"
+        },
+        {
+          "id": "d",
+          "text": "should you"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Under no circumstances + inversion."
+    },
+    {
+      "id": "q31",
+      "text": "Grammar: 'I'd rather you ___ here.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "staying"
+        },
+        {
+          "id": "b",
+          "text": "stayed"
+        },
+        {
+          "id": "c",
+          "text": "stay"
+        },
+        {
+          "id": "d",
+          "text": "to stay"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Would rather + subject + past simple."
+    },
+    {
+      "id": "q32",
+      "text": "Vocabulary: 'compelling' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "sangat meyakinkan/menarik"
+        },
+        {
+          "id": "b",
+          "text": "membosankan"
+        },
+        {
+          "id": "c",
+          "text": "tidak penting"
+        },
+        {
+          "id": "d",
+          "text": "lemah"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Compelling = persuasive/engaging."
+    },
+    {
+      "id": "q33",
+      "text": "Vocabulary: 'tenuous' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "kuat"
+        },
+        {
+          "id": "b",
+          "text": "lemah / tidak kuat (argumen/hubungan)"
+        },
+        {
+          "id": "c",
+          "text": "tebal"
+        },
+        {
+          "id": "d",
+          "text": "jelas"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Tenuous = weak/flimsy."
+    },
+    {
+      "id": "q34",
+      "text": "Idiom: 'bite off more than you can chew' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "berbicara banyak"
+        },
+        {
+          "id": "b",
+          "text": "mengambil tugas terlalu banyak"
+        },
+        {
+          "id": "c",
+          "text": "makan terlalu cepat"
+        },
+        {
+          "id": "d",
+          "text": "menang"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Take on too much."
+    },
+    {
+      "id": "q35",
+      "text": "Idiom: 'keep your chin up' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "marah"
+        },
+        {
+          "id": "b",
+          "text": "menyerah"
+        },
+        {
+          "id": "c",
+          "text": "angkat dagu fisik"
+        },
+        {
+          "id": "d",
+          "text": "tetap semangat / jangan putus asa"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Stay positive."
+    },
+    {
+      "id": "q36",
+      "text": "Pattern: 'Hardly ___ I sat down when the doorbell rang.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "did"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "had"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Hardly had... when..."
+    },
+    {
+      "id": "q37",
+      "text": "Advanced: 'Suppose you ___ rich, what would you do?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "was"
+        },
+        {
+          "id": "b",
+          "text": "were"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "be"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Suppose + past for hypothetical."
+    },
+    {
+      "id": "q38",
+      "text": "Vocabulary: 'arduous' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "mudah"
+        },
+        {
+          "id": "b",
+          "text": "sangat melelahkan / berat"
+        },
+        {
+          "id": "c",
+          "text": "menyenangkan"
+        },
+        {
+          "id": "d",
+          "text": "singkat"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Arduous = very difficult."
+    },
+    {
+      "id": "q39",
+      "text": "Vocabulary: 'lucrative' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "menguntungkan (finansial)"
+        },
+        {
+          "id": "b",
+          "text": "murah"
+        },
+        {
+          "id": "c",
+          "text": "gratis"
+        },
+        {
+          "id": "d",
+          "text": "rugi"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Lucrative = profitable."
+    },
+    {
+      "id": "q40",
+      "text": "Idiom: 'throw in the towel' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "berdebat"
+        },
+        {
+          "id": "b",
+          "text": "menang"
+        },
+        {
+          "id": "c",
+          "text": "menyerah"
+        },
+        {
+          "id": "d",
+          "text": "membersihkan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Give up (from boxing)."
+    },
+    {
+      "id": "q41",
+      "text": "Idiom: 'on the same page' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "sepaham / setuju"
+        },
+        {
+          "id": "b",
+          "text": "di halaman sama"
+        },
+        {
+          "id": "c",
+          "text": "berbeda buku"
+        },
+        {
+          "id": "d",
+          "text": "bertengkar"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "In agreement."
+    },
+    {
+      "id": "q42",
+      "text": "Complex: 'Were the weather better, we ___ hiking.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "would go"
+        },
+        {
+          "id": "b",
+          "text": "will go"
+        },
+        {
+          "id": "c",
+          "text": "went"
+        },
+        {
+          "id": "d",
+          "text": "go"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Inverted second conditional."
+    },
+    {
+      "id": "q43",
+      "text": "Grammar: 'If only I ___ listened!'",
+      "options": [
+        {
+          "id": "a",
+          "text": "had"
+        },
+        {
+          "id": "b",
+          "text": "would"
+        },
+        {
+          "id": "c",
+          "text": "did"
+        },
+        {
+          "id": "d",
+          "text": "have"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "If only + past perfect."
+    },
+    {
+      "id": "q44",
+      "text": "Vocabulary: 'candid' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "palsu"
+        },
+        {
+          "id": "b",
+          "text": "rahasia"
+        },
+        {
+          "id": "c",
+          "text": "rumit"
+        },
+        {
+          "id": "d",
+          "text": "jujur / terus terang"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Candid = frank/honest."
+    },
+    {
+      "id": "q45",
+      "text": "Vocabulary: 'feasible' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "ilegal"
+        },
+        {
+          "id": "b",
+          "text": "mustahil"
+        },
+        {
+          "id": "c",
+          "text": "abstrak"
+        },
+        {
+          "id": "d",
+          "text": "dapat dilakukan / realistis"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Feasible = doable."
+    },
+    {
+      "id": "q46",
+      "text": "Idiom: 'get cold feet' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "kaki dingin"
+        },
+        {
+          "id": "b",
+          "text": "berlari"
+        },
+        {
+          "id": "c",
+          "text": "sakit kaki"
+        },
+        {
+          "id": "d",
+          "text": "merasa gugup hingga ingin membatalkan"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Become nervous and hesitate."
+    },
+    {
+      "id": "q47",
+      "text": "Idiom: 'the last straw' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "solusi"
+        },
+        {
+          "id": "b",
+          "text": "awal masalah"
+        },
+        {
+          "id": "c",
+          "text": "jerami terakhir"
+        },
+        {
+          "id": "d",
+          "text": "puncak ketidaksabaran (setelah banyak masalah)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Final tolerable annoyance."
+    },
+    {
+      "id": "q48",
+      "text": "Pattern: 'So absorbed ___ she that she missed her stop.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "had been"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "was"
+        },
+        {
+          "id": "d",
+          "text": "were"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "So absorbed was she (inversion)."
+    },
+    {
+      "id": "q49",
+      "text": "Advanced: 'Much as I ___ him, I must disagree.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "likes"
+        },
+        {
+          "id": "b",
+          "text": "liked"
+        },
+        {
+          "id": "c",
+          "text": "liking"
+        },
+        {
+          "id": "d",
+          "text": "like / respect"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Much as = although I..."
+    },
+    {
+      "id": "q50",
+      "text": "Vocabulary: 'elusive' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "mudah"
+        },
+        {
+          "id": "b",
+          "text": "dekat"
+        },
+        {
+          "id": "c",
+          "text": "jelas"
+        },
+        {
+          "id": "d",
+          "text": "sulit ditangkap/dicapai"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Elusive = hard to catch/achieve."
+    },
+    {
+      "id": "q51",
+      "text": "Vocabulary: 'innate' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "buatan"
+        },
+        {
+          "id": "b",
+          "text": "dipelajari"
+        },
+        {
+          "id": "c",
+          "text": "bawaan / alami"
+        },
+        {
+          "id": "d",
+          "text": "sementara"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Innate = inborn."
+    },
+    {
+      "id": "q52",
+      "text": "Idiom: 'play devil's advocate' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "mengambil sisi berlawanan untuk uji argumen"
+        },
+        {
+          "id": "b",
+          "text": "jahat"
+        },
+        {
+          "id": "c",
+          "text": "mengadvokasi setan"
+        },
+        {
+          "id": "d",
+          "text": "menolak debat"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Argue opposite to test ideas."
+    },
+    {
+      "id": "q53",
+      "text": "Idiom: 'back to square one' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "maju"
+        },
+        {
+          "id": "b",
+          "text": "selesai"
+        },
+        {
+          "id": "c",
+          "text": "kembali ke awal"
+        },
+        {
+          "id": "d",
+          "text": "menang"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Start over from beginning."
+    },
+    {
+      "id": "q54",
+      "text": "Complex: 'Not only ___ the exam, but she also topped the class.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "she passes"
+        },
+        {
+          "id": "b",
+          "text": "she passed"
+        },
+        {
+          "id": "c",
+          "text": "did she pass"
+        },
+        {
+          "id": "d",
+          "text": "passed she"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Not only did she..."
+    },
+    {
+      "id": "q55",
+      "text": "Grammar: 'It's imperative that he ___ on time.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "was"
+        },
+        {
+          "id": "b",
+          "text": "being"
+        },
+        {
+          "id": "c",
+          "text": "be"
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Imperative that + subjunctive."
+    },
+    {
+      "id": "q56",
+      "text": "Vocabulary: 'succinct' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "kosong"
+        },
+        {
+          "id": "b",
+          "text": "bingung"
+        },
+        {
+          "id": "c",
+          "text": "panjang"
+        },
+        {
+          "id": "d",
+          "text": "ringkas / padat"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Succinct = brief and clear."
+    },
+    {
+      "id": "q57",
+      "text": "Vocabulary: 'voracious' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "sedikit"
+        },
+        {
+          "id": "b",
+          "text": "sangat rakus (bacaan/makanan)"
+        },
+        {
+          "id": "c",
+          "text": "lambat"
+        },
+        {
+          "id": "d",
+          "text": "pilih-pilih"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Voracious = insatiable."
+    },
+    {
+      "id": "q58",
+      "text": "Idiom: 'in hot water' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "dalam masalah"
+        },
+        {
+          "id": "b",
+          "text": "bahagia"
+        },
+        {
+          "id": "c",
+          "text": "sedang mandi"
+        },
+        {
+          "id": "d",
+          "text": "sukses"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "In trouble."
+    },
+    {
+      "id": "q59",
+      "text": "Idiom: 'miss the boat' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "melewatkan kesempatan"
+        },
+        {
+          "id": "b",
+          "text": "kapal tenggelam"
+        },
+        {
+          "id": "c",
+          "text": "menang"
+        },
+        {
+          "id": "d",
+          "text": "naik kapal"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Miss an opportunity."
+    },
+    {
+      "id": "q60",
+      "text": "Pattern: 'Had it not been for her, we ___ lost.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "will have"
+        },
+        {
+          "id": "c",
+          "text": "would have"
+        },
+        {
+          "id": "d",
+          "text": "had"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Had it not been for = without."
+    },
+    {
+      "id": "q61",
+      "text": "Advanced: 'Come what may, I ___ .'",
+      "options": [
+        {
+          "id": "a",
+          "text": "would stand"
+        },
+        {
+          "id": "b",
+          "text": "stood"
+        },
+        {
+          "id": "c",
+          "text": "will stand by my decision"
+        },
+        {
+          "id": "d",
+          "text": "standing"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Come what may = whatever happens."
+    },
+    {
+      "id": "q62",
+      "text": "Vocabulary: 'prudent' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "bijaksana / hati-hati"
+        },
+        {
+          "id": "b",
+          "text": "agresif"
+        },
+        {
+          "id": "c",
+          "text": "sembrono"
+        },
+        {
+          "id": "d",
+          "text": "bodoh"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Prudent = careful/sensible."
+    },
+    {
+      "id": "q63",
+      "text": "Vocabulary: 'superfluous' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "kurang"
+        },
+        {
+          "id": "b",
+          "text": "penting"
+        },
+        {
+          "id": "c",
+          "text": "berlebihan / tidak perlu"
+        },
+        {
+          "id": "d",
+          "text": "wajib"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Superfluous = unnecessary."
+    },
+    {
+      "id": "q64",
+      "text": "Idiom: 'speak of the devil' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "orang yang dibicarakan tiba-tiba muncul"
+        },
+        {
+          "id": "b",
+          "text": "berdoa"
+        },
+        {
+          "id": "c",
+          "text": "berbicara jahat"
+        },
+        {
+          "id": "d",
+          "text": "menakut-nakuti"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Person appears when mentioned."
+    },
+    {
+      "id": "q65",
+      "text": "Idiom: 'turn a blind eye' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "sengaja mengabaikan"
+        },
+        {
+          "id": "b",
+          "text": "melihat jelas"
+        },
+        {
+          "id": "c",
+          "text": "membantu"
+        },
+        {
+          "id": "d",
+          "text": "buta"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Deliberately ignore."
+    },
+    {
+      "id": "q66",
+      "text": "Complex: 'Seldom ___ such talent.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "we see"
+        },
+        {
+          "id": "b",
+          "text": "we saw"
+        },
+        {
+          "id": "c",
+          "text": "do we see"
+        },
+        {
+          "id": "d",
+          "text": "see we"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Seldom + inversion."
+    },
+    {
+      "id": "q67",
+      "text": "Grammar: 'I'd sooner ___ than lie.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "to die"
+        },
+        {
+          "id": "b",
+          "text": "die"
+        },
+        {
+          "id": "c",
+          "text": "died"
+        },
+        {
+          "id": "d",
+          "text": "dying"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Would sooner + base verb."
+    },
+    {
+      "id": "q68",
+      "text": "Vocabulary: 'diligent' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "rajin / tekun"
+        },
+        {
+          "id": "b",
+          "text": "malas"
+        },
+        {
+          "id": "c",
+          "text": "ceroboh"
+        },
+        {
+          "id": "d",
+          "text": "cepat marah"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Diligent = hardworking."
+    },
+    {
+      "id": "q69",
+      "text": "Idiom: 'add insult to injury' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "menyelesaikan"
+        },
+        {
+          "id": "b",
+          "text": "memperburuk situasi yang sudah buruk"
+        },
+        {
+          "id": "c",
+          "text": "menghibur"
+        },
+        {
+          "id": "d",
+          "text": "memaafkan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Make bad situation worse."
+    },
+    {
+      "id": "q70",
+      "text": "Vocabulary: 'gregarious' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "penyendiri"
+        },
+        {
+          "id": "b",
+          "text": "suka bergaul / sosial"
+        },
+        {
+          "id": "c",
+          "text": "dingin"
+        },
+        {
+          "id": "d",
+          "text": "pemalu"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Gregarious = sociable."
+    }
+  ]
+}

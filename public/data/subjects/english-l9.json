@@ -1,0 +1,1205 @@
+{
+  "subjectId": "english-l9",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Lengkapi: 'The project ___ to have been completed on time.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "is said"
+        },
+        {
+          "id": "b",
+          "text": "is said to be"
+        },
+        {
+          "id": "c",
+          "text": "is said to have been"
+        },
+        {
+          "id": "d",
+          "text": "said to have"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Reporting passive + perfect infinitive: is said to have been completed."
+    },
+    {
+      "id": "q2",
+      "text": "Lengkapi: 'He is believed ___ abroad.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "live"
+        },
+        {
+          "id": "b",
+          "text": "to live"
+        },
+        {
+          "id": "c",
+          "text": "living"
+        },
+        {
+          "id": "d",
+          "text": "lived"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Passive reporting: is believed to live."
+    },
+    {
+      "id": "q3",
+      "text": "Lengkapi: 'The thief ___ seen leaving the building.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "was"
+        },
+        {
+          "id": "c",
+          "text": "has been"
+        },
+        {
+          "id": "d",
+          "text": "b dan c benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Passive: was/has been seen."
+    },
+    {
+      "id": "q4",
+      "text": "Lengkapi: 'It ___ that the company will merge next year.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "reports"
+        },
+        {
+          "id": "b",
+          "text": "is reported"
+        },
+        {
+          "id": "c",
+          "text": "reported"
+        },
+        {
+          "id": "d",
+          "text": "reporting"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Impersonal passive: It is reported that..."
+    },
+    {
+      "id": "q5",
+      "text": "Lengkapi: 'She is known ___ five languages.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "speak"
+        },
+        {
+          "id": "b",
+          "text": "to speak"
+        },
+        {
+          "id": "c",
+          "text": "speaking"
+        },
+        {
+          "id": "d",
+          "text": "spoke"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Is known to + infinitive."
+    },
+    {
+      "id": "q6",
+      "text": "Advanced passive dengan modal: 'The work ___ by Friday.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "must finish"
+        },
+        {
+          "id": "b",
+          "text": "must be finished"
+        },
+        {
+          "id": "c",
+          "text": "must been finished"
+        },
+        {
+          "id": "d",
+          "text": "must finishing"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Modal + be + past participle: must be finished."
+    },
+    {
+      "id": "q7",
+      "text": "Lengkapi: 'The letter is thought ___ yesterday.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "send"
+        },
+        {
+          "id": "b",
+          "text": "to send"
+        },
+        {
+          "id": "c",
+          "text": "to have been sent"
+        },
+        {
+          "id": "d",
+          "text": "sending"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Is thought to have been sent."
+    },
+    {
+      "id": "q8",
+      "text": "Lengkapi: 'Never ___ such a beautiful sunset.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "I have seen"
+        },
+        {
+          "id": "b",
+          "text": "have I seen"
+        },
+        {
+          "id": "c",
+          "text": "I saw"
+        },
+        {
+          "id": "d",
+          "text": "did I see"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Inversion setelah Never: Never have I seen."
+    },
+    {
+      "id": "q9",
+      "text": "Lengkapi: 'Rarely ___ he make mistakes.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "does"
+        },
+        {
+          "id": "b",
+          "text": "do"
+        },
+        {
+          "id": "c",
+          "text": "did"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Inversion: Rarely does he make mistakes."
+    },
+    {
+      "id": "q10",
+      "text": "Lengkapi: 'Not only ___ late, but he also forgot the documents.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "he was"
+        },
+        {
+          "id": "b",
+          "text": "was he"
+        },
+        {
+          "id": "c",
+          "text": "he is"
+        },
+        {
+          "id": "d",
+          "text": "is he"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Inversion setelah Not only: Not only was he late."
+    },
+    {
+      "id": "q11",
+      "text": "Lengkapi: 'Hardly ___ the door when the phone rang.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "had I closed"
+        },
+        {
+          "id": "b",
+          "text": "I had closed"
+        },
+        {
+          "id": "c",
+          "text": "I closed"
+        },
+        {
+          "id": "d",
+          "text": "did I close"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Hardly had I closed (inversion + past perfect)."
+    },
+    {
+      "id": "q12",
+      "text": "Inversion digunakan setelah kata negatif seperti...",
+      "options": [
+        {
+          "id": "a",
+          "text": "always, often"
+        },
+        {
+          "id": "b",
+          "text": "never, rarely, hardly"
+        },
+        {
+          "id": "c",
+          "text": "sometimes, usually"
+        },
+        {
+          "id": "d",
+          "text": "every, all"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Inversion setelah never, rarely, hardly, not only, dll."
+    },
+    {
+      "id": "q13",
+      "text": "Lengkapi: 'Only when she arrived ___ the problem.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "we discovered"
+        },
+        {
+          "id": "b",
+          "text": "did we discover"
+        },
+        {
+          "id": "c",
+          "text": "we discover"
+        },
+        {
+          "id": "d",
+          "text": "do we discover"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Only when + inversion: did we discover."
+    },
+    {
+      "id": "q14",
+      "text": "It-cleft: 'John broke the window.' → 'It was John ___ broke the window.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "which"
+        },
+        {
+          "id": "b",
+          "text": "who/that"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "It-cleft menekankan subjek: It was John who/that broke."
+    },
+    {
+      "id": "q15",
+      "text": "It-cleft: 'I need the report.' → 'It is the report ___ I need.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "which/that"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "It-cleft menekankan objek: It is the report that I need."
+    },
+    {
+      "id": "q16",
+      "text": "Wh-cleft: 'What I need is ___ rest.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "the"
+        },
+        {
+          "id": "c",
+          "text": "some"
+        },
+        {
+          "id": "d",
+          "text": "Semua bisa benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "What I need is (a/the/some) rest — wh-cleft."
+    },
+    {
+      "id": "q17",
+      "text": "Cleft sentence digunakan untuk...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Membuat kalimat lebih pendek"
+        },
+        {
+          "id": "b",
+          "text": "Menekankan bagian tertentu kalimat"
+        },
+        {
+          "id": "c",
+          "text": "Membuat pertanyaan"
+        },
+        {
+          "id": "d",
+          "text": "Menyatakan negatif"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Cleft sentences menekankan informasi penting."
+    },
+    {
+      "id": "q18",
+      "text": "Lengkapi: 'It was in 2020 ___ the pandemic started.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "when"
+        },
+        {
+          "id": "b",
+          "text": "that"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "a dan b benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "It was in 2020 when/that the pandemic started."
+    },
+    {
+      "id": "q19",
+      "text": "Lengkapi: 'What she wants ___ a promotion.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "was"
+        },
+        {
+          "id": "d",
+          "text": "were"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "What she wants is a promotion (wh-cleft)."
+    },
+    {
+      "id": "q20",
+      "text": "Lengkapi: '___ by the news, she started crying.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Shock"
+        },
+        {
+          "id": "b",
+          "text": "Shocked"
+        },
+        {
+          "id": "c",
+          "text": "Shocking"
+        },
+        {
+          "id": "d",
+          "text": "To shock"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Past participle clause: Shocked by the news."
+    },
+    {
+      "id": "q21",
+      "text": "Lengkapi: '___ in Jakarta, he speaks fluent Indonesian.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Born"
+        },
+        {
+          "id": "b",
+          "text": "Bearing"
+        },
+        {
+          "id": "c",
+          "text": "Borned"
+        },
+        {
+          "id": "d",
+          "text": "To bear"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Past participle: Born in Jakarta."
+    },
+    {
+      "id": "q22",
+      "text": "Lengkapi: '___ the door, he noticed a letter.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Open"
+        },
+        {
+          "id": "b",
+          "text": "Opening"
+        },
+        {
+          "id": "c",
+          "text": "Opened"
+        },
+        {
+          "id": "d",
+          "text": "To open"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Present participle (aktif): Opening the door."
+    },
+    {
+      "id": "q23",
+      "text": "Participle clause menggantikan...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hanya noun"
+        },
+        {
+          "id": "b",
+          "text": "Klausa adverbial (waktu/sebab)"
+        },
+        {
+          "id": "c",
+          "text": "Hanya objek"
+        },
+        {
+          "id": "d",
+          "text": "Hanya subjek"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Participle clause sering menggantikan klausa waktu/sebab."
+    },
+    {
+      "id": "q24",
+      "text": "Lengkapi: 'Not ___ what to do, she called for help.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "know"
+        },
+        {
+          "id": "b",
+          "text": "knowing"
+        },
+        {
+          "id": "c",
+          "text": "known"
+        },
+        {
+          "id": "d",
+          "text": "knew"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Present participle negatif: Not knowing what to do."
+    },
+    {
+      "id": "q25",
+      "text": "Lengkapi: '___ in 1990, the building needs renovation.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Build"
+        },
+        {
+          "id": "b",
+          "text": "Built"
+        },
+        {
+          "id": "c",
+          "text": "Building"
+        },
+        {
+          "id": "d",
+          "text": "To build"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Past participle (pasif): Built in 1990."
+    },
+    {
+      "id": "q26",
+      "text": "Apa bahasa Inggris untuk 'profesional'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "professional"
+        },
+        {
+          "id": "b",
+          "text": "expert"
+        },
+        {
+          "id": "c",
+          "text": "specialist"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Professional, expert, specialist terkait profesional."
+    },
+    {
+      "id": "q27",
+      "text": "Apa bahasa Inggris untuk 'deadline'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "deadline"
+        },
+        {
+          "id": "b",
+          "text": "due date"
+        },
+        {
+          "id": "c",
+          "text": "time limit"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Deadline, due date berarti batas waktu."
+    },
+    {
+      "id": "q28",
+      "text": "Apa bahasa Inggris untuk 'rapat koordinasi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "coordination meeting"
+        },
+        {
+          "id": "b",
+          "text": "briefing"
+        },
+        {
+          "id": "c",
+          "text": "sync meeting"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Coordination meeting, briefing terkait rapat koordinasi."
+    },
+    {
+      "id": "q29",
+      "text": "Apa bahasa Inggris untuk 'laporan kinerja'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "performance report"
+        },
+        {
+          "id": "b",
+          "text": "evaluation"
+        },
+        {
+          "id": "c",
+          "text": "appraisal"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Performance report, appraisal berarti laporan kinerja."
+    },
+    {
+      "id": "q30",
+      "text": "Apa bahasa Inggris untuk 'stakeholder'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "stakeholder"
+        },
+        {
+          "id": "b",
+          "text": "shareholder"
+        },
+        {
+          "id": "c",
+          "text": "partner"
+        },
+        {
+          "id": "d",
+          "text": "client"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Stakeholder berarti pemangku kepentingan."
+    },
+    {
+      "id": "q31",
+      "text": "Apa bahasa Inggris untuk 'outsource'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "outsource"
+        },
+        {
+          "id": "b",
+          "text": "delegate"
+        },
+        {
+          "id": "c",
+          "text": "subcontract"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Outsource, delegate, subcontract terkait alih daya."
+    },
+    {
+      "id": "q32",
+      "text": "Apa bahasa Inggris untuk 'merger & akuisisi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "M&A (merger and acquisition)"
+        },
+        {
+          "id": "b",
+          "text": "takeover"
+        },
+        {
+          "id": "c",
+          "text": "consolidation"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "M&A, takeover, consolidation terkait merger & akuisisi."
+    },
+    {
+      "id": "q33",
+      "text": "Apa bahasa Inggris untuk 'compliance'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "compliance"
+        },
+        {
+          "id": "b",
+          "text": "conformity"
+        },
+        {
+          "id": "c",
+          "text": "adherence"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Compliance berarti kepatuhan terhadap aturan."
+    },
+    {
+      "id": "q34",
+      "text": "Ekspresi formal: 'Saya ingin memberitahu Anda bahwa...'",
+      "options": [
+        {
+          "id": "a",
+          "text": "I would like to inform you that..."
+        },
+        {
+          "id": "b",
+          "text": "I wanna tell you..."
+        },
+        {
+          "id": "c",
+          "text": "Hey, listen..."
+        },
+        {
+          "id": "d",
+          "text": "So basically..."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "I would like to inform you that adalah ekspresi formal."
+    },
+    {
+      "id": "q35",
+      "text": "Ekspresi formal: 'Terima kasih atas perhatian Anda'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thank you for your attention"
+        },
+        {
+          "id": "b",
+          "text": "Thanks a lot"
+        },
+        {
+          "id": "c",
+          "text": "Cheers"
+        },
+        {
+          "id": "d",
+          "text": "Cool, thanks"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Thank you for your attention formal untuk penutup presentasi."
+    },
+    {
+      "id": "q36",
+      "text": "Ekspresi formal: 'Mohon konfirmasi'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Please confirm / Kindly confirm"
+        },
+        {
+          "id": "b",
+          "text": "Just let me know"
+        },
+        {
+          "id": "c",
+          "text": "Hit me up"
+        },
+        {
+          "id": "d",
+          "text": "Ping me"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Please confirm atau Kindly confirm formal."
+    },
+    {
+      "id": "q37",
+      "text": "Ekspresi formal: 'Bersama ini kami lampirkan...'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Please find attached..."
+        },
+        {
+          "id": "b",
+          "text": "Here's the file..."
+        },
+        {
+          "id": "c",
+          "text": "Check this out..."
+        },
+        {
+          "id": "d",
+          "text": "Sending you..."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Please find attached formal dalam email."
+    },
+    {
+      "id": "q38",
+      "text": "Ekspresi formal: 'Hormat kami'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yours sincerely / Respectfully"
+        },
+        {
+          "id": "b",
+          "text": "Bye"
+        },
+        {
+          "id": "c",
+          "text": "See ya"
+        },
+        {
+          "id": "d",
+          "text": "Later"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yours sincerely atau Respectfully penutup formal."
+    },
+    {
+      "id": "q39",
+      "text": "Ekspresi formal: 'Dengan hormat' (salam pembuka)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dear Sir/Madam / To whom it may concern"
+        },
+        {
+          "id": "b",
+          "text": "Hey there"
+        },
+        {
+          "id": "c",
+          "text": "What's up"
+        },
+        {
+          "id": "d",
+          "text": "Yo"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Dear Sir/Madam salam pembuka formal."
+    },
+    {
+      "id": "q40",
+      "text": "Ekspresi formal: 'Kami menyesal memberitahukan...'",
+      "options": [
+        {
+          "id": "a",
+          "text": "We regret to inform you..."
+        },
+        {
+          "id": "b",
+          "text": "Bad news..."
+        },
+        {
+          "id": "c",
+          "text": "Sorry but..."
+        },
+        {
+          "id": "d",
+          "text": "Unfortunately for you..."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "We regret to inform you formal dan sopan."
+    },
+    {
+      "id": "q41",
+      "text": "Ekspresi formal: 'Sesuai permintaan Anda'",
+      "options": [
+        {
+          "id": "a",
+          "text": "As per your request"
+        },
+        {
+          "id": "b",
+          "text": "Like you asked"
+        },
+        {
+          "id": "c",
+          "text": "You wanted this"
+        },
+        {
+          "id": "d",
+          "text": "Here you go"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "As per your request formal."
+    },
+    {
+      "id": "q42",
+      "text": "Ekspresi formal: 'Kami menantikan balasan Anda'",
+      "options": [
+        {
+          "id": "a",
+          "text": "We look forward to your reply"
+        },
+        {
+          "id": "b",
+          "text": "Get back to me"
+        },
+        {
+          "id": "c",
+          "text": "Reply ASAP"
+        },
+        {
+          "id": "d",
+          "text": "Waiting for you"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "We look forward to your reply formal."
+    },
+    {
+      "id": "q43",
+      "text": "'Break the ice' berarti...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Memecahkan es"
+        },
+        {
+          "id": "b",
+          "text": "Memulai percakapan dalam situasi canggung"
+        },
+        {
+          "id": "c",
+          "text": "Menghancurkan sesuatu"
+        },
+        {
+          "id": "d",
+          "text": "Berenang di es"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Break the ice = memecah kebekuan/memulai percakapan."
+    },
+    {
+      "id": "q44",
+      "text": "'Piece of cake' berarti...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sepotong kue"
+        },
+        {
+          "id": "b",
+          "text": "Sangat mudah"
+        },
+        {
+          "id": "c",
+          "text": "Makanan penutup"
+        },
+        {
+          "id": "d",
+          "text": "Sulit"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Piece of cake = sangat mudah."
+    },
+    {
+      "id": "q45",
+      "text": "'Hit the nail on the head' berarti...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Memukul paku"
+        },
+        {
+          "id": "b",
+          "text": "Tepat sasaran / benar sekali"
+        },
+        {
+          "id": "c",
+          "text": "Bekerja keras"
+        },
+        {
+          "id": "d",
+          "text": "Membuat kesalahan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Hit the nail on the head = tepat sasaran."
+    },
+    {
+      "id": "q46",
+      "text": "'Once in a blue moon' berarti...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Setiap bulan"
+        },
+        {
+          "id": "b",
+          "text": "Sangat jarang"
+        },
+        {
+          "id": "c",
+          "text": "Setiap malam"
+        },
+        {
+          "id": "d",
+          "text": "Sering sekali"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Once in a blue moon = sangat jarang."
+    },
+    {
+      "id": "q47",
+      "text": "'Cost an arm and a leg' berarti...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mahal sekali"
+        },
+        {
+          "id": "b",
+          "text": "Murah"
+        },
+        {
+          "id": "c",
+          "text": "Gratis"
+        },
+        {
+          "id": "d",
+          "text": "Harga sedang"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Cost an arm and a leg = sangat mahal."
+    },
+    {
+      "id": "q48",
+      "text": "'Under the weather' berarti...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Di bawah cuaca"
+        },
+        {
+          "id": "b",
+          "text": "Kurang sehat / sedang sakit"
+        },
+        {
+          "id": "c",
+          "text": "Bahagia"
+        },
+        {
+          "id": "d",
+          "text": "Di luar ruangan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Under the weather = kurang sehat."
+    },
+    {
+      "id": "q49",
+      "text": "'Bite the bullet' berarti...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menggigit peluru"
+        },
+        {
+          "id": "b",
+          "text": "Menahan sakit / menghadapi situasi sulit"
+        },
+        {
+          "id": "c",
+          "text": "Menyerah"
+        },
+        {
+          "id": "d",
+          "text": "Lari"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Bite the bullet = menahan/menghadapi situasi sulit."
+    },
+    {
+      "id": "q50",
+      "text": "'The ball is in your court' berarti...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bola ada di lapanganmu"
+        },
+        {
+          "id": "b",
+          "text": "Giliranmu untuk bertindak"
+        },
+        {
+          "id": "c",
+          "text": "Kamu kalah"
+        },
+        {
+          "id": "d",
+          "text": "Permainan selesai"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The ball is in your court = giliranmu untuk bertindak."
+    }
+  ]
+}

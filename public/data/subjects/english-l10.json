@@ -1,0 +1,1205 @@
+{
+  "subjectId": "english-l10",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Lengkapi: 'By the time we arrived, the movie ___ already ___.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "was / starting"
+        },
+        {
+          "id": "b",
+          "text": "has / started"
+        },
+        {
+          "id": "c",
+          "text": "had / started"
+        },
+        {
+          "id": "d",
+          "text": "did / start"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Past perfect: had + past participle untuk aksi sebelum aksi lain di masa lalu."
+    },
+    {
+      "id": "q2",
+      "text": "Pilih tense yang benar: 'She ___ in London since 2018.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "lived"
+        },
+        {
+          "id": "b",
+          "text": "was living"
+        },
+        {
+          "id": "c",
+          "text": "is living"
+        },
+        {
+          "id": "d",
+          "text": "has lived"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Present perfect + since untuk durasi hingga sekarang."
+    },
+    {
+      "id": "q3",
+      "text": "Lengkapi: 'I ___ my keys. I can't find them anywhere.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "lost"
+        },
+        {
+          "id": "b",
+          "text": "was losing"
+        },
+        {
+          "id": "c",
+          "text": "had lost"
+        },
+        {
+          "id": "d",
+          "text": "have lost"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Present perfect tanpa waktu spesifik — hasil masih relevan sekarang."
+    },
+    {
+      "id": "q4",
+      "text": "Manakah kalimat future perfect yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "By next year, I will have graduated."
+        },
+        {
+          "id": "b",
+          "text": "By next year, I will graduate."
+        },
+        {
+          "id": "c",
+          "text": "By next year, I graduated."
+        },
+        {
+          "id": "d",
+          "text": "By next year, I am graduating."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Future perfect: will have + past participle."
+    },
+    {
+      "id": "q5",
+      "text": "Lengkapi: 'At 8 p.m. yesterday, I ___ dinner.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "have had"
+        },
+        {
+          "id": "b",
+          "text": "had"
+        },
+        {
+          "id": "c",
+          "text": "am having"
+        },
+        {
+          "id": "d",
+          "text": "was having"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Past continuous untuk aksi yang sedang berlangsung di waktu tertentu di masa lalu."
+    },
+    {
+      "id": "q6",
+      "text": "Lengkapi: 'They ___ each other for ten years before they got married.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "knew"
+        },
+        {
+          "id": "b",
+          "text": "were knowing"
+        },
+        {
+          "id": "c",
+          "text": "have known"
+        },
+        {
+          "id": "d",
+          "text": "had known"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Past perfect untuk durasi sebelum peristiwa masa lalu lain."
+    },
+    {
+      "id": "q7",
+      "text": "Pilih bentuk yang benar: 'If I ___ you, I would apologize.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "was"
+        },
+        {
+          "id": "b",
+          "text": "be"
+        },
+        {
+          "id": "c",
+          "text": "were"
+        },
+        {
+          "id": "d",
+          "text": "am"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Second conditional: If I were you (subjunctive)."
+    },
+    {
+      "id": "q8",
+      "text": "Lengkapi: 'He said he ___ the report the day before.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "had finished"
+        },
+        {
+          "id": "b",
+          "text": "has finished"
+        },
+        {
+          "id": "c",
+          "text": "finishes"
+        },
+        {
+          "id": "d",
+          "text": "finished"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Reported speech: past perfect untuk backshift."
+    },
+    {
+      "id": "q9",
+      "text": "Manakah kalimat present perfect continuous yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She was studying all morning now."
+        },
+        {
+          "id": "b",
+          "text": "She has studied all morning and finished."
+        },
+        {
+          "id": "c",
+          "text": "She has been studying all morning."
+        },
+        {
+          "id": "d",
+          "text": "She is studying since morning."
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Present perfect continuous: has been + verb-ing."
+    },
+    {
+      "id": "q10",
+      "text": "Lengkapi: 'Water ___ at 100°C at sea level.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "has boiled"
+        },
+        {
+          "id": "b",
+          "text": "boils"
+        },
+        {
+          "id": "c",
+          "text": "is boiling"
+        },
+        {
+          "id": "d",
+          "text": "boiled"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Present simple untuk fakta ilmiah umum."
+    },
+    {
+      "id": "q11",
+      "text": "Gabungkan dengan benar: 'Although it was raining, ___'",
+      "options": [
+        {
+          "id": "a",
+          "text": "we went for a walk but"
+        },
+        {
+          "id": "b",
+          "text": "we went for a walk"
+        },
+        {
+          "id": "c",
+          "text": "but we went for a walk"
+        },
+        {
+          "id": "d",
+          "text": "however we went"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Although tidak dipasangkan dengan but dalam satu klausa."
+    },
+    {
+      "id": "q12",
+      "text": "Pilih connector yang tepat: '___ the evidence was weak, the jury acquitted him.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "So that"
+        },
+        {
+          "id": "b",
+          "text": "In order to"
+        },
+        {
+          "id": "c",
+          "text": "Because"
+        },
+        {
+          "id": "d",
+          "text": "Even though"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Even though = meskipun (kontras)."
+    },
+    {
+      "id": "q13",
+      "text": "Lengkapi: 'She studied hard; ___, she passed the exam.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "whereas"
+        },
+        {
+          "id": "b",
+          "text": "despite"
+        },
+        {
+          "id": "c",
+          "text": "although"
+        },
+        {
+          "id": "d",
+          "text": "as a result"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "As a result menunjukkan konsekuensi/logis."
+    },
+    {
+      "id": "q14",
+      "text": "Manakah kalimat complex sentence yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The book that I borrowed is fascinating."
+        },
+        {
+          "id": "b",
+          "text": "The book which I borrowed, it is fascinating."
+        },
+        {
+          "id": "c",
+          "text": "The book I borrowed, that is fascinating."
+        },
+        {
+          "id": "d",
+          "text": "The book, I borrowed is fascinating."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Relative clause terhubung dengan benar ke noun."
+    },
+    {
+      "id": "q15",
+      "text": "Pilih connector kontras: 'He is wealthy; ___, he lives modestly.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "furthermore"
+        },
+        {
+          "id": "b",
+          "text": "because"
+        },
+        {
+          "id": "c",
+          "text": "therefore"
+        },
+        {
+          "id": "d",
+          "text": "nevertheless"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Nevertheless = meskipun demikian (kontras)."
+    },
+    {
+      "id": "q16",
+      "text": "Lengkapi: 'Not only did she win, ___ she broke the record.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "as well"
+        },
+        {
+          "id": "b",
+          "text": "too"
+        },
+        {
+          "id": "c",
+          "text": "and also"
+        },
+        {
+          "id": "d",
+          "text": "but also"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Correlative: Not only ... but also."
+    },
+    {
+      "id": "q17",
+      "text": "Arti phrasal verb 'give up':",
+      "options": [
+        {
+          "id": "a",
+          "text": "menghadapi"
+        },
+        {
+          "id": "b",
+          "text": "menyerah / berhenti"
+        },
+        {
+          "id": "c",
+          "text": "memberikan"
+        },
+        {
+          "id": "d",
+          "text": "bangun"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Give up = stop trying / surrender."
+    },
+    {
+      "id": "q18",
+      "text": "Lengkapi: 'Please ___ the lights when you leave.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "turn in"
+        },
+        {
+          "id": "b",
+          "text": "turn off"
+        },
+        {
+          "id": "c",
+          "text": "turn on"
+        },
+        {
+          "id": "d",
+          "text": "turn up"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Turn off = mematikan (lampu)."
+    },
+    {
+      "id": "q19",
+      "text": "Arti 'look after':",
+      "options": [
+        {
+          "id": "a",
+          "text": "merawat / menjaga"
+        },
+        {
+          "id": "b",
+          "text": "menghindari"
+        },
+        {
+          "id": "c",
+          "text": "mencari"
+        },
+        {
+          "id": "d",
+          "text": "melihat ke belakang"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Look after = take care of."
+    },
+    {
+      "id": "q20",
+      "text": "Lengkapi: 'We need to ___ this problem immediately.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "deal with"
+        },
+        {
+          "id": "b",
+          "text": "deal off"
+        },
+        {
+          "id": "c",
+          "text": "deal in"
+        },
+        {
+          "id": "d",
+          "text": "deal out"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Deal with = menangani/mengatasi."
+    },
+    {
+      "id": "q21",
+      "text": "Arti 'run out of':",
+      "options": [
+        {
+          "id": "a",
+          "text": "menghabiskan waktu"
+        },
+        {
+          "id": "b",
+          "text": "kehabisan"
+        },
+        {
+          "id": "c",
+          "text": "lari keluar"
+        },
+        {
+          "id": "d",
+          "text": "memulai"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Run out of = habis (stok/waktu)."
+    },
+    {
+      "id": "q22",
+      "text": "Lengkapi: 'Could you ___ my request?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "look after"
+        },
+        {
+          "id": "b",
+          "text": "look into"
+        },
+        {
+          "id": "c",
+          "text": "look up to"
+        },
+        {
+          "id": "d",
+          "text": "look down"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Look into = menyelidiki/memeriksa."
+    },
+    {
+      "id": "q23",
+      "text": "Arti 'put off':",
+      "options": [
+        {
+          "id": "a",
+          "text": "menunda"
+        },
+        {
+          "id": "b",
+          "text": "mematikan"
+        },
+        {
+          "id": "c",
+          "text": "meletakkan"
+        },
+        {
+          "id": "d",
+          "text": "menghapus"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Put off = postpone."
+    },
+    {
+      "id": "q24",
+      "text": "Lengkapi: 'She finally ___ her fear of public speaking.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "got into"
+        },
+        {
+          "id": "b",
+          "text": "got up"
+        },
+        {
+          "id": "c",
+          "text": "got over"
+        },
+        {
+          "id": "d",
+          "text": "got by"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Get over = mengatasi/melewati (masalah)."
+    },
+    {
+      "id": "q25",
+      "text": "Arti idiom 'break the ice':",
+      "options": [
+        {
+          "id": "a",
+          "text": "memecahkan es"
+        },
+        {
+          "id": "b",
+          "text": "menyebabkan masalah"
+        },
+        {
+          "id": "c",
+          "text": "menang"
+        },
+        {
+          "id": "d",
+          "text": "memecah kebekuan / memulai percakapan"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Break the ice = memulai interaksi yang canggung."
+    },
+    {
+      "id": "q26",
+      "text": "Arti 'once in a blue moon':",
+      "options": [
+        {
+          "id": "a",
+          "text": "setiap bulan"
+        },
+        {
+          "id": "b",
+          "text": "di malam hari"
+        },
+        {
+          "id": "c",
+          "text": "sering"
+        },
+        {
+          "id": "d",
+          "text": "sangat jarang"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Once in a blue moon = very rarely."
+    },
+    {
+      "id": "q27",
+      "text": "Lengkapi idiom: 'Don't spill the ___.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "rice"
+        },
+        {
+          "id": "b",
+          "text": "beans"
+        },
+        {
+          "id": "c",
+          "text": "water"
+        },
+        {
+          "id": "d",
+          "text": "milk"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Spill the beans = membocorkan rahasia."
+    },
+    {
+      "id": "q28",
+      "text": "Arti 'hit the nail on the head':",
+      "options": [
+        {
+          "id": "a",
+          "text": "gagal"
+        },
+        {
+          "id": "b",
+          "text": "memukul paku"
+        },
+        {
+          "id": "c",
+          "text": "tepat sasaran / benar sekali"
+        },
+        {
+          "id": "d",
+          "text": "terburu-buru"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Hit the nail on the head = exactly right."
+    },
+    {
+      "id": "q29",
+      "text": "Arti 'under the weather':",
+      "options": [
+        {
+          "id": "a",
+          "text": "di bawah awan"
+        },
+        {
+          "id": "b",
+          "text": "kurang sehat / sedang sakit ringan"
+        },
+        {
+          "id": "c",
+          "text": "bahagia"
+        },
+        {
+          "id": "d",
+          "text": "lelah bekerja"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Under the weather = feeling slightly ill."
+    },
+    {
+      "id": "q30",
+      "text": "Lengkapi: 'The meeting is a ___ in the park.' (sangat mudah)",
+      "options": [
+        {
+          "id": "a",
+          "text": "run"
+        },
+        {
+          "id": "b",
+          "text": "climb"
+        },
+        {
+          "id": "c",
+          "text": "walk"
+        },
+        {
+          "id": "d",
+          "text": "swim"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "A walk in the park = very easy."
+    },
+    {
+      "id": "q31",
+      "text": "Arti 'cost an arm and a leg':",
+      "options": [
+        {
+          "id": "a",
+          "text": "gratis"
+        },
+        {
+          "id": "b",
+          "text": "sangat mahal"
+        },
+        {
+          "id": "c",
+          "text": "murah"
+        },
+        {
+          "id": "d",
+          "text": "berbahaya"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Cost an arm and a leg = extremely expensive."
+    },
+    {
+      "id": "q32",
+      "text": "Collocation yang benar: '___ a decision'",
+      "options": [
+        {
+          "id": "a",
+          "text": "make"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "take"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Make a decision (bukan do a decision)."
+    },
+    {
+      "id": "q33",
+      "text": "Collocation yang benar: '___ research'",
+      "options": [
+        {
+          "id": "a",
+          "text": "take"
+        },
+        {
+          "id": "b",
+          "text": "do a"
+        },
+        {
+          "id": "c",
+          "text": "make"
+        },
+        {
+          "id": "d",
+          "text": "conduct / carry out"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Conduct atau carry out research."
+    },
+    {
+      "id": "q34",
+      "text": "Collocation yang benar: '___ attention'",
+      "options": [
+        {
+          "id": "a",
+          "text": "give"
+        },
+        {
+          "id": "b",
+          "text": "do"
+        },
+        {
+          "id": "c",
+          "text": "make"
+        },
+        {
+          "id": "d",
+          "text": "pay"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Pay attention."
+    },
+    {
+      "id": "q35",
+      "text": "Collocation yang benar: '___ a mistake'",
+      "options": [
+        {
+          "id": "a",
+          "text": "do"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "make"
+        },
+        {
+          "id": "d",
+          "text": "take"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Make a mistake."
+    },
+    {
+      "id": "q36",
+      "text": "Collocation yang benar: 'heavy ___' (hujan lebat)",
+      "options": [
+        {
+          "id": "a",
+          "text": "raining"
+        },
+        {
+          "id": "b",
+          "text": "rain"
+        },
+        {
+          "id": "c",
+          "text": "rains"
+        },
+        {
+          "id": "d",
+          "text": "rained"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Heavy rain (noun phrase)."
+    },
+    {
+      "id": "q37",
+      "text": "Lengkapi: 'Despite ___ tired, she continued working.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "she was"
+        },
+        {
+          "id": "b",
+          "text": "being"
+        },
+        {
+          "id": "c",
+          "text": "be"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Despite + gerund/noun (being tired)."
+    },
+    {
+      "id": "q38",
+      "text": "Pilih kalimat dengan inversion yang benar:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Never have I seen such beauty."
+        },
+        {
+          "id": "b",
+          "text": "I never have seen such beauty never."
+        },
+        {
+          "id": "c",
+          "text": "Never I have seen such beauty."
+        },
+        {
+          "id": "d",
+          "text": "Never seen I such beauty."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Inversion setelah Never: auxiliary + subject."
+    },
+    {
+      "id": "q39",
+      "text": "Lengkapi: 'Had I known, I ___ differently.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "will act"
+        },
+        {
+          "id": "b",
+          "text": "would act"
+        },
+        {
+          "id": "c",
+          "text": "acted"
+        },
+        {
+          "id": "d",
+          "text": "would have acted"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Third conditional inverted: Had I known..."
+    },
+    {
+      "id": "q40",
+      "text": "Connector sebab-akibat: '___ it was late, we decided to leave.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Although"
+        },
+        {
+          "id": "b",
+          "text": "Despite"
+        },
+        {
+          "id": "c",
+          "text": "Since"
+        },
+        {
+          "id": "d",
+          "text": "Whereas"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Since = karena (alasan)."
+    },
+    {
+      "id": "q41",
+      "text": "Arti 'bring up' (phrasal verb):",
+      "options": [
+        {
+          "id": "a",
+          "text": "membawa ke atas"
+        },
+        {
+          "id": "b",
+          "text": "menurunkan"
+        },
+        {
+          "id": "c",
+          "text": "membesarkan / mengangkat topik"
+        },
+        {
+          "id": "d",
+          "text": "menghapus"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Bring up = raise children or raise a topic."
+    },
+    {
+      "id": "q42",
+      "text": "Arti 'figure out':",
+      "options": [
+        {
+          "id": "a",
+          "text": "memahami / menemukan solusi"
+        },
+        {
+          "id": "b",
+          "text": "keluar"
+        },
+        {
+          "id": "c",
+          "text": "menggambar"
+        },
+        {
+          "id": "d",
+          "text": "menghitung"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Figure out = solve / understand."
+    },
+    {
+      "id": "q43",
+      "text": "Lengkapi: 'The project was called ___ due to budget cuts.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "off"
+        },
+        {
+          "id": "b",
+          "text": "up"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "out"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Call off = membatalkan."
+    },
+    {
+      "id": "q44",
+      "text": "Arti 'piece of cake':",
+      "options": [
+        {
+          "id": "a",
+          "text": "sulit"
+        },
+        {
+          "id": "b",
+          "text": "kue enak"
+        },
+        {
+          "id": "c",
+          "text": "tidak mungkin"
+        },
+        {
+          "id": "d",
+          "text": "sangat mudah"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Piece of cake = very easy."
+    },
+    {
+      "id": "q45",
+      "text": "Collocation: '___ progress'",
+      "options": [
+        {
+          "id": "a",
+          "text": "do"
+        },
+        {
+          "id": "b",
+          "text": "make"
+        },
+        {
+          "id": "c",
+          "text": "take"
+        },
+        {
+          "id": "d",
+          "text": "give"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Make progress."
+    },
+    {
+      "id": "q46",
+      "text": "Lengkapi tense: 'This time tomorrow, I ___ on a beach.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "am lying"
+        },
+        {
+          "id": "b",
+          "text": "will be lying"
+        },
+        {
+          "id": "c",
+          "text": "will lie"
+        },
+        {
+          "id": "d",
+          "text": "lie"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Future continuous untuk aksi sedang berlangsung di masa depan."
+    },
+    {
+      "id": "q47",
+      "text": "Lengkapi: 'She wishes she ___ more time.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "will have"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "had"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Wish + past simple untuk keinginan masa sekarang."
+    },
+    {
+      "id": "q48",
+      "text": "Arti 'call it a day':",
+      "options": [
+        {
+          "id": "a",
+          "text": "mengakhiri pekerjaan untuk hari itu"
+        },
+        {
+          "id": "b",
+          "text": "menghubungi hari"
+        },
+        {
+          "id": "c",
+          "text": "libur panjang"
+        },
+        {
+          "id": "d",
+          "text": "memulai hari"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Call it a day = stop working for the day."
+    },
+    {
+      "id": "q49",
+      "text": "Connector penambahan: '___ , the plan needs more funding.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Unless"
+        },
+        {
+          "id": "b",
+          "text": "Moreover"
+        },
+        {
+          "id": "c",
+          "text": "Although"
+        },
+        {
+          "id": "d",
+          "text": "However"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Moreover = selain itu (penambahan)."
+    },
+    {
+      "id": "q50",
+      "text": "Lengkapi: 'No sooner had he arrived ___ it started raining.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "than"
+        },
+        {
+          "id": "b",
+          "text": "then"
+        },
+        {
+          "id": "c",
+          "text": "when"
+        },
+        {
+          "id": "d",
+          "text": "that"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "No sooner ... than (inversion)."
+    }
+  ]
+}

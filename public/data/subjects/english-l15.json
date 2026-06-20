@@ -1,0 +1,1205 @@
+{
+  "subjectId": "english-l15",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Near-native tense: 'By this time next month, I ___ here for five years.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "will have been working"
+        },
+        {
+          "id": "b",
+          "text": "work"
+        },
+        {
+          "id": "c",
+          "text": "will work"
+        },
+        {
+          "id": "d",
+          "text": "have worked"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Future perfect continuous."
+    },
+    {
+      "id": "q2",
+      "text": "Mastery: 'I ___ English for two hours when you called.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "was studying"
+        },
+        {
+          "id": "b",
+          "text": "studied"
+        },
+        {
+          "id": "c",
+          "text": "had been studying"
+        },
+        {
+          "id": "d",
+          "text": "have studied"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Past perfect continuous."
+    },
+    {
+      "id": "q3",
+      "text": "Tense nuance: 'She ___ three books this year.' (masih bisa lanjut)",
+      "options": [
+        {
+          "id": "a",
+          "text": "read"
+        },
+        {
+          "id": "b",
+          "text": "has read"
+        },
+        {
+          "id": "c",
+          "text": "reads"
+        },
+        {
+          "id": "d",
+          "text": "had read"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Present perfect for year in progress."
+    },
+    {
+      "id": "q4",
+      "text": "Advanced tense: 'This is the first time I ___ sushi.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "have eaten"
+        },
+        {
+          "id": "b",
+          "text": "ate"
+        },
+        {
+          "id": "c",
+          "text": "am eating"
+        },
+        {
+          "id": "d",
+          "text": "eat"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "This is the first time + present perfect."
+    },
+    {
+      "id": "q5",
+      "text": "Tense: 'Hardly ___ I arrived when it started.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "had"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "did"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Hardly had I arrived..."
+    },
+    {
+      "id": "q6",
+      "text": "Vocabulary level: 'ameliorate' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "memburukkan"
+        },
+        {
+          "id": "b",
+          "text": "memperbaiki / meningkatkan"
+        },
+        {
+          "id": "c",
+          "text": "menghapus"
+        },
+        {
+          "id": "d",
+          "text": "mengabaikan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Ameliorate = improve."
+    },
+    {
+      "id": "q7",
+      "text": "Vocabulary: 'perfunctory' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "sangat teliti"
+        },
+        {
+          "id": "b",
+          "text": "asal-asalan / tanpa antusiasme"
+        },
+        {
+          "id": "c",
+          "text": "antusias"
+        },
+        {
+          "id": "d",
+          "text": "profesional"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Perfunctory = done without care."
+    },
+    {
+      "id": "q8",
+      "text": "Vocabulary: 'sycophant' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "teman setia"
+        },
+        {
+          "id": "b",
+          "text": "kritikus"
+        },
+        {
+          "id": "c",
+          "text": "pemimpin"
+        },
+        {
+          "id": "d",
+          "text": "penjilat / yang suka mencari muka"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Sycophant = flatterer."
+    },
+    {
+      "id": "q9",
+      "text": "Phrasal advanced: 'fob off' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "menyelaikan dengan alasan / menipu agar pergi"
+        },
+        {
+          "id": "b",
+          "text": "membeli"
+        },
+        {
+          "id": "c",
+          "text": "memberikan hadiah"
+        },
+        {
+          "id": "d",
+          "text": "menerima"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Fob off = divert/deceive."
+    },
+    {
+      "id": "q10",
+      "text": "Phrasal: 'paper over' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "merenovasi"
+        },
+        {
+          "id": "b",
+          "text": "menulis di kertas"
+        },
+        {
+          "id": "c",
+          "text": "menghancurkan"
+        },
+        {
+          "id": "d",
+          "text": "menutupi masalah tanpa menyelesaikan"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Paper over = hide problems superficially."
+    },
+    {
+      "id": "q11",
+      "text": "Idiom advanced: 'a Pyrrhic victory' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "seri"
+        },
+        {
+          "id": "b",
+          "text": "menang tapi rugi besar"
+        },
+        {
+          "id": "c",
+          "text": "kekalahan"
+        },
+        {
+          "id": "d",
+          "text": "kemenangan mudah"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Victory at too great a cost."
+    },
+    {
+      "id": "q12",
+      "text": "Idiom: 'procrastinate' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "menolak"
+        },
+        {
+          "id": "b",
+          "text": "menunda-nunda"
+        },
+        {
+          "id": "c",
+          "text": "memimpin"
+        },
+        {
+          "id": "d",
+          "text": "bekerja cepat"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Procrastinate = delay unnecessarily."
+    },
+    {
+      "id": "q13",
+      "text": "Academic: 'notwithstanding' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "meskipun / terlepas dari"
+        },
+        {
+          "id": "b",
+          "text": "karena"
+        },
+        {
+          "id": "c",
+          "text": "selama"
+        },
+        {
+          "id": "d",
+          "text": "sehingga"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Notwithstanding = despite."
+    },
+    {
+      "id": "q14",
+      "text": "Professional: 'I am writing to ___ my resignation.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "drop"
+        },
+        {
+          "id": "b",
+          "text": "throw"
+        },
+        {
+          "id": "c",
+          "text": "tender / submit"
+        },
+        {
+          "id": "d",
+          "text": "give up casual"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Tender/submit resignation (formal)."
+    },
+    {
+      "id": "q15",
+      "text": "Nuance: 'considerable' vs 'considerate'",
+      "options": [
+        {
+          "id": "a",
+          "text": "considerable = besar/banyak; considerate = perhatian"
+        },
+        {
+          "id": "b",
+          "text": "keduanya berarti besar"
+        },
+        {
+          "id": "c",
+          "text": "sama"
+        },
+        {
+          "id": "d",
+          "text": "keduanya perasaan"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Different words, different meanings."
+    },
+    {
+      "id": "q16",
+      "text": "Context: 'literally' in modern speech often:",
+      "options": [
+        {
+          "id": "a",
+          "text": "selalu arti harfiah"
+        },
+        {
+          "id": "b",
+          "text": "sama dengan figuratively always"
+        },
+        {
+          "id": "c",
+          "text": "digunakan untuk penekanan (tidak selalu literal)"
+        },
+        {
+          "id": "d",
+          "text": "tidak pernah dipakai"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Often intensifier in informal speech."
+    },
+    {
+      "id": "q17",
+      "text": "Thinking in English: 'How do you ___ say this?' (natural expression)",
+      "options": [
+        {
+          "id": "a",
+          "text": "should to"
+        },
+        {
+          "id": "b",
+          "text": "do you"
+        },
+        {
+          "id": "c",
+          "text": "can"
+        },
+        {
+          "id": "d",
+          "text": "are"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "How do you say = natural question form."
+    },
+    {
+      "id": "q18",
+      "text": "Collocation native: '___ a meeting'",
+      "options": [
+        {
+          "id": "a",
+          "text": "make"
+        },
+        {
+          "id": "b",
+          "text": "chair / lead"
+        },
+        {
+          "id": "c",
+          "text": "take"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Chair or lead a meeting."
+    },
+    {
+      "id": "q19",
+      "text": "Professional: 'Please find ___ the revised proposal.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "put"
+        },
+        {
+          "id": "b",
+          "text": "attached / enclosed"
+        },
+        {
+          "id": "c",
+          "text": "stuck"
+        },
+        {
+          "id": "d",
+          "text": "glued"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Please find attached (business standard)."
+    },
+    {
+      "id": "q20",
+      "text": "Nuance: 'quite good' in British English often means:",
+      "options": [
+        {
+          "id": "a",
+          "text": "cukup baik / agak baik"
+        },
+        {
+          "id": "b",
+          "text": "buruk"
+        },
+        {
+          "id": "c",
+          "text": "netral tanpa arti"
+        },
+        {
+          "id": "d",
+          "text": "sangat baik sekali"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Quite can mean fairly in BrE."
+    },
+    {
+      "id": "q21",
+      "text": "Tense mastery: 'If he ___ earlier, he would be here now.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "had left"
+        },
+        {
+          "id": "b",
+          "text": "left"
+        },
+        {
+          "id": "c",
+          "text": "would leave"
+        },
+        {
+          "id": "d",
+          "text": "leaves"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Mixed conditional (past → present)."
+    },
+    {
+      "id": "q22",
+      "text": "Vocabulary: 'quintessential' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "tidak penting"
+        },
+        {
+          "id": "b",
+          "text": "paling mewakili / klasik sekali"
+        },
+        {
+          "id": "c",
+          "text": "asing"
+        },
+        {
+          "id": "d",
+          "text": "langka"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Quintessential = most typical."
+    },
+    {
+      "id": "q23",
+      "text": "Phrasal: 'shore up' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "menggali pantai"
+        },
+        {
+          "id": "b",
+          "text": "menghancurkan"
+        },
+        {
+          "id": "c",
+          "text": "menyembunyikan"
+        },
+        {
+          "id": "d",
+          "text": "mendukung / memperkuat (secara finansial/struktural)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Shore up = support/strengthen."
+    },
+    {
+      "id": "q24",
+      "text": "Idiom: 'move the goalposts' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "mengubah aturan di tengah jalan"
+        },
+        {
+          "id": "b",
+          "text": "menang sepak bola"
+        },
+        {
+          "id": "c",
+          "text": "menetapkan tujuan"
+        },
+        {
+          "id": "d",
+          "text": "bermain fair"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Change rules unfairly."
+    },
+    {
+      "id": "q25",
+      "text": "Academic: 'henceforth' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "sebelumnya"
+        },
+        {
+          "id": "b",
+          "text": "mulai sekarang / setelah ini"
+        },
+        {
+          "id": "c",
+          "text": "mungkin"
+        },
+        {
+          "id": "d",
+          "text": "kemarin"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Henceforth = from this time on."
+    },
+    {
+      "id": "q26",
+      "text": "Professional nuance: 'with all due respect' often signals:",
+      "options": [
+        {
+          "id": "a",
+          "text": "pujian murni"
+        },
+        {
+          "id": "b",
+          "text": "setuju total"
+        },
+        {
+          "id": "c",
+          "text": "permintaan maaf"
+        },
+        {
+          "id": "d",
+          "text": "akan ada ketidaksetujuan/pandangan berbeda"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Polite disagreement incoming."
+    },
+    {
+      "id": "q27",
+      "text": "Context meaning: 'It's not rocket science' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "tidak penting"
+        },
+        {
+          "id": "b",
+          "text": "sangat sulit"
+        },
+        {
+          "id": "c",
+          "text": "harus ahli roket"
+        },
+        {
+          "id": "d",
+          "text": "tidak sesulit itu"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "It's not that complicated."
+    },
+    {
+      "id": "q28",
+      "text": "Near-native: 'I could care less' (US informal) actually means:",
+      "options": [
+        {
+          "id": "a",
+          "text": "saya bisa peduli"
+        },
+        {
+          "id": "b",
+          "text": "saya tidak peduli (meski secara logika membingungkan)"
+        },
+        {
+          "id": "c",
+          "text": "saya bingung"
+        },
+        {
+          "id": "d",
+          "text": "saya sangat peduli"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "US idiom = I don't care at all."
+    },
+    {
+      "id": "q29",
+      "text": "Vocabulary: 'obfuscate' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "menyederhanakan"
+        },
+        {
+          "id": "b",
+          "text": "memperjelas"
+        },
+        {
+          "id": "c",
+          "text": "menerangkan"
+        },
+        {
+          "id": "d",
+          "text": "sengaja membingungkan / mengaburkan"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Obfuscate = deliberately confuse."
+    },
+    {
+      "id": "q30",
+      "text": "Phrasal: 'zero in on' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "memulai dari nol"
+        },
+        {
+          "id": "b",
+          "text": "menghilang"
+        },
+        {
+          "id": "c",
+          "text": "fokus pada / mengarahkan ke target"
+        },
+        {
+          "id": "d",
+          "text": "menolak"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Zero in on = focus precisely."
+    },
+    {
+      "id": "q31",
+      "text": "Idiom: 'the devil is in the details' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "kesederhanaan utama"
+        },
+        {
+          "id": "b",
+          "text": "hal rumit ada di detail kecil"
+        },
+        {
+          "id": "c",
+          "text": "iblis ada di dokumen"
+        },
+        {
+          "id": "d",
+          "text": "detail tidak penting"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Problems hide in small details."
+    },
+    {
+      "id": "q32",
+      "text": "Academic: 'a priori' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "praktis"
+        },
+        {
+          "id": "b",
+          "text": "dari teori sebelum pengalaman"
+        },
+        {
+          "id": "c",
+          "text": "setelah eksperimen"
+        },
+        {
+          "id": "d",
+          "text": "acak"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "A priori = theoretical beforehand."
+    },
+    {
+      "id": "q33",
+      "text": "Professional: 'leverage' as verb in business means:",
+      "options": [
+        {
+          "id": "a",
+          "text": "meminjam bank"
+        },
+        {
+          "id": "b",
+          "text": "memanfaatkan untuk keuntungan"
+        },
+        {
+          "id": "c",
+          "text": "menghancurkan"
+        },
+        {
+          "id": "d",
+          "text": "menaikkan berat"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Leverage = use to advantage."
+    },
+    {
+      "id": "q34",
+      "text": "Nuance: 'infamous' vs 'famous'",
+      "options": [
+        {
+          "id": "a",
+          "text": "infamous = terkenal jahat"
+        },
+        {
+          "id": "b",
+          "text": "sama"
+        },
+        {
+          "id": "c",
+          "text": "famous negatif"
+        },
+        {
+          "id": "d",
+          "text": "infamous positif"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Infamous = famous for bad."
+    },
+    {
+      "id": "q35",
+      "text": "Thinking in English: avoid saying 'I have 20 years' — better:",
+      "options": [
+        {
+          "id": "a",
+          "text": "'I am 20 years old' / 'I have lived here for 20 years'"
+        },
+        {
+          "id": "b",
+          "text": "'I am 20 years'"
+        },
+        {
+          "id": "c",
+          "text": "'Years I have 20'"
+        },
+        {
+          "id": "d",
+          "text": "'I possess 20 years'"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Age vs duration distinction."
+    },
+    {
+      "id": "q36",
+      "text": "Tense: 'It's time the government ___ something.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "does"
+        },
+        {
+          "id": "b",
+          "text": "done"
+        },
+        {
+          "id": "c",
+          "text": "did"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "It's time + past subjunctive."
+    },
+    {
+      "id": "q37",
+      "text": "Vocabulary: 'recalcitrant' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "bandel / sulit dikendalikan"
+        },
+        {
+          "id": "b",
+          "text": "lemah"
+        },
+        {
+          "id": "c",
+          "text": "patuh"
+        },
+        {
+          "id": "d",
+          "text": "ramah"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Recalcitrant = stubbornly uncooperative."
+    },
+    {
+      "id": "q38",
+      "text": "Phrasal: 'phase out' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "memulai fase"
+        },
+        {
+          "id": "b",
+          "text": "menghentikan secara bertahap"
+        },
+        {
+          "id": "c",
+          "text": "menyembunyikan"
+        },
+        {
+          "id": "d",
+          "text": "mempercepat"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Phase out = discontinue gradually."
+    },
+    {
+      "id": "q39",
+      "text": "Idiom: 'touch base' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "bertengkar"
+        },
+        {
+          "id": "b",
+          "text": "menghubungi singkat untuk update"
+        },
+        {
+          "id": "c",
+          "text": "main baseball"
+        },
+        {
+          "id": "d",
+          "text": "menyentuh dasar"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Touch base = brief contact."
+    },
+    {
+      "id": "q40",
+      "text": "Academic: 'conversely' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "misalnya"
+        },
+        {
+          "id": "b",
+          "text": "sebaliknya"
+        },
+        {
+          "id": "c",
+          "text": "karena itu"
+        },
+        {
+          "id": "d",
+          "text": "sama halnya"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Conversely = on the other hand."
+    },
+    {
+      "id": "q41",
+      "text": "Professional: 'bandwidth' in meeting context means:",
+      "options": [
+        {
+          "id": "a",
+          "text": "ukuran ruang"
+        },
+        {
+          "id": "b",
+          "text": "jumlah staf"
+        },
+        {
+          "id": "c",
+          "text": "ketersediaan waktu/kapasitas mental"
+        },
+        {
+          "id": "d",
+          "text": "kecepatan internet saja"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "No bandwidth = no capacity/time."
+    },
+    {
+      "id": "q42",
+      "text": "Nuance: 'disinterested' vs 'uninterested'",
+      "options": [
+        {
+          "id": "a",
+          "text": "disinterested = bosan"
+        },
+        {
+          "id": "b",
+          "text": "uninterested = netral"
+        },
+        {
+          "id": "c",
+          "text": "sama"
+        },
+        {
+          "id": "d",
+          "text": "disinterested = tidak berpihak; uninterested = tidak tertarik"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Important distinction."
+    },
+    {
+      "id": "q43",
+      "text": "Context: 'Let's table this discussion' — US vs UK:",
+      "options": [
+        {
+          "id": "a",
+          "text": "sama di semua negara"
+        },
+        {
+          "id": "b",
+          "text": "selalu berarti mulai"
+        },
+        {
+          "id": "c",
+          "text": "selalu berarti selesai"
+        },
+        {
+          "id": "d",
+          "text": "US: tunda; UK: bahas (ke meja)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "US/UK difference in 'table'."
+    },
+    {
+      "id": "q44",
+      "text": "Vocabulary: 'vicarious' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "langsung"
+        },
+        {
+          "id": "b",
+          "text": "fisik"
+        },
+        {
+          "id": "c",
+          "text": "merasakan melalui pengalaman orang lain"
+        },
+        {
+          "id": "d",
+          "text": "sementara"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Vicarious = experienced through another."
+    },
+    {
+      "id": "q45",
+      "text": "Phrasal: 'ramp up' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "meningkatkan secara signifikan"
+        },
+        {
+          "id": "b",
+          "text": "melambatkan"
+        },
+        {
+          "id": "c",
+          "text": "menutup"
+        },
+        {
+          "id": "d",
+          "text": "menolak"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Ramp up = increase significantly."
+    },
+    {
+      "id": "q46",
+      "text": "Idiom: 'par for the course' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "tidak wajar"
+        },
+        {
+          "id": "b",
+          "text": "skor golf"
+        },
+        {
+          "id": "c",
+          "text": "sudah biasa / wajar dalam situasi itu"
+        },
+        {
+          "id": "d",
+          "text": "luar biasa"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Par for the course = normal/expected."
+    },
+    {
+      "id": "q47",
+      "text": "Near-native: 'I appreciate you ___ this to my attention.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "bring"
+        },
+        {
+          "id": "b",
+          "text": "brought"
+        },
+        {
+          "id": "c",
+          "text": "bringing"
+        },
+        {
+          "id": "d",
+          "text": "to bring"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Appreciate + gerund (bringing)."
+    },
+    {
+      "id": "q48",
+      "text": "Academic: 'extrapolate' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "menghapus data"
+        },
+        {
+          "id": "b",
+          "text": "mengabaikan"
+        },
+        {
+          "id": "c",
+          "text": "menyimpulkan berdasarkan data terbatas"
+        },
+        {
+          "id": "d",
+          "text": "menyalin"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Extrapolate = infer from known data."
+    },
+    {
+      "id": "q49",
+      "text": "Professional: 'circle back' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "berlari melingkar"
+        },
+        {
+          "id": "b",
+          "text": "membatalkan"
+        },
+        {
+          "id": "c",
+          "text": "marah"
+        },
+        {
+          "id": "d",
+          "text": "kembali ke topik nanti"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Circle back = return to topic later."
+    },
+    {
+      "id": "q50",
+      "text": "Mastery: 'Seldom, if ever, ___ such precision.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "witnessed we"
+        },
+        {
+          "id": "b",
+          "text": "have we witnessed"
+        },
+        {
+          "id": "c",
+          "text": "we witnessed"
+        },
+        {
+          "id": "d",
+          "text": "we witness"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Formal inversion for emphasis."
+    }
+  ]
+}

@@ -1,0 +1,725 @@
+{
+  "subjectId": "english-l13",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Native expression: 'I'm beat' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "saya marah"
+        },
+        {
+          "id": "b",
+          "text": "saya sangat lelah"
+        },
+        {
+          "id": "c",
+          "text": "saya menang"
+        },
+        {
+          "id": "d",
+          "text": "saya lapar"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "I'm beat = exhausted (US informal)."
+    },
+    {
+      "id": "q2",
+      "text": "Slang: 'That's fire!' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "itu bohong"
+        },
+        {
+          "id": "b",
+          "text": "itu berbahaya"
+        },
+        {
+          "id": "c",
+          "text": "itu keren/hebat"
+        },
+        {
+          "id": "d",
+          "text": "itu panas"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Fire = excellent (slang)."
+    },
+    {
+      "id": "q3",
+      "text": "Figurative: 'Time is money' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "cepat kaya"
+        },
+        {
+          "id": "b",
+          "text": "waktu sangat berharga"
+        },
+        {
+          "id": "c",
+          "text": "waktu sama uang"
+        },
+        {
+          "id": "d",
+          "text": "kerja di bank"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Idiom: time is valuable."
+    },
+    {
+      "id": "q4",
+      "text": "Slang: 'gonna' adalah bentuk informal dari:",
+      "options": [
+        {
+          "id": "a",
+          "text": "got to"
+        },
+        {
+          "id": "b",
+          "text": "want to"
+        },
+        {
+          "id": "c",
+          "text": "going to"
+        },
+        {
+          "id": "d",
+          "text": "have to"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Gonna = going to."
+    },
+    {
+      "id": "q5",
+      "text": "Native: 'Hang in there' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "tunggu di luar"
+        },
+        {
+          "id": "b",
+          "text": "pergi dari sini"
+        },
+        {
+          "id": "c",
+          "text": "bergantung di sana"
+        },
+        {
+          "id": "d",
+          "text": "bertahan / sabar ya"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Hang in there = persevere."
+    },
+    {
+      "id": "q6",
+      "text": "Figurative: 'break a leg' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "celaka"
+        },
+        {
+          "id": "b",
+          "text": "sakit kaki"
+        },
+        {
+          "id": "c",
+          "text": "berlari cepat"
+        },
+        {
+          "id": "d",
+          "text": "semoga sukses (untuk pertunjukan)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Break a leg = good luck (theater)."
+    },
+    {
+      "id": "q7",
+      "text": "Slang: 'no cap' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "tidak bohong / serius"
+        },
+        {
+          "id": "b",
+          "text": "tanpa topi"
+        },
+        {
+          "id": "c",
+          "text": "tidak mungkin"
+        },
+        {
+          "id": "d",
+          "text": "bohong"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "No cap = no lie."
+    },
+    {
+      "id": "q8",
+      "text": "Humor/sarcasm: 'Oh, great. Another meeting.' (tone)",
+      "options": [
+        {
+          "id": "a",
+          "text": "sarkastik — tidak senang"
+        },
+        {
+          "id": "b",
+          "text": "bingung"
+        },
+        {
+          "id": "c",
+          "text": "netral"
+        },
+        {
+          "id": "d",
+          "text": "sangat antusias"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Great dengan nada datar = sarcasm."
+    },
+    {
+      "id": "q9",
+      "text": "Figurative: 'raining cats and dogs' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "hujan sangat lebat"
+        },
+        {
+          "id": "b",
+          "text": "badai salju"
+        },
+        {
+          "id": "c",
+          "text": "hewan jatuh"
+        },
+        {
+          "id": "d",
+          "text": "hujan ringan"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Raining cats and dogs = heavy rain."
+    },
+    {
+      "id": "q10",
+      "text": "Native: 'My bad' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "saya benar"
+        },
+        {
+          "id": "b",
+          "text": "saya buruk"
+        },
+        {
+          "id": "c",
+          "text": "maaf, salah saya"
+        },
+        {
+          "id": "d",
+          "text": "bukan urusan saya"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "My bad = my mistake."
+    },
+    {
+      "id": "q11",
+      "text": "Slang: 'ghosting' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "menakuti"
+        },
+        {
+          "id": "b",
+          "text": "menghilang tanpa kabar (dalam komunikasi)"
+        },
+        {
+          "id": "c",
+          "text": "memblokir media"
+        },
+        {
+          "id": "d",
+          "text": "menulis hantu"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Ghosting = suddenly stop replying."
+    },
+    {
+      "id": "q12",
+      "text": "Figurative: 'the ball is in your court' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "main tenis"
+        },
+        {
+          "id": "b",
+          "text": "keputusan wasit"
+        },
+        {
+          "id": "c",
+          "text": "giliranmu untuk bertindak"
+        },
+        {
+          "id": "d",
+          "text": "bola hilang"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Ball in your court = your turn to act."
+    },
+    {
+      "id": "q13",
+      "text": "Sarcasm: 'Yeah, right.' sering berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "bertanya"
+        },
+        {
+          "id": "b",
+          "text": "setuju penuh"
+        },
+        {
+          "id": "c",
+          "text": "tidak percaya / ironi"
+        },
+        {
+          "id": "d",
+          "text": "senang"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Yeah, right = doubtful/sarcastic."
+    },
+    {
+      "id": "q14",
+      "text": "Native: 'I'm down' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "saya menolak"
+        },
+        {
+          "id": "b",
+          "text": "saya mau / saya ikut"
+        },
+        {
+          "id": "c",
+          "text": "saya sedih"
+        },
+        {
+          "id": "d",
+          "text": "saya di bawah"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "I'm down = I'm in / willing."
+    },
+    {
+      "id": "q15",
+      "text": "Slang: 'lit' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "membosankan"
+        },
+        {
+          "id": "b",
+          "text": "seru / hebat"
+        },
+        {
+          "id": "c",
+          "text": "gelap"
+        },
+        {
+          "id": "d",
+          "text": "terbakar"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Lit = exciting (slang)."
+    },
+    {
+      "id": "q16",
+      "text": "Figurative: 'kill two birds with one stone' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "berburu"
+        },
+        {
+          "id": "b",
+          "text": "satu tindakan dua tujuan"
+        },
+        {
+          "id": "c",
+          "text": "gagal"
+        },
+        {
+          "id": "d",
+          "text": "kekerasan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "One action, two results."
+    },
+    {
+      "id": "q17",
+      "text": "Humor: deadpan delivery adalah:",
+      "options": [
+        {
+          "id": "a",
+          "text": "teriak"
+        },
+        {
+          "id": "b",
+          "text": "tertawa keras"
+        },
+        {
+          "id": "c",
+          "text": "menangis"
+        },
+        {
+          "id": "d",
+          "text": "humor datar tanpa ekspresi"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Deadpan = dry, expressionless humor."
+    },
+    {
+      "id": "q18",
+      "text": "Native: 'for real?' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "serius? / benarkah?"
+        },
+        {
+          "id": "b",
+          "text": "selamanya"
+        },
+        {
+          "id": "c",
+          "text": "untuk nyata"
+        },
+        {
+          "id": "d",
+          "text": "palsu"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "For real? = seriously?"
+    },
+    {
+      "id": "q19",
+      "text": "Slang: 'salty' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "kesal / rengginang (marah kecil)"
+        },
+        {
+          "id": "b",
+          "text": "sedih"
+        },
+        {
+          "id": "c",
+          "text": "asin"
+        },
+        {
+          "id": "d",
+          "text": "bahagia"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Salty = upset/annoyed."
+    },
+    {
+      "id": "q20",
+      "text": "Figurative: 'on thin ice' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "di atas es"
+        },
+        {
+          "id": "b",
+          "text": "olahraga"
+        },
+        {
+          "id": "c",
+          "text": "dingin sekali"
+        },
+        {
+          "id": "d",
+          "text": "dalam situasi berisiko"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "On thin ice = in danger."
+    },
+    {
+      "id": "q21",
+      "text": "Sarcasm: 'What a surprise!' (when expected)",
+      "options": [
+        {
+          "id": "a",
+          "text": "tidak mengejutkan sama sekali"
+        },
+        {
+          "id": "b",
+          "text": "pujian"
+        },
+        {
+          "id": "c",
+          "text": "sangat mengejutkan"
+        },
+        {
+          "id": "d",
+          "text": "pertanyaan"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sarcastic when outcome was obvious."
+    },
+    {
+      "id": "q22",
+      "text": "Native: 'I can't even' menunjukkan:",
+      "options": [
+        {
+          "id": "a",
+          "text": "setuju"
+        },
+        {
+          "id": "b",
+          "text": "tidak bisa menghitung"
+        },
+        {
+          "id": "c",
+          "text": "tidak bisa bicara"
+        },
+        {
+          "id": "d",
+          "text": "keterkejutan/frustrasi (tanpa kata lanjutan)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "I can't even = overwhelmed expression."
+    },
+    {
+      "id": "q23",
+      "text": "Slang: 'flex' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "menolak"
+        },
+        {
+          "id": "b",
+          "text": "pamer / menunjukkan kehebatan"
+        },
+        {
+          "id": "c",
+          "text": "olahraga"
+        },
+        {
+          "id": "d",
+          "text": "menekuk"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Flex = show off."
+    },
+    {
+      "id": "q24",
+      "text": "Figurative: 'barking up the wrong tree' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "anjing menggonggong"
+        },
+        {
+          "id": "b",
+          "text": "naik pohon"
+        },
+        {
+          "id": "c",
+          "text": "salah menyalahkan / salah arah"
+        },
+        {
+          "id": "d",
+          "text": "berhasil"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Wrong approach or blame."
+    },
+    {
+      "id": "q25",
+      "text": "Native: 'No worries' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "tidak masalah / santai saja"
+        },
+        {
+          "id": "b",
+          "text": "tidak ada kekhawatiran sama sekali di dunia"
+        },
+        {
+          "id": "c",
+          "text": "marah"
+        },
+        {
+          "id": "d",
+          "text": "tolong khawatir"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "No worries = it's fine."
+    },
+    {
+      "id": "q26",
+      "text": "Slang: 'vibe' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "musik saja"
+        },
+        {
+          "id": "b",
+          "text": "getaran fisik"
+        },
+        {
+          "id": "c",
+          "text": "suasana / kesan"
+        },
+        {
+          "id": "d",
+          "text": "cuaca"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Vibe = atmosphere/feeling."
+    },
+    {
+      "id": "q27",
+      "text": "Figurative: 'let the cat out of the bag' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "melepaskan kucing"
+        },
+        {
+          "id": "b",
+          "text": "membocorkan rahasia"
+        },
+        {
+          "id": "c",
+          "text": "berbohong"
+        },
+        {
+          "id": "d",
+          "text": "belanja"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Reveal a secret."
+    },
+    {
+      "id": "q28",
+      "text": "Sarcasm: 'Nice going!' (after a mistake)",
+      "options": [
+        {
+          "id": "a",
+          "text": "ejekan — itu salah"
+        },
+        {
+          "id": "b",
+          "text": "selamat"
+        },
+        {
+          "id": "c",
+          "text": "pujian tulus"
+        },
+        {
+          "id": "d",
+          "text": "saran"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Nice going = sarcastic after error."
+    },
+    {
+      "id": "q29",
+      "text": "Native: 'I'm all ears' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "saya bodoh"
+        },
+        {
+          "id": "b",
+          "text": "saya telinga"
+        },
+        {
+          "id": "c",
+          "text": "saya tidak peduli"
+        },
+        {
+          "id": "d",
+          "text": "saya siap mendengarkan"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "All ears = ready to listen."
+    },
+    {
+      "id": "q30",
+      "text": "Figurative: 'when pigs fly' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "saat musim dingin"
+        },
+        {
+          "id": "b",
+          "text": "tidak mungkin sekali"
+        },
+        {
+          "id": "c",
+          "text": "terbang liburan"
+        },
+        {
+          "id": "d",
+          "text": "segera"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "When pigs fly = never going to happen."
+    }
+  ]
+}

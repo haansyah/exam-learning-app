@@ -1,0 +1,1205 @@
+{
+  "subjectId": "english-l6",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Ubah ke passive: 'The chef cooks the meal.' → 'The meal ___ by the chef.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "is cooked"
+        },
+        {
+          "id": "b",
+          "text": "is cooking"
+        },
+        {
+          "id": "c",
+          "text": "cooked"
+        },
+        {
+          "id": "d",
+          "text": "was cook"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Passive present simple: is/are + past participle. The meal is cooked."
+    },
+    {
+      "id": "q2",
+      "text": "Ubah ke passive: 'They built the bridge in 1990.' → 'The bridge ___ in 1990.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "was built"
+        },
+        {
+          "id": "b",
+          "text": "is built"
+        },
+        {
+          "id": "c",
+          "text": "built"
+        },
+        {
+          "id": "d",
+          "text": "was build"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Passive past simple: was/were + past participle. Was built."
+    },
+    {
+      "id": "q3",
+      "text": "Manakah kalimat passive yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The letter was send yesterday."
+        },
+        {
+          "id": "b",
+          "text": "The letter was sent yesterday."
+        },
+        {
+          "id": "c",
+          "text": "The letter was sended yesterday."
+        },
+        {
+          "id": "d",
+          "text": "The letter is send yesterday."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Passive: was + past participle (sent, bukan send/sended)."
+    },
+    {
+      "id": "q4",
+      "text": "Lengkapi: 'English ___ all over the world.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "speaks"
+        },
+        {
+          "id": "b",
+          "text": "is spoken"
+        },
+        {
+          "id": "c",
+          "text": "spoken"
+        },
+        {
+          "id": "d",
+          "text": "is speaking"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Passive: English is spoken all over the world."
+    },
+    {
+      "id": "q5",
+      "text": "Struktur passive voice adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Subjek + verb + objek"
+        },
+        {
+          "id": "b",
+          "text": "Objek + be + past participle (+ by agent)"
+        },
+        {
+          "id": "c",
+          "text": "Subjek + be + verb-ing"
+        },
+        {
+          "id": "d",
+          "text": "Subjek + have + verb"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Passive: objek menjadi subjek + be + past participle (+ by ...)."
+    },
+    {
+      "id": "q6",
+      "text": "Lengkapi: 'The report ___ by the manager tomorrow.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "will write"
+        },
+        {
+          "id": "b",
+          "text": "will be written"
+        },
+        {
+          "id": "c",
+          "text": "will wrote"
+        },
+        {
+          "id": "d",
+          "text": "is writing"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Passive future: will be + past participle. Will be written."
+    },
+    {
+      "id": "q7",
+      "text": "Lengkapi: 'The windows ___ every week.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "clean"
+        },
+        {
+          "id": "b",
+          "text": "are cleaned"
+        },
+        {
+          "id": "c",
+          "text": "is cleaned"
+        },
+        {
+          "id": "d",
+          "text": "cleaned"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Passive present: windows (plural) → are cleaned."
+    },
+    {
+      "id": "q8",
+      "text": "Lengkapi: 'The man ___ lives next door is a doctor.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "which"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Who' untuk orang: The man who lives next door."
+    },
+    {
+      "id": "q9",
+      "text": "Lengkapi: 'The book ___ I bought is very interesting.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "which/that"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Which' atau 'that' untuk benda: The book which/that I bought."
+    },
+    {
+      "id": "q10",
+      "text": "Lengkapi: 'This is the house ___ I grew up.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "which"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Where' untuk tempat: the house where I grew up."
+    },
+    {
+      "id": "q11",
+      "text": "Lengkapi: 'The girl ___ father is a pilot is my friend.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "which"
+        },
+        {
+          "id": "c",
+          "text": "whose"
+        },
+        {
+          "id": "d",
+          "text": "that"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Whose' menunjukkan kepemilikan: The girl whose father..."
+    },
+    {
+      "id": "q12",
+      "text": "Relative pronoun 'that' dapat menggantikan...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hanya who"
+        },
+        {
+          "id": "b",
+          "text": "Who atau which"
+        },
+        {
+          "id": "c",
+          "text": "Hanya where"
+        },
+        {
+          "id": "d",
+          "text": "Hanya whose"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'That' bisa menggantikan 'who' (orang) atau 'which' (benda)."
+    },
+    {
+      "id": "q13",
+      "text": "Lengkapi: 'The restaurant ___ we had dinner was expensive.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "which/that"
+        },
+        {
+          "id": "c",
+          "text": "whose"
+        },
+        {
+          "id": "d",
+          "text": "whom"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Restaurant (benda) → which atau that."
+    },
+    {
+      "id": "q14",
+      "text": "Defining relative clause digunakan untuk...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menambah informasi tidak penting"
+        },
+        {
+          "id": "b",
+          "text": "Mengidentifikasi/menjelaskan noun yang dimaksud"
+        },
+        {
+          "id": "c",
+          "text": "Mengakhiri kalimat"
+        },
+        {
+          "id": "d",
+          "text": "Membuat pertanyaan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Defining relative clause penting untuk mengidentifikasi noun mana yang dimaksud."
+    },
+    {
+      "id": "q15",
+      "text": "Lengkapi: 'You ___ wear a seatbelt in the car.' (wajib)",
+      "options": [
+        {
+          "id": "a",
+          "text": "must/have to"
+        },
+        {
+          "id": "b",
+          "text": "might"
+        },
+        {
+          "id": "c",
+          "text": "could"
+        },
+        {
+          "id": "d",
+          "text": "may"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Must' atau 'have to' menyatakan kewajiban."
+    },
+    {
+      "id": "q16",
+      "text": "Lengkapi: 'Students ___ submit homework on time.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "must"
+        },
+        {
+          "id": "b",
+          "text": "might"
+        },
+        {
+          "id": "c",
+          "text": "could"
+        },
+        {
+          "id": "d",
+          "text": "would"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Must' = harus/wajib."
+    },
+    {
+      "id": "q17",
+      "text": "Lengkapi: 'You ___ smoke in the hospital.' (dilarang)",
+      "options": [
+        {
+          "id": "a",
+          "text": "must"
+        },
+        {
+          "id": "b",
+          "text": "mustn't"
+        },
+        {
+          "id": "c",
+          "text": "should"
+        },
+        {
+          "id": "d",
+          "text": "might"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Mustn't' = dilarang keras."
+    },
+    {
+      "id": "q18",
+      "text": "Lengkapi: 'I ___ go to work every day.' (kewajiban)",
+      "options": [
+        {
+          "id": "a",
+          "text": "have to"
+        },
+        {
+          "id": "b",
+          "text": "might"
+        },
+        {
+          "id": "c",
+          "text": "could"
+        },
+        {
+          "id": "d",
+          "text": "may"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Have to' menyatakan kewajiban eksternal."
+    },
+    {
+      "id": "q19",
+      "text": "Perbedaan 'must' dan 'have to':",
+      "options": [
+        {
+          "id": "a",
+          "text": "Must = kewajiban internal; have to = eksternal"
+        },
+        {
+          "id": "b",
+          "text": "Sama persis"
+        },
+        {
+          "id": "c",
+          "text": "Have to = larangan"
+        },
+        {
+          "id": "d",
+          "text": "Must = kemungkinan"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Must' sering kewajiban pribadi; 'have to' kewajiban aturan/eksternal."
+    },
+    {
+      "id": "q20",
+      "text": "Lengkapi: 'You ___ be at least 18 to vote.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "must"
+        },
+        {
+          "id": "b",
+          "text": "might"
+        },
+        {
+          "id": "c",
+          "text": "could"
+        },
+        {
+          "id": "d",
+          "text": "would"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Must' untuk persyaratan wajib."
+    },
+    {
+      "id": "q21",
+      "text": "Lengkapi: 'It ___ rain later. Take an umbrella.' (kemungkinan)",
+      "options": [
+        {
+          "id": "a",
+          "text": "might/may"
+        },
+        {
+          "id": "b",
+          "text": "must"
+        },
+        {
+          "id": "c",
+          "text": "have to"
+        },
+        {
+          "id": "d",
+          "text": "mustn't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Might' atau 'may' menyatakan kemungkinan."
+    },
+    {
+      "id": "q22",
+      "text": "Lengkapi: 'She ___ be at home. I'm not sure.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "might"
+        },
+        {
+          "id": "b",
+          "text": "must"
+        },
+        {
+          "id": "c",
+          "text": "have to"
+        },
+        {
+          "id": "d",
+          "text": "will"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Might' = mungkin (tidak pasti)."
+    },
+    {
+      "id": "q23",
+      "text": "Lengkapi: 'He ___ be the manager. He has the key.' (kemungkinan besar)",
+      "options": [
+        {
+          "id": "a",
+          "text": "must"
+        },
+        {
+          "id": "b",
+          "text": "might"
+        },
+        {
+          "id": "c",
+          "text": "could not"
+        },
+        {
+          "id": "d",
+          "text": "may not"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Must' dalam konteks ini = pasti/kemungkinan besar (deduksi)."
+    },
+    {
+      "id": "q24",
+      "text": "Lengkapi: 'They ___ come to the party. It's possible.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "may"
+        },
+        {
+          "id": "b",
+          "text": "must"
+        },
+        {
+          "id": "c",
+          "text": "have to"
+        },
+        {
+          "id": "d",
+          "text": "mustn't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'May' = mungkin saja (kemungkinan)."
+    },
+    {
+      "id": "q25",
+      "text": "Lengkapi: 'That ___ be true. I don't believe it.' (kemungkinan kecil)",
+      "options": [
+        {
+          "id": "a",
+          "text": "can't/couldn't"
+        },
+        {
+          "id": "b",
+          "text": "must"
+        },
+        {
+          "id": "c",
+          "text": "have to"
+        },
+        {
+          "id": "d",
+          "text": "will"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Can't' = tidak mungkin (kemungkinan sangat kecil)."
+    },
+    {
+      "id": "q26",
+      "text": "'Could' dalam 'It could rain' menyatakan...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kewajiban"
+        },
+        {
+          "id": "b",
+          "text": "Kemungkinan"
+        },
+        {
+          "id": "c",
+          "text": "Larangan"
+        },
+        {
+          "id": "d",
+          "text": "Kemampuan masa lalu"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Could' di sini menyatakan kemungkinan."
+    },
+    {
+      "id": "q27",
+      "text": "Apa bahasa Inggris untuk 'bisnis'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "business"
+        },
+        {
+          "id": "b",
+          "text": "company"
+        },
+        {
+          "id": "c",
+          "text": "enterprise"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Business, company, enterprise semuanya terkait bisnis."
+    },
+    {
+      "id": "q28",
+      "text": "Apa bahasa Inggris untuk 'rapat'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "meeting"
+        },
+        {
+          "id": "b",
+          "text": "conference"
+        },
+        {
+          "id": "c",
+          "text": "presentation"
+        },
+        {
+          "id": "d",
+          "text": "negotiation"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Meeting' berarti rapat."
+    },
+    {
+      "id": "q29",
+      "text": "Apa bahasa Inggris untuk 'kontrak'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "contract"
+        },
+        {
+          "id": "b",
+          "text": "agreement"
+        },
+        {
+          "id": "c",
+          "text": "deal"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Contract, agreement, deal terkait perjanjian bisnis."
+    },
+    {
+      "id": "q30",
+      "text": "Apa bahasa Inggris untuk 'laba'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "profit"
+        },
+        {
+          "id": "b",
+          "text": "revenue"
+        },
+        {
+          "id": "c",
+          "text": "income"
+        },
+        {
+          "id": "d",
+          "text": "earnings"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Profit' berarti laba (setelah dikurangi biaya)."
+    },
+    {
+      "id": "q31",
+      "text": "Apa bahasa Inggris untuk 'kerugian'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "loss"
+        },
+        {
+          "id": "b",
+          "text": "debt"
+        },
+        {
+          "id": "c",
+          "text": "deficit"
+        },
+        {
+          "id": "d",
+          "text": "expense"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Loss' berarti kerugian."
+    },
+    {
+      "id": "q32",
+      "text": "Apa bahasa Inggris untuk 'investasi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "investment"
+        },
+        {
+          "id": "b",
+          "text": "capital"
+        },
+        {
+          "id": "c",
+          "text": "fund"
+        },
+        {
+          "id": "d",
+          "text": "asset"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Investment' berarti investasi."
+    },
+    {
+      "id": "q33",
+      "text": "Apa bahasa Inggris untuk 'perangkat lunak'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "software"
+        },
+        {
+          "id": "b",
+          "text": "hardware"
+        },
+        {
+          "id": "c",
+          "text": "firmware"
+        },
+        {
+          "id": "d",
+          "text": "application"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Software' berarti perangkat lunak."
+    },
+    {
+      "id": "q34",
+      "text": "Apa bahasa Inggris untuk 'kecerdasan buatan'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "artificial intelligence (AI)"
+        },
+        {
+          "id": "b",
+          "text": "machine learning"
+        },
+        {
+          "id": "c",
+          "text": "automation"
+        },
+        {
+          "id": "d",
+          "text": "algorithm"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Artificial intelligence' atau 'AI' berarti kecerdasan buatan."
+    },
+    {
+      "id": "q35",
+      "text": "Apa bahasa Inggris untuk 'data'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "data"
+        },
+        {
+          "id": "b",
+          "text": "information"
+        },
+        {
+          "id": "c",
+          "text": "database"
+        },
+        {
+          "id": "d",
+          "text": "Semua terkait"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Data, information, database semuanya terkait data."
+    },
+    {
+      "id": "q36",
+      "text": "Apa bahasa Inggris untuk 'jaringan' (komputer)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "network"
+        },
+        {
+          "id": "b",
+          "text": "server"
+        },
+        {
+          "id": "c",
+          "text": "cloud"
+        },
+        {
+          "id": "d",
+          "text": "system"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Network' berarti jaringan."
+    },
+    {
+      "id": "q37",
+      "text": "Apa bahasa Inggris untuk 'keamanan siber'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "cybersecurity"
+        },
+        {
+          "id": "b",
+          "text": "encryption"
+        },
+        {
+          "id": "c",
+          "text": "firewall"
+        },
+        {
+          "id": "d",
+          "text": "Semua terkait"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Cybersecurity, encryption, firewall terkait keamanan siber."
+    },
+    {
+      "id": "q38",
+      "text": "Apa bahasa Inggris untuk 'inovasi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "innovation"
+        },
+        {
+          "id": "b",
+          "text": "invention"
+        },
+        {
+          "id": "c",
+          "text": "development"
+        },
+        {
+          "id": "d",
+          "text": "breakthrough"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Innovation' berarti inovasi."
+    },
+    {
+      "id": "q39",
+      "text": "Apa bahasa Inggris untuk 'berita'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "news"
+        },
+        {
+          "id": "b",
+          "text": "headline"
+        },
+        {
+          "id": "c",
+          "text": "report"
+        },
+        {
+          "id": "d",
+          "text": "article"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'News' berarti berita."
+    },
+    {
+      "id": "q40",
+      "text": "Apa bahasa Inggris untuk 'wartawan'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "journalist/reporter"
+        },
+        {
+          "id": "b",
+          "text": "editor"
+        },
+        {
+          "id": "c",
+          "text": "anchor"
+        },
+        {
+          "id": "d",
+          "text": "correspondent"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Journalist' atau 'reporter' berarti wartawan."
+    },
+    {
+      "id": "q41",
+      "text": "Apa bahasa Inggris untuk 'judul berita'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "headline"
+        },
+        {
+          "id": "b",
+          "text": "title"
+        },
+        {
+          "id": "c",
+          "text": "caption"
+        },
+        {
+          "id": "d",
+          "text": "subtitle"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Headline' berarti judul berita."
+    },
+    {
+      "id": "q42",
+      "text": "Apa bahasa Inggris untuk 'sumber' (berita)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "source"
+        },
+        {
+          "id": "b",
+          "text": "reference"
+        },
+        {
+          "id": "c",
+          "text": "citation"
+        },
+        {
+          "id": "d",
+          "text": "quote"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Source' berarti sumber berita."
+    },
+    {
+      "id": "q43",
+      "text": "Apa bahasa Inggris untuk 'hoax/berita palsu'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "fake news"
+        },
+        {
+          "id": "b",
+          "text": "rumor"
+        },
+        {
+          "id": "c",
+          "text": "misinformation"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Fake news, rumor, misinformation terkait berita tidak benar."
+    },
+    {
+      "id": "q44",
+      "text": "Apa bahasa Inggris untuk 'siaran langsung'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "live broadcast"
+        },
+        {
+          "id": "b",
+          "text": "streaming"
+        },
+        {
+          "id": "c",
+          "text": "coverage"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Live broadcast, streaming, coverage terkait siaran langsung."
+    },
+    {
+      "id": "q45",
+      "text": "Apa bahasa Inggris untuk 'ekonomi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "economy"
+        },
+        {
+          "id": "b",
+          "text": "economics"
+        },
+        {
+          "id": "c",
+          "text": "economic"
+        },
+        {
+          "id": "d",
+          "text": "a dan b benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "'Economy' = perekonomian; 'economics' = ilmu ekonomi."
+    },
+    {
+      "id": "q46",
+      "text": "Apa bahasa Inggris untuk 'inflasi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "inflation"
+        },
+        {
+          "id": "b",
+          "text": "deflation"
+        },
+        {
+          "id": "c",
+          "text": "stagflation"
+        },
+        {
+          "id": "d",
+          "text": "recession"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Inflation' berarti inflasi."
+    },
+    {
+      "id": "q47",
+      "text": "Apa bahasa Inggris untuk 'resesi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "recession"
+        },
+        {
+          "id": "b",
+          "text": "depression"
+        },
+        {
+          "id": "c",
+          "text": "crisis"
+        },
+        {
+          "id": "d",
+          "text": "downturn"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Recession' berarti resesi."
+    },
+    {
+      "id": "q48",
+      "text": "Apa bahasa Inggris untuk 'PDB (Produk Domestik Bruto)'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "GDP (Gross Domestic Product)"
+        },
+        {
+          "id": "b",
+          "text": "GNP"
+        },
+        {
+          "id": "c",
+          "text": "CPI"
+        },
+        {
+          "id": "d",
+          "text": "PPP"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'GDP' = Gross Domestic Product = PDB."
+    },
+    {
+      "id": "q49",
+      "text": "Apa bahasa Inggris untuk 'pasar' (ekonomi)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "market"
+        },
+        {
+          "id": "b",
+          "text": "exchange"
+        },
+        {
+          "id": "c",
+          "text": "trade"
+        },
+        {
+          "id": "d",
+          "text": "commerce"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Market' berarti pasar dalam konteks ekonomi."
+    },
+    {
+      "id": "q50",
+      "text": "Apa bahasa Inggris untuk 'keseimbangan' (ekonomi)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "balance/equilibrium"
+        },
+        {
+          "id": "b",
+          "text": "stability"
+        },
+        {
+          "id": "c",
+          "text": "harmony"
+        },
+        {
+          "id": "d",
+          "text": "adjustment"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Balance' atau 'equilibrium' berarti keseimbangan ekonomi."
+    }
+  ]
+}

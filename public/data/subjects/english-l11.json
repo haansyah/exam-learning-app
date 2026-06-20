@@ -1,0 +1,965 @@
+{
+  "subjectId": "english-l11",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Sinonim 'enormous':",
+      "options": [
+        {
+          "id": "a",
+          "text": "tiny"
+        },
+        {
+          "id": "b",
+          "text": "huge / vast"
+        },
+        {
+          "id": "c",
+          "text": "brief"
+        },
+        {
+          "id": "d",
+          "text": "narrow"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Enormous = sangat besar."
+    },
+    {
+      "id": "q2",
+      "text": "Antonim 'generous':",
+      "options": [
+        {
+          "id": "a",
+          "text": "kind"
+        },
+        {
+          "id": "b",
+          "text": "stingy / miserly"
+        },
+        {
+          "id": "c",
+          "text": "wealthy"
+        },
+        {
+          "id": "d",
+          "text": "open"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Generous lawan kata stingy."
+    },
+    {
+      "id": "q3",
+      "text": "Sinonim 'rapid':",
+      "options": [
+        {
+          "id": "a",
+          "text": "slow"
+        },
+        {
+          "id": "b",
+          "text": "calm"
+        },
+        {
+          "id": "c",
+          "text": "heavy"
+        },
+        {
+          "id": "d",
+          "text": "quick / fast"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Rapid = cepat."
+    },
+    {
+      "id": "q4",
+      "text": "Antonim 'ancient':",
+      "options": [
+        {
+          "id": "a",
+          "text": "old"
+        },
+        {
+          "id": "b",
+          "text": "modern / new"
+        },
+        {
+          "id": "c",
+          "text": "aged"
+        },
+        {
+          "id": "d",
+          "text": "historic"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Ancient = kuno; lawannya modern."
+    },
+    {
+      "id": "q5",
+      "text": "Pilih pasangan sinonim terdekat: 'meticulous'",
+      "options": [
+        {
+          "id": "a",
+          "text": "careless"
+        },
+        {
+          "id": "b",
+          "text": "lazy"
+        },
+        {
+          "id": "c",
+          "text": "quick"
+        },
+        {
+          "id": "d",
+          "text": "careful / thorough"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Meticulous = sangat teliti."
+    },
+    {
+      "id": "q6",
+      "text": "Antonim 'transparent':",
+      "options": [
+        {
+          "id": "a",
+          "text": "honest"
+        },
+        {
+          "id": "b",
+          "text": "opaque"
+        },
+        {
+          "id": "c",
+          "text": "clear"
+        },
+        {
+          "id": "d",
+          "text": "obvious"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Transparent lawan opaque."
+    },
+    {
+      "id": "q7",
+      "text": "Sinonim 'diminish':",
+      "options": [
+        {
+          "id": "a",
+          "text": "expand"
+        },
+        {
+          "id": "b",
+          "text": "maintain"
+        },
+        {
+          "id": "c",
+          "text": "reduce / decrease"
+        },
+        {
+          "id": "d",
+          "text": "increase"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Diminish = berkurang."
+    },
+    {
+      "id": "q8",
+      "text": "Antonim 'optimistic':",
+      "options": [
+        {
+          "id": "a",
+          "text": "hopeful"
+        },
+        {
+          "id": "b",
+          "text": "pessimistic"
+        },
+        {
+          "id": "c",
+          "text": "cheerful"
+        },
+        {
+          "id": "d",
+          "text": "positive"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Optimistic vs pessimistic."
+    },
+    {
+      "id": "q9",
+      "text": "Bentuk noun dari 'decide':",
+      "options": [
+        {
+          "id": "a",
+          "text": "decision"
+        },
+        {
+          "id": "b",
+          "text": "decisive"
+        },
+        {
+          "id": "c",
+          "text": "deciding"
+        },
+        {
+          "id": "d",
+          "text": "decidedly"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Decide → decision."
+    },
+    {
+      "id": "q10",
+      "text": "Bentuk adjective dari 'success':",
+      "options": [
+        {
+          "id": "a",
+          "text": "succeed"
+        },
+        {
+          "id": "b",
+          "text": "succession"
+        },
+        {
+          "id": "c",
+          "text": "successful"
+        },
+        {
+          "id": "d",
+          "text": "successfully"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Success → successful."
+    },
+    {
+      "id": "q11",
+      "text": "Bentuk verb dari 'strength':",
+      "options": [
+        {
+          "id": "a",
+          "text": "strengthen"
+        },
+        {
+          "id": "b",
+          "text": "strongly"
+        },
+        {
+          "id": "c",
+          "text": "strengthened"
+        },
+        {
+          "id": "d",
+          "text": "strong"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Strength → strengthen."
+    },
+    {
+      "id": "q12",
+      "text": "Bentuk adverb dari 'quick':",
+      "options": [
+        {
+          "id": "a",
+          "text": "quickest"
+        },
+        {
+          "id": "b",
+          "text": "quickness"
+        },
+        {
+          "id": "c",
+          "text": "quicken"
+        },
+        {
+          "id": "d",
+          "text": "quickly"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Quick → quickly."
+    },
+    {
+      "id": "q13",
+      "text": "Bentuk noun dari 'develop':",
+      "options": [
+        {
+          "id": "a",
+          "text": "developed"
+        },
+        {
+          "id": "b",
+          "text": "developer"
+        },
+        {
+          "id": "c",
+          "text": "developing"
+        },
+        {
+          "id": "d",
+          "text": "development"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Develop → development."
+    },
+    {
+      "id": "q14",
+      "text": "Prefix 'un-' pada 'happy' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "kurang bahagia"
+        },
+        {
+          "id": "b",
+          "text": "tidak bahagia (unhappy)"
+        },
+        {
+          "id": "c",
+          "text": "bahagia lagi"
+        },
+        {
+          "id": "d",
+          "text": "sangat bahagia"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Un- = negasi."
+    },
+    {
+      "id": "q15",
+      "text": "Prefix 'pre-' pada 'view' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "setelah"
+        },
+        {
+          "id": "b",
+          "text": "pratinjau (sebelum ditampilkan)"
+        },
+        {
+          "id": "c",
+          "text": "tanpa"
+        },
+        {
+          "id": "d",
+          "text": "ulang"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Pre- = before."
+    },
+    {
+      "id": "q16",
+      "text": "Suffix '-less' pada 'hope' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "harapan"
+        },
+        {
+          "id": "b",
+          "text": "penuh harapan"
+        },
+        {
+          "id": "c",
+          "text": "tanpa harapan (hopeless)"
+        },
+        {
+          "id": "d",
+          "text": "berharap"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "-less = without."
+    },
+    {
+      "id": "q17",
+      "text": "Suffix '-ful' pada 'care' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "tanpa perhatian"
+        },
+        {
+          "id": "b",
+          "text": "mengurus"
+        },
+        {
+          "id": "c",
+          "text": "perawatan"
+        },
+        {
+          "id": "d",
+          "text": "penuh perhatian (careful)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "-ful = full of."
+    },
+    {
+      "id": "q18",
+      "text": "Arti prefix 'mis-' pada 'understand':",
+      "options": [
+        {
+          "id": "a",
+          "text": "salah paham (misunderstand)"
+        },
+        {
+          "id": "b",
+          "text": "tidak paham sama sekali"
+        },
+        {
+          "id": "c",
+          "text": "paham"
+        },
+        {
+          "id": "d",
+          "text": "paham sebagian"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Mis- = wrongly."
+    },
+    {
+      "id": "q19",
+      "text": "Arti suffix '-tion' pada 'educate':",
+      "options": [
+        {
+          "id": "a",
+          "text": "mendidik"
+        },
+        {
+          "id": "b",
+          "text": "terdidik"
+        },
+        {
+          "id": "c",
+          "text": "pendidik"
+        },
+        {
+          "id": "d",
+          "text": "pendidikan (education)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "-tion membentuk noun."
+    },
+    {
+      "id": "q20",
+      "text": "'Big' vs 'large' — nuansa:",
+      "options": [
+        {
+          "id": "a",
+          "text": "big tidak bisa untuk abstrak"
+        },
+        {
+          "id": "b",
+          "text": "sama persis"
+        },
+        {
+          "id": "c",
+          "text": "large lebih formal/netral; big lebih umum/sehari-hari"
+        },
+        {
+          "id": "d",
+          "text": "large selalu fisik"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Large sedikit lebih formal."
+    },
+    {
+      "id": "q21",
+      "text": "'House' vs 'home' — nuansa:",
+      "options": [
+        {
+          "id": "a",
+          "text": "house lebih emosional"
+        },
+        {
+          "id": "b",
+          "text": "home hanya apartemen"
+        },
+        {
+          "id": "c",
+          "text": "home menekankan tempat tinggal/perasaan; house bangunan fisik"
+        },
+        {
+          "id": "d",
+          "text": "sama persis"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Home = emotional dwelling."
+    },
+    {
+      "id": "q22",
+      "text": "'See' vs 'watch' — nuansa:",
+      "options": [
+        {
+          "id": "a",
+          "text": "watch tidak bisa matahari"
+        },
+        {
+          "id": "b",
+          "text": "watch lebih aktif/berdurasi; see lebih pasif/sekilas"
+        },
+        {
+          "id": "c",
+          "text": "sama persis"
+        },
+        {
+          "id": "d",
+          "text": "see selalu TV"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Watch = deliberate viewing."
+    },
+    {
+      "id": "q23",
+      "text": "'Job' vs 'career' — nuansa:",
+      "options": [
+        {
+          "id": "a",
+          "text": "career jalur profesional jangka panjang; job pekerjaan spesifik"
+        },
+        {
+          "id": "b",
+          "text": "job lebih formal"
+        },
+        {
+          "id": "c",
+          "text": "career hanya guru"
+        },
+        {
+          "id": "d",
+          "text": "sama persis"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Career = long-term path."
+    },
+    {
+      "id": "q24",
+      "text": "'Skinny' vs 'slim' — nuansa:",
+      "options": [
+        {
+          "id": "a",
+          "text": "skinny cenderung negatif; slim lebih netral/positif"
+        },
+        {
+          "id": "b",
+          "text": "slim selalu negatif"
+        },
+        {
+          "id": "c",
+          "text": "skinny formal"
+        },
+        {
+          "id": "d",
+          "text": "sama persis"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Slim = politely thin."
+    },
+    {
+      "id": "q25",
+      "text": "Sinonim 'purchase':",
+      "options": [
+        {
+          "id": "a",
+          "text": "buy"
+        },
+        {
+          "id": "b",
+          "text": "sell"
+        },
+        {
+          "id": "c",
+          "text": "borrow"
+        },
+        {
+          "id": "d",
+          "text": "rent"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Purchase = buy (lebih formal)."
+    },
+    {
+      "id": "q26",
+      "text": "Antonim 'permit':",
+      "options": [
+        {
+          "id": "a",
+          "text": "enable"
+        },
+        {
+          "id": "b",
+          "text": "grant"
+        },
+        {
+          "id": "c",
+          "text": "allow"
+        },
+        {
+          "id": "d",
+          "text": "forbid / prohibit"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Permit lawan forbid."
+    },
+    {
+      "id": "q27",
+      "text": "Bentuk adjective dari 'beauty':",
+      "options": [
+        {
+          "id": "a",
+          "text": "beautifully"
+        },
+        {
+          "id": "b",
+          "text": "beautiful"
+        },
+        {
+          "id": "c",
+          "text": "beautify"
+        },
+        {
+          "id": "d",
+          "text": "beauteous"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Beauty → beautiful."
+    },
+    {
+      "id": "q28",
+      "text": "Bentuk noun dari 'achieve':",
+      "options": [
+        {
+          "id": "a",
+          "text": "achieving"
+        },
+        {
+          "id": "b",
+          "text": "achiever"
+        },
+        {
+          "id": "c",
+          "text": "achievable"
+        },
+        {
+          "id": "d",
+          "text": "achievement"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Achieve → achievement."
+    },
+    {
+      "id": "q29",
+      "text": "Prefix 're-' pada 'write':",
+      "options": [
+        {
+          "id": "a",
+          "text": "menulis pertama kali"
+        },
+        {
+          "id": "b",
+          "text": "menulis bersama"
+        },
+        {
+          "id": "c",
+          "text": "tidak menulis"
+        },
+        {
+          "id": "d",
+          "text": "menulis ulang (rewrite)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Re- = again."
+    },
+    {
+      "id": "q30",
+      "text": "Suffix '-able' pada 'read':",
+      "options": [
+        {
+          "id": "a",
+          "text": "pembaca"
+        },
+        {
+          "id": "b",
+          "text": "bacaan"
+        },
+        {
+          "id": "c",
+          "text": "sedang membaca"
+        },
+        {
+          "id": "d",
+          "text": "dapat dibaca (readable)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "-able = can be done."
+    },
+    {
+      "id": "q31",
+      "text": "Nuance: 'famous' vs 'notorious'",
+      "options": [
+        {
+          "id": "a",
+          "text": "notorious terkenal karena hal negatif"
+        },
+        {
+          "id": "b",
+          "text": "sama artinya"
+        },
+        {
+          "id": "c",
+          "text": "notorious positif"
+        },
+        {
+          "id": "d",
+          "text": "famous selalu negatif"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Notorious = famous for bad reasons."
+    },
+    {
+      "id": "q32",
+      "text": "Nuance: 'cheap' vs 'inexpensive'",
+      "options": [
+        {
+          "id": "a",
+          "text": "sama persis"
+        },
+        {
+          "id": "b",
+          "text": "inexpensive negatif"
+        },
+        {
+          "id": "c",
+          "text": "inexpensive lebih sopan/netral"
+        },
+        {
+          "id": "d",
+          "text": "cheap selalu positif"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Cheap bisa negatif (low quality)."
+    },
+    {
+      "id": "q33",
+      "text": "Sinonim 'commence':",
+      "options": [
+        {
+          "id": "a",
+          "text": "pause"
+        },
+        {
+          "id": "b",
+          "text": "delay"
+        },
+        {
+          "id": "c",
+          "text": "end"
+        },
+        {
+          "id": "d",
+          "text": "begin / start"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Commence = begin (formal)."
+    },
+    {
+      "id": "q34",
+      "text": "Antonim 'expand':",
+      "options": [
+        {
+          "id": "a",
+          "text": "enlarge"
+        },
+        {
+          "id": "b",
+          "text": "extend"
+        },
+        {
+          "id": "c",
+          "text": "contract / shrink"
+        },
+        {
+          "id": "d",
+          "text": "grow"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Expand lawan shrink."
+    },
+    {
+      "id": "q35",
+      "text": "Bentuk verb dari 'simple':",
+      "options": [
+        {
+          "id": "a",
+          "text": "simplistic"
+        },
+        {
+          "id": "b",
+          "text": "simply"
+        },
+        {
+          "id": "c",
+          "text": "simplification"
+        },
+        {
+          "id": "d",
+          "text": "simplify"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Simple → simplify."
+    },
+    {
+      "id": "q36",
+      "text": "Prefix 'over-' pada 'work':",
+      "options": [
+        {
+          "id": "a",
+          "text": "tidak bekerja"
+        },
+        {
+          "id": "b",
+          "text": "bekerja terlalu keras (overwork)"
+        },
+        {
+          "id": "c",
+          "text": "bekerja lagi"
+        },
+        {
+          "id": "d",
+          "text": "bekerja kurang"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Over- = too much."
+    },
+    {
+      "id": "q37",
+      "text": "Nuance: 'childish' vs 'childlike'",
+      "options": [
+        {
+          "id": "a",
+          "text": "childlike negatif"
+        },
+        {
+          "id": "b",
+          "text": "sama artinya"
+        },
+        {
+          "id": "c",
+          "text": "childish positif"
+        },
+        {
+          "id": "d",
+          "text": "childish negatif (kekanak-kanakan); childlike positif (polos)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Childish = immature; childlike = innocent."
+    },
+    {
+      "id": "q38",
+      "text": "Sinonim 'assist':",
+      "options": [
+        {
+          "id": "a",
+          "text": "help"
+        },
+        {
+          "id": "b",
+          "text": "ignore"
+        },
+        {
+          "id": "c",
+          "text": "refuse"
+        },
+        {
+          "id": "d",
+          "text": "hinder"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Assist = help (formal)."
+    },
+    {
+      "id": "q39",
+      "text": "Bentuk noun dari 'inform':",
+      "options": [
+        {
+          "id": "a",
+          "text": "informative"
+        },
+        {
+          "id": "b",
+          "text": "information"
+        },
+        {
+          "id": "c",
+          "text": "informed"
+        },
+        {
+          "id": "d",
+          "text": "informer"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Inform → information."
+    },
+    {
+      "id": "q40",
+      "text": "Sinonim 'abundant':",
+      "options": [
+        {
+          "id": "a",
+          "text": "limited"
+        },
+        {
+          "id": "b",
+          "text": "rare"
+        },
+        {
+          "id": "c",
+          "text": "scarce"
+        },
+        {
+          "id": "d",
+          "text": "plentiful / ample"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Abundant = banyak/berlimpah."
+    }
+  ]
+}

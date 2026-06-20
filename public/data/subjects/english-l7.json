@@ -1,0 +1,1205 @@
+{
+  "subjectId": "english-l7",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Lengkapi: 'If it rains tomorrow, we ___ the picnic.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "cancel"
+        },
+        {
+          "id": "b",
+          "text": "will cancel"
+        },
+        {
+          "id": "c",
+          "text": "would cancel"
+        },
+        {
+          "id": "d",
+          "text": "cancelled"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "First conditional: If + present simple, will + verb. Kondisi nyata di masa depan."
+    },
+    {
+      "id": "q2",
+      "text": "Manakah kalimat first conditional yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If I will study, I pass."
+        },
+        {
+          "id": "b",
+          "text": "If I study, I will pass."
+        },
+        {
+          "id": "c",
+          "text": "If I studied, I will pass."
+        },
+        {
+          "id": "d",
+          "text": "If I study, I would pass."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "First conditional: If + present, will + verb 1."
+    },
+    {
+      "id": "q3",
+      "text": "First conditional digunakan untuk...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Situasi tidak mungkin di masa sekarang"
+        },
+        {
+          "id": "b",
+          "text": "Kemungkinan nyata di masa depan"
+        },
+        {
+          "id": "c",
+          "text": "Penyesalan masa lalu"
+        },
+        {
+          "id": "d",
+          "text": "Kebiasaan masa lalu"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "First conditional untuk kondisi yang mungkin terjadi di masa depan."
+    },
+    {
+      "id": "q4",
+      "text": "Lengkapi: 'If you ___ hard, you will succeed.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "worked"
+        },
+        {
+          "id": "b",
+          "text": "work"
+        },
+        {
+          "id": "c",
+          "text": "would work"
+        },
+        {
+          "id": "d",
+          "text": "had worked"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Klausa if dalam first conditional memakai present simple: work."
+    },
+    {
+      "id": "q5",
+      "text": "Lengkapi: 'She will call you if she ___ time.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "had"
+        },
+        {
+          "id": "c",
+          "text": "will have"
+        },
+        {
+          "id": "d",
+          "text": "would have"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "If-clause present simple: if she has time."
+    },
+    {
+      "id": "q6",
+      "text": "Lengkapi: 'If they don't hurry, they ___ the train.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "miss"
+        },
+        {
+          "id": "b",
+          "text": "will miss"
+        },
+        {
+          "id": "c",
+          "text": "would miss"
+        },
+        {
+          "id": "d",
+          "text": "missed"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Main clause: will miss."
+    },
+    {
+      "id": "q7",
+      "text": "Lengkapi: 'If I ___ rich, I would travel the world.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "am"
+        },
+        {
+          "id": "b",
+          "text": "was/were"
+        },
+        {
+          "id": "c",
+          "text": "will be"
+        },
+        {
+          "id": "d",
+          "text": "had been"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Second conditional: If + past simple, would + verb."
+    },
+    {
+      "id": "q8",
+      "text": "Manakah kalimat second conditional yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If I win the lottery, I buy a house."
+        },
+        {
+          "id": "b",
+          "text": "If I won the lottery, I would buy a house."
+        },
+        {
+          "id": "c",
+          "text": "If I had won, I would buy a house."
+        },
+        {
+          "id": "d",
+          "text": "If I win, I would buy a house."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Second conditional: If + past, would + verb 1."
+    },
+    {
+      "id": "q9",
+      "text": "Second conditional menyatakan...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kemungkinan nyata masa depan"
+        },
+        {
+          "id": "b",
+          "text": "Situasi hipotetis/tidak nyata di masa sekarang"
+        },
+        {
+          "id": "c",
+          "text": "Penyesalan masa lalu"
+        },
+        {
+          "id": "d",
+          "text": "Fakta umum"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Second conditional untuk situasi imajiner atau tidak nyata saat ini."
+    },
+    {
+      "id": "q10",
+      "text": "Lengkapi: 'If she ___ here, she would help us.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "was/were"
+        },
+        {
+          "id": "c",
+          "text": "will be"
+        },
+        {
+          "id": "d",
+          "text": "has been"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "If-clause past simple: If she were here."
+    },
+    {
+      "id": "q11",
+      "text": "Lengkapi: 'I would buy a car if I ___ enough money.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "had"
+        },
+        {
+          "id": "c",
+          "text": "will have"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "If-clause: had (past simple)."
+    },
+    {
+      "id": "q12",
+      "text": "Lengkapi: 'What would you do if you ___ president?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "were"
+        },
+        {
+          "id": "c",
+          "text": "will be"
+        },
+        {
+          "id": "d",
+          "text": "had been"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Hipotetis: If you were president."
+    },
+    {
+      "id": "q13",
+      "text": "Lengkapi: 'If I ___ harder, I would have passed the exam.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "study"
+        },
+        {
+          "id": "b",
+          "text": "studied"
+        },
+        {
+          "id": "c",
+          "text": "had studied"
+        },
+        {
+          "id": "d",
+          "text": "would study"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Third conditional: If + past perfect, would have + past participle."
+    },
+    {
+      "id": "q14",
+      "text": "Manakah kalimat third conditional yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If I knew, I would tell you."
+        },
+        {
+          "id": "b",
+          "text": "If I had known, I would have told you."
+        },
+        {
+          "id": "c",
+          "text": "If I know, I will tell you."
+        },
+        {
+          "id": "d",
+          "text": "If I had known, I would tell you."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Third conditional: If + had + pp, would have + pp."
+    },
+    {
+      "id": "q15",
+      "text": "Third conditional digunakan untuk...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Masa depan"
+        },
+        {
+          "id": "b",
+          "text": "Masa sekarang hipotetis"
+        },
+        {
+          "id": "c",
+          "text": "Penyesalan tentang masa lalu yang tidak bisa diubah"
+        },
+        {
+          "id": "d",
+          "text": "Kebiasaan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Third conditional untuk situasi masa lalu yang sudah lewat dan tidak bisa diubah."
+    },
+    {
+      "id": "q16",
+      "text": "Lengkapi: 'She would have arrived on time if she ___ the early train.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "takes"
+        },
+        {
+          "id": "b",
+          "text": "took"
+        },
+        {
+          "id": "c",
+          "text": "had taken"
+        },
+        {
+          "id": "d",
+          "text": "would take"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "If-clause past perfect: had taken."
+    },
+    {
+      "id": "q17",
+      "text": "Lengkapi: 'If they had left earlier, they ___ the traffic.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "avoid"
+        },
+        {
+          "id": "b",
+          "text": "avoided"
+        },
+        {
+          "id": "c",
+          "text": "would have avoided"
+        },
+        {
+          "id": "d",
+          "text": "would avoid"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Main clause: would have avoided."
+    },
+    {
+      "id": "q18",
+      "text": "Lengkapi: 'If I ___ you, I would have apologized.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "am"
+        },
+        {
+          "id": "b",
+          "text": "were"
+        },
+        {
+          "id": "c",
+          "text": "had been"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Third conditional: If I had been you = jika saya jadi kamu."
+    },
+    {
+      "id": "q19",
+      "text": "Mixed conditional menggabungkan...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dua klausa present"
+        },
+        {
+          "id": "b",
+          "text": "Waktu berbeda di klausa if dan main clause"
+        },
+        {
+          "id": "c",
+          "text": "Hanya masa lalu"
+        },
+        {
+          "id": "d",
+          "text": "Hanya masa depan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Mixed conditional: klausa if dan main clause bisa merujuk waktu berbeda."
+    },
+    {
+      "id": "q20",
+      "text": "Lengkapi: 'If I ___ English as a child, I would speak it fluently now.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "learn"
+        },
+        {
+          "id": "b",
+          "text": "learned"
+        },
+        {
+          "id": "c",
+          "text": "had learned"
+        },
+        {
+          "id": "d",
+          "text": "would learn"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Past condition, present result: If I had learned... I would speak now."
+    },
+    {
+      "id": "q21",
+      "text": "Lengkapi: 'If she were more careful, she ___ the accident yesterday.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "won't have"
+        },
+        {
+          "id": "b",
+          "text": "wouldn't have had"
+        },
+        {
+          "id": "c",
+          "text": "doesn't have"
+        },
+        {
+          "id": "d",
+          "text": "hadn't had"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Present condition, past result: wouldn't have had."
+    },
+    {
+      "id": "q22",
+      "text": "Manakah mixed conditional yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If I studied, I would have passed."
+        },
+        {
+          "id": "b",
+          "text": "If I had studied, I would pass now."
+        },
+        {
+          "id": "c",
+          "text": "If I study, I will pass."
+        },
+        {
+          "id": "d",
+          "text": "If I studied, I pass."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Past if-clause + present result: If I had studied, I would pass now."
+    },
+    {
+      "id": "q23",
+      "text": "Lengkapi: 'If he ___ a better job now, he would have moved to the city years ago.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "had"
+        },
+        {
+          "id": "c",
+          "text": "had had"
+        },
+        {
+          "id": "d",
+          "text": "would have"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Present unreal condition: If he had a better job now..."
+    },
+    {
+      "id": "q24",
+      "text": "Mixed conditional type 2→3 berarti...",
+      "options": [
+        {
+          "id": "a",
+          "text": "If masa lalu, hasil sekarang"
+        },
+        {
+          "id": "b",
+          "text": "If sekarang, hasil masa lalu"
+        },
+        {
+          "id": "c",
+          "text": "If masa depan, hasil sekarang"
+        },
+        {
+          "id": "d",
+          "text": "If sekarang, hasil masa depan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Type 2→3: kondisi tidak nyata sekarang, hasil di masa lalu."
+    },
+    {
+      "id": "q25",
+      "text": "Lengkapi: 'If I ___ more time now, I would have finished the project last week.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "had"
+        },
+        {
+          "id": "c",
+          "text": "had had"
+        },
+        {
+          "id": "d",
+          "text": "will have"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Present unreal: If I had more time now..."
+    },
+    {
+      "id": "q26",
+      "text": "Apa bahasa Inggris untuk 'karier'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "career"
+        },
+        {
+          "id": "b",
+          "text": "job"
+        },
+        {
+          "id": "c",
+          "text": "profession"
+        },
+        {
+          "id": "d",
+          "text": "Semua terkait"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Career, job, profession semuanya terkait karier."
+    },
+    {
+      "id": "q27",
+      "text": "Apa bahasa Inggris untuk 'promosi' (jabatan)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "promotion"
+        },
+        {
+          "id": "b",
+          "text": "raise"
+        },
+        {
+          "id": "c",
+          "text": "advancement"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Promotion, raise, advancement terkait kenaikan karier."
+    },
+    {
+      "id": "q28",
+      "text": "Apa bahasa Inggris untuk 'wawancara kerja'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "job interview"
+        },
+        {
+          "id": "b",
+          "text": "application"
+        },
+        {
+          "id": "c",
+          "text": "resume/CV"
+        },
+        {
+          "id": "d",
+          "text": "reference"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Job interview berarti wawancara kerja."
+    },
+    {
+      "id": "q29",
+      "text": "Apa bahasa Inggris untuk 'pengalaman kerja'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "work experience"
+        },
+        {
+          "id": "b",
+          "text": "internship"
+        },
+        {
+          "id": "c",
+          "text": "training"
+        },
+        {
+          "id": "d",
+          "text": "qualification"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Work experience berarti pengalaman kerja."
+    },
+    {
+      "id": "q30",
+      "text": "Apa bahasa Inggris untuk 'resign/mengundurkan diri'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "resign"
+        },
+        {
+          "id": "b",
+          "text": "quit"
+        },
+        {
+          "id": "c",
+          "text": "retire"
+        },
+        {
+          "id": "d",
+          "text": "a dan b benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Resign dan quit berarti mengundurkan diri."
+    },
+    {
+      "id": "q31",
+      "text": "Apa bahasa Inggris untuk 'networking'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "networking"
+        },
+        {
+          "id": "b",
+          "text": "connection"
+        },
+        {
+          "id": "c",
+          "text": "contact"
+        },
+        {
+          "id": "d",
+          "text": "Semua terkait"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Networking, connection, contact terkait jejaring profesional."
+    },
+    {
+      "id": "q32",
+      "text": "Apa bahasa Inggris untuk 'keuangan'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "finance/financial"
+        },
+        {
+          "id": "b",
+          "text": "budget"
+        },
+        {
+          "id": "c",
+          "text": "accounting"
+        },
+        {
+          "id": "d",
+          "text": "banking"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Finance berarti keuangan."
+    },
+    {
+      "id": "q33",
+      "text": "Apa bahasa Inggris untuk 'anggaran'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "budget"
+        },
+        {
+          "id": "b",
+          "text": "forecast"
+        },
+        {
+          "id": "c",
+          "text": "allocation"
+        },
+        {
+          "id": "d",
+          "text": "expenditure"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Budget berarti anggaran."
+    },
+    {
+      "id": "q34",
+      "text": "Apa bahasa Inggris untuk 'pajak'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "tax"
+        },
+        {
+          "id": "b",
+          "text": "duty"
+        },
+        {
+          "id": "c",
+          "text": "tariff"
+        },
+        {
+          "id": "d",
+          "text": "levy"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Tax berarti pajak."
+    },
+    {
+      "id": "q35",
+      "text": "Apa bahasa Inggris untuk 'aset'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "asset"
+        },
+        {
+          "id": "b",
+          "text": "liability"
+        },
+        {
+          "id": "c",
+          "text": "equity"
+        },
+        {
+          "id": "d",
+          "text": "capital"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Asset berarti aset."
+    },
+    {
+      "id": "q36",
+      "text": "Apa bahasa Inggris untuk 'kewajiban/utang' (akuntansi)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "liability"
+        },
+        {
+          "id": "b",
+          "text": "debt"
+        },
+        {
+          "id": "c",
+          "text": "obligation"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Liability, debt, obligation terkait kewajiban finansial."
+    },
+    {
+      "id": "q37",
+      "text": "Apa bahasa Inggris untuk 'bunga (bank)'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "interest"
+        },
+        {
+          "id": "b",
+          "text": "rate"
+        },
+        {
+          "id": "c",
+          "text": "dividend"
+        },
+        {
+          "id": "d",
+          "text": "yield"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Interest berarti bunga bank/pinjaman."
+    },
+    {
+      "id": "q38",
+      "text": "Apa bahasa Inggris untuk 'politik'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "politics"
+        },
+        {
+          "id": "b",
+          "text": "policy"
+        },
+        {
+          "id": "c",
+          "text": "political"
+        },
+        {
+          "id": "d",
+          "text": "a dan c benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Politics = politik; political = politik (sifat)."
+    },
+    {
+      "id": "q39",
+      "text": "Apa bahasa Inggris untuk 'pemilih'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "voter"
+        },
+        {
+          "id": "b",
+          "text": "candidate"
+        },
+        {
+          "id": "c",
+          "text": "constituent"
+        },
+        {
+          "id": "d",
+          "text": "electorate"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Voter berarti pemilih."
+    },
+    {
+      "id": "q40",
+      "text": "Apa bahasa Inggris untuk 'pemilihan umum'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "election"
+        },
+        {
+          "id": "b",
+          "text": "campaign"
+        },
+        {
+          "id": "c",
+          "text": "ballot"
+        },
+        {
+          "id": "d",
+          "text": "referendum"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Election berarti pemilihan umum."
+    },
+    {
+      "id": "q41",
+      "text": "Apa bahasa Inggris untuk 'partai politik'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "political party"
+        },
+        {
+          "id": "b",
+          "text": "coalition"
+        },
+        {
+          "id": "c",
+          "text": "opposition"
+        },
+        {
+          "id": "d",
+          "text": "majority"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Political party berarti partai politik."
+    },
+    {
+      "id": "q42",
+      "text": "Apa bahasa Inggris untuk 'demokrasi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "democracy"
+        },
+        {
+          "id": "b",
+          "text": "republic"
+        },
+        {
+          "id": "c",
+          "text": "monarchy"
+        },
+        {
+          "id": "d",
+          "text": "dictatorship"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Democracy berarti demokrasi."
+    },
+    {
+      "id": "q43",
+      "text": "Apa bahasa Inggris untuk 'kebijakan'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "policy"
+        },
+        {
+          "id": "b",
+          "text": "politics"
+        },
+        {
+          "id": "c",
+          "text": "regulation"
+        },
+        {
+          "id": "d",
+          "text": "legislation"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Policy berarti kebijakan."
+    },
+    {
+      "id": "q44",
+      "text": "Apa bahasa Inggris untuk 'oposisi' (politik)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "opposition"
+        },
+        {
+          "id": "b",
+          "text": "coalition"
+        },
+        {
+          "id": "c",
+          "text": "majority"
+        },
+        {
+          "id": "d",
+          "text": "minority"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Opposition berarti oposisi."
+    },
+    {
+      "id": "q45",
+      "text": "Apa bahasa Inggris untuk 'isu global'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "global issue"
+        },
+        {
+          "id": "b",
+          "text": "worldwide problem"
+        },
+        {
+          "id": "c",
+          "text": "international concern"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Global issue, worldwide problem terkait isu global."
+    },
+    {
+      "id": "q46",
+      "text": "Apa bahasa Inggris untuk 'kemiskinan'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "poverty"
+        },
+        {
+          "id": "b",
+          "text": "inequality"
+        },
+        {
+          "id": "c",
+          "text": "hunger"
+        },
+        {
+          "id": "d",
+          "text": "deprivation"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Poverty berarti kemiskinan."
+    },
+    {
+      "id": "q47",
+      "text": "Apa bahasa Inggris untuk 'hak asasi manusia'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "human rights"
+        },
+        {
+          "id": "b",
+          "text": "civil rights"
+        },
+        {
+          "id": "c",
+          "text": "freedom"
+        },
+        {
+          "id": "d",
+          "text": "justice"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Human rights berarti hak asasi manusia."
+    },
+    {
+      "id": "q48",
+      "text": "Apa bahasa Inggris untuk 'pengungsi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "refugee"
+        },
+        {
+          "id": "b",
+          "text": "migrant"
+        },
+        {
+          "id": "c",
+          "text": "asylum seeker"
+        },
+        {
+          "id": "d",
+          "text": "displaced person"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Refugee berarti pengungsi."
+    },
+    {
+      "id": "q49",
+      "text": "Apa bahasa Inggris untuk 'bencana alam'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "natural disaster"
+        },
+        {
+          "id": "b",
+          "text": "catastrophe"
+        },
+        {
+          "id": "c",
+          "text": "emergency"
+        },
+        {
+          "id": "d",
+          "text": "crisis"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Natural disaster berarti bencana alam."
+    },
+    {
+      "id": "q50",
+      "text": "Apa bahasa Inggris untuk 'kerja sama internasional'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "international cooperation"
+        },
+        {
+          "id": "b",
+          "text": "global partnership"
+        },
+        {
+          "id": "c",
+          "text": "multilateralism"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "International cooperation, global partnership terkait kerja sama internasional."
+    }
+  ]
+}

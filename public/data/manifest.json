@@ -46,5 +46,101 @@
     "passThreshold": 70,
     "questionFile": "subjects/english-l3.json",
     "category": "bahasa"
+  },
+  {
+    "id": "english-l4",
+    "name": "Bahasa Inggris Level 4",
+    "description": "Intermediate 1 — Countable/Uncountable Nouns, Some/Any/Much/Many, Present Perfect, Since & For. Kosakata: kesehatan, belanja, uang, restoran.",
+    "passThreshold": 70,
+    "questionFile": "subjects/english-l4.json",
+    "category": "bahasa"
+  },
+  {
+    "id": "english-l5",
+    "name": "Bahasa Inggris Level 5",
+    "description": "Intermediate 2 — Present Perfect Continuous, Past Continuous, Used To, Gerunds & Infinitives. Kosakata: media sosial, perjalanan, lingkungan, budaya.",
+    "passThreshold": 70,
+    "questionFile": "subjects/english-l5.json",
+    "category": "bahasa"
+  },
+  {
+    "id": "english-l6",
+    "name": "Bahasa Inggris Level 6",
+    "description": "Intermediate 3 — Passive Voice, Relative Clauses, Modals of Obligation & Possibility. Kosakata: bisnis, teknologi, berita, ekonomi.",
+    "passThreshold": 70,
+    "questionFile": "subjects/english-l6.json",
+    "category": "bahasa"
+  },
+  {
+    "id": "english-l7",
+    "name": "Bahasa Inggris Level 7",
+    "description": "Upper Intermediate 1 — First/Second/Third/Mixed Conditional. Kosakata: karier, keuangan, politik, global issues.",
+    "passThreshold": 70,
+    "questionFile": "subjects/english-l7.json",
+    "category": "bahasa"
+  },
+  {
+    "id": "english-l8",
+    "name": "Bahasa Inggris Level 8",
+    "description": "Upper Intermediate 2 — Reported Speech, Causative, Wish & If Only. Kosakata: akademik, penelitian, hukum, pemerintahan.",
+    "passThreshold": 70,
+    "questionFile": "subjects/english-l8.json",
+    "category": "bahasa"
+  },
+  {
+    "id": "english-l9",
+    "name": "Bahasa Inggris Level 9",
+    "description": "Upper Intermediate 3 — Advanced Passive, Inversion, Cleft Sentences, Participle Clauses. Kosakata: profesional, formal & idiomatic expressions.",
+    "passThreshold": 70,
+    "questionFile": "subjects/english-l9.json",
+    "category": "bahasa"
+  },
+  {
+    "id": "english-l10",
+    "name": "Bahasa Inggris Level 10 — Fluent 1",
+    "description": "Fluent 1 — Review seluruh tenses, Complex Sentences, Advanced Connectors. Kosakata: 300 Phrasal Verbs, 300 Idioms, Advanced Collocations.",
+    "passThreshold": 70,
+    "questionFile": "subjects/english-l10.json",
+    "category": "bahasa"
+  },
+  {
+    "id": "english-l11",
+    "name": "Bahasa Inggris Level 11 — Fluent 2",
+    "description": "Fluent 2 — Synonyms & Antonyms, Word Formation, Prefixes & Suffixes, Nuance of Meaning.",
+    "passThreshold": 70,
+    "questionFile": "subjects/english-l11.json",
+    "category": "bahasa"
+  },
+  {
+    "id": "english-l12",
+    "name": "Bahasa Inggris Level 12 — Fluent 3",
+    "description": "Fluent 3 — Formal vs Informal English, Academic Vocabulary, Business Vocabulary, Technical Vocabulary.",
+    "passThreshold": 70,
+    "questionFile": "subjects/english-l12.json",
+    "category": "bahasa"
+  },
+  {
+    "id": "english-l13",
+    "name": "Bahasa Inggris Level 13 — Fluent 4",
+    "description": "Fluent 4 — Native Expressions, Slang, Figurative Language, Humor & Sarcasm.",
+    "passThreshold": 70,
+    "questionFile": "subjects/english-l13.json",
+    "category": "bahasa"
+  },
+  {
+    "id": "english-l14",
+    "name": "Bahasa Inggris Level 14 — Fluent 5",
+    "description": "Fluent 5 — Advanced Grammar Review, Complex Sentence Patterns, Advanced Vocabulary Expansion, Idiomatic Mastery.",
+    "passThreshold": 70,
+    "questionFile": "subjects/english-l14.json",
+    "category": "bahasa"
+  },
+  {
+    "id": "english-l15",
+    "name": "Bahasa Inggris Level 15 — Fluent 6 (Near Native)",
+    "description": "Near Native — Mastery of all English Tenses, Advanced Vocabulary, Idioms & Phrasal Verbs tingkat lanjut, Academic & Professional English, Nuance and Contextual Meaning, Thinking Directly in English.",
+    "passThreshold": 70,
+    "questionFile": "subjects/english-l15.json",
+    "category": "bahasa"
   }
 ]

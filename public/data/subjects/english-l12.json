@@ -1,0 +1,1445 @@
+{
+  "subjectId": "english-l12",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Formal: 'I am writing to ___ about...'",
+      "options": [
+        {
+          "id": "a",
+          "text": "ask around"
+        },
+        {
+          "id": "b",
+          "text": "inquire"
+        },
+        {
+          "id": "c",
+          "text": "check out"
+        },
+        {
+          "id": "d",
+          "text": "hit up"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Inquire = ask (formal)."
+    },
+    {
+      "id": "q2",
+      "text": "Informal: 'Can you ___ me a favor?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "render"
+        },
+        {
+          "id": "b",
+          "text": "perform"
+        },
+        {
+          "id": "c",
+          "text": "execute"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Do me a favor (informal/casual)."
+    },
+    {
+      "id": "q3",
+      "text": "Formal pengganti 'get':",
+      "options": [
+        {
+          "id": "a",
+          "text": "obtain / receive"
+        },
+        {
+          "id": "b",
+          "text": "pick up"
+        },
+        {
+          "id": "c",
+          "text": "snag"
+        },
+        {
+          "id": "d",
+          "text": "grab"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Obtain lebih formal dari get."
+    },
+    {
+      "id": "q4",
+      "text": "Informal: 'That's ___ cool!'",
+      "options": [
+        {
+          "id": "a",
+          "text": "undoubtedly"
+        },
+        {
+          "id": "b",
+          "text": "indeed"
+        },
+        {
+          "id": "c",
+          "text": "really / so"
+        },
+        {
+          "id": "d",
+          "text": "certainly"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Really/so untuk penekanan informal."
+    },
+    {
+      "id": "q5",
+      "text": "Formal: 'We ___ your prompt response.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "gotta have"
+        },
+        {
+          "id": "b",
+          "text": "need bad"
+        },
+        {
+          "id": "c",
+          "text": "would appreciate"
+        },
+        {
+          "id": "d",
+          "text": "really want"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Would appreciate = formal request."
+    },
+    {
+      "id": "q6",
+      "text": "Informal pengganti 'children':",
+      "options": [
+        {
+          "id": "a",
+          "text": "kids"
+        },
+        {
+          "id": "b",
+          "text": "offspring"
+        },
+        {
+          "id": "c",
+          "text": "juveniles"
+        },
+        {
+          "id": "d",
+          "text": "minors"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kids = informal."
+    },
+    {
+      "id": "q7",
+      "text": "Formal: 'Please ___ the attached document.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "find / refer to"
+        },
+        {
+          "id": "b",
+          "text": "peep"
+        },
+        {
+          "id": "c",
+          "text": "check out"
+        },
+        {
+          "id": "d",
+          "text": "look at"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Refer to/find enclosed (formal)."
+    },
+    {
+      "id": "q8",
+      "text": "Academic: 'The results ___ that further study is needed.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "show big time"
+        },
+        {
+          "id": "b",
+          "text": "suggest / indicate"
+        },
+        {
+          "id": "c",
+          "text": "say"
+        },
+        {
+          "id": "d",
+          "text": "prove for sure"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Suggest/indicate = hedging akademik."
+    },
+    {
+      "id": "q9",
+      "text": "Academic: 'This study ___ previous research.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "ignores totally"
+        },
+        {
+          "id": "b",
+          "text": "copies"
+        },
+        {
+          "id": "c",
+          "text": "builds on / extends"
+        },
+        {
+          "id": "d",
+          "text": "steals from"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Builds on = melanjutkan penelitian."
+    },
+    {
+      "id": "q10",
+      "text": "Arti 'hypothesis' (akademik):",
+      "options": [
+        {
+          "id": "a",
+          "text": "fakta"
+        },
+        {
+          "id": "b",
+          "text": "opini pribadi"
+        },
+        {
+          "id": "c",
+          "text": "kesimpulan pasti"
+        },
+        {
+          "id": "d",
+          "text": "hipotesis / dugaan ilmiah yang diuji"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Hypothesis = proposed explanation to test."
+    },
+    {
+      "id": "q11",
+      "text": "Arti 'methodology':",
+      "options": [
+        {
+          "id": "a",
+          "text": "metodologi / cara penelitian"
+        },
+        {
+          "id": "b",
+          "text": "hasil penelitian"
+        },
+        {
+          "id": "c",
+          "text": "abstrak"
+        },
+        {
+          "id": "d",
+          "text": "judul"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Methodology = research methods."
+    },
+    {
+      "id": "q12",
+      "text": "Academic: 'The data ___ analyzed using SPSS.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "are being"
+        },
+        {
+          "id": "b",
+          "text": "was"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "were"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Data plural dalam akademik (were)."
+    },
+    {
+      "id": "q13",
+      "text": "Arti 'peer-reviewed':",
+      "options": [
+        {
+          "id": "a",
+          "text": "ditulis teman"
+        },
+        {
+          "id": "b",
+          "text": "ditinjau oleh ahli sebidang"
+        },
+        {
+          "id": "c",
+          "text": "dipublikasikan online"
+        },
+        {
+          "id": "d",
+          "text": "diulas media"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Peer-reviewed = expert review."
+    },
+    {
+      "id": "q14",
+      "text": "Business: 'We need to ___ our market share.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "jack up random"
+        },
+        {
+          "id": "b",
+          "text": "blow up"
+        },
+        {
+          "id": "c",
+          "text": "get more of"
+        },
+        {
+          "id": "d",
+          "text": "increase / expand"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Increase market share."
+    },
+    {
+      "id": "q15",
+      "text": "Business: 'The deal fell ___ at the last minute.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "down"
+        },
+        {
+          "id": "b",
+          "text": "through"
+        },
+        {
+          "id": "c",
+          "text": "off"
+        },
+        {
+          "id": "d",
+          "text": "over"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Fall through = gagal (kesepakatan)."
+    },
+    {
+      "id": "q16",
+      "text": "Arti 'ROI' (business):",
+      "options": [
+        {
+          "id": "a",
+          "text": "Risk of Investment"
+        },
+        {
+          "id": "b",
+          "text": "Rate of Interest"
+        },
+        {
+          "id": "c",
+          "text": "Revenue on Income"
+        },
+        {
+          "id": "d",
+          "text": "Return on Investment"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "ROI = Return on Investment."
+    },
+    {
+      "id": "q17",
+      "text": "Business: 'Let's ___ the meeting to next week.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "postpone / reschedule"
+        },
+        {
+          "id": "b",
+          "text": "kill"
+        },
+        {
+          "id": "c",
+          "text": "skip out"
+        },
+        {
+          "id": "d",
+          "text": "dump"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Postpone = menunda rapat."
+    },
+    {
+      "id": "q18",
+      "text": "Arti 'stakeholder':",
+      "options": [
+        {
+          "id": "a",
+          "text": "pemegang saham saja"
+        },
+        {
+          "id": "b",
+          "text": "karyawan saja"
+        },
+        {
+          "id": "c",
+          "text": "kompetitor"
+        },
+        {
+          "id": "d",
+          "text": "pihak yang berkepentingan"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Stakeholder = interested party."
+    },
+    {
+      "id": "q19",
+      "text": "Business: 'We are looking for a ___ solution.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "cost-effective / scalable"
+        },
+        {
+          "id": "b",
+          "text": "random"
+        },
+        {
+          "id": "c",
+          "text": "okay enough"
+        },
+        {
+          "id": "d",
+          "text": "cheap-ish"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Cost-effective = efisien biaya."
+    },
+    {
+      "id": "q20",
+      "text": "Arti 'bottom line' (bisnis):",
+      "options": [
+        {
+          "id": "a",
+          "text": "laba bersih / inti masalah"
+        },
+        {
+          "id": "b",
+          "text": "gaji minimum"
+        },
+        {
+          "id": "c",
+          "text": "footer dokumen"
+        },
+        {
+          "id": "d",
+          "text": "baris terbawah"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Bottom line = net profit or main point."
+    },
+    {
+      "id": "q21",
+      "text": "Technical: 'The server is ___ .'",
+      "options": [
+        {
+          "id": "a",
+          "text": "broken dead"
+        },
+        {
+          "id": "b",
+          "text": "sleeping"
+        },
+        {
+          "id": "c",
+          "text": "down / offline"
+        },
+        {
+          "id": "d",
+          "text": "gone"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Server down/offline."
+    },
+    {
+      "id": "q22",
+      "text": "Arti 'bandwidth' (teknis):",
+      "options": [
+        {
+          "id": "a",
+          "text": "kecepatan prosesor"
+        },
+        {
+          "id": "b",
+          "text": "kapasitas transmisi data / ketersediaan waktu"
+        },
+        {
+          "id": "c",
+          "text": "lebar pita fisik"
+        },
+        {
+          "id": "d",
+          "text": "ukuran file"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Bandwidth = data capacity or availability."
+    },
+    {
+      "id": "q23",
+      "text": "Technical: 'Please ___ the latest version.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "deploy / install"
+        },
+        {
+          "id": "b",
+          "text": "put in"
+        },
+        {
+          "id": "c",
+          "text": "slap"
+        },
+        {
+          "id": "d",
+          "text": "throw on"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Deploy/install (technical)."
+    },
+    {
+      "id": "q24",
+      "text": "Arti 'debug':",
+      "options": [
+        {
+          "id": "a",
+          "text": "menghapus program"
+        },
+        {
+          "id": "b",
+          "text": "membuat bug"
+        },
+        {
+          "id": "c",
+          "text": "menguji kecepatan"
+        },
+        {
+          "id": "d",
+          "text": "menemukan dan memperbaiki bug"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Debug = fix errors in code."
+    },
+    {
+      "id": "q25",
+      "text": "Technical: 'The API returns a 404 ___ .'",
+      "options": [
+        {
+          "id": "a",
+          "text": "error / status"
+        },
+        {
+          "id": "b",
+          "text": "mistake random"
+        },
+        {
+          "id": "c",
+          "text": "bug only"
+        },
+        {
+          "id": "d",
+          "text": "crash always"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "404 = not found status."
+    },
+    {
+      "id": "q26",
+      "text": "Arti 'latency':",
+      "options": [
+        {
+          "id": "a",
+          "text": "daya prosesor"
+        },
+        {
+          "id": "b",
+          "text": "ukuran memori"
+        },
+        {
+          "id": "c",
+          "text": "jeda waktu / delay jaringan"
+        },
+        {
+          "id": "d",
+          "text": "kecepatan maksimum"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Latency = delay."
+    },
+    {
+      "id": "q27",
+      "text": "Formal vs informal: 'I regret to inform you'",
+      "options": [
+        {
+          "id": "a",
+          "text": "slang"
+        },
+        {
+          "id": "b",
+          "text": "formal — menyampaikan kabar buruk"
+        },
+        {
+          "id": "c",
+          "text": "informal"
+        },
+        {
+          "id": "d",
+          "text": "sarkasme"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Regret to inform = formal bad news."
+    },
+    {
+      "id": "q28",
+      "text": "Academic: 'Furthermore' digunakan untuk:",
+      "options": [
+        {
+          "id": "a",
+          "text": "contoh"
+        },
+        {
+          "id": "b",
+          "text": "kesimpulan saja"
+        },
+        {
+          "id": "c",
+          "text": "kontras"
+        },
+        {
+          "id": "d",
+          "text": "menambahkan argumen/poin"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Furthermore = in addition (formal)."
+    },
+    {
+      "id": "q29",
+      "text": "Business email pembuka formal:",
+      "options": [
+        {
+          "id": "a",
+          "text": "What's up,"
+        },
+        {
+          "id": "b",
+          "text": "Hey there,"
+        },
+        {
+          "id": "c",
+          "text": "Dear Mr./Ms. [Name],"
+        },
+        {
+          "id": "d",
+          "text": "Yo,"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Dear + title = formal."
+    },
+    {
+      "id": "q30",
+      "text": "Arti 'quarterly report':",
+      "options": [
+        {
+          "id": "a",
+          "text": "laporan harian"
+        },
+        {
+          "id": "b",
+          "text": "laporan tahunan"
+        },
+        {
+          "id": "c",
+          "text": "laporan triwulanan"
+        },
+        {
+          "id": "d",
+          "text": "laporan mingguan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Quarterly = every three months."
+    },
+    {
+      "id": "q31",
+      "text": "Technical: 'back up' (data) berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "mengompres"
+        },
+        {
+          "id": "b",
+          "text": "menghapus"
+        },
+        {
+          "id": "c",
+          "text": "mencadangkan data"
+        },
+        {
+          "id": "d",
+          "text": "mundur"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Back up = create a copy for safety."
+    },
+    {
+      "id": "q32",
+      "text": "Academic: 'et al.' singkatan dari:",
+      "options": [
+        {
+          "id": "a",
+          "text": "et all"
+        },
+        {
+          "id": "b",
+          "text": "etcetera always"
+        },
+        {
+          "id": "c",
+          "text": "et alii (and others)"
+        },
+        {
+          "id": "d",
+          "text": "and later"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Et al. = and others (citations)."
+    },
+    {
+      "id": "q33",
+      "text": "Business: 'synergy' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "sinergi / manfaat gabungan"
+        },
+        {
+          "id": "b",
+          "text": "konflik"
+        },
+        {
+          "id": "c",
+          "text": "kerugian"
+        },
+        {
+          "id": "d",
+          "text": "persaingan"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Synergy = combined benefit."
+    },
+    {
+      "id": "q34",
+      "text": "Formal: 'I would be ___ if you could...'",
+      "options": [
+        {
+          "id": "a",
+          "text": "hyped"
+        },
+        {
+          "id": "b",
+          "text": "psyched"
+        },
+        {
+          "id": "c",
+          "text": "grateful / obliged"
+        },
+        {
+          "id": "d",
+          "text": "stoked"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Grateful = formal thanks."
+    },
+    {
+      "id": "q35",
+      "text": "Informal: 'What's ___ ?' (greeting)",
+      "options": [
+        {
+          "id": "a",
+          "text": "occurring"
+        },
+        {
+          "id": "b",
+          "text": "happening formal"
+        },
+        {
+          "id": "c",
+          "text": "transpiring"
+        },
+        {
+          "id": "d",
+          "text": "up"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "What's up = casual greeting."
+    },
+    {
+      "id": "q36",
+      "text": "Academic: 'correlation' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "korelasi / hubungan statistik"
+        },
+        {
+          "id": "b",
+          "text": "identik"
+        },
+        {
+          "id": "c",
+          "text": "sebab pasti"
+        },
+        {
+          "id": "d",
+          "text": "tidak terkait"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Correlation ≠ causation."
+    },
+    {
+      "id": "q37",
+      "text": "Technical: 'open source' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "gratis selalu"
+        },
+        {
+          "id": "b",
+          "text": "tanpa dukungan"
+        },
+        {
+          "id": "c",
+          "text": "hanya Linux"
+        },
+        {
+          "id": "d",
+          "text": "kode sumber terbuka untuk umum"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Open source = publicly available code."
+    },
+    {
+      "id": "q38",
+      "text": "Business: 'cash flow' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "utang"
+        },
+        {
+          "id": "b",
+          "text": "laba kotor"
+        },
+        {
+          "id": "c",
+          "text": "arus kas"
+        },
+        {
+          "id": "d",
+          "text": "aset tetap"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Cash flow = money in and out."
+    },
+    {
+      "id": "q39",
+      "text": "Arti 'scalable' (tech/business):",
+      "options": [
+        {
+          "id": "a",
+          "text": "kecil"
+        },
+        {
+          "id": "b",
+          "text": "statis"
+        },
+        {
+          "id": "c",
+          "text": "dapat ditingkatkan kapasitasnya"
+        },
+        {
+          "id": "d",
+          "text": "murah"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Scalable = can grow in capacity."
+    },
+    {
+      "id": "q40",
+      "text": "Formal: 'We ___ receipt of your email.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "snagged"
+        },
+        {
+          "id": "b",
+          "text": "received ya"
+        },
+        {
+          "id": "c",
+          "text": "acknowledge"
+        },
+        {
+          "id": "d",
+          "text": "got"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Acknowledge receipt = formal."
+    },
+    {
+      "id": "q41",
+      "text": "Academic: 'literature review' adalah:",
+      "options": [
+        {
+          "id": "a",
+          "text": "tinjauan pustaka"
+        },
+        {
+          "id": "b",
+          "text": "kutipan acak"
+        },
+        {
+          "id": "c",
+          "text": "ulasan buku fiksi"
+        },
+        {
+          "id": "d",
+          "text": "ringkasan novel"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Literature review = survey of research."
+    },
+    {
+      "id": "q42",
+      "text": "Business: 'merger' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "penggabungan perusahaan"
+        },
+        {
+          "id": "b",
+          "text": "pemutusan kontrak"
+        },
+        {
+          "id": "c",
+          "text": "PHK massal"
+        },
+        {
+          "id": "d",
+          "text": "likuidasi"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Merger = companies combine."
+    },
+    {
+      "id": "q43",
+      "text": "Technical: 'firewall' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "dinding api fisik"
+        },
+        {
+          "id": "b",
+          "text": "sistem keamanan jaringan"
+        },
+        {
+          "id": "c",
+          "text": "VPN"
+        },
+        {
+          "id": "d",
+          "text": "antivirus saja"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Firewall = network security barrier."
+    },
+    {
+      "id": "q44",
+      "text": "Informal: 'bucks' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "dolar (uang)"
+        },
+        {
+          "id": "b",
+          "text": "poin"
+        },
+        {
+          "id": "c",
+          "text": "cek"
+        },
+        {
+          "id": "d",
+          "text": "kijang"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Bucks = dollars (informal)."
+    },
+    {
+      "id": "q45",
+      "text": "Academic: 'empirical evidence' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "opini ahli"
+        },
+        {
+          "id": "b",
+          "text": "bukti berdasarkan observasi/eksperimen"
+        },
+        {
+          "id": "c",
+          "text": "dugaan"
+        },
+        {
+          "id": "d",
+          "text": "teori saja"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Empirical = based on observation."
+    },
+    {
+      "id": "q46",
+      "text": "Business: 'B2B' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "back to back"
+        },
+        {
+          "id": "b",
+          "text": "buy to build"
+        },
+        {
+          "id": "c",
+          "text": "business to business"
+        },
+        {
+          "id": "d",
+          "text": "brand to brand"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "B2B = business-to-business."
+    },
+    {
+      "id": "q47",
+      "text": "Technical: 'repository' (repo) berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "server email"
+        },
+        {
+          "id": "b",
+          "text": "database pelanggan"
+        },
+        {
+          "id": "c",
+          "text": "tempat penyimpanan kode/proyek"
+        },
+        {
+          "id": "d",
+          "text": "laporan keuangan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Repository = code storage."
+    },
+    {
+      "id": "q48",
+      "text": "Formal closing email:",
+      "options": [
+        {
+          "id": "a",
+          "text": "TTYL,"
+        },
+        {
+          "id": "b",
+          "text": "Yours sincerely,"
+        },
+        {
+          "id": "c",
+          "text": "Later,"
+        },
+        {
+          "id": "d",
+          "text": "Cheers mate,"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Yours sincerely = formal close."
+    },
+    {
+      "id": "q49",
+      "text": "Academic: 'abstract' dalam paper adalah:",
+      "options": [
+        {
+          "id": "a",
+          "text": "ringkasan singkat penelitian"
+        },
+        {
+          "id": "b",
+          "text": "daftar isi"
+        },
+        {
+          "id": "c",
+          "text": "lampiran"
+        },
+        {
+          "id": "d",
+          "text": "kutipan"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Abstract = summary of paper."
+    },
+    {
+      "id": "q50",
+      "text": "Business: 'KPI' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kinetic Process Integration"
+        },
+        {
+          "id": "b",
+          "text": "Key Performance Indicator"
+        },
+        {
+          "id": "c",
+          "text": "Key Profit Index"
+        },
+        {
+          "id": "d",
+          "text": "Known Product Item"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "KPI = Key Performance Indicator."
+    },
+    {
+      "id": "q51",
+      "text": "Technical: 'cloud computing' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "hanya email"
+        },
+        {
+          "id": "b",
+          "text": "tanpa internet"
+        },
+        {
+          "id": "c",
+          "text": "komputasi berbasis internet/server remote"
+        },
+        {
+          "id": "d",
+          "text": "komputer awan fisik"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Cloud = remote servers over internet."
+    },
+    {
+      "id": "q52",
+      "text": "Formal: 'Please ___ me know at your earliest convenience.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "tell informal only"
+        },
+        {
+          "id": "b",
+          "text": "say"
+        },
+        {
+          "id": "c",
+          "text": "let"
+        },
+        {
+          "id": "d",
+          "text": "give"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Let me know = formal-polite."
+    },
+    {
+      "id": "q53",
+      "text": "Academic: 'paradigm shift' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "pergeseran cara pandang fundamental"
+        },
+        {
+          "id": "b",
+          "text": "kesalahan data"
+        },
+        {
+          "id": "c",
+          "text": "perubahan kecil"
+        },
+        {
+          "id": "d",
+          "text": "revisi typo"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Paradigm shift = fundamental change."
+    },
+    {
+      "id": "q54",
+      "text": "Business: 'due diligence' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "tenggat waktu"
+        },
+        {
+          "id": "b",
+          "text": "audit pajak saja"
+        },
+        {
+          "id": "c",
+          "text": "keterlambatan bayar"
+        },
+        {
+          "id": "d",
+          "text": "pemeriksaan menyeluruh sebelum transaksi"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Due diligence = thorough investigation."
+    },
+    {
+      "id": "q55",
+      "text": "Technical: 'encryption' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "enkripsi / pengacakan data untuk keamanan"
+        },
+        {
+          "id": "b",
+          "text": "kompresi file"
+        },
+        {
+          "id": "c",
+          "text": "format ulang"
+        },
+        {
+          "id": "d",
+          "text": "backup"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Encryption = secure encoding."
+    },
+    {
+      "id": "q56",
+      "text": "Informal: 'ASAP' dalam chat kerja berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "after some afternoon period"
+        },
+        {
+          "id": "b",
+          "text": "as soon as possible"
+        },
+        {
+          "id": "c",
+          "text": "always stay at post"
+        },
+        {
+          "id": "d",
+          "text": "a special appointment"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "ASAP = secepatnya."
+    },
+    {
+      "id": "q57",
+      "text": "Academic: 'bibliography' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "biografi penulis"
+        },
+        {
+          "id": "b",
+          "text": "glosarium"
+        },
+        {
+          "id": "c",
+          "text": "daftar pustaka"
+        },
+        {
+          "id": "d",
+          "text": "abstrak"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Bibliography = list of sources."
+    },
+    {
+      "id": "q58",
+      "text": "Business: 'pivot' (startup) berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "putar meja"
+        },
+        {
+          "id": "b",
+          "text": "tetap sama"
+        },
+        {
+          "id": "c",
+          "text": "gagal total"
+        },
+        {
+          "id": "d",
+          "text": "perubahan arah strategi bisnis"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Pivot = strategic direction change."
+    },
+    {
+      "id": "q59",
+      "text": "Technical: 'deprecated' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "paling stabil"
+        },
+        {
+          "id": "b",
+          "text": "baru dirilis"
+        },
+        {
+          "id": "c",
+          "text": "gratis"
+        },
+        {
+          "id": "d",
+          "text": "tidak lagi direkomendasikan / akan dihapus"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Deprecated = outdated, to be removed."
+    },
+    {
+      "id": "q60",
+      "text": "Business: 'profit margin' berarti:",
+      "options": [
+        {
+          "id": "a",
+          "text": "persentase keuntungan dari pendapatan"
+        },
+        {
+          "id": "b",
+          "text": "gaji karyawan"
+        },
+        {
+          "id": "c",
+          "text": "total aset"
+        },
+        {
+          "id": "d",
+          "text": "biaya operasional saja"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Profit margin = profit as % of revenue."
+    }
+  ]
+}

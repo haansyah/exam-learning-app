@@ -1,0 +1,1205 @@
+{
+  "subjectId": "english-l8",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Ubah ke reported speech: 'I am tired,' she said. → She said that she ___ tired.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "was"
+        },
+        {
+          "id": "c",
+          "text": "am"
+        },
+        {
+          "id": "d",
+          "text": "were"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Present → past dalam reported speech: am/is → was."
+    },
+    {
+      "id": "q2",
+      "text": "Ubah: 'I will come tomorrow,' he said. → He said he ___ come the next day.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "would"
+        },
+        {
+          "id": "c",
+          "text": "can"
+        },
+        {
+          "id": "d",
+          "text": "shall"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Will → would; tomorrow → the next day."
+    },
+    {
+      "id": "q3",
+      "text": "Ubah: 'Where do you live?' she asked. → She asked where I ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "live"
+        },
+        {
+          "id": "b",
+          "text": "lived"
+        },
+        {
+          "id": "c",
+          "text": "living"
+        },
+        {
+          "id": "d",
+          "text": "to live"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Present → past: where I lived."
+    },
+    {
+      "id": "q4",
+      "text": "Ubah: 'Do not open the door,' he said. → He told me ___ the door.",
+      "options": [
+        {
+          "id": "a",
+          "text": "don't open"
+        },
+        {
+          "id": "b",
+          "text": "not to open"
+        },
+        {
+          "id": "c",
+          "text": "to not open"
+        },
+        {
+          "id": "d",
+          "text": "not open"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Imperative negatif → told + not to + verb."
+    },
+    {
+      "id": "q5",
+      "text": "Perubahan 'today' dalam reported speech menjadi...",
+      "options": [
+        {
+          "id": "a",
+          "text": "tomorrow"
+        },
+        {
+          "id": "b",
+          "text": "that day"
+        },
+        {
+          "id": "c",
+          "text": "yesterday"
+        },
+        {
+          "id": "d",
+          "text": "now"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Today → that day dalam reported speech."
+    },
+    {
+      "id": "q6",
+      "text": "Ubah: 'I have finished,' she said. → She said she ___ finished.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "had"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Present perfect → past perfect: had finished."
+    },
+    {
+      "id": "q7",
+      "text": "Ubah: 'Can you help me?' he asked. → He asked if I ___ help him.",
+      "options": [
+        {
+          "id": "a",
+          "text": "can"
+        },
+        {
+          "id": "b",
+          "text": "could"
+        },
+        {
+          "id": "c",
+          "text": "will"
+        },
+        {
+          "id": "d",
+          "text": "may"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Can → could dalam reported speech."
+    },
+    {
+      "id": "q8",
+      "text": "Lengkapi: 'I ___ my hair cut yesterday.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "had"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "got"
+        },
+        {
+          "id": "d",
+          "text": "a dan c benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Causative: have/get + object + past participle."
+    },
+    {
+      "id": "q9",
+      "text": "Lengkapi: 'She is having her house ___ next week.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "paint"
+        },
+        {
+          "id": "b",
+          "text": "painted"
+        },
+        {
+          "id": "c",
+          "text": "painting"
+        },
+        {
+          "id": "d",
+          "text": "to paint"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Have + object + past participle: having her house painted."
+    },
+    {
+      "id": "q10",
+      "text": "Causative 'have something done' berarti...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Melakukan sendiri"
+        },
+        {
+          "id": "b",
+          "text": "Meminta orang lain melakukan"
+        },
+        {
+          "id": "c",
+          "text": "Sedang melakukan"
+        },
+        {
+          "id": "d",
+          "text": "Akan melakukan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Have/get something done = meminta orang lain melakukan."
+    },
+    {
+      "id": "q11",
+      "text": "Lengkapi: 'He got his car ___ last month.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "repair"
+        },
+        {
+          "id": "b",
+          "text": "repaired"
+        },
+        {
+          "id": "c",
+          "text": "repairing"
+        },
+        {
+          "id": "d",
+          "text": "to repair"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Get + object + past participle: got his car repaired."
+    },
+    {
+      "id": "q12",
+      "text": "Lengkapi: 'We need to have the documents ___ before Friday.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "translate"
+        },
+        {
+          "id": "b",
+          "text": "translated"
+        },
+        {
+          "id": "c",
+          "text": "translating"
+        },
+        {
+          "id": "d",
+          "text": "to translate"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Have + object + past participle: have the documents translated."
+    },
+    {
+      "id": "q13",
+      "text": "Manakah kalimat causative yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I cut my hair at the salon."
+        },
+        {
+          "id": "b",
+          "text": "I had my hair cut at the salon."
+        },
+        {
+          "id": "c",
+          "text": "I had cut my hair at the salon."
+        },
+        {
+          "id": "d",
+          "text": "I had my hair cutting."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "I had my hair cut = saya memotong rambut di salon (orang lain yang potong)."
+    },
+    {
+      "id": "q14",
+      "text": "Lengkapi: 'I wish I ___ speak French.' (tidak bisa sekarang)",
+      "options": [
+        {
+          "id": "a",
+          "text": "can"
+        },
+        {
+          "id": "b",
+          "text": "could"
+        },
+        {
+          "id": "c",
+          "text": "will"
+        },
+        {
+          "id": "d",
+          "text": "would"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Wish + past simple/could untuk keinginan tidak nyata saat ini."
+    },
+    {
+      "id": "q15",
+      "text": "Lengkapi: 'I wish I ___ more time.' (sekarang)",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "had"
+        },
+        {
+          "id": "c",
+          "text": "will have"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Wish + past simple: wish I had."
+    },
+    {
+      "id": "q16",
+      "text": "Lengkapi: 'She wishes she ___ the exam.' (penyesalan masa lalu)",
+      "options": [
+        {
+          "id": "a",
+          "text": "passed"
+        },
+        {
+          "id": "b",
+          "text": "had passed"
+        },
+        {
+          "id": "c",
+          "text": "passes"
+        },
+        {
+          "id": "d",
+          "text": "would pass"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Wish + past perfect untuk penyesalan masa lalu."
+    },
+    {
+      "id": "q17",
+      "text": "'I wish you would stop' menyatakan...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Penyesalan masa lalu"
+        },
+        {
+          "id": "b",
+          "text": "Keinginan perubahan perilaku orang lain"
+        },
+        {
+          "id": "c",
+          "text": "Keinginan masa depan"
+        },
+        {
+          "id": "d",
+          "text": "Fakta"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Wish + would untuk menginginkan orang lain berubah perilakunya."
+    },
+    {
+      "id": "q18",
+      "text": "Lengkapi: 'I wish it ___ raining.' (sekarang)",
+      "options": [
+        {
+          "id": "a",
+          "text": "stops"
+        },
+        {
+          "id": "b",
+          "text": "stopped"
+        },
+        {
+          "id": "c",
+          "text": "had stopped"
+        },
+        {
+          "id": "d",
+          "text": "would stop"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Wish + past simple untuk situasi sekarang yang diinginkan berbeda."
+    },
+    {
+      "id": "q19",
+      "text": "Perbedaan 'I hope' dan 'I wish':",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hope = mungkin terjadi; wish = tidak nyata/penyesalan"
+        },
+        {
+          "id": "b",
+          "text": "Sama saja"
+        },
+        {
+          "id": "c",
+          "text": "Wish = pasti"
+        },
+        {
+          "id": "d",
+          "text": "Hope = tidak mungkin"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Hope untuk yang mungkin; wish untuk yang tidak nyata atau penyesalan."
+    },
+    {
+      "id": "q20",
+      "text": "Lengkapi: 'If only I ___ studied harder!' (penyesalan)",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "had"
+        },
+        {
+          "id": "c",
+          "text": "would"
+        },
+        {
+          "id": "d",
+          "text": "could"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "If only + past perfect untuk penyesalan masa lalu."
+    },
+    {
+      "id": "q21",
+      "text": "Lengkapi: 'If only she ___ here now.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "were"
+        },
+        {
+          "id": "c",
+          "text": "was/were"
+        },
+        {
+          "id": "d",
+          "text": "had been"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "If only + past simple untuk keinginan tidak nyata sekarang."
+    },
+    {
+      "id": "q22",
+      "text": "'If only' memiliki makna yang mirip dengan...",
+      "options": [
+        {
+          "id": "a",
+          "text": "I hope"
+        },
+        {
+          "id": "b",
+          "text": "I wish"
+        },
+        {
+          "id": "c",
+          "text": "I think"
+        },
+        {
+          "id": "d",
+          "text": "I know"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "If only mirip I wish tapi lebih emosional/menyesal."
+    },
+    {
+      "id": "q23",
+      "text": "Lengkapi: 'If only I ___ told the truth!' (penyesalan)",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "had"
+        },
+        {
+          "id": "c",
+          "text": "would"
+        },
+        {
+          "id": "d",
+          "text": "could"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "If only + had + past participle untuk penyesalan."
+    },
+    {
+      "id": "q24",
+      "text": "Lengkapi: 'If only it ___ stop raining!'",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "would"
+        },
+        {
+          "id": "c",
+          "text": "could"
+        },
+        {
+          "id": "d",
+          "text": "b dan c benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "If only + would/could untuk keinginan kuat akan perubahan."
+    },
+    {
+      "id": "q25",
+      "text": "If only untuk masa lalu menggunakan...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Past simple"
+        },
+        {
+          "id": "b",
+          "text": "Past perfect"
+        },
+        {
+          "id": "c",
+          "text": "Present simple"
+        },
+        {
+          "id": "d",
+          "text": "Will"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "If only + past perfect untuk penyesalan masa lalu."
+    },
+    {
+      "id": "q26",
+      "text": "Apa bahasa Inggris untuk 'akademik'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "academic"
+        },
+        {
+          "id": "b",
+          "text": "scholarly"
+        },
+        {
+          "id": "c",
+          "text": "educational"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Academic, scholarly, educational terkait akademik."
+    },
+    {
+      "id": "q27",
+      "text": "Apa bahasa Inggris untuk 'kuliah/mata kuliah'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "lecture/course"
+        },
+        {
+          "id": "b",
+          "text": "seminar"
+        },
+        {
+          "id": "c",
+          "text": "tutorial"
+        },
+        {
+          "id": "d",
+          "text": "workshop"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Lecture atau course berarti kuliah/mata kuliah."
+    },
+    {
+      "id": "q28",
+      "text": "Apa bahasa Inggris untuk 'tesis'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "thesis"
+        },
+        {
+          "id": "b",
+          "text": "dissertation"
+        },
+        {
+          "id": "c",
+          "text": "paper"
+        },
+        {
+          "id": "d",
+          "text": "a dan b benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Thesis (S1/S2) dan dissertation (S3) berarti tesis/disertasi."
+    },
+    {
+      "id": "q29",
+      "text": "Apa bahasa Inggris untuk 'plagiarisme'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "plagiarism"
+        },
+        {
+          "id": "b",
+          "text": "citation"
+        },
+        {
+          "id": "c",
+          "text": "reference"
+        },
+        {
+          "id": "d",
+          "text": "paraphrase"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Plagiarism berarti plagiarisme."
+    },
+    {
+      "id": "q30",
+      "text": "Apa bahasa Inggris untuk 'sumber referensi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "reference/source"
+        },
+        {
+          "id": "b",
+          "text": "bibliography"
+        },
+        {
+          "id": "c",
+          "text": "citation"
+        },
+        {
+          "id": "d",
+          "text": "footnote"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Reference atau source berarti sumber referensi."
+    },
+    {
+      "id": "q31",
+      "text": "Apa bahasa Inggris untuk 'IPK (indeks prestasi)'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "GPA (Grade Point Average)"
+        },
+        {
+          "id": "b",
+          "text": "grade"
+        },
+        {
+          "id": "c",
+          "text": "score"
+        },
+        {
+          "id": "d",
+          "text": "mark"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "GPA = Grade Point Average = IPK."
+    },
+    {
+      "id": "q32",
+      "text": "Apa bahasa Inggris untuk 'penelitian'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "research"
+        },
+        {
+          "id": "b",
+          "text": "study"
+        },
+        {
+          "id": "c",
+          "text": "investigation"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Research, study, investigation berarti penelitian."
+    },
+    {
+      "id": "q33",
+      "text": "Apa bahasa Inggris untuk 'hipotesis'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "hypothesis"
+        },
+        {
+          "id": "b",
+          "text": "theory"
+        },
+        {
+          "id": "c",
+          "text": "assumption"
+        },
+        {
+          "id": "d",
+          "text": "premise"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Hypothesis berarti hipotesis."
+    },
+    {
+      "id": "q34",
+      "text": "Apa bahasa Inggris untuk 'metodologi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "methodology"
+        },
+        {
+          "id": "b",
+          "text": "method"
+        },
+        {
+          "id": "c",
+          "text": "approach"
+        },
+        {
+          "id": "d",
+          "text": "framework"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Methodology berarti metodologi."
+    },
+    {
+      "id": "q35",
+      "text": "Apa bahasa Inggris untuk 'data' (penelitian)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "data"
+        },
+        {
+          "id": "b",
+          "text": "findings"
+        },
+        {
+          "id": "c",
+          "text": "results"
+        },
+        {
+          "id": "d",
+          "text": "evidence"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Data berarti data penelitian."
+    },
+    {
+      "id": "q36",
+      "text": "Apa bahasa Inggris untuk 'kesimpulan' (penelitian)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "conclusion"
+        },
+        {
+          "id": "b",
+          "text": "summary"
+        },
+        {
+          "id": "c",
+          "text": "finding"
+        },
+        {
+          "id": "d",
+          "text": "implication"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Conclusion berarti kesimpulan."
+    },
+    {
+      "id": "q37",
+      "text": "Apa bahasa Inggris untuk 'peer review'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "peer review"
+        },
+        {
+          "id": "b",
+          "text": "evaluation"
+        },
+        {
+          "id": "c",
+          "text": "assessment"
+        },
+        {
+          "id": "d",
+          "text": "critique"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Peer review berarti tinjauan sejawat."
+    },
+    {
+      "id": "q38",
+      "text": "Apa bahasa Inggris untuk 'publikasi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "publication"
+        },
+        {
+          "id": "b",
+          "text": "journal"
+        },
+        {
+          "id": "c",
+          "text": "article"
+        },
+        {
+          "id": "d",
+          "text": "paper"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Publication berarti publikasi."
+    },
+    {
+      "id": "q39",
+      "text": "Apa bahasa Inggris untuk 'hukum'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "law"
+        },
+        {
+          "id": "b",
+          "text": "legal"
+        },
+        {
+          "id": "c",
+          "text": "legislation"
+        },
+        {
+          "id": "d",
+          "text": "a dan b benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Law = hukum; legal = hukum (sifat)."
+    },
+    {
+      "id": "q40",
+      "text": "Apa bahasa Inggris untuk 'pengadilan'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "court"
+        },
+        {
+          "id": "b",
+          "text": "tribunal"
+        },
+        {
+          "id": "c",
+          "text": "judge"
+        },
+        {
+          "id": "d",
+          "text": "trial"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Court berarti pengadilan."
+    },
+    {
+      "id": "q41",
+      "text": "Apa bahasa Inggris untuk 'hakim'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "judge"
+        },
+        {
+          "id": "b",
+          "text": "lawyer"
+        },
+        {
+          "id": "c",
+          "text": "prosecutor"
+        },
+        {
+          "id": "d",
+          "text": "defendant"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Judge berarti hakim."
+    },
+    {
+      "id": "q42",
+      "text": "Apa bahasa Inggris untuk 'terdakwa'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "defendant"
+        },
+        {
+          "id": "b",
+          "text": "plaintiff"
+        },
+        {
+          "id": "c",
+          "text": "accused"
+        },
+        {
+          "id": "d",
+          "text": "a dan c benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Defendant atau accused berarti terdakwa."
+    },
+    {
+      "id": "q43",
+      "text": "Apa bahasa Inggris untuk 'undang-undang'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "law/act/statute"
+        },
+        {
+          "id": "b",
+          "text": "regulation"
+        },
+        {
+          "id": "c",
+          "text": "ordinance"
+        },
+        {
+          "id": "d",
+          "text": "decree"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Law, act, atau statute berarti undang-undang."
+    },
+    {
+      "id": "q44",
+      "text": "Apa bahasa Inggris untuk 'hak (legal)'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "right"
+        },
+        {
+          "id": "b",
+          "text": "entitlement"
+        },
+        {
+          "id": "c",
+          "text": "privilege"
+        },
+        {
+          "id": "d",
+          "text": "claim"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Right berarti hak legal."
+    },
+    {
+      "id": "q45",
+      "text": "Apa bahasa Inggris untuk 'pemerintah'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "government"
+        },
+        {
+          "id": "b",
+          "text": "administration"
+        },
+        {
+          "id": "c",
+          "text": "authority"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Government, administration, authority berarti pemerintah."
+    },
+    {
+      "id": "q46",
+      "text": "Apa bahasa Inggris untuk 'menteri'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "minister"
+        },
+        {
+          "id": "b",
+          "text": "secretary"
+        },
+        {
+          "id": "c",
+          "text": "official"
+        },
+        {
+          "id": "d",
+          "text": "bureaucrat"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Minister berarti menteri."
+    },
+    {
+      "id": "q47",
+      "text": "Apa bahasa Inggris untuk 'parlemen'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "parliament"
+        },
+        {
+          "id": "b",
+          "text": "congress"
+        },
+        {
+          "id": "c",
+          "text": "legislature"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Parliament, congress, legislature berarti parlemen."
+    },
+    {
+      "id": "q48",
+      "text": "Apa bahasa Inggris untuk 'kebijakan publik'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "public policy"
+        },
+        {
+          "id": "b",
+          "text": "regulation"
+        },
+        {
+          "id": "c",
+          "text": "governance"
+        },
+        {
+          "id": "d",
+          "text": "administration"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Public policy berarti kebijakan publik."
+    },
+    {
+      "id": "q49",
+      "text": "Apa bahasa Inggris untuk 'birokrasi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "bureaucracy"
+        },
+        {
+          "id": "b",
+          "text": "civil service"
+        },
+        {
+          "id": "c",
+          "text": "administration"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Bureaucracy, civil service terkait birokrasi."
+    },
+    {
+      "id": "q50",
+      "text": "Apa bahasa Inggris untuk 'transparansi' (pemerintahan)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "transparency"
+        },
+        {
+          "id": "b",
+          "text": "accountability"
+        },
+        {
+          "id": "c",
+          "text": "governance"
+        },
+        {
+          "id": "d",
+          "text": "integrity"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Transparency berarti transparansi."
+    }
+  ]
+}

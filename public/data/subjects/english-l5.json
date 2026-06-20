@@ -1,0 +1,1205 @@
+{
+  "subjectId": "english-l5",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Lengkapi: 'She ___ been studying for three hours.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Present perfect continuous: has/have + been + verb-ing."
+    },
+    {
+      "id": "q2",
+      "text": "Lengkapi: 'They ___ been waiting since noon.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "were"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'They' + have been waiting."
+    },
+    {
+      "id": "q3",
+      "text": "Manakah kalimat present perfect continuous yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I has been working all day."
+        },
+        {
+          "id": "b",
+          "text": "I have been working all day."
+        },
+        {
+          "id": "c",
+          "text": "I have been work all day."
+        },
+        {
+          "id": "d",
+          "text": "I have being working all day."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Have + been + verb-ing: I have been working all day."
+    },
+    {
+      "id": "q4",
+      "text": "Present perfect continuous menekankan...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hasil akhir saja"
+        },
+        {
+          "id": "b",
+          "text": "Durasi aksi yang masih berlangsung/relevan"
+        },
+        {
+          "id": "c",
+          "text": "Kebiasaan masa lalu"
+        },
+        {
+          "id": "d",
+          "text": "Rencana masa depan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Present perfect continuous menekankan durasi aksi yang dimulai di masa lalu dan masih berlanjut/relevan."
+    },
+    {
+      "id": "q5",
+      "text": "Lengkapi: 'It ___ been raining all morning.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'It' + has been raining."
+    },
+    {
+      "id": "q6",
+      "text": "Lengkapi: 'How long ___ you been learning English?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Pertanyaan: How long have you been learning...?"
+    },
+    {
+      "id": "q7",
+      "text": "Lengkapi: 'We ___ been living in this city since 2019.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "were"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'We' + have been living since 2019."
+    },
+    {
+      "id": "q8",
+      "text": "Lengkapi: 'I ___ watching TV when you called.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "am"
+        },
+        {
+          "id": "b",
+          "text": "was"
+        },
+        {
+          "id": "c",
+          "text": "were"
+        },
+        {
+          "id": "d",
+          "text": "have been"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Past continuous: was/were + verb-ing. I was watching."
+    },
+    {
+      "id": "q9",
+      "text": "Lengkapi: 'They ___ playing football at 4 p.m. yesterday.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "was"
+        },
+        {
+          "id": "b",
+          "text": "were"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "had been"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'They' + were playing."
+    },
+    {
+      "id": "q10",
+      "text": "Manakah kalimat past continuous yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She was cook dinner."
+        },
+        {
+          "id": "b",
+          "text": "She was cooking dinner."
+        },
+        {
+          "id": "c",
+          "text": "She were cooking dinner."
+        },
+        {
+          "id": "d",
+          "text": "She was cooked dinner."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Was/were + verb-ing: She was cooking dinner."
+    },
+    {
+      "id": "q11",
+      "text": "Past continuous digunakan untuk...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aksi selesai di masa lalu"
+        },
+        {
+          "id": "b",
+          "text": "Aksi yang sedang berlangsung di titik waktu masa lalu"
+        },
+        {
+          "id": "c",
+          "text": "Kebiasaan masa lalu"
+        },
+        {
+          "id": "d",
+          "text": "Prediksi masa depan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Past continuous: aksi sedang berlangsung pada waktu tertentu di masa lalu."
+    },
+    {
+      "id": "q12",
+      "text": "Lengkapi: 'While I ___ , the phone rang.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "sleep"
+        },
+        {
+          "id": "b",
+          "text": "slept"
+        },
+        {
+          "id": "c",
+          "text": "was sleeping"
+        },
+        {
+          "id": "d",
+          "text": "am sleeping"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'While' + past continuous: While I was sleeping, the phone rang."
+    },
+    {
+      "id": "q13",
+      "text": "Lengkapi: 'What ___ you doing at 8 o'clock last night?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "were"
+        },
+        {
+          "id": "c",
+          "text": "was"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Pertanyaan past continuous: What were you doing?"
+    },
+    {
+      "id": "q14",
+      "text": "Lengkapi: 'I ___ play tennis every weekend, but now I don't.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "use to"
+        },
+        {
+          "id": "b",
+          "text": "used to"
+        },
+        {
+          "id": "c",
+          "text": "am used to"
+        },
+        {
+          "id": "d",
+          "text": "was used to"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Used to' + verb 1 = kebiasaan masa lalu yang sudah tidak dilakukan."
+    },
+    {
+      "id": "q15",
+      "text": "Lengkapi: 'She ___ live in Jakarta before moving to Bali.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "use to"
+        },
+        {
+          "id": "b",
+          "text": "used to"
+        },
+        {
+          "id": "c",
+          "text": "uses to"
+        },
+        {
+          "id": "d",
+          "text": "is used to"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Used to live = dulu tinggal (kebiasaan/kondisi masa lalu)."
+    },
+    {
+      "id": "q16",
+      "text": "Bentuk negatif: 'He ___ smoke anymore.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "didn't used to"
+        },
+        {
+          "id": "b",
+          "text": "didn't use to"
+        },
+        {
+          "id": "c",
+          "text": "doesn't used to"
+        },
+        {
+          "id": "d",
+          "text": "wasn't used to"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Negatif: didn't use to (tanpa -d di 'use')."
+    },
+    {
+      "id": "q17",
+      "text": "'Used to' menyatakan...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kebiasaan/keadaan masa lalu yang sudah berubah"
+        },
+        {
+          "id": "b",
+          "text": "Kebiasaan sekarang"
+        },
+        {
+          "id": "c",
+          "text": "Rencana masa depan"
+        },
+        {
+          "id": "d",
+          "text": "Aksi sedang berlangsung"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Used to' untuk kebiasaan atau keadaan di masa lalu yang sudah tidak berlaku lagi."
+    },
+    {
+      "id": "q18",
+      "text": "Lengkapi: '___ there ___ be a cinema here?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Did / used to"
+        },
+        {
+          "id": "b",
+          "text": "Did / use to"
+        },
+        {
+          "id": "c",
+          "text": "Do / use to"
+        },
+        {
+          "id": "d",
+          "text": "Does / used to"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Pertanyaan: Did + subjek + use to + verb 1?"
+    },
+    {
+      "id": "q19",
+      "text": "Perbedaan 'used to' dan 'be used to':",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sama saja"
+        },
+        {
+          "id": "b",
+          "text": "Used to = kebiasaan dulu; be used to = terbiasa"
+        },
+        {
+          "id": "c",
+          "text": "Be used to = masa lalu"
+        },
+        {
+          "id": "d",
+          "text": "Used to = masa depan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Used to' = dulu biasa; 'be used to' = terbiasa dengan sesuatu."
+    },
+    {
+      "id": "q20",
+      "text": "Lengkapi: 'I enjoy ___ books.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "read"
+        },
+        {
+          "id": "b",
+          "text": "reading"
+        },
+        {
+          "id": "c",
+          "text": "to read"
+        },
+        {
+          "id": "d",
+          "text": "reads"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Enjoy' diikuti gerund (-ing): I enjoy reading."
+    },
+    {
+      "id": "q21",
+      "text": "Lengkapi: 'She wants ___ a doctor.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "become"
+        },
+        {
+          "id": "b",
+          "text": "to become"
+        },
+        {
+          "id": "c",
+          "text": "becoming"
+        },
+        {
+          "id": "d",
+          "text": "became"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Want' diikuti infinitive (to + verb): wants to become."
+    },
+    {
+      "id": "q22",
+      "text": "Lengkapi: 'He decided ___ abroad.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "study"
+        },
+        {
+          "id": "b",
+          "text": "studying"
+        },
+        {
+          "id": "c",
+          "text": "to study"
+        },
+        {
+          "id": "d",
+          "text": "studied"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Decide' diikuti infinitive: decided to study."
+    },
+    {
+      "id": "q23",
+      "text": "Lengkapi: 'They avoid ___ junk food.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "eat"
+        },
+        {
+          "id": "b",
+          "text": "eating"
+        },
+        {
+          "id": "c",
+          "text": "to eat"
+        },
+        {
+          "id": "d",
+          "text": "ate"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Avoid' diikuti gerund: avoid eating."
+    },
+    {
+      "id": "q24",
+      "text": "Lengkapi: 'Would you like ___ coffee?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "having"
+        },
+        {
+          "id": "c",
+          "text": "to have"
+        },
+        {
+          "id": "d",
+          "text": "had"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Would like' diikuti infinitive: would like to have."
+    },
+    {
+      "id": "q25",
+      "text": "Manakah yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I like to swim. / I like swimming."
+        },
+        {
+          "id": "b",
+          "text": "I like swim."
+        },
+        {
+          "id": "c",
+          "text": "I like to swimming."
+        },
+        {
+          "id": "d",
+          "text": "I like swiming."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Like' bisa diikuti infinitive atau gerund: like to swim / like swimming."
+    },
+    {
+      "id": "q26",
+      "text": "Apa bahasa Inggris untuk 'media sosial'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "social media"
+        },
+        {
+          "id": "b",
+          "text": "social network"
+        },
+        {
+          "id": "c",
+          "text": "platform"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Social media, social network, dan platform semuanya terkait media sosial."
+    },
+    {
+      "id": "q27",
+      "text": "Apa bahasa Inggris untuk 'mengunggah' (foto/video)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "upload/post"
+        },
+        {
+          "id": "b",
+          "text": "download"
+        },
+        {
+          "id": "c",
+          "text": "share only"
+        },
+        {
+          "id": "d",
+          "text": "delete"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Upload' atau 'post' berarti mengunggah."
+    },
+    {
+      "id": "q28",
+      "text": "Apa bahasa Inggris untuk 'pengikut'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "follower"
+        },
+        {
+          "id": "b",
+          "text": "following"
+        },
+        {
+          "id": "c",
+          "text": "subscriber"
+        },
+        {
+          "id": "d",
+          "text": "friend"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Follower' berarti pengikut."
+    },
+    {
+      "id": "q29",
+      "text": "Apa bahasa Inggris untuk 'menyukai' (di media sosial)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "like"
+        },
+        {
+          "id": "b",
+          "text": "love"
+        },
+        {
+          "id": "c",
+          "text": "react"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Like, love, dan react semuanya cara menyukai di media sosial."
+    },
+    {
+      "id": "q30",
+      "text": "Apa bahasa Inggris untuk 'komentar'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "comment"
+        },
+        {
+          "id": "b",
+          "text": "reply"
+        },
+        {
+          "id": "c",
+          "text": "mention"
+        },
+        {
+          "id": "d",
+          "text": "tag"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Comment' berarti komentar."
+    },
+    {
+      "id": "q31",
+      "text": "Apa bahasa Inggris untuk 'viral'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "viral"
+        },
+        {
+          "id": "b",
+          "text": "trending"
+        },
+        {
+          "id": "c",
+          "text": "popular"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Viral, trending, dan popular semuanya menggambarkan konten yang ramai."
+    },
+    {
+      "id": "q32",
+      "text": "Apa bahasa Inggris untuk 'bandara'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "airport"
+        },
+        {
+          "id": "b",
+          "text": "station"
+        },
+        {
+          "id": "c",
+          "text": "terminal"
+        },
+        {
+          "id": "d",
+          "text": "port"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Airport' berarti bandara."
+    },
+    {
+      "id": "q33",
+      "text": "Apa bahasa Inggris untuk 'boarding pass'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "boarding pass"
+        },
+        {
+          "id": "b",
+          "text": "ticket"
+        },
+        {
+          "id": "c",
+          "text": "passport"
+        },
+        {
+          "id": "d",
+          "text": "visa"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Boarding pass' berarti boarding pass/kartu naik pesawat."
+    },
+    {
+      "id": "q34",
+      "text": "Apa bahasa Inggris untuk 'keterlambatan' (penerbangan)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "delay"
+        },
+        {
+          "id": "b",
+          "text": "cancellation"
+        },
+        {
+          "id": "c",
+          "text": "layover"
+        },
+        {
+          "id": "d",
+          "text": "transit"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Delay' berarti keterlambatan."
+    },
+    {
+      "id": "q35",
+      "text": "Apa bahasa Inggris untuk 'bagasi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "luggage/baggage"
+        },
+        {
+          "id": "b",
+          "text": "carry-on"
+        },
+        {
+          "id": "c",
+          "text": "suitcase"
+        },
+        {
+          "id": "d",
+          "text": "backpack"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Luggage' atau 'baggage' berarti bagasi."
+    },
+    {
+      "id": "q36",
+      "text": "Apa bahasa Inggris untuk 'pemandu wisata'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "tour guide"
+        },
+        {
+          "id": "b",
+          "text": "travel agent"
+        },
+        {
+          "id": "c",
+          "text": "tourist"
+        },
+        {
+          "id": "d",
+          "text": "host"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Tour guide' berarti pemandu wisata."
+    },
+    {
+      "id": "q37",
+      "text": "Apa bahasa Inggris untuk 'itinerary'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "itinerary/travel plan"
+        },
+        {
+          "id": "b",
+          "text": "destination"
+        },
+        {
+          "id": "c",
+          "text": "route"
+        },
+        {
+          "id": "d",
+          "text": "schedule only"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Itinerary' berarti rencana perjalanan/rute wisata."
+    },
+    {
+      "id": "q38",
+      "text": "Apa bahasa Inggris untuk 'check-in' (hotel/pesawat)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "check in"
+        },
+        {
+          "id": "b",
+          "text": "check out"
+        },
+        {
+          "id": "c",
+          "text": "book"
+        },
+        {
+          "id": "d",
+          "text": "reserve"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Check in' berarti mendaftar/masuk (hotel atau pesawat)."
+    },
+    {
+      "id": "q39",
+      "text": "Apa bahasa Inggris untuk 'lingkungan'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "environment"
+        },
+        {
+          "id": "b",
+          "text": "nature"
+        },
+        {
+          "id": "c",
+          "text": "ecosystem"
+        },
+        {
+          "id": "d",
+          "text": "habitat"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Environment' berarti lingkungan."
+    },
+    {
+      "id": "q40",
+      "text": "Apa bahasa Inggris untuk 'polusi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "pollution"
+        },
+        {
+          "id": "b",
+          "text": "waste"
+        },
+        {
+          "id": "c",
+          "text": "emission"
+        },
+        {
+          "id": "d",
+          "text": "contamination"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Pollution' berarti polusi."
+    },
+    {
+      "id": "q41",
+      "text": "Apa bahasa Inggris untuk 'daur ulang'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "recycle"
+        },
+        {
+          "id": "b",
+          "text": "reuse"
+        },
+        {
+          "id": "c",
+          "text": "reduce"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar (3R)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Recycle, reuse, reduce adalah prinsip 3R (reduce, reuse, recycle)."
+    },
+    {
+      "id": "q42",
+      "text": "Apa bahasa Inggris untuk 'perubahan iklim'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "climate change"
+        },
+        {
+          "id": "b",
+          "text": "global warming"
+        },
+        {
+          "id": "c",
+          "text": "greenhouse effect"
+        },
+        {
+          "id": "d",
+          "text": "Semua terkait"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Climate change, global warming terkait perubahan iklim."
+    },
+    {
+      "id": "q43",
+      "text": "Apa bahasa Inggris untuk 'energi terbarukan'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "renewable energy"
+        },
+        {
+          "id": "b",
+          "text": "solar power"
+        },
+        {
+          "id": "c",
+          "text": "wind energy"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Renewable energy mencakup solar, wind, dll."
+    },
+    {
+      "id": "q44",
+      "text": "Apa bahasa Inggris untuk 'kehutanan'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "deforestation"
+        },
+        {
+          "id": "b",
+          "text": "reforestation"
+        },
+        {
+          "id": "c",
+          "text": "afforestation"
+        },
+        {
+          "id": "d",
+          "text": "Semua terkait hutan"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Deforestation = penebangan hutan; reforestation = penanaman kembali."
+    },
+    {
+      "id": "q45",
+      "text": "Apa bahasa Inggris untuk 'budaya'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "culture"
+        },
+        {
+          "id": "b",
+          "text": "tradition"
+        },
+        {
+          "id": "c",
+          "text": "custom"
+        },
+        {
+          "id": "d",
+          "text": "heritage"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Culture' berarti budaya."
+    },
+    {
+      "id": "q46",
+      "text": "Apa bahasa Inggris untuk 'tradisi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "tradition"
+        },
+        {
+          "id": "b",
+          "text": "ritual"
+        },
+        {
+          "id": "c",
+          "text": "ceremony"
+        },
+        {
+          "id": "d",
+          "text": "custom"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Tradition' berarti tradisi."
+    },
+    {
+      "id": "q47",
+      "text": "Apa bahasa Inggris untuk 'festival'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "festival"
+        },
+        {
+          "id": "b",
+          "text": "celebration"
+        },
+        {
+          "id": "c",
+          "text": "holiday"
+        },
+        {
+          "id": "d",
+          "text": "event"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Festival' berarti festival."
+    },
+    {
+      "id": "q48",
+      "text": "Apa bahasa Inggris untuk 'adat istiadat'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "custom"
+        },
+        {
+          "id": "b",
+          "text": "habit"
+        },
+        {
+          "id": "c",
+          "text": "practice"
+        },
+        {
+          "id": "d",
+          "text": "convention"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Custom' berarti adat istiadat."
+    },
+    {
+      "id": "q49",
+      "text": "Apa bahasa Inggris untuk 'warisan budaya'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "cultural heritage"
+        },
+        {
+          "id": "b",
+          "text": "monument"
+        },
+        {
+          "id": "c",
+          "text": "artifact"
+        },
+        {
+          "id": "d",
+          "text": "relic"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Cultural heritage' berarti warisan budaya."
+    },
+    {
+      "id": "q50",
+      "text": "Apa bahasa Inggris untuk 'toleransi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "tolerance"
+        },
+        {
+          "id": "b",
+          "text": "respect"
+        },
+        {
+          "id": "c",
+          "text": "diversity"
+        },
+        {
+          "id": "d",
+          "text": "acceptance"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Tolerance' berarti toleransi."
+    }
+  ]
+}
