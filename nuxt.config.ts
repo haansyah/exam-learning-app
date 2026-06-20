@@ -1,7 +1,13 @@
 import manifest from './public/data/manifest.json'
 
+const githubPagesBaseUrl = process.env.NUXT_APP_BASE_URL || '/'
+
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  app: {
+    baseURL: githubPagesBaseUrl
+  },
+
   modules: [
     '@nuxt/eslint',
     '@nuxt/ui',
