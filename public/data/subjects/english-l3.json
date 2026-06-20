@@ -1,0 +1,1205 @@
+{
+  "subjectId": "english-l3",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Lengkapi: 'I ___ help you with your homework.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "am"
+        },
+        {
+          "id": "c",
+          "text": "was"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Will' menyatakan keputusan spontan atau janji: I will help you."
+    },
+    {
+      "id": "q2",
+      "text": "Lengkapi: 'It ___ rain tomorrow.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "was"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Prediksi masa depan: It will rain tomorrow."
+    },
+    {
+      "id": "q3",
+      "text": "Manakah kalimat future tense (will) yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She will goes to school."
+        },
+        {
+          "id": "b",
+          "text": "She will go to school."
+        },
+        {
+          "id": "c",
+          "text": "She will going to school."
+        },
+        {
+          "id": "d",
+          "text": "She wills go to school."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Will + verb 1 (bentuk dasar): She will go to school."
+    },
+    {
+      "id": "q4",
+      "text": "Bentuk negatif: 'They ___ come to the party.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "won't"
+        },
+        {
+          "id": "b",
+          "text": "don't"
+        },
+        {
+          "id": "c",
+          "text": "didn't"
+        },
+        {
+          "id": "d",
+          "text": "isn't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Negatif 'will' adalah 'won't' (will not): They won't come."
+    },
+    {
+      "id": "q5",
+      "text": "Pertanyaan: '___ you be at home tonight?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Do"
+        },
+        {
+          "id": "b",
+          "text": "Will"
+        },
+        {
+          "id": "c",
+          "text": "Are"
+        },
+        {
+          "id": "d",
+          "text": "Did"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Pertanyaan future: Will + subjek + verb 1? Will you be at home?"
+    },
+    {
+      "id": "q6",
+      "text": "Lengkapi: 'Don't worry, everything ___ be fine.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "was"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Janji/penghiburan masa depan: everything will be fine."
+    },
+    {
+      "id": "q7",
+      "text": "'Will' biasanya digunakan untuk...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kebiasaan masa lalu"
+        },
+        {
+          "id": "b",
+          "text": "Prediksi, janji, keputusan spontan"
+        },
+        {
+          "id": "c",
+          "text": "Aksi sedang berlangsung"
+        },
+        {
+          "id": "d",
+          "text": "Pengalaman masa lalu"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Will' digunakan untuk prediksi, janji, dan keputusan spontan di masa depan."
+    },
+    {
+      "id": "q8",
+      "text": "Lengkapi: 'She ___ visit her grandmother next week.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "is going to"
+        },
+        {
+          "id": "b",
+          "text": "will going to"
+        },
+        {
+          "id": "c",
+          "text": "goes to"
+        },
+        {
+          "id": "d",
+          "text": "went to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Rencana yang sudah direncanakan: is going to + verb 1."
+    },
+    {
+      "id": "q9",
+      "text": "Lengkapi: 'We ___ buy a new car next month.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "are going to"
+        },
+        {
+          "id": "b",
+          "text": "will going to"
+        },
+        {
+          "id": "c",
+          "text": "going to"
+        },
+        {
+          "id": "d",
+          "text": "go to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Rencana: We are going to buy a new car."
+    },
+    {
+      "id": "q10",
+      "text": "Manakah kalimat 'be going to' yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He going to study."
+        },
+        {
+          "id": "b",
+          "text": "He is going to study."
+        },
+        {
+          "id": "c",
+          "text": "He is go to study."
+        },
+        {
+          "id": "d",
+          "text": "He will going to study."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Be going to: subjek + am/is/are + going to + verb 1."
+    },
+    {
+      "id": "q11",
+      "text": "Lengkapi: 'Look at those clouds! It ___ rain.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "is going to"
+        },
+        {
+          "id": "c",
+          "text": "was"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Prediksi berdasarkan bukti saat ini: It is going to rain."
+    },
+    {
+      "id": "q12",
+      "text": "Bentuk negatif: 'I ___ going to eat junk food.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "am not"
+        },
+        {
+          "id": "b",
+          "text": "don't"
+        },
+        {
+          "id": "c",
+          "text": "won't"
+        },
+        {
+          "id": "d",
+          "text": "isn't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Negatif: I am not going to eat junk food."
+    },
+    {
+      "id": "q13",
+      "text": "Lengkapi: 'They ___ start a new business.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "are going to"
+        },
+        {
+          "id": "b",
+          "text": "is going to"
+        },
+        {
+          "id": "c",
+          "text": "am going to"
+        },
+        {
+          "id": "d",
+          "text": "going to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'They' menggunakan 'are going to': They are going to start."
+    },
+    {
+      "id": "q14",
+      "text": "'Be going to' biasanya digunakan untuk...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Janji spontan"
+        },
+        {
+          "id": "b",
+          "text": "Rencana yang sudah direncanakan"
+        },
+        {
+          "id": "c",
+          "text": "Kebiasaan"
+        },
+        {
+          "id": "d",
+          "text": "Aksi masa lalu"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Be going to' digunakan untuk rencana yang sudah direncanakan sebelumnya."
+    },
+    {
+      "id": "q15",
+      "text": "Bentuk comparative dari 'big' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "bigger"
+        },
+        {
+          "id": "b",
+          "text": "biggest"
+        },
+        {
+          "id": "c",
+          "text": "more big"
+        },
+        {
+          "id": "d",
+          "text": "bigly"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kata sifat pendek: tambahkan -er → bigger."
+    },
+    {
+      "id": "q16",
+      "text": "Bentuk comparative dari 'beautiful' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "beautifuler"
+        },
+        {
+          "id": "b",
+          "text": "more beautiful"
+        },
+        {
+          "id": "c",
+          "text": "beautifulest"
+        },
+        {
+          "id": "d",
+          "text": "most beautiful"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kata sifat panjang (3+ suku kata): more + adjective → more beautiful."
+    },
+    {
+      "id": "q17",
+      "text": "Lengkapi: 'This book is ___ than that one.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "interesting"
+        },
+        {
+          "id": "b",
+          "text": "more interesting"
+        },
+        {
+          "id": "c",
+          "text": "most interesting"
+        },
+        {
+          "id": "d",
+          "text": "interestinger"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Perbandingan dua benda: more interesting than."
+    },
+    {
+      "id": "q18",
+      "text": "Bentuk comparative dari 'good' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "gooder"
+        },
+        {
+          "id": "b",
+          "text": "better"
+        },
+        {
+          "id": "c",
+          "text": "best"
+        },
+        {
+          "id": "d",
+          "text": "more good"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Good' adalah irregular adjective: good → better."
+    },
+    {
+      "id": "q19",
+      "text": "Lengkapi: 'An elephant is ___ than a mouse.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "big"
+        },
+        {
+          "id": "b",
+          "text": "bigger"
+        },
+        {
+          "id": "c",
+          "text": "biggest"
+        },
+        {
+          "id": "d",
+          "text": "more big"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Perbandingan: bigger than (lebih besar dari)."
+    },
+    {
+      "id": "q20",
+      "text": "Bentuk comparative dari 'fast' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "faster"
+        },
+        {
+          "id": "b",
+          "text": "fastest"
+        },
+        {
+          "id": "c",
+          "text": "more fast"
+        },
+        {
+          "id": "d",
+          "text": "fastly"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kata sifat pendek: fast → faster."
+    },
+    {
+      "id": "q21",
+      "text": "Bentuk superlative dari 'tall' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "taller"
+        },
+        {
+          "id": "b",
+          "text": "tallest"
+        },
+        {
+          "id": "c",
+          "text": "most tall"
+        },
+        {
+          "id": "d",
+          "text": "more tall"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kata sifat pendek: tambahkan -est → tallest."
+    },
+    {
+      "id": "q22",
+      "text": "Bentuk superlative dari 'expensive' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "expensiver"
+        },
+        {
+          "id": "b",
+          "text": "most expensive"
+        },
+        {
+          "id": "c",
+          "text": "more expensive"
+        },
+        {
+          "id": "d",
+          "text": "expensivest"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kata sifat panjang: the most + adjective → the most expensive."
+    },
+    {
+      "id": "q23",
+      "text": "Lengkapi: 'Mount Everest is ___ mountain in the world.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "the higher"
+        },
+        {
+          "id": "b",
+          "text": "the highest"
+        },
+        {
+          "id": "c",
+          "text": "higher"
+        },
+        {
+          "id": "d",
+          "text": "most high"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Superlative: the highest (tertinggi)."
+    },
+    {
+      "id": "q24",
+      "text": "Bentuk superlative dari 'bad' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "badder"
+        },
+        {
+          "id": "b",
+          "text": "worse"
+        },
+        {
+          "id": "c",
+          "text": "worst"
+        },
+        {
+          "id": "d",
+          "text": "more bad"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Bad → worse (comparative) → worst (superlative)."
+    },
+    {
+      "id": "q25",
+      "text": "Lengkapi: 'She is ___ student in the class.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "the smarter"
+        },
+        {
+          "id": "b",
+          "text": "the smartest"
+        },
+        {
+          "id": "c",
+          "text": "smarter"
+        },
+        {
+          "id": "d",
+          "text": "most smart"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Superlative: the smartest (terpintar)."
+    },
+    {
+      "id": "q26",
+      "text": "Bentuk superlative dari 'far' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "farer"
+        },
+        {
+          "id": "b",
+          "text": "further/farther"
+        },
+        {
+          "id": "c",
+          "text": "furthest/farthest"
+        },
+        {
+          "id": "d",
+          "text": "most far"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Far → further/farther → furthest/farthest."
+    },
+    {
+      "id": "q27",
+      "text": "Apa bahasa Inggris untuk 'komputer'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "computer"
+        },
+        {
+          "id": "b",
+          "text": "calculator"
+        },
+        {
+          "id": "c",
+          "text": "television"
+        },
+        {
+          "id": "d",
+          "text": "telephone"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Computer' berarti komputer."
+    },
+    {
+      "id": "q28",
+      "text": "Apa bahasa Inggris untuk 'ponsel/smartphone'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "phone/smartphone"
+        },
+        {
+          "id": "b",
+          "text": "radio"
+        },
+        {
+          "id": "c",
+          "text": "camera"
+        },
+        {
+          "id": "d",
+          "text": "printer"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Phone' atau 'smartphone' berarti ponsel."
+    },
+    {
+      "id": "q29",
+      "text": "Apa bahasa Inggris untuk 'internet'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "internet"
+        },
+        {
+          "id": "b",
+          "text": "network"
+        },
+        {
+          "id": "c",
+          "text": "website"
+        },
+        {
+          "id": "d",
+          "text": "email"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Internet' berarti internet."
+    },
+    {
+      "id": "q30",
+      "text": "Apa bahasa Inggris untuk 'aplikasi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "application/app"
+        },
+        {
+          "id": "b",
+          "text": "program"
+        },
+        {
+          "id": "c",
+          "text": "software"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Application, app, program, dan software semuanya terkait aplikasi."
+    },
+    {
+      "id": "q31",
+      "text": "Apa bahasa Inggris untuk 'teknologi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "technology"
+        },
+        {
+          "id": "b",
+          "text": "technique"
+        },
+        {
+          "id": "c",
+          "text": "technical"
+        },
+        {
+          "id": "d",
+          "text": "technician"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Technology' berarti teknologi."
+    },
+    {
+      "id": "q32",
+      "text": "Apa bahasa Inggris untuk 'robot'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "robot"
+        },
+        {
+          "id": "b",
+          "text": "machine"
+        },
+        {
+          "id": "c",
+          "text": "device"
+        },
+        {
+          "id": "d",
+          "text": "gadget"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Robot' berarti robot."
+    },
+    {
+      "id": "q33",
+      "text": "Apa bahasa Inggris untuk 'dokter'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "doctor"
+        },
+        {
+          "id": "b",
+          "text": "nurse"
+        },
+        {
+          "id": "c",
+          "text": "dentist"
+        },
+        {
+          "id": "d",
+          "text": "pharmacist"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Doctor' berarti dokter."
+    },
+    {
+      "id": "q34",
+      "text": "Apa bahasa Inggris untuk 'insinyur'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "engineer"
+        },
+        {
+          "id": "b",
+          "text": "architect"
+        },
+        {
+          "id": "c",
+          "text": "scientist"
+        },
+        {
+          "id": "d",
+          "text": "technician"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Engineer' berarti insinyur."
+    },
+    {
+      "id": "q35",
+      "text": "Apa bahasa Inggris untuk 'pengacara'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "lawyer"
+        },
+        {
+          "id": "b",
+          "text": "judge"
+        },
+        {
+          "id": "c",
+          "text": "police"
+        },
+        {
+          "id": "d",
+          "text": "soldier"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Lawyer' berarti pengacara."
+    },
+    {
+      "id": "q36",
+      "text": "Apa bahasa Inggris untuk 'petani'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "farmer"
+        },
+        {
+          "id": "b",
+          "text": "fisherman"
+        },
+        {
+          "id": "c",
+          "text": "gardener"
+        },
+        {
+          "id": "d",
+          "text": "hunter"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Farmer' berarti petani."
+    },
+    {
+      "id": "q37",
+      "text": "Apa bahasa Inggris untuk 'pilot'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "pilot"
+        },
+        {
+          "id": "b",
+          "text": "driver"
+        },
+        {
+          "id": "c",
+          "text": "captain"
+        },
+        {
+          "id": "d",
+          "text": "sailor"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Pilot' berarti pilot."
+    },
+    {
+      "id": "q38",
+      "text": "Apa bahasa Inggris untuk 'jurnalis'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "journalist"
+        },
+        {
+          "id": "b",
+          "text": "reporter"
+        },
+        {
+          "id": "c",
+          "text": "editor"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Journalist, reporter, dan editor semuanya terkait profesi media."
+    },
+    {
+      "id": "q39",
+      "text": "Apa bahasa Inggris untuk 'universitas'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "university"
+        },
+        {
+          "id": "b",
+          "text": "college"
+        },
+        {
+          "id": "c",
+          "text": "school"
+        },
+        {
+          "id": "d",
+          "text": "academy"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'University' berarti universitas."
+    },
+    {
+      "id": "q40",
+      "text": "Apa bahasa Inggris untuk 'gelar/sarjana'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "degree"
+        },
+        {
+          "id": "b",
+          "text": "diploma"
+        },
+        {
+          "id": "c",
+          "text": "certificate"
+        },
+        {
+          "id": "d",
+          "text": "license"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Degree' berarti gelar akademik (sarjana, magister, dll)."
+    },
+    {
+      "id": "q41",
+      "text": "Apa bahasa Inggris untuk 'mata pelajaran'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "subject"
+        },
+        {
+          "id": "b",
+          "text": "lesson"
+        },
+        {
+          "id": "c",
+          "text": "course"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Subject, lesson, dan course semuanya bisa berarti mata pelajaran."
+    },
+    {
+      "id": "q42",
+      "text": "Apa bahasa Inggris untuk 'ujian'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "exam/test"
+        },
+        {
+          "id": "b",
+          "text": "quiz"
+        },
+        {
+          "id": "c",
+          "text": "assignment"
+        },
+        {
+          "id": "d",
+          "text": "homework"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Exam' atau 'test' berarti ujian."
+    },
+    {
+      "id": "q43",
+      "text": "Apa bahasa Inggris untuk 'beasiswa'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "scholarship"
+        },
+        {
+          "id": "b",
+          "text": "tuition"
+        },
+        {
+          "id": "c",
+          "text": "fee"
+        },
+        {
+          "id": "d",
+          "text": "grant"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Scholarship' berarti beasiswa."
+    },
+    {
+      "id": "q44",
+      "text": "Apa bahasa Inggris untuk 'lulus'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "graduate"
+        },
+        {
+          "id": "b",
+          "text": "enroll"
+        },
+        {
+          "id": "c",
+          "text": "attend"
+        },
+        {
+          "id": "d",
+          "text": "drop out"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Graduate' berarti lulus."
+    },
+    {
+      "id": "q45",
+      "text": "Apa bahasa Inggris untuk 'impian'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "dream"
+        },
+        {
+          "id": "b",
+          "text": "goal"
+        },
+        {
+          "id": "c",
+          "text": "wish"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Dream, goal, dan wish semuanya terkait impian/tujuan."
+    },
+    {
+      "id": "q46",
+      "text": "Lengkapi: 'I want ___ a doctor when I grow up.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "be"
+        },
+        {
+          "id": "b",
+          "text": "to be"
+        },
+        {
+          "id": "c",
+          "text": "being"
+        },
+        {
+          "id": "d",
+          "text": "been"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Want + to + verb: I want to be a doctor."
+    },
+    {
+      "id": "q47",
+      "text": "Lengkapi: 'Her ___ is to travel around the world.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "dream/goal"
+        },
+        {
+          "id": "b",
+          "text": "nightmare"
+        },
+        {
+          "id": "c",
+          "text": "sleep"
+        },
+        {
+          "id": "d",
+          "text": "wishful"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Dream atau goal berarti impian/tujuan: Her dream is to travel."
+    },
+    {
+      "id": "q48",
+      "text": "Apa bahasa Inggris untuk 'berusaha/mencoba'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "try/effort"
+        },
+        {
+          "id": "b",
+          "text": "give up"
+        },
+        {
+          "id": "c",
+          "text": "fail"
+        },
+        {
+          "id": "d",
+          "text": "quit"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Try' atau 'make an effort' berarti berusaha."
+    },
+    {
+      "id": "q49",
+      "text": "Lengkapi: 'He hopes ___ a successful businessman.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "become"
+        },
+        {
+          "id": "b",
+          "text": "to become"
+        },
+        {
+          "id": "c",
+          "text": "becoming"
+        },
+        {
+          "id": "d",
+          "text": "became"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Hope + to + verb: He hopes to become a successful businessman."
+    },
+    {
+      "id": "q50",
+      "text": "Apa bahasa Inggris untuk 'mencapai tujuan'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "achieve a goal"
+        },
+        {
+          "id": "b",
+          "text": "give up"
+        },
+        {
+          "id": "c",
+          "text": "lose hope"
+        },
+        {
+          "id": "d",
+          "text": "fail"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Achieve a goal' berarti mencapai tujuan."
+    }
+  ]
+}

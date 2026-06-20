@@ -37,7 +37,9 @@ export default defineNuxtConfig({
   css: ['~/assets/css/main.css', 'katex/dist/katex.min.css'],
 
   routeRules: {
-    '/**': { prerender: true }
+    '/**': { prerender: true },
+    '/subjects/**/exam': { ssr: false, prerender: false },
+    '/subjects/**/result/**': { ssr: false, prerender: false }
   },
 
   compatibilityDate: '2025-01-15',

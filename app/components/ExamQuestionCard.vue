@@ -16,18 +16,19 @@ const emit = defineEmits<{
 <template>
   <UCard>
     <div class="space-y-4">
-      <div class="space-y-3">
+      <div class="min-w-0 space-y-3">
         <img
           v-if="question.imageUrl"
           :src="question.imageUrl"
           :alt="question.text"
           class="max-h-64 w-full rounded-lg object-contain"
         >
-        <FormulaText
+        <p
           v-if="question.isFormula"
-          :content="question.text"
-          :display-mode="true"
-        />
+          class="min-w-0 text-lg font-medium"
+        >
+          <FormulaText :content="question.text" />
+        </p>
         <p v-else class="text-lg font-medium">
           {{ question.text }}
         </p>

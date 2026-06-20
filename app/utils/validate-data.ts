@@ -1,4 +1,6 @@
-import type { Question, QuestionOption, SubjectManifestEntry, SubjectQuestionFile } from '~/types/exam'
+import type { Question, QuestionOption, SubjectCategory, SubjectManifestEntry, SubjectQuestionFile } from '~/types/exam'
+
+const VALID_CATEGORIES: SubjectCategory[] = ['kuliah', 'bahasa']
 
 export function validateManifest(manifest: SubjectManifestEntry[]): string[] {
   const errors: string[] = []
@@ -7,8 +9,17 @@ export function validateManifest(manifest: SubjectManifestEntry[]): string[] {
     if (!entry.id || !entry.name || !entry.questionFile) {
       errors.push(`Invalid manifest entry: ${JSON.stringify(entry)}`)
     }
+    if (!VALID_CATEGORIES.includes(entry.category)) {
+      errors.push(`Invalid category for ${entry.id}: ${entry.category}`)
+    }
     if (entry.passThreshold < 0 || entry.passThreshold > 100) {
       errors.push(`Invalid passThreshold for ${entry.id}: ${entry.passThreshold}`)
+    }
+    if (
+      entry.timeLimitMinutes !== undefined
+      && (entry.timeLimitMinutes < 1 || entry.timeLimitMinutes > 180)
+    ) {
+      errors.push(`Invalid timeLimitMinutes for ${entry.id}: ${entry.timeLimitMinutes}`)
     }
   }
 

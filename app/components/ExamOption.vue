@@ -17,7 +17,7 @@ const emit = defineEmits<{
 <template>
   <button
     type="button"
-    class="w-full text-left rounded-lg border p-4 transition-colors"
+    class="min-w-0 w-full text-left rounded-lg border p-4 transition-colors"
     :class="{
       'border-primary bg-primary/10': selected && !correct && !incorrect,
       'border-success bg-success/10': correct,

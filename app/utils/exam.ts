@@ -1,4 +1,8 @@
 import type { ExamResponse, Question, QuestionSessionState } from '~/types/exam'
+import { DEFAULT_TIME_LIMIT_MINUTES } from '~/types/exam'
+
+const SECONDS_PER_QUESTION = 48
+const MIN_TIME_LIMIT_MINUTES = 10
 
 export function shuffleArray<T>(items: T[]): T[] {
   const result = [...items]
@@ -27,6 +31,14 @@ export function prepareExamQuestions(
   })
 
   return { questions: prepared, optionOrders }
+}
+
+export function createAttemptId(): string {
+  if (typeof crypto !== 'undefined' && typeof crypto.randomUUID === 'function') {
+    return crypto.randomUUID()
+  }
+
+  return `attempt-${Date.now()}-${Math.random().toString(36).slice(2, 10)}`
 }
 
 export function buildResponses(
@@ -72,4 +84,34 @@ export function formatTimer(seconds: number): string {
   const minutes = Math.floor(seconds / 60)
   const remainingSeconds = seconds % 60
   return `${minutes.toString().padStart(2, '0')}:${remainingSeconds.toString().padStart(2, '0')}`
+}
+
+export function resolveTimeLimitMinutes(
+  questionCount: number,
+  overrideMinutes?: number
+): number {
+  if (overrideMinutes !== undefined) {
+    return overrideMinutes
+  }
+
+  if (questionCount <= 0) {
+    return DEFAULT_TIME_LIMIT_MINUTES
+  }
+
+  const computedMinutes = Math.ceil((questionCount * SECONDS_PER_QUESTION) / 60)
+  return Math.min(
+    DEFAULT_TIME_LIMIT_MINUTES,
+    Math.max(MIN_TIME_LIMIT_MINUTES, computedMinutes)
+  )
+}
+
+export function resolveTimeLimitSeconds(
+  questionCount: number,
+  overrideMinutes?: number
+): number {
+  return resolveTimeLimitMinutes(questionCount, overrideMinutes) * 60
+}
+
+export function formatTimeLimit(minutes: number): string {
+  return `${minutes} menit`
 }

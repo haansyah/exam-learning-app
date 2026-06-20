@@ -4,6 +4,7 @@ import { EXAM_DURATION_SECONDS } from '~/types/exam'
 import {
   buildResponses,
   calculateScorePercent,
+  createAttemptId,
   determinePass,
   prepareExamQuestions
 } from '~/utils/exam'
@@ -19,6 +20,7 @@ export const useExamStore = defineStore('exam', {
     questionStates: [] as QuestionSessionState[],
     currentIndex: 0,
     startedAt: null as string | null,
+    timerDurationSeconds: EXAM_DURATION_SECONDS,
     timerSecondsRemaining: EXAM_DURATION_SECONDS,
     phase: 'idle' as ExamPhase,
     timerIntervalId: null as ReturnType<typeof setInterval> | null
@@ -73,7 +75,8 @@ export const useExamStore = defineStore('exam', {
       subjectId: string,
       passThreshold: number,
       questions: Question[],
-      shuffleEnabled: boolean
+      shuffleEnabled: boolean,
+      durationSeconds: number = EXAM_DURATION_SECONDS
     ) {
       this.resetSession()
       const prepared = prepareExamQuestions(questions, shuffleEnabled)
@@ -90,7 +93,8 @@ export const useExamStore = defineStore('exam', {
       }))
       this.currentIndex = 0
       this.startedAt = new Date().toISOString()
-      this.timerSecondsRemaining = EXAM_DURATION_SECONDS
+      this.timerDurationSeconds = durationSeconds
+      this.timerSecondsRemaining = durationSeconds
       this.phase = 'exam'
       this.startTimer()
     },
@@ -169,14 +173,14 @@ export const useExamStore = defineStore('exam', {
       const completedAt = new Date().toISOString()
       const durationSeconds = Math.max(
         0,
-        EXAM_DURATION_SECONDS - this.timerSecondsRemaining
+        this.timerDurationSeconds - this.timerSecondsRemaining
       )
       const responses = buildResponses(this.questionStates, this.questions)
       const scorePercent = calculateScorePercent(responses)
       const passed = determinePass(scorePercent, this.passThreshold)
 
       return {
-        attemptId: crypto.randomUUID(),
+        attemptId: createAttemptId(),
         subjectId: this.subjectId,
         startedAt: this.startedAt,
         completedAt,
@@ -218,6 +222,7 @@ export const useExamStore = defineStore('exam', {
       this.questionStates = []
       this.currentIndex = 0
       this.startedAt = null
+      this.timerDurationSeconds = EXAM_DURATION_SECONDS
       this.timerSecondsRemaining = EXAM_DURATION_SECONDS
       this.phase = 'idle'
     }

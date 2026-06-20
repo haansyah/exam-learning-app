@@ -66,4 +66,21 @@ describe('history store', () => {
     expect(store.bestScoreForSubject('ekma4213')).toBe(85)
     expect(store.attemptCountForSubject('ekma4213')).toBe(2)
   })
+
+  it('detects passed subject from attempt history', () => {
+    const store = useHistoryStore()
+    store.addAttempt(makeAttempt({
+      subjectId: 'ekma4213',
+      scorePercent: 65,
+      passed: false
+    }))
+    store.addAttempt(makeAttempt({
+      subjectId: 'math101',
+      scorePercent: 80,
+      passed: true
+    }))
+
+    expect(store.hasPassedSubject('ekma4213', 70)).toBe(false)
+    expect(store.hasPassedSubject('math101', 75)).toBe(true)
+  })
 })

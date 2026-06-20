@@ -14,8 +14,15 @@ const historyStore = useHistoryStore()
 
 const shuffleEnabled = ref(false)
 
+const questionCount = computed(() => questionData.value?.questions.length ?? 0)
+const timeLimitMinutes = computed(() =>
+  resolveTimeLimitMinutes(questionCount.value, subject.timeLimitMinutes)
+)
 const bestScore = computed(() => historyStore.bestScoreForSubject(subjectId))
 const attemptCount = computed(() => historyStore.attemptCountForSubject(subjectId))
+const hasPassed = computed(() =>
+  historyStore.hasPassedSubject(subjectId, subject.passThreshold)
+)
 
 function startExam() {
   navigateTo({
@@ -43,35 +50,59 @@ useSeoMeta({
     </UButton>
 
     <div class="space-y-2">
-      <h1 class="text-3xl font-bold">
-        {{ subject.name }}
-      </h1>
+      <div class="flex items-start gap-2">
+        <h1 class="text-3xl font-bold flex-1">
+          {{ subject.name }}
+        </h1>
+        <UIcon
+          v-if="hasPassed"
+          name="i-lucide-star"
+          class="size-7 shrink-0 text-warning fill-warning"
+          title="Lulus — skor minimal tercapai"
+        />
+      </div>
       <p class="text-muted">
         {{ subject.description }}
       </p>
     </div>
 
     <UCard>
-      <div class="grid gap-4 sm:grid-cols-3">
+      <div class="grid gap-4 sm:grid-cols-2">
         <div>
           <p class="text-sm text-muted">
-            Questions
+            Jumlah soal
           </p>
           <p class="text-xl font-semibold">
-            {{ questionData?.questions.length ?? 0 }}
+            {{ questionCount }}
           </p>
         </div>
         <div>
           <p class="text-sm text-muted">
-            Best score
+            Batas waktu
+          </p>
+          <p class="text-xl font-semibold">
+            {{ formatTimeLimit(timeLimitMinutes) }}
+          </p>
+        </div>
+        <div>
+          <p class="text-sm text-muted">
+            Skor minimal
+          </p>
+          <p class="text-xl font-semibold">
+            {{ subject.passThreshold }}%
+          </p>
+        </div>
+        <div>
+          <p class="text-sm text-muted">
+            Skor terbaik
           </p>
           <p class="text-xl font-semibold">
             {{ bestScore !== null ? `${bestScore}%` : '—' }}
           </p>
         </div>
-        <div>
+        <div class="sm:col-span-2">
           <p class="text-sm text-muted">
-            Attempts
+            Percobaan
           </p>
           <p class="text-xl font-semibold">
             {{ attemptCount }}

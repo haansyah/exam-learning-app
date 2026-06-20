@@ -1,0 +1,1205 @@
+{
+  "subjectId": "english-l1",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Lengkapi: 'She ___ reading a book right now.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "read"
+        },
+        {
+          "id": "b",
+          "text": "reads"
+        },
+        {
+          "id": "c",
+          "text": "is reading"
+        },
+        {
+          "id": "d",
+          "text": "readed"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Present continuous: am/is/are + verb-ing. 'She is reading' untuk aksi yang sedang berlangsung."
+    },
+    {
+      "id": "q2",
+      "text": "Lengkapi: 'They ___ playing football at the moment.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "am"
+        },
+        {
+          "id": "d",
+          "text": "be"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'They' menggunakan 'are' dalam present continuous: They are playing."
+    },
+    {
+      "id": "q3",
+      "text": "Manakah kalimat present continuous yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I am eat lunch now."
+        },
+        {
+          "id": "b",
+          "text": "I am eating lunch now."
+        },
+        {
+          "id": "c",
+          "text": "I eating lunch now."
+        },
+        {
+          "id": "d",
+          "text": "I is eating lunch now."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Present continuous: subjek + am/is/are + verb-ing. 'I am eating lunch now.'"
+    },
+    {
+      "id": "q4",
+      "text": "Lengkapi: 'Look! The children ___ in the pool.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "swim"
+        },
+        {
+          "id": "b",
+          "text": "are swimming"
+        },
+        {
+          "id": "c",
+          "text": "swims"
+        },
+        {
+          "id": "d",
+          "text": "swam"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Look!' menunjukkan aksi sedang berlangsung. Gunakan present continuous: are swimming."
+    },
+    {
+      "id": "q5",
+      "text": "Bentuk negatif yang benar: 'He ___ watching TV.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "isn't"
+        },
+        {
+          "id": "b",
+          "text": "aren't"
+        },
+        {
+          "id": "c",
+          "text": "don't"
+        },
+        {
+          "id": "d",
+          "text": "doesn't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Negatif present continuous: am/is/are + not + verb-ing. 'He isn't watching TV.'"
+    },
+    {
+      "id": "q6",
+      "text": "Pertanyaan yang benar: '___ you listening to music?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Do"
+        },
+        {
+          "id": "b",
+          "text": "Does"
+        },
+        {
+          "id": "c",
+          "text": "Are"
+        },
+        {
+          "id": "d",
+          "text": "Is"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Pertanyaan present continuous: Am/Is/Are + subjek + verb-ing? 'Are you listening?'"
+    },
+    {
+      "id": "q7",
+      "text": "Kata 'now' biasanya digunakan dengan tenses apa?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Simple Past"
+        },
+        {
+          "id": "b",
+          "text": "Present Continuous"
+        },
+        {
+          "id": "c",
+          "text": "Future"
+        },
+        {
+          "id": "d",
+          "text": "Simple Present"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Now' (sekarang) menandakan aksi sedang berlangsung, jadi menggunakan Present Continuous."
+    },
+    {
+      "id": "q8",
+      "text": "Lengkapi: 'A bird ___ fly, but a fish can't.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "can"
+        },
+        {
+          "id": "b",
+          "text": "cans"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "does"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Can' menyatakan kemampuan. Burung bisa terbang: A bird can fly."
+    },
+    {
+      "id": "q9",
+      "text": "Lengkapi: 'I ___ swim. I never learned.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "can"
+        },
+        {
+          "id": "b",
+          "text": "can't"
+        },
+        {
+          "id": "c",
+          "text": "am"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Tidak bisa berenang = can't swim."
+    },
+    {
+      "id": "q10",
+      "text": "Manakah kalimat yang benar untuk menyatakan kemampuan?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She cans sing well."
+        },
+        {
+          "id": "b",
+          "text": "She can sing well."
+        },
+        {
+          "id": "c",
+          "text": "She can to sing well."
+        },
+        {
+          "id": "d",
+          "text": "She can singing well."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Can' diikuti kata kerja dasar (verb 1) tanpa 'to': She can sing well."
+    },
+    {
+      "id": "q11",
+      "text": "Lengkapi: '___ you speak English?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Do"
+        },
+        {
+          "id": "b",
+          "text": "Are"
+        },
+        {
+          "id": "c",
+          "text": "Can"
+        },
+        {
+          "id": "d",
+          "text": "Does"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Menanyakan kemampuan menggunakan 'Can': Can you speak English?"
+    },
+    {
+      "id": "q12",
+      "text": "Lengkapi: 'A baby ___ walk, but an adult can.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "can"
+        },
+        {
+          "id": "b",
+          "text": "can't"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "does"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Bayi belum bisa berjalan: A baby can't walk."
+    },
+    {
+      "id": "q13",
+      "text": "Bentuk negatif dari 'I can ride a bike' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "I don't can ride a bike."
+        },
+        {
+          "id": "b",
+          "text": "I can't ride a bike."
+        },
+        {
+          "id": "c",
+          "text": "I not can ride a bike."
+        },
+        {
+          "id": "d",
+          "text": "I cann't ride a bike."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Negatif 'can' adalah 'can't' (cannot): I can't ride a bike."
+    },
+    {
+      "id": "q14",
+      "text": "Lengkapi: 'This book is ___.' (milik saya)",
+      "options": [
+        {
+          "id": "a",
+          "text": "me"
+        },
+        {
+          "id": "b",
+          "text": "my"
+        },
+        {
+          "id": "c",
+          "text": "mine"
+        },
+        {
+          "id": "d",
+          "text": "I"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Possessive pronoun untuk 'saya' adalah 'mine': This book is mine."
+    },
+    {
+      "id": "q15",
+      "text": "Lengkapi: 'That bag is ___.' (milik dia perempuan)",
+      "options": [
+        {
+          "id": "a",
+          "text": "her"
+        },
+        {
+          "id": "b",
+          "text": "hers"
+        },
+        {
+          "id": "c",
+          "text": "she"
+        },
+        {
+          "id": "d",
+          "text": "she's"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Possessive pronoun untuk 'dia (perempuan)' adalah 'hers': That bag is hers."
+    },
+    {
+      "id": "q16",
+      "text": "Manakah yang merupakan possessive pronoun?",
+      "options": [
+        {
+          "id": "a",
+          "text": "my"
+        },
+        {
+          "id": "b",
+          "text": "your"
+        },
+        {
+          "id": "c",
+          "text": "theirs"
+        },
+        {
+          "id": "d",
+          "text": "his (sebelum kata benda)"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Theirs' adalah possessive pronoun (milik mereka). 'My', 'your', 'his' sebelum kata benda adalah possessive adjective."
+    },
+    {
+      "id": "q17",
+      "text": "Lengkapi: 'The red pen is ___. The blue one is ___.' (milik kami / milik mereka)",
+      "options": [
+        {
+          "id": "a",
+          "text": "our / their"
+        },
+        {
+          "id": "b",
+          "text": "ours / theirs"
+        },
+        {
+          "id": "c",
+          "text": "we / they"
+        },
+        {
+          "id": "d",
+          "text": "us / them"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Possessive pronoun: ours (milik kami), theirs (milik mereka)."
+    },
+    {
+      "id": "q18",
+      "text": "Lengkapi: 'Is this jacket ___?' (milik kamu)",
+      "options": [
+        {
+          "id": "a",
+          "text": "you"
+        },
+        {
+          "id": "b",
+          "text": "your"
+        },
+        {
+          "id": "c",
+          "text": "yours"
+        },
+        {
+          "id": "d",
+          "text": "your's"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Possessive pronoun untuk 'kamu' adalah 'yours': Is this jacket yours?"
+    },
+    {
+      "id": "q19",
+      "text": "Lengkapi: 'The big house is ___.' (milik dia laki-laki)",
+      "options": [
+        {
+          "id": "a",
+          "text": "he"
+        },
+        {
+          "id": "b",
+          "text": "him"
+        },
+        {
+          "id": "c",
+          "text": "his"
+        },
+        {
+          "id": "d",
+          "text": "he's"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Tanpa kata benda setelahnya, gunakan possessive pronoun 'his': The big house is his."
+    },
+    {
+      "id": "q20",
+      "text": "Lengkapi: 'Please give ___ the book.' (kepada saya)",
+      "options": [
+        {
+          "id": "a",
+          "text": "I"
+        },
+        {
+          "id": "b",
+          "text": "my"
+        },
+        {
+          "id": "c",
+          "text": "me"
+        },
+        {
+          "id": "d",
+          "text": "mine"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Object pronoun untuk 'saya' adalah 'me': Give me the book."
+    },
+    {
+      "id": "q21",
+      "text": "Lengkapi: 'I saw ___ at the park yesterday.' (dia laki-laki)",
+      "options": [
+        {
+          "id": "a",
+          "text": "he"
+        },
+        {
+          "id": "b",
+          "text": "him"
+        },
+        {
+          "id": "c",
+          "text": "his"
+        },
+        {
+          "id": "d",
+          "text": "he's"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Setelah kata kerja (saw), gunakan object pronoun 'him'."
+    },
+    {
+      "id": "q22",
+      "text": "Lengkapi: 'She called ___ on the phone.' (kami)",
+      "options": [
+        {
+          "id": "a",
+          "text": "we"
+        },
+        {
+          "id": "b",
+          "text": "our"
+        },
+        {
+          "id": "c",
+          "text": "us"
+        },
+        {
+          "id": "d",
+          "text": "ours"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Object pronoun untuk 'kami/kita' adalah 'us': She called us."
+    },
+    {
+      "id": "q23",
+      "text": "Manakah kalimat yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He helps they."
+        },
+        {
+          "id": "b",
+          "text": "He helps them."
+        },
+        {
+          "id": "c",
+          "text": "He helps their."
+        },
+        {
+          "id": "d",
+          "text": "He helps they're."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Object pronoun untuk 'mereka' adalah 'them': He helps them."
+    },
+    {
+      "id": "q24",
+      "text": "Lengkapi: 'I can help ___.' (kamu)",
+      "options": [
+        {
+          "id": "a",
+          "text": "you"
+        },
+        {
+          "id": "b",
+          "text": "your"
+        },
+        {
+          "id": "c",
+          "text": "yours"
+        },
+        {
+          "id": "d",
+          "text": "yourself"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Object pronoun untuk 'kamu' adalah 'you': I can help you."
+    },
+    {
+      "id": "q25",
+      "text": "Lengkapi: 'The teacher asked ___ a question.' (dia perempuan)",
+      "options": [
+        {
+          "id": "a",
+          "text": "she"
+        },
+        {
+          "id": "b",
+          "text": "her"
+        },
+        {
+          "id": "c",
+          "text": "hers"
+        },
+        {
+          "id": "d",
+          "text": "she's"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Object pronoun untuk 'dia (perempuan)' adalah 'her': The teacher asked her."
+    },
+    {
+      "id": "q26",
+      "text": "Apa bahasa Inggris untuk 'kemeja'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "shirt"
+        },
+        {
+          "id": "b",
+          "text": "skirt"
+        },
+        {
+          "id": "c",
+          "text": "shorts"
+        },
+        {
+          "id": "d",
+          "text": "sock"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Shirt' berarti kemeja."
+    },
+    {
+      "id": "q27",
+      "text": "Apa bahasa Inggris untuk 'celana panjang'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "shorts"
+        },
+        {
+          "id": "b",
+          "text": "pants"
+        },
+        {
+          "id": "c",
+          "text": "dress"
+        },
+        {
+          "id": "d",
+          "text": "coat"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Pants' (atau trousers) berarti celana panjang."
+    },
+    {
+      "id": "q28",
+      "text": "Apa bahasa Inggris untuk 'sepatu'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "hat"
+        },
+        {
+          "id": "b",
+          "text": "shoes"
+        },
+        {
+          "id": "c",
+          "text": "gloves"
+        },
+        {
+          "id": "d",
+          "text": "belt"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Shoes' berarti sepatu."
+    },
+    {
+      "id": "q29",
+      "text": "Apa bahasa Inggris untuk 'gaun'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "dress"
+        },
+        {
+          "id": "b",
+          "text": "jacket"
+        },
+        {
+          "id": "c",
+          "text": "scarf"
+        },
+        {
+          "id": "d",
+          "text": "tie"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Dress' berarti gaun."
+    },
+    {
+      "id": "q30",
+      "text": "Apa bahasa Inggris untuk 'topi'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "cap/hat"
+        },
+        {
+          "id": "b",
+          "text": "sock"
+        },
+        {
+          "id": "c",
+          "text": "shoe"
+        },
+        {
+          "id": "d",
+          "text": "ring"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Hat' atau 'cap' berarti topi."
+    },
+    {
+      "id": "q31",
+      "text": "Apa bahasa Inggris untuk 'jaket'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "jacket"
+        },
+        {
+          "id": "b",
+          "text": "shirt"
+        },
+        {
+          "id": "c",
+          "text": "pants"
+        },
+        {
+          "id": "d",
+          "text": "skirt"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Jacket' berarti jaket."
+    },
+    {
+      "id": "q32",
+      "text": "Apa bahasa Inggris untuk 'kepala'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "head"
+        },
+        {
+          "id": "b",
+          "text": "hand"
+        },
+        {
+          "id": "c",
+          "text": "foot"
+        },
+        {
+          "id": "d",
+          "text": "arm"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Head' berarti kepala."
+    },
+    {
+      "id": "q33",
+      "text": "Apa bahasa Inggris untuk 'mata'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "nose"
+        },
+        {
+          "id": "b",
+          "text": "eye"
+        },
+        {
+          "id": "c",
+          "text": "ear"
+        },
+        {
+          "id": "d",
+          "text": "mouth"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Eye' berarti mata. Eyes = mata (jamak)."
+    },
+    {
+      "id": "q34",
+      "text": "Apa bahasa Inggris untuk 'tangan'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "leg"
+        },
+        {
+          "id": "b",
+          "text": "arm"
+        },
+        {
+          "id": "c",
+          "text": "hand"
+        },
+        {
+          "id": "d",
+          "text": "finger"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Hand' berarti tangan."
+    },
+    {
+      "id": "q35",
+      "text": "Apa bahasa Inggris untuk 'kaki' (bagian bawah tubuh)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "arm"
+        },
+        {
+          "id": "b",
+          "text": "leg"
+        },
+        {
+          "id": "c",
+          "text": "shoulder"
+        },
+        {
+          "id": "d",
+          "text": "neck"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Leg' berarti kaki (bagian bawah tubuh)."
+    },
+    {
+      "id": "q36",
+      "text": "Apa bahasa Inggris untuk 'hidung'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "mouth"
+        },
+        {
+          "id": "b",
+          "text": "nose"
+        },
+        {
+          "id": "c",
+          "text": "tooth"
+        },
+        {
+          "id": "d",
+          "text": "tongue"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Nose' berarti hidung."
+    },
+    {
+      "id": "q37",
+      "text": "Apa bahasa Inggris untuk 'rambut'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "face"
+        },
+        {
+          "id": "b",
+          "text": "hair"
+        },
+        {
+          "id": "c",
+          "text": "skin"
+        },
+        {
+          "id": "d",
+          "text": "back"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Hair' berarti rambut."
+    },
+    {
+      "id": "q38",
+      "text": "Apa bahasa Inggris untuk 'mulut'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "mouth"
+        },
+        {
+          "id": "b",
+          "text": "lip"
+        },
+        {
+          "id": "c",
+          "text": "chin"
+        },
+        {
+          "id": "d",
+          "text": "cheek"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Mouth' berarti mulut."
+    },
+    {
+      "id": "q39",
+      "text": "Apa bahasa Inggris untuk 'sepak bola'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "basketball"
+        },
+        {
+          "id": "b",
+          "text": "football/soccer"
+        },
+        {
+          "id": "c",
+          "text": "tennis"
+        },
+        {
+          "id": "d",
+          "text": "volleyball"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Football' (UK) atau 'soccer' (US) berarti sepak bola."
+    },
+    {
+      "id": "q40",
+      "text": "Apa bahasa Inggris untuk 'bola basket'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "basketball"
+        },
+        {
+          "id": "b",
+          "text": "baseball"
+        },
+        {
+          "id": "c",
+          "text": "badminton"
+        },
+        {
+          "id": "d",
+          "text": "golf"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Basketball' berarti bola basket."
+    },
+    {
+      "id": "q41",
+      "text": "Apa bahasa Inggris untuk 'berenang'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "running"
+        },
+        {
+          "id": "b",
+          "text": "swimming"
+        },
+        {
+          "id": "c",
+          "text": "jumping"
+        },
+        {
+          "id": "d",
+          "text": "cycling"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Swimming' berarti berenang."
+    },
+    {
+      "id": "q42",
+      "text": "Apa bahasa Inggris untuk 'lari'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "running"
+        },
+        {
+          "id": "b",
+          "text": "walking"
+        },
+        {
+          "id": "c",
+          "text": "skating"
+        },
+        {
+          "id": "d",
+          "text": "boxing"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Running' berarti lari/berlari."
+    },
+    {
+      "id": "q43",
+      "text": "Apa bahasa Inggris untuk 'bulu tangkis'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "tennis"
+        },
+        {
+          "id": "b",
+          "text": "badminton"
+        },
+        {
+          "id": "c",
+          "text": "table tennis"
+        },
+        {
+          "id": "d",
+          "text": "volleyball"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Badminton' berarti bulu tangkis."
+    },
+    {
+      "id": "q44",
+      "text": "Apa bahasa Inggris untuk 'bola voli'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "volleyball"
+        },
+        {
+          "id": "b",
+          "text": "handball"
+        },
+        {
+          "id": "c",
+          "text": "rugby"
+        },
+        {
+          "id": "d",
+          "text": "hockey"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Volleyball' berarti bola voli."
+    },
+    {
+      "id": "q45",
+      "text": "Apa bahasa Inggris untuk 'buku'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "book"
+        },
+        {
+          "id": "b",
+          "text": "pen"
+        },
+        {
+          "id": "c",
+          "text": "desk"
+        },
+        {
+          "id": "d",
+          "text": "board"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Book' berarti buku."
+    },
+    {
+      "id": "q46",
+      "text": "Apa bahasa Inggris untuk 'pensil'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "pen"
+        },
+        {
+          "id": "b",
+          "text": "pencil"
+        },
+        {
+          "id": "c",
+          "text": "eraser"
+        },
+        {
+          "id": "d",
+          "text": "ruler"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Pencil' berarti pensil."
+    },
+    {
+      "id": "q47",
+      "text": "Apa bahasa Inggris untuk 'kelas' (ruang belajar)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "classroom"
+        },
+        {
+          "id": "b",
+          "text": "library"
+        },
+        {
+          "id": "c",
+          "text": "cafeteria"
+        },
+        {
+          "id": "d",
+          "text": "playground"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Classroom' berarti ruang kelas."
+    },
+    {
+      "id": "q48",
+      "text": "Apa bahasa Inggris untuk 'guru'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "student"
+        },
+        {
+          "id": "b",
+          "text": "teacher"
+        },
+        {
+          "id": "c",
+          "text": "principal"
+        },
+        {
+          "id": "d",
+          "text": "janitor"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Teacher' berarti guru."
+    },
+    {
+      "id": "q49",
+      "text": "Apa bahasa Inggris untuk 'murid/siswa'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "student"
+        },
+        {
+          "id": "b",
+          "text": "pupil"
+        },
+        {
+          "id": "c",
+          "text": "Keduanya benar"
+        },
+        {
+          "id": "d",
+          "text": "worker"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Student' dan 'pupil' keduanya berarti murid/siswa."
+    },
+    {
+      "id": "q50",
+      "text": "Apa bahasa Inggris untuk 'papan tulis'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "blackboard/whiteboard"
+        },
+        {
+          "id": "b",
+          "text": "notebook"
+        },
+        {
+          "id": "c",
+          "text": "backpack"
+        },
+        {
+          "id": "d",
+          "text": "homework"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Blackboard' atau 'whiteboard' berarti papan tulis."
+    }
+  ]
+}

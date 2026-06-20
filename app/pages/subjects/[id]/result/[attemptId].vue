@@ -1,4 +1,8 @@
 <script setup lang="ts">
+definePageMeta({
+  ssr: false
+})
+
 const route = useRoute()
 const subjectId = route.params.id as string
 const attemptId = route.params.attemptId as string
@@ -10,12 +14,11 @@ if (!subject) {
   throw createError({ statusCode: 404, statusMessage: 'Subject not found' })
 }
 
+const pendingResultStore = usePendingResultStore()
 const historyStore = useHistoryStore()
-const attempt = historyStore.getAttemptById(attemptId)
-
-if (!attempt || attempt.subjectId !== subjectId) {
-  throw createError({ statusCode: 404, statusMessage: 'Attempt not found' })
-}
+const attempt = pendingResultStore.take(attemptId)
+  ?? historyStore.getAttemptById(attemptId)
+  ?? null
 
 const questionData = await useSubjectQuestions(subject.questionFile)
 
@@ -26,24 +29,44 @@ useSeoMeta({
 
 <template>
   <UContainer class="py-8 space-y-6 max-w-3xl">
-    <UButton
-      :to="`/subjects/${subjectId}`"
-      icon="i-lucide-arrow-left"
-      variant="ghost"
-      color="neutral"
-      size="sm"
-    >
-      Back to Subject
-    </UButton>
+    <template v-if="attempt">
+      <UButton
+        :to="`/subjects/${subjectId}`"
+        icon="i-lucide-arrow-left"
+        variant="ghost"
+        color="neutral"
+        size="sm"
+      >
+        Back to Subject
+      </UButton>
 
-    <h1 class="text-3xl font-bold">
-      {{ subject.name }} — Results
-    </h1>
+      <h1 class="text-3xl font-bold">
+        {{ subject.name }} — Results
+      </h1>
 
-    <ResultReview
-      :attempt="attempt"
-      :questions="questionData?.questions ?? []"
-      :subject="subject"
-    />
+      <ResultReview
+        :attempt="attempt"
+        :questions="questionData?.questions ?? []"
+        :subject="subject"
+      />
+    </template>
+
+    <UCard v-else>
+      <div class="space-y-4 text-center py-8">
+        <UIcon
+          name="i-lucide-file-question"
+          class="size-10 mx-auto text-muted"
+        />
+        <p class="text-muted">
+          This result was not found. It may have been cleared from this browser.
+        </p>
+        <UButton
+          :to="`/subjects/${subjectId}`"
+          color="primary"
+        >
+          Back to Subject
+        </UButton>
+      </div>
+    </UCard>
   </UContainer>
 </template>

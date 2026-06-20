@@ -1,5 +1,10 @@
 <script setup lang="ts">
+definePageMeta({
+  ssr: false
+})
+
 const route = useRoute()
+const router = useRouter()
 const subjectId = route.params.id as string
 const shuffleQuery = route.query.shuffle === '1'
 
@@ -13,6 +18,12 @@ if (!subject) {
 const questionData = await useSubjectQuestions(subject.questionFile)
 const examStore = useExamStore()
 const historyStore = useHistoryStore()
+const pendingResultStore = usePendingResultStore()
+
+const questionCount = computed(() => questionData.value?.questions.length ?? 0)
+const timeLimitSeconds = computed(() =>
+  resolveTimeLimitSeconds(questionCount.value, subject.timeLimitMinutes)
+)
 
 onMounted(() => {
   if (!examStore.isActive || examStore.subjectId !== subjectId) {
@@ -20,7 +31,8 @@ onMounted(() => {
       subjectId,
       subject.passThreshold,
       questionData.value?.questions ?? [],
-      shuffleQuery
+      shuffleQuery,
+      timeLimitSeconds.value
     )
   }
 })
@@ -31,15 +43,22 @@ onUnmounted(() => {
   }
 })
 
+function goToResults() {
+  const attempt = examStore.buildAttempt()
+  if (!attempt) {
+    return
+  }
+
+  historyStore.addAttempt(attempt)
+  pendingResultStore.set(attempt)
+  router.replace(`/subjects/${subjectId}/result/${attempt.attemptId}`)
+}
+
 watch(
   () => examStore.phase,
-  async (phase) => {
+  (phase) => {
     if (phase === 'complete') {
-      const attempt = examStore.buildAttempt()
-      if (attempt) {
-        historyStore.addAttempt(attempt)
-        await navigateTo(`/subjects/${subjectId}/result/${attempt.attemptId}`)
-      }
+      goToResults()
     }
   }
 )
@@ -89,6 +108,16 @@ useSeoMeta({
         >
           {{ examStore.isLastQuestion ? 'Finish' : 'Next' }}
         </UButton>
+      </div>
+    </template>
+
+    <template v-else-if="examStore.phase === 'complete'">
+      <div class="flex items-center justify-center py-16">
+        <UIcon
+          name="i-lucide-loader-circle"
+          class="size-8 animate-spin text-muted"
+        />
+        <span class="sr-only">Loading results…</span>
       </div>
     </template>
 

@@ -11,11 +11,22 @@ const props = defineProps<{
 
 const questionMap = computed(() => new Map(props.questions.map(q => [q.id, q])))
 
-function getOptionText(question: Question, optionId: string | null) {
+function getOptionText(question: Question | undefined, optionId: string | null) {
   if (!optionId) {
     return '—'
   }
+  if (!question) {
+    return optionId
+  }
   return question.options.find(option => option.id === optionId)?.text ?? optionId
+}
+
+function getQuestionText(questionId: string) {
+  return questionMap.value.get(questionId)?.text ?? 'Question unavailable'
+}
+
+function getExplanation(questionId: string) {
+  return questionMap.value.get(questionId)?.explanation
 }
 </script>
 
@@ -72,7 +83,7 @@ function getOptionText(question: Question, optionId: string | null) {
         <div class="space-y-3">
           <div class="flex items-start justify-between gap-2">
             <p class="font-medium">
-              {{ index + 1 }}. {{ questionMap.get(response.questionId)?.text }}
+              {{ index + 1 }}. {{ getQuestionText(response.questionId) }}
             </p>
             <UBadge
               v-if="response.wasSkipped"
@@ -100,16 +111,19 @@ function getOptionText(question: Question, optionId: string | null) {
           <div class="text-sm space-y-1">
             <p>
               <span class="text-muted">Your answer:</span>
-              {{ response.wasSkipped ? 'Not answered' : getOptionText(questionMap.get(response.questionId)!, response.selectedOptionId) }}
+              {{ response.wasSkipped ? 'Not answered' : getOptionText(questionMap.get(response.questionId), response.selectedOptionId) }}
             </p>
             <p v-if="!response.isCorrect">
               <span class="text-muted">Correct answer:</span>
-              {{ getOptionText(questionMap.get(response.questionId)!, questionMap.get(response.questionId)?.correctOptionId ?? null) }}
+              {{ getOptionText(questionMap.get(response.questionId), questionMap.get(response.questionId)?.correctOptionId ?? null) }}
             </p>
           </div>
 
-          <p class="text-sm text-muted">
-            {{ questionMap.get(response.questionId)?.explanation }}
+          <p
+            v-if="getExplanation(response.questionId)"
+            class="text-sm text-muted"
+          >
+            {{ getExplanation(response.questionId) }}
           </p>
         </div>
       </UCard>

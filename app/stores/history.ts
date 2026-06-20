@@ -41,6 +41,16 @@ export const useHistoryStore = defineStore('history', {
 
     getAttemptById: (state) => {
       return (attemptId: string) => state.attempts.find(attempt => attempt.attemptId === attemptId)
+    },
+
+    hasPassedSubject: (state) => {
+      return (subjectId: string, passThreshold: number) => {
+        return state.attempts.some(
+          attempt =>
+            attempt.subjectId === subjectId
+            && (attempt.passed || attempt.scorePercent >= passThreshold)
+        )
+      }
     }
   },
 

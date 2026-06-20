@@ -4,20 +4,47 @@
     "name": "Managerial Accounting",
     "description": "Practice managerial accounting concepts including cost behavior, budgeting, and variance analysis.",
     "passThreshold": 70,
-    "questionFile": "subjects/ekma4213.json"
+    "questionFile": "subjects/ekma4213.json",
+    "category": "kuliah"
   },
   {
     "id": "math101",
     "name": "Calculus Fundamentals",
     "description": "Core calculus topics: limits, derivatives, and integrals with formula-based questions.",
     "passThreshold": 75,
-    "questionFile": "subjects/math101.json"
+    "questionFile": "subjects/math101.json",
+    "category": "kuliah"
   },
   {
     "id": "ebma4111",
     "name": "MATEMATIKA EKONOMI",
     "description": "Universitas Terbuka — EBMA4111 Matematika Ekonomi. Latihan soal fungsi, turunan, matriks, keseimbangan pasar, bunga majemuk, nilai sekarang, dan program linier.",
     "passThreshold": 70,
-    "questionFile": "subjects/ebma4111.json"
+    "questionFile": "subjects/ebma4111.json",
+    "category": "kuliah"
+  },
+  {
+    "id": "english-l1",
+    "name": "Bahasa Inggris Level 1",
+    "description": "Elementary 1 — Present Continuous, Can/Can't, Possessive & Object Pronouns. Kosakata: pakaian, bagian tubuh, olahraga, sekolah.",
+    "passThreshold": 70,
+    "questionFile": "subjects/english-l1.json",
+    "category": "bahasa"
+  },
+  {
+    "id": "english-l2",
+    "name": "Bahasa Inggris Level 2",
+    "description": "Elementary 2 — Simple Past, Regular & Irregular Verbs, Time Expressions. Kosakata: liburan, pengalaman, peristiwa masa lalu.",
+    "passThreshold": 70,
+    "questionFile": "subjects/english-l2.json",
+    "category": "bahasa"
+  },
+  {
+    "id": "english-l3",
+    "name": "Bahasa Inggris Level 3",
+    "description": "Elementary 3 — Future (Will), Be Going To, Comparative & Superlative Adjectives. Kosakata: teknologi, pekerjaan, pendidikan, impian dan tujuan.",
+    "passThreshold": 70,
+    "questionFile": "subjects/english-l3.json",
+    "category": "bahasa"
   }
 ]

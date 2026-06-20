@@ -4,6 +4,7 @@ import {
   calculateScorePercent,
   determinePass,
   prepareExamQuestions,
+  resolveTimeLimitMinutes,
   shuffleArray
 } from '~/utils/exam'
 import type { Question, QuestionSessionState } from '~/types/exam'
@@ -84,5 +85,12 @@ describe('exam utils', () => {
     const output = shuffleArray(input)
     expect(output).toHaveLength(5)
     expect(output.sort()).toEqual(input.sort())
+  })
+
+  it('resolves time limit from question count with 40-minute default cap', () => {
+    expect(resolveTimeLimitMinutes(50)).toBe(40)
+    expect(resolveTimeLimitMinutes(3)).toBe(10)
+    expect(resolveTimeLimitMinutes(0)).toBe(40)
+    expect(resolveTimeLimitMinutes(50, 60)).toBe(60)
   })
 })

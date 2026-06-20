@@ -1,9 +1,14 @@
+export type SubjectCategory = 'kuliah' | 'bahasa'
+
 export interface SubjectManifestEntry {
   id: string
   name: string
   description: string
   passThreshold: number
   questionFile: string
+  category: SubjectCategory
+  /** Override exam duration in minutes; defaults to computed value capped at 40 */
+  timeLimitMinutes?: number
 }
 
 export interface QuestionOption {
@@ -55,4 +60,5 @@ export interface QuestionSessionState {
   wasSkipped: boolean
 }
 
-export const EXAM_DURATION_SECONDS = 40 * 60
+export const DEFAULT_TIME_LIMIT_MINUTES = 40
+export const EXAM_DURATION_SECONDS = DEFAULT_TIME_LIMIT_MINUTES * 60

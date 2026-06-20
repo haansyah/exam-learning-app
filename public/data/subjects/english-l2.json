@@ -1,0 +1,1205 @@
+{
+  "subjectId": "english-l2",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Lengkapi: 'She ___ to the market yesterday.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "go"
+        },
+        {
+          "id": "b",
+          "text": "goes"
+        },
+        {
+          "id": "c",
+          "text": "went"
+        },
+        {
+          "id": "d",
+          "text": "going"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Simple past dari 'go' adalah 'went': She went to the market yesterday."
+    },
+    {
+      "id": "q2",
+      "text": "Lengkapi: 'We ___ a movie last night.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "watch"
+        },
+        {
+          "id": "b",
+          "text": "watched"
+        },
+        {
+          "id": "c",
+          "text": "watching"
+        },
+        {
+          "id": "d",
+          "text": "watches"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kata kerja beraturan: tambahkan -ed. 'watch' → 'watched'."
+    },
+    {
+      "id": "q3",
+      "text": "Manakah kalimat simple past yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He eat rice yesterday."
+        },
+        {
+          "id": "b",
+          "text": "He ate rice yesterday."
+        },
+        {
+          "id": "c",
+          "text": "He eating rice yesterday."
+        },
+        {
+          "id": "d",
+          "text": "He eats rice yesterday."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Simple past: He ate rice yesterday. 'Yesterday' menandakan masa lalu."
+    },
+    {
+      "id": "q4",
+      "text": "Lengkapi: 'They ___ happy at the party.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "were"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Simple past dari 'are' adalah 'were': They were happy."
+    },
+    {
+      "id": "q5",
+      "text": "Lengkapi: 'I ___ at home last Sunday.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "am"
+        },
+        {
+          "id": "b",
+          "text": "was"
+        },
+        {
+          "id": "c",
+          "text": "were"
+        },
+        {
+          "id": "d",
+          "text": "be"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Simple past dari 'am/is' adalah 'was': I was at home."
+    },
+    {
+      "id": "q6",
+      "text": "Pertanyaan simple past yang benar: '___ you visit Bali last year?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Do"
+        },
+        {
+          "id": "b",
+          "text": "Did"
+        },
+        {
+          "id": "c",
+          "text": "Does"
+        },
+        {
+          "id": "d",
+          "text": "Are"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Pertanyaan simple past menggunakan 'Did' + subjek + verb 1: Did you visit Bali?"
+    },
+    {
+      "id": "q7",
+      "text": "Bentuk negatif: 'She ___ come to school yesterday.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "don't"
+        },
+        {
+          "id": "b",
+          "text": "doesn't"
+        },
+        {
+          "id": "c",
+          "text": "didn't"
+        },
+        {
+          "id": "d",
+          "text": "wasn't"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Negatif simple past: didn't + verb 1. She didn't come."
+    },
+    {
+      "id": "q8",
+      "text": "Bentuk past tense dari 'play' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "plaied"
+        },
+        {
+          "id": "b",
+          "text": "played"
+        },
+        {
+          "id": "c",
+          "text": "playd"
+        },
+        {
+          "id": "d",
+          "text": "playing"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kata kerja beraturan: play + ed = played."
+    },
+    {
+      "id": "q9",
+      "text": "Bentuk past tense dari 'clean' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "cleaned"
+        },
+        {
+          "id": "b",
+          "text": "cleant"
+        },
+        {
+          "id": "c",
+          "text": "cleaning"
+        },
+        {
+          "id": "d",
+          "text": "cleans"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Clean + ed = cleaned."
+    },
+    {
+      "id": "q10",
+      "text": "Bentuk past tense dari 'study' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "studyed"
+        },
+        {
+          "id": "b",
+          "text": "studied"
+        },
+        {
+          "id": "c",
+          "text": "studing"
+        },
+        {
+          "id": "d",
+          "text": "studys"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kata berakhiran -y: ubah y jadi i + ed → studied."
+    },
+    {
+      "id": "q11",
+      "text": "Bentuk past tense dari 'stop' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "stoped"
+        },
+        {
+          "id": "b",
+          "text": "stopped"
+        },
+        {
+          "id": "c",
+          "text": "stopping"
+        },
+        {
+          "id": "d",
+          "text": "stops"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kata satu suku kata berakhiran konsonan-vokal-konsonan: gandakan konsonan + ed → stopped."
+    },
+    {
+      "id": "q12",
+      "text": "Manakah pasangan verb-past tense yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "walk → walked"
+        },
+        {
+          "id": "b",
+          "text": "walk → walkt"
+        },
+        {
+          "id": "c",
+          "text": "walk → walking"
+        },
+        {
+          "id": "d",
+          "text": "walk → walks"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Walk adalah kata kerja beraturan: walk → walked."
+    },
+    {
+      "id": "q13",
+      "text": "Bentuk past tense dari 'help' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "helped"
+        },
+        {
+          "id": "b",
+          "text": "helpt"
+        },
+        {
+          "id": "c",
+          "text": "helping"
+        },
+        {
+          "id": "d",
+          "text": "helps"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Help + ed = helped."
+    },
+    {
+      "id": "q14",
+      "text": "Bentuk past tense dari 'eat' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "eated"
+        },
+        {
+          "id": "b",
+          "text": "ate"
+        },
+        {
+          "id": "c",
+          "text": "eaten"
+        },
+        {
+          "id": "d",
+          "text": "eating"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Eat' adalah kata kerja tidak beraturan: eat → ate."
+    },
+    {
+      "id": "q15",
+      "text": "Bentuk past tense dari 'see' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "seed"
+        },
+        {
+          "id": "b",
+          "text": "saw"
+        },
+        {
+          "id": "c",
+          "text": "seen"
+        },
+        {
+          "id": "d",
+          "text": "seeing"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "See → saw (tidak beraturan)."
+    },
+    {
+      "id": "q16",
+      "text": "Bentuk past tense dari 'buy' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "buyed"
+        },
+        {
+          "id": "b",
+          "text": "bought"
+        },
+        {
+          "id": "c",
+          "text": "buying"
+        },
+        {
+          "id": "d",
+          "text": "buys"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Buy → bought (tidak beraturan)."
+    },
+    {
+      "id": "q17",
+      "text": "Bentuk past tense dari 'write' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "writed"
+        },
+        {
+          "id": "b",
+          "text": "wrote"
+        },
+        {
+          "id": "c",
+          "text": "written"
+        },
+        {
+          "id": "d",
+          "text": "writing"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Write → wrote (tidak beraturan)."
+    },
+    {
+      "id": "q18",
+      "text": "Bentuk past tense dari 'take' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "taked"
+        },
+        {
+          "id": "b",
+          "text": "took"
+        },
+        {
+          "id": "c",
+          "text": "taken"
+        },
+        {
+          "id": "d",
+          "text": "taking"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Take → took (tidak beraturan)."
+    },
+    {
+      "id": "q19",
+      "text": "Bentuk past tense dari 'come' adalah...",
+      "options": [
+        {
+          "id": "a",
+          "text": "comed"
+        },
+        {
+          "id": "b",
+          "text": "came"
+        },
+        {
+          "id": "c",
+          "text": "coming"
+        },
+        {
+          "id": "d",
+          "text": "comes"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Come → came (tidak beraturan)."
+    },
+    {
+      "id": "q20",
+      "text": "Manakah pasangan yang benar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "go → went"
+        },
+        {
+          "id": "b",
+          "text": "go → goed"
+        },
+        {
+          "id": "c",
+          "text": "go → gone"
+        },
+        {
+          "id": "d",
+          "text": "go → going"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Go → went adalah bentuk past tense yang benar."
+    },
+    {
+      "id": "q21",
+      "text": "Kata 'yesterday' berarti...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Besok"
+        },
+        {
+          "id": "b",
+          "text": "Kemarin"
+        },
+        {
+          "id": "c",
+          "text": "Hari ini"
+        },
+        {
+          "id": "d",
+          "text": "Minggu lalu"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Yesterday' = kemarin."
+    },
+    {
+      "id": "q22",
+      "text": "Kata 'last week' berarti...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Minggu depan"
+        },
+        {
+          "id": "b",
+          "text": "Minggu ini"
+        },
+        {
+          "id": "c",
+          "text": "Minggu lalu"
+        },
+        {
+          "id": "d",
+          "text": "Setiap minggu"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Last week' = minggu lalu."
+    },
+    {
+      "id": "q23",
+      "text": "Manakah time expression yang digunakan dengan simple past?",
+      "options": [
+        {
+          "id": "a",
+          "text": "tomorrow"
+        },
+        {
+          "id": "b",
+          "text": "next year"
+        },
+        {
+          "id": "c",
+          "text": "two days ago"
+        },
+        {
+          "id": "d",
+          "text": "every day"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Two days ago' (dua hari yang lalu) digunakan dengan simple past."
+    },
+    {
+      "id": "q24",
+      "text": "Kata 'last night' berarti...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Malam ini"
+        },
+        {
+          "id": "b",
+          "text": "Tadi malam"
+        },
+        {
+          "id": "c",
+          "text": "Besok malam"
+        },
+        {
+          "id": "d",
+          "text": "Setiap malam"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Last night' = tadi malam/kemarin malam."
+    },
+    {
+      "id": "q25",
+      "text": "Kata 'ago' digunakan untuk...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Masa depan"
+        },
+        {
+          "id": "b",
+          "text": "Masa sekarang"
+        },
+        {
+          "id": "c",
+          "text": "Masa lalu (berapa waktu yang lalu)"
+        },
+        {
+          "id": "d",
+          "text": "Kebiasaan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Ago' menunjukkan waktu di masa lalu: three years ago = tiga tahun yang lalu."
+    },
+    {
+      "id": "q26",
+      "text": "Apa bahasa Inggris untuk 'liburan'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "vacation/holiday"
+        },
+        {
+          "id": "b",
+          "text": "work"
+        },
+        {
+          "id": "c",
+          "text": "school"
+        },
+        {
+          "id": "d",
+          "text": "meeting"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Vacation' (US) atau 'holiday' (UK) berarti liburan."
+    },
+    {
+      "id": "q27",
+      "text": "Apa bahasa Inggris untuk 'pantai'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "beach"
+        },
+        {
+          "id": "b",
+          "text": "mountain"
+        },
+        {
+          "id": "c",
+          "text": "forest"
+        },
+        {
+          "id": "d",
+          "text": "lake"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Beach' berarti pantai."
+    },
+    {
+      "id": "q28",
+      "text": "Apa bahasa Inggris untuk 'hotel'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "hotel"
+        },
+        {
+          "id": "b",
+          "text": "hostel"
+        },
+        {
+          "id": "c",
+          "text": "resort"
+        },
+        {
+          "id": "d",
+          "text": "Semua benar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Hotel, hostel, dan resort semuanya tempat menginap saat liburan."
+    },
+    {
+      "id": "q29",
+      "text": "Apa bahasa Inggris untuk 'tiket'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "ticket"
+        },
+        {
+          "id": "b",
+          "text": "passport"
+        },
+        {
+          "id": "c",
+          "text": "visa"
+        },
+        {
+          "id": "d",
+          "text": "luggage"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Ticket' berarti tiket."
+    },
+    {
+      "id": "q30",
+      "text": "Apa bahasa Inggris untuk 'paspor'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "passport"
+        },
+        {
+          "id": "b",
+          "text": "ticket"
+        },
+        {
+          "id": "c",
+          "text": "map"
+        },
+        {
+          "id": "d",
+          "text": "camera"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Passport' berarti paspor."
+    },
+    {
+      "id": "q31",
+      "text": "Apa bahasa Inggris untuk 'koper'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "suitcase/luggage"
+        },
+        {
+          "id": "b",
+          "text": "backpack"
+        },
+        {
+          "id": "c",
+          "text": "wallet"
+        },
+        {
+          "id": "d",
+          "text": "purse"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Suitcase' atau 'luggage' berarti koper/bagasi."
+    },
+    {
+      "id": "q32",
+      "text": "Apa bahasa Inggris untuk 'berwisata'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "travel/tour"
+        },
+        {
+          "id": "b",
+          "text": "work"
+        },
+        {
+          "id": "c",
+          "text": "study"
+        },
+        {
+          "id": "d",
+          "text": "sleep"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Travel' atau 'go on a tour' berarti berwisata."
+    },
+    {
+      "id": "q33",
+      "text": "Apa bahasa Inggris untuk 'gunung'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "mountain"
+        },
+        {
+          "id": "b",
+          "text": "hill"
+        },
+        {
+          "id": "c",
+          "text": "valley"
+        },
+        {
+          "id": "d",
+          "text": "river"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Mountain' berarti gunung."
+    },
+    {
+      "id": "q34",
+      "text": "Lengkapi: 'I ___ a great time at the beach.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "had"
+        },
+        {
+          "id": "c",
+          "text": "has"
+        },
+        {
+          "id": "d",
+          "text": "having"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Cerita pengalaman masa lalu: I had a great time."
+    },
+    {
+      "id": "q35",
+      "text": "Lengkapi: 'We ___ many photos during the trip.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "take"
+        },
+        {
+          "id": "b",
+          "text": "took"
+        },
+        {
+          "id": "c",
+          "text": "takes"
+        },
+        {
+          "id": "d",
+          "text": "taking"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Take → took (irregular). We took many photos."
+    },
+    {
+      "id": "q36",
+      "text": "Lengkapi: 'She ___ delicious local food.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "eat"
+        },
+        {
+          "id": "b",
+          "text": "ate"
+        },
+        {
+          "id": "c",
+          "text": "eats"
+        },
+        {
+          "id": "d",
+          "text": "eating"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Eat → ate. She ate delicious local food."
+    },
+    {
+      "id": "q37",
+      "text": "Apa bahasa Inggris untuk 'pengalaman'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "experience"
+        },
+        {
+          "id": "b",
+          "text": "experiment"
+        },
+        {
+          "id": "c",
+          "text": "expert"
+        },
+        {
+          "id": "d",
+          "text": "explain"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Experience' berarti pengalaman."
+    },
+    {
+      "id": "q38",
+      "text": "Lengkapi: 'They ___ new friends at the camp.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "make"
+        },
+        {
+          "id": "b",
+          "text": "made"
+        },
+        {
+          "id": "c",
+          "text": "makes"
+        },
+        {
+          "id": "d",
+          "text": "making"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Make → made. They made new friends."
+    },
+    {
+      "id": "q39",
+      "text": "Lengkapi: 'He ___ a souvenir for his mother.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "buy"
+        },
+        {
+          "id": "b",
+          "text": "bought"
+        },
+        {
+          "id": "c",
+          "text": "buys"
+        },
+        {
+          "id": "d",
+          "text": "buying"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Buy → bought. He bought a souvenir."
+    },
+    {
+      "id": "q40",
+      "text": "Apa bahasa Inggris untuk 'menikmati'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "enjoy"
+        },
+        {
+          "id": "b",
+          "text": "enjoyed"
+        },
+        {
+          "id": "c",
+          "text": "enjoying"
+        },
+        {
+          "id": "d",
+          "text": "enjoyment"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Enjoy' berarti menikmati. Past tense: enjoyed."
+    },
+    {
+      "id": "q41",
+      "text": "Lengkapi: 'It ___ the best vacation ever!'",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "was"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "were"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Menceritakan pengalaman liburan masa lalu: It was the best vacation ever!"
+    },
+    {
+      "id": "q42",
+      "text": "Apa bahasa Inggris untuk 'kenangan'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "memory"
+        },
+        {
+          "id": "b",
+          "text": "moment"
+        },
+        {
+          "id": "c",
+          "text": "message"
+        },
+        {
+          "id": "d",
+          "text": "money"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Memory' berarti kenangan."
+    },
+    {
+      "id": "q43",
+      "text": "Lengkapi: 'The concert ___ last Saturday.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "start"
+        },
+        {
+          "id": "b",
+          "text": "started"
+        },
+        {
+          "id": "c",
+          "text": "starts"
+        },
+        {
+          "id": "d",
+          "text": "starting"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Peristiwa masa lalu: The concert started last Saturday."
+    },
+    {
+      "id": "q44",
+      "text": "Lengkapi: 'My birthday ___ on March 10th.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "was"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "were"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Ulang tahun yang sudah lewat: My birthday was on March 10th."
+    },
+    {
+      "id": "q45",
+      "text": "Apa bahasa Inggris untuk 'peristiwa/acara'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "event"
+        },
+        {
+          "id": "b",
+          "text": "evening"
+        },
+        {
+          "id": "c",
+          "text": "ever"
+        },
+        {
+          "id": "d",
+          "text": "every"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Event' berarti peristiwa/acara."
+    },
+    {
+      "id": "q46",
+      "text": "Lengkapi: 'The school ___ a sports day last month.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "hold"
+        },
+        {
+          "id": "b",
+          "text": "held"
+        },
+        {
+          "id": "c",
+          "text": "holds"
+        },
+        {
+          "id": "d",
+          "text": "holding"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Hold → held. The school held a sports day."
+    },
+    {
+      "id": "q47",
+      "text": "Lengkapi: 'It ___ heavily during the storm.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "rain"
+        },
+        {
+          "id": "b",
+          "text": "rained"
+        },
+        {
+          "id": "c",
+          "text": "rains"
+        },
+        {
+          "id": "d",
+          "text": "raining"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Peristiwa cuaca masa lalu: It rained heavily."
+    },
+    {
+      "id": "q48",
+      "text": "Apa bahasa Inggris untuk 'tahun lalu'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "last year"
+        },
+        {
+          "id": "b",
+          "text": "next year"
+        },
+        {
+          "id": "c",
+          "text": "this year"
+        },
+        {
+          "id": "d",
+          "text": "every year"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Last year' berarti tahun lalu."
+    },
+    {
+      "id": "q49",
+      "text": "Lengkapi: 'The team ___ the championship.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "win"
+        },
+        {
+          "id": "b",
+          "text": "won"
+        },
+        {
+          "id": "c",
+          "text": "wins"
+        },
+        {
+          "id": "d",
+          "text": "winning"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Win → won. The team won the championship."
+    },
+    {
+      "id": "q50",
+      "text": "Lengkapi: 'Everyone ___ when the power went out.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "surprise"
+        },
+        {
+          "id": "b",
+          "text": "surprised"
+        },
+        {
+          "id": "c",
+          "text": "was surprised"
+        },
+        {
+          "id": "d",
+          "text": "surprising"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Peristiwa masa lalu: Everyone was surprised when the power went out."
+    }
+  ]
+}
