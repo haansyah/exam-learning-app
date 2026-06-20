@@ -29,7 +29,10 @@ const emit = defineEmits<{
         >
           <FormulaText :content="question.text" />
         </p>
-        <p v-else class="text-lg font-medium">
+        <p
+          v-else
+          class="text-lg font-medium"
+        >
           {{ question.text }}
         </p>
       </div>

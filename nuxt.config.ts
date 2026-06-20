@@ -4,9 +4,6 @@ const githubPagesBaseUrl = process.env.NUXT_APP_BASE_URL || '/'
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  app: {
-    baseURL: githubPagesBaseUrl
-  },
 
   modules: [
     '@nuxt/eslint',
@@ -16,6 +13,23 @@ export default defineNuxtConfig({
   ],
 
   ssr: true,
+
+  devtools: {
+    enabled: true
+  },
+  app: {
+    baseURL: githubPagesBaseUrl
+  },
+
+  css: ['~/assets/css/main.css', 'katex/dist/katex.min.css'],
+
+  routeRules: {
+    '/**': { prerender: true },
+    '/subjects/**/exam': { ssr: false, prerender: false },
+    '/subjects/**/result/**': { ssr: false, prerender: false }
+  },
+
+  compatibilityDate: '2025-01-15',
 
   nitro: {
     preset: 'static',
@@ -29,20 +43,6 @@ export default defineNuxtConfig({
       ]
     }
   },
-
-  devtools: {
-    enabled: true
-  },
-
-  css: ['~/assets/css/main.css', 'katex/dist/katex.min.css'],
-
-  routeRules: {
-    '/**': { prerender: true },
-    '/subjects/**/exam': { ssr: false, prerender: false },
-    '/subjects/**/result/**': { ssr: false, prerender: false }
-  },
-
-  compatibilityDate: '2025-01-15',
 
   eslint: {
     config: {

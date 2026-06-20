@@ -10,7 +10,9 @@ if (import.meta.client) {
       needRefresh.value = true
     }
   })
-  watch(refresh, value => { needRefresh.value = value }, { immediate: true })
+  watch(refresh, (value) => {
+    needRefresh.value = value
+  }, { immediate: true })
   updateServiceWorker.value = update
 }
 
