@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ekma4213",
+    "name": "Managerial Accounting",
+    "description": "Practice managerial accounting concepts including cost behavior, budgeting, and variance analysis.",
+    "passThreshold": 70,
+    "questionFile": "subjects/ekma4213.json"
+  },
+  {
+    "id": "math101",
+    "name": "Calculus Fundamentals",
+    "description": "Core calculus topics: limits, derivatives, and integrals with formula-based questions.",
+    "passThreshold": 75,
+    "questionFile": "subjects/math101.json"
+  },
+  {
+    "id": "ebma4111",
+    "name": "MATEMATIKA EKONOMI",
+    "description": "Universitas Terbuka — EBMA4111 Matematika Ekonomi. Latihan soal fungsi, turunan, matriks, keseimbangan pasar, bunga majemuk, nilai sekarang, dan program linier.",
+    "passThreshold": 70,
+    "questionFile": "subjects/ebma4111.json"
+  }
+]

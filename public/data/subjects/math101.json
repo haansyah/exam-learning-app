@@ -1,0 +1,44 @@
+{
+  "subjectId": "math101",
+  "questions": [
+    {
+      "id": "m1",
+      "text": "What is the derivative of x^2?",
+      "isFormula": false,
+      "options": [
+        { "id": "a", "text": "x", "isFormula": false },
+        { "id": "b", "text": "2x", "isFormula": true },
+        { "id": "c", "text": "x^3", "isFormula": true },
+        { "id": "d", "text": "2", "isFormula": false }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Using the power rule, d/dx(x^n) = n·x^(n-1), so d/dx(x^2) = 2x."
+    },
+    {
+      "id": "m2",
+      "text": "Evaluate the limit: \\lim_{x \\to 0} \\frac{\\sin x}{x}",
+      "isFormula": true,
+      "options": [
+        { "id": "a", "text": "0", "isFormula": false },
+        { "id": "b", "text": "1", "isFormula": false },
+        { "id": "c", "text": "\\infty", "isFormula": true },
+        { "id": "d", "text": "undefined", "isFormula": false }
+      ],
+      "correctOptionId": "b",
+      "explanation": "This is a standard limit: lim(x→0) sin(x)/x = 1."
+    },
+    {
+      "id": "m3",
+      "text": "What is \\int x \\, dx?",
+      "isFormula": true,
+      "options": [
+        { "id": "a", "text": "x^2", "isFormula": true },
+        { "id": "b", "text": "\\frac{x^2}{2} + C", "isFormula": true },
+        { "id": "c", "text": "2x + C", "isFormula": true },
+        { "id": "d", "text": "\\ln x + C", "isFormula": true }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The integral of x is x²/2 plus the constant of integration C."
+    }
+  ]
+}

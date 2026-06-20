@@ -1,0 +1,65 @@
+{
+  "subjectId": "ekma4213",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Which cost remains constant in total regardless of production volume within the relevant range?",
+      "options": [
+        { "id": "a", "text": "Variable cost" },
+        { "id": "b", "text": "Fixed cost" },
+        { "id": "c", "text": "Mixed cost" },
+        { "id": "d", "text": "Step cost" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Fixed costs stay constant in total within the relevant range, while variable costs change proportionally with activity."
+    },
+    {
+      "id": "q2",
+      "text": "What does a favorable direct materials price variance indicate?",
+      "options": [
+        { "id": "a", "text": "Materials were purchased at a lower price than standard" },
+        { "id": "b", "text": "More materials were used than expected" },
+        { "id": "c", "text": "Labor efficiency improved" },
+        { "id": "d", "text": "Overhead was under-applied" }
+      ],
+      "correctOptionId": "a",
+      "explanation": "A favorable price variance means the actual purchase price was less than the standard price."
+    },
+    {
+      "id": "q3",
+      "text": "In activity-based costing, costs are allocated using:",
+      "options": [
+        { "id": "a", "text": "Only direct labor hours" },
+        { "id": "b", "text": "Multiple cost drivers" },
+        { "id": "c", "text": "Sales revenue" },
+        { "id": "d", "text": "Machine hours only" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "ABC uses multiple activity-based cost drivers to allocate overhead more accurately than a single volume-based driver."
+    },
+    {
+      "id": "q4",
+      "text": "Contribution margin per unit equals:",
+      "options": [
+        { "id": "a", "text": "Sales price minus variable cost per unit" },
+        { "id": "b", "text": "Sales price minus total cost" },
+        { "id": "c", "text": "Fixed cost divided by units sold" },
+        { "id": "d", "text": "Gross profit minus operating expenses" }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Contribution margin per unit is selling price per unit minus variable cost per unit."
+    },
+    {
+      "id": "q5",
+      "text": "A master budget typically includes:",
+      "options": [
+        { "id": "a", "text": "Only the cash budget" },
+        { "id": "b", "text": "Operating and financial budgets" },
+        { "id": "c", "text": "Only capital expenditures" },
+        { "id": "d", "text": "Only the sales forecast" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The master budget integrates operating budgets (sales, production, etc.) and financial budgets (cash, capital)."
+    }
+  ]
+}

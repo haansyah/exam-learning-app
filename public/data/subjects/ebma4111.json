@@ -1,0 +1,132 @@
+{
+  "subjectId": "ebma4111",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Fungsi permintaan suatu barang dinyatakan sebagai Q = 100 - 2P. Berapakah kuantitas yang diminta jika harga P = 20?",
+      "options": [
+        { "id": "a", "text": "40" },
+        { "id": "b", "text": "60" },
+        { "id": "c", "text": "80" },
+        { "id": "d", "text": "100" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Substitusi P = 20 ke Q = 100 - 2P menghasilkan Q = 100 - 2(20) = 100 - 40 = 60."
+    },
+    {
+      "id": "q2",
+      "text": "Jika fungsi biaya total C(x) = 3x^2 + 12x + 50, berapakah biaya marjinal pada x = 5?",
+      "isFormula": true,
+      "options": [
+        { "id": "a", "text": "30", "isFormula": false },
+        { "id": "b", "text": "42", "isFormula": false },
+        { "id": "c", "text": "47", "isFormula": false },
+        { "id": "d", "text": "50", "isFormula": false }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Biaya marjinal adalah turunan C'(x) = 6x + 12. Pada x = 5: C'(5) = 6(5) + 12 = 30 + 12 = 42."
+    },
+    {
+      "id": "q3",
+      "text": "Fungsi laba L(x) = -2x^2 + 80x - 300. Pada berapa unit produksi laba maksimum tercapai?",
+      "isFormula": true,
+      "options": [
+        { "id": "a", "text": "10" },
+        { "id": "b", "text": "20" },
+        { "id": "c", "text": "40" },
+        { "id": "d", "text": "80" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Laba maksimum dicapai saat L'(x) = 0. L'(x) = -4x + 80 = 0, sehingga x = 20."
+    },
+    {
+      "id": "q4",
+      "text": "Koefisien elastisitas permintaan dihitung dengan rumus:",
+      "isFormula": true,
+      "options": [
+        { "id": "a", "text": "\\frac{\\Delta Q}{\\Delta P}", "isFormula": true },
+        { "id": "b", "text": "\\frac{\\Delta P}{\\Delta Q} \\cdot \\frac{Q}{P}", "isFormula": true },
+        { "id": "c", "text": "\\frac{\\Delta Q}{\\Delta P} \\cdot \\frac{P}{Q}", "isFormula": true },
+        { "id": "d", "text": "\\frac{P}{Q} \\cdot \\frac{\\Delta P}{\\Delta Q}", "isFormula": true }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Elastisitas permintaan arc adalah (ΔQ/ΔP) × (P/Q), yaitu perubahan relatif kuantitas dibagi perubahan relatif harga."
+    },
+    {
+      "id": "q5",
+      "text": "Hasil perkalian matriks \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} \\times \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} adalah:",
+      "isFormula": true,
+      "options": [
+        { "id": "a", "text": "\\begin{pmatrix} 4 \\\\ 11 \\end{pmatrix}", "isFormula": true },
+        { "id": "b", "text": "\\begin{pmatrix} 3 \\\\ 7 \\end{pmatrix}", "isFormula": true },
+        { "id": "c", "text": "\\begin{pmatrix} 4 \\\\ 7 \\end{pmatrix}", "isFormula": true },
+        { "id": "d", "text": "\\begin{pmatrix} 5 \\\\ 11 \\end{pmatrix}", "isFormula": true }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Baris pertama: 2(1) + 1(2) = 4. Baris kedua: 3(1) + 4(2) = 3 + 8 = 11. Hasilnya [4, 11]^T."
+    },
+    {
+      "id": "q6",
+      "text": "Diketahui persamaan penawaran Q_s = 2P - 10 dan permintaan Q_d = 50 - P. Harga keseimbangan pasar adalah:",
+      "isFormula": true,
+      "options": [
+        { "id": "a", "text": "P = 15" },
+        { "id": "b", "text": "P = 20" },
+        { "id": "c", "text": "P = 25" },
+        { "id": "d", "text": "P = 30" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Pada keseimbangan Q_s = Q_d: 2P - 10 = 50 - P → 3P = 60 → P = 20."
+    },
+    {
+      "id": "q7",
+      "text": "Modal Rp 1.000.000 ditabung dengan bunga majemuk 10% per tahun selama 2 tahun. Berapakah jumlah akhirnya?",
+      "options": [
+        { "id": "a", "text": "Rp 1.100.000" },
+        { "id": "b", "text": "Rp 1.200.000" },
+        { "id": "c", "text": "Rp 1.210.000" },
+        { "id": "d", "text": "Rp 1.300.000" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "A = P(1 + r)^n = 1.000.000 × (1,10)^2 = 1.000.000 × 1,21 = Rp 1.210.000."
+    },
+    {
+      "id": "q8",
+      "text": "Nilai sekarang (present value) dari Rp 1.331.000 yang diterima 3 tahun mendatang dengan tingkat diskonto 10% per tahun adalah:",
+      "options": [
+        { "id": "a", "text": "Rp 900.000" },
+        { "id": "b", "text": "Rp 1.000.000" },
+        { "id": "c", "text": "Rp 1.100.000" },
+        { "id": "d", "text": "Rp 1.210.000" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "PV = FV / (1 + r)^n = 1.331.000 / (1,10)^3 = 1.331.000 / 1,331 = Rp 1.000.000."
+    },
+    {
+      "id": "q9",
+      "text": "Jika fungsi produksi Q(L) = 5L^{0.5}, berapakah produktivitas marjinal tenaga kerja pada L = 4?",
+      "isFormula": true,
+      "options": [
+        { "id": "a", "text": "1,25", "isFormula": false },
+        { "id": "b", "text": "2,5", "isFormula": false },
+        { "id": "c", "text": "5", "isFormula": false },
+        { "id": "d", "text": "10", "isFormula": false }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Produktivitas marjinal adalah Q'(L) = 2,5L^{-0,5}. Pada L = 4: Q'(4) = 2,5 / \\sqrt{4} = 2,5 / 2 = 1,25."
+    },
+    {
+      "id": "q10",
+      "text": "Dalam program linier, titik yang memenuhi kendala x \\geq 0, y \\geq 0, x + y \\leq 10, dan 2x + y \\leq 16 terletak di wilayah:",
+      "isFormula": true,
+      "options": [
+        { "id": "a", "text": "Di luar kuadran pertama" },
+        { "id": "b", "text": "Di dalam atau pada batas daerah layak (feasible region) di kuadran pertama" },
+        { "id": "c", "text": "Hanya pada sumbu x" },
+        { "id": "d", "text": "Hanya pada garis x + y = 10" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kendala non-negatif dan pertidaksamaan linear membentuk daerah layak (feasible region) di kuadran pertama. Titik yang memenuhi semua kendala berada di dalam atau pada batas wilayah tersebut."
+    }
+  ]
+}
