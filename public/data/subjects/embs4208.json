@@ -1,0 +1,1211 @@
+{
+  "subjectId": "embs4208",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Dalam teori probabilitas, jika dua kejadian A dan B saling bebas (independent), maka hubungan yang benar adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "P(A ∩ B) = P(A) + P(B)"
+        },
+        {
+          "id": "b",
+          "text": "P(A ∩ B) = P(A) × P(B|A)"
+        },
+        {
+          "id": "c",
+          "text": "P(A ∩ B) = P(A) × P(B)"
+        },
+        {
+          "id": "d",
+          "text": "P(A ∩ B) = P(A) – P(B)"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Kejadian independen: P(A ∩ B) = P(A) × P(B).",
+      "isFormula": true
+    },
+    {
+      "id": "q2",
+      "text": "Kurva normal standar memiliki nilai rata-rata (mean) dan standar deviasi berturut-turut sebesar…",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 dan 0"
+        },
+        {
+          "id": "b",
+          "text": "0 dan 1"
+        },
+        {
+          "id": "c",
+          "text": "0 dan 0"
+        },
+        {
+          "id": "d",
+          "text": "1 dan 1"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Distribusi normal standar: μ = 0, σ = 1."
+    },
+    {
+      "id": "q3",
+      "text": "Dalam pengambilan keputusan di bawah kondisi yang pasti (certainty), pengambil keputusan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tidak mengetahui probabilitas tiap kejadian"
+        },
+        {
+          "id": "b",
+          "text": "Mengetahui secara pasti hasil dari setiap alternatif yang dipilih"
+        },
+        {
+          "id": "c",
+          "text": "Menggunakan distribusi probabilitas untuk mengevaluasi alternatif"
+        },
+        {
+          "id": "d",
+          "text": "Memilih alternatif berdasarkan kriteria maximin"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kondisi pasti: hasil setiap alternatif diketahui dengan pasti."
+    },
+    {
+      "id": "q4",
+      "text": "Metode Expected Monetary Value (EMV) digunakan dalam pengambilan keputusan pada kondisi…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pasti"
+        },
+        {
+          "id": "b",
+          "text": "Tidak pasti"
+        },
+        {
+          "id": "c",
+          "text": "Mengandung risiko"
+        },
+        {
+          "id": "d",
+          "text": "Deterministik"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "EMV digunakan saat probabilitas kejadian diketahui (decision under risk)."
+    },
+    {
+      "id": "q5",
+      "text": "Kriteria Laplace dalam pengambilan keputusan di bawah ketidakpastian mengasumsikan bahwa…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Probabilitas kejadian terburuk adalah yang tertinggi"
+        },
+        {
+          "id": "b",
+          "text": "Semua keadaan alam memiliki probabilitas yang sama"
+        },
+        {
+          "id": "c",
+          "text": "Pengambil keputusan bersifat pesimis"
+        },
+        {
+          "id": "d",
+          "text": "Hanya satu alternatif terbaik yang dipertimbangkan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kriteria Laplace: semua state of nature diasumsikan probabilitas sama."
+    },
+    {
+      "id": "q6",
+      "text": "Model persediaan Economic Order Quantity (EOQ) bertujuan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Memaksimalkan tingkat persediaan di gudang"
+        },
+        {
+          "id": "b",
+          "text": "Meminimalkan total biaya pemesanan dan biaya penyimpanan"
+        },
+        {
+          "id": "c",
+          "text": "Memaksimalkan frekuensi pemesanan"
+        },
+        {
+          "id": "d",
+          "text": "Meminimalkan waktu tunggu pengiriman"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "EOQ meminimalkan total biaya pemesanan + biaya penyimpanan."
+    },
+    {
+      "id": "q7",
+      "text": "Dalam model persediaan sederhana, reorder point (titik pemesanan kembali) ditentukan berdasarkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jumlah maksimum persediaan yang diizinkan"
+        },
+        {
+          "id": "b",
+          "text": "Biaya pemesanan per unit"
+        },
+        {
+          "id": "c",
+          "text": "Tingkat penggunaan selama lead time"
+        },
+        {
+          "id": "d",
+          "text": "Total biaya persediaan tahunan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Reorder point = permintaan selama lead time (+ safety stock jika ada)."
+    },
+    {
+      "id": "q8",
+      "text": "Safety stock dalam manajemen persediaan berfungsi untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mengurangi biaya penyimpanan"
+        },
+        {
+          "id": "b",
+          "text": "Meningkatkan frekuensi pemesanan"
+        },
+        {
+          "id": "c",
+          "text": "Mengantisipasi ketidakpastian permintaan dan waktu tunggu"
+        },
+        {
+          "id": "d",
+          "text": "Mempercepat proses produksi"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Safety stock mengantisipasi ketidakpastian permintaan dan lead time."
+    },
+    {
+      "id": "q9",
+      "text": "Dalam Linear Programming dengan metode grafik, daerah yang memenuhi semua kendala disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fungsi tujuan"
+        },
+        {
+          "id": "b",
+          "text": "Feasible region (daerah layak)"
+        },
+        {
+          "id": "c",
+          "text": "Isoprofit line"
+        },
+        {
+          "id": "d",
+          "text": "Corner point"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Feasible region = daerah yang memenuhi semua kendala LP."
+    },
+    {
+      "id": "q10",
+      "text": "Bentuk standar persoalan Linear Programming mensyaratkan bahwa semua variabel keputusan harus…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bernilai negatif"
+        },
+        {
+          "id": "b",
+          "text": "Bernilai bulat"
+        },
+        {
+          "id": "c",
+          "text": "Bernilai non-negatif"
+        },
+        {
+          "id": "d",
+          "text": "Bernilai antara 0 dan 1"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Bentuk standar LP: variabel keputusan ≥ 0."
+    },
+    {
+      "id": "q11",
+      "text": "Pada Metode Simpleks, iterasi dihentikan ketika…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Semua variabel basis bernilai nol"
+        },
+        {
+          "id": "b",
+          "text": "Semua koefisien pada baris fungsi tujuan bernilai non-negatif (untuk maksimisasi)"
+        },
+        {
+          "id": "c",
+          "text": "Terdapat koefisien negatif pada kolom pivot"
+        },
+        {
+          "id": "d",
+          "text": "Nilai fungsi tujuan mencapai nol"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Simpleks maksimisasi berhenti saat semua koefisien baris Z non-negatif."
+    },
+    {
+      "id": "q12",
+      "text": "Dalam analisis sensitivitas Linear Programming, ranging pada koefisien fungsi tujuan menunjukkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Batas perubahan nilai RHS yang tidak mengubah solusi optimal"
+        },
+        {
+          "id": "b",
+          "text": "Rentang nilai koefisien di mana solusi basis optimal tetap tidak berubah"
+        },
+        {
+          "id": "c",
+          "text": "Perubahan nilai variabel keputusan akibat perubahan kendala"
+        },
+        {
+          "id": "d",
+          "text": "Nilai dual price untuk setiap kendala"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Ranging koefisien: rentang perubahan cj tanpa mengubah basis optimal."
+    },
+    {
+      "id": "q13",
+      "text": "Metode transportasi Northwest Corner digunakan sebagai…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Solusi optimal langsung"
+        },
+        {
+          "id": "b",
+          "text": "Metode perbaikan solusi akhir"
+        },
+        {
+          "id": "c",
+          "text": "Solusi awal (initial basic feasible solution)"
+        },
+        {
+          "id": "d",
+          "text": "Penguji optimalitas"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Northwest Corner Method menghasilkan solusi awal masalah transportasi."
+    },
+    {
+      "id": "q14",
+      "text": "Kondisi degenerasi dalam masalah transportasi terjadi ketika jumlah alokasi yang terisi…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Melebihi m + n – 1"
+        },
+        {
+          "id": "b",
+          "text": "Kurang dari m + n – 1"
+        },
+        {
+          "id": "c",
+          "text": "Sama dengan m × n"
+        },
+        {
+          "id": "d",
+          "text": "Melebihi total penawaran"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Degenerasi: alokasi basis < m + n − 1."
+    },
+    {
+      "id": "q15",
+      "text": "Dalam metode MODI (Modified Distribution Method), nilai u dan v digunakan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menentukan solusi awal transportasi"
+        },
+        {
+          "id": "b",
+          "text": "Menghitung indeks perbaikan untuk sel yang tidak terisi"
+        },
+        {
+          "id": "c",
+          "text": "Menyeimbangkan penawaran dan permintaan"
+        },
+        {
+          "id": "d",
+          "text": "Menentukan variabel yang masuk ke basis"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "MODI: u dan v dipakai menghitung reduced cost/indeks perbaikan sel kosong."
+    },
+    {
+      "id": "q16",
+      "text": "Model penugasan (assignment model) merupakan kasus khusus dari model transportasi di mana…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Setiap sumber memiliki kapasitas lebih dari satu"
+        },
+        {
+          "id": "b",
+          "text": "Setiap sumber dan tujuan memiliki penawaran dan permintaan tepat satu unit"
+        },
+        {
+          "id": "c",
+          "text": "Biaya transportasi bersifat variabel"
+        },
+        {
+          "id": "d",
+          "text": "Jumlah sumber selalu lebih besar dari tujuan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Assignment: setiap baris/kolom alokasi = 1 unit (n×n)."
+    },
+    {
+      "id": "q17",
+      "text": "Algoritma Hungarian Method digunakan untuk menyelesaikan masalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Transportasi dengan kapasitas besar"
+        },
+        {
+          "id": "b",
+          "text": "Penugasan (assignment) secara optimal"
+        },
+        {
+          "id": "c",
+          "text": "Jaringan dengan aliran maksimum"
+        },
+        {
+          "id": "d",
+          "text": "Antrian dengan banyak server"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Hungarian Method menyelesaikan masalah assignment secara optimal."
+    },
+    {
+      "id": "q18",
+      "text": "Dalam teori antrian, notasi M/M/1 menggambarkan sistem antrian dengan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Banyak server, distribusi Poisson, dan kapasitas terbatas"
+        },
+        {
+          "id": "b",
+          "text": "Kedatangan Poisson, pelayanan eksponensial, dan satu server"
+        },
+        {
+          "id": "c",
+          "text": "Kedatangan deterministik dan satu server"
+        },
+        {
+          "id": "d",
+          "text": "Dua server dengan distribusi normal"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "M/M/1: kedatangan Poisson, pelayanan eksponensial, 1 server."
+    },
+    {
+      "id": "q19",
+      "text": "Parameter λ (lambda) dalam model antrian merepresentasikan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rata-rata waktu pelayanan"
+        },
+        {
+          "id": "b",
+          "text": "Jumlah server yang aktif"
+        },
+        {
+          "id": "c",
+          "text": "Rata-rata tingkat kedatangan pelanggan"
+        },
+        {
+          "id": "d",
+          "text": "Probabilitas sistem dalam keadaan kosong"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "λ = arrival rate (tingkat kedatangan pelanggan per unit waktu)."
+    },
+    {
+      "id": "q20",
+      "text": "Analisis jaringan kerja (network analysis) digunakan terutama untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mengoptimalkan alokasi persediaan"
+        },
+        {
+          "id": "b",
+          "text": "Merencanakan dan mengendalikan proyek yang kompleks"
+        },
+        {
+          "id": "c",
+          "text": "Menentukan harga jual produk"
+        },
+        {
+          "id": "d",
+          "text": "Menganalisis struktur biaya tetap"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Network analysis (CPM/PERT) untuk perencanaan dan pengendalian proyek."
+    },
+    {
+      "id": "q21",
+      "text": "Dalam jaringan kerja CPM/PERT, lintasan kritis (critical path) adalah lintasan yang…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Memiliki total float terbesar"
+        },
+        {
+          "id": "b",
+          "text": "Memiliki biaya paling rendah"
+        },
+        {
+          "id": "c",
+          "text": "Memiliki durasi terpanjang dan total float sama dengan nol"
+        },
+        {
+          "id": "d",
+          "text": "Melewati paling banyak aktivitas"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Critical path: durasi terpanjang, total float = 0."
+    },
+    {
+      "id": "q22",
+      "text": "Dalam PERT, waktu yang paling optimistis (a), paling mungkin (m), dan paling pesimistis (b) digunakan untuk menghitung…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Biaya crash aktivitas"
+        },
+        {
+          "id": "b",
+          "text": "Durasi ekspektasi aktivitas dengan rumus (a + 4m + b) / 6"
+        },
+        {
+          "id": "c",
+          "text": "Float bebas setiap aktivitas"
+        },
+        {
+          "id": "d",
+          "text": "Tingkat kepercayaan proyek"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "PERT: te = (a + 4m + b) / 6.",
+      "isFormula": true
+    },
+    {
+      "id": "q23",
+      "text": "Perpendekan waktu penyelesaian proyek (crashing) dilakukan dengan cara…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menghapus aktivitas yang tidak penting"
+        },
+        {
+          "id": "b",
+          "text": "Menambah sumber daya pada aktivitas kritis untuk mempercepat penyelesaian"
+        },
+        {
+          "id": "c",
+          "text": "Mengubah urutan aktivitas non-kritis"
+        },
+        {
+          "id": "d",
+          "text": "Mengurangi jumlah aktivitas di lintasan non-kritis"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Crashing: percepat aktivitas kritis dengan biaya tambahan."
+    },
+    {
+      "id": "q24",
+      "text": "Game Theory (Teori Permainan) dalam Riset Operasi digunakan untuk menganalisis situasi di mana…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hanya satu pemain yang membuat keputusan"
+        },
+        {
+          "id": "b",
+          "text": "Keputusan satu pemain mempengaruhi hasil pemain lain dalam situasi konflik"
+        },
+        {
+          "id": "c",
+          "text": "Semua pemain bekerja sama untuk memaksimalkan keuntungan bersama"
+        },
+        {
+          "id": "d",
+          "text": "Probabilitas setiap kejadian diketahui dengan pasti"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Game theory: keputusan satu pemain memengaruhi payoff pemain lain."
+    },
+    {
+      "id": "q25",
+      "text": "Dalam zero-sum game, jumlah keuntungan semua pemain adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Selalu positif"
+        },
+        {
+          "id": "b",
+          "text": "Selalu negatif"
+        },
+        {
+          "id": "c",
+          "text": "Selalu nol (keuntungan satu pemain = kerugian pemain lain)"
+        },
+        {
+          "id": "d",
+          "text": "Bergantung pada strategi yang dipilih"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Zero-sum: total payoff = 0 (satu menang, satu kalah)."
+    },
+    {
+      "id": "q26",
+      "text": "Saddle point (titik pelana) dalam game theory terjadi ketika…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nilai maksimin sama dengan nilai minimax"
+        },
+        {
+          "id": "b",
+          "text": "Kedua pemain memilih strategi campuran"
+        },
+        {
+          "id": "c",
+          "text": "Salah satu pemain mendominasi permainan"
+        },
+        {
+          "id": "d",
+          "text": "Nilai permainan sama dengan nol"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Saddle point: maxi-min = mini-max."
+    },
+    {
+      "id": "q27",
+      "text": "Integer Programming digunakan ketika…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Semua variabel keputusan harus bernilai kontinu"
+        },
+        {
+          "id": "b",
+          "text": "Fungsi tujuan bersifat nonlinear"
+        },
+        {
+          "id": "c",
+          "text": "Variabel keputusan harus bernilai bilangan bulat"
+        },
+        {
+          "id": "d",
+          "text": "Terdapat kendala probabilistik dalam model"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Integer programming: variabel keputusan harus bilangan bulat."
+    },
+    {
+      "id": "q28",
+      "text": "Dalam distribusi normal, sekitar berapa persen data berada dalam rentang μ ± 2σ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "68,27%"
+        },
+        {
+          "id": "b",
+          "text": "90,00%"
+        },
+        {
+          "id": "c",
+          "text": "99,73%"
+        },
+        {
+          "id": "d",
+          "text": "95,45%"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Aturan empiris: μ ± 2σ mencakup ~95,45% data.",
+      "isFormula": true
+    },
+    {
+      "id": "q29",
+      "text": "Teorema Bayes digunakan dalam Riset Operasi untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menghitung nilai Z pada distribusi normal"
+        },
+        {
+          "id": "b",
+          "text": "Merevisi probabilitas awal berdasarkan informasi baru"
+        },
+        {
+          "id": "c",
+          "text": "Menentukan reorder point dalam model persediaan"
+        },
+        {
+          "id": "d",
+          "text": "Mengoptimalkan fungsi tujuan linear"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Teorema Bayes: update probabilitas prior dengan informasi baru."
+    },
+    {
+      "id": "q30",
+      "text": "Nilai Expected Value of Perfect Information (EVPI) menunjukkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keuntungan maksimum yang bisa diperoleh dalam kondisi pasti"
+        },
+        {
+          "id": "b",
+          "text": "Nilai maksimum yang bersedia dibayar untuk mendapatkan informasi sempurna"
+        },
+        {
+          "id": "c",
+          "text": "Kerugian yang terjadi akibat pengambilan keputusan yang salah"
+        },
+        {
+          "id": "d",
+          "text": "Probabilitas kejadian terbaik dalam kondisi berisiko"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "EVPI = nilai maksimum bersedia dibayar untuk informasi sempurna."
+    },
+    {
+      "id": "q31",
+      "text": "Dalam model EOQ, jika permintaan tahunan meningkat dua kali lipat, maka EOQ akan menjadi…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dua kali lipat"
+        },
+        {
+          "id": "b",
+          "text": "Empat kali lipat"
+        },
+        {
+          "id": "c",
+          "text": "Setengahnya"
+        },
+        {
+          "id": "d",
+          "text": "Akar dua kali lipat (√2 × EOQ asal)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "EOQ ∝ √D → jika D × 2, EOQ × √2.",
+      "isFormula": true
+    },
+    {
+      "id": "q32",
+      "text": "Analisis sensitivitas pada model persediaan bertujuan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menentukan safety stock yang optimal"
+        },
+        {
+          "id": "b",
+          "text": "Mengukur pengaruh perubahan parameter terhadap solusi optimal"
+        },
+        {
+          "id": "c",
+          "text": "Menghitung biaya total persediaan minimum"
+        },
+        {
+          "id": "d",
+          "text": "Memperkirakan permintaan masa depan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Analisis sensitivitas: pengaruh perubahan parameter terhadap solusi."
+    },
+    {
+      "id": "q33",
+      "text": "QM for Windows adalah perangkat lunak yang digunakan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Membuat desain grafis presentasi riset operasi"
+        },
+        {
+          "id": "b",
+          "text": "Membantu penyelesaian berbagai model riset operasi secara komputasi"
+        },
+        {
+          "id": "c",
+          "text": "Mengelola database persediaan perusahaan"
+        },
+        {
+          "id": "d",
+          "text": "Membuat jaringan komputer perusahaan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "QM for Windows: software komputasi model riset operasi."
+    },
+    {
+      "id": "q34",
+      "text": "Dalam Linear Programming, solusi yang berada tepat di sudut (corner point) feasible region disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Solusi interior"
+        },
+        {
+          "id": "b",
+          "text": "Solusi tak terbatas"
+        },
+        {
+          "id": "c",
+          "text": "Solusi tidak layak"
+        },
+        {
+          "id": "d",
+          "text": "Solusi basic feasible"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Basic feasible solution = sudut feasible region."
+    },
+    {
+      "id": "q35",
+      "text": "Variabel slack dalam Metode Simpleks mewakili…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kelebihan sumber daya yang tersedia di atas yang digunakan"
+        },
+        {
+          "id": "b",
+          "text": "Kekurangan sumber daya yang tersedia"
+        },
+        {
+          "id": "c",
+          "text": "Nilai fungsi tujuan pada iterasi tertentu"
+        },
+        {
+          "id": "d",
+          "text": "Variabel keputusan asli yang bernilai nol"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Slack variable = sisa kapasitas kendala ≤ (sumber daya tidak terpakai)."
+    },
+    {
+      "id": "q36",
+      "text": "Dalam masalah transportasi, kondisi seimbang (balanced) terjadi ketika…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Semua biaya transportasi sama"
+        },
+        {
+          "id": "b",
+          "text": "Total penawaran sama dengan total permintaan"
+        },
+        {
+          "id": "c",
+          "text": "Jumlah sumber sama dengan jumlah tujuan"
+        },
+        {
+          "id": "d",
+          "text": "Semua sel terisi dengan alokasi positif"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Balanced transportation: total supply = total demand."
+    },
+    {
+      "id": "q37",
+      "text": "Metode Vogel's Approximation Method (VAM) menghasilkan solusi awal transportasi yang…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Selalu optimal"
+        },
+        {
+          "id": "b",
+          "text": "Lebih mendekati optimal dibanding Northwest Corner"
+        },
+        {
+          "id": "c",
+          "text": "Lebih mudah dihitung dibanding metode lainnya"
+        },
+        {
+          "id": "d",
+          "text": "Selalu sama dengan solusi Least Cost Method"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "VAM memberikan initial solution lebih dekat optimal vs Northwest Corner."
+    },
+    {
+      "id": "q38",
+      "text": "Dalam model antrian M/M/s, parameter s merepresentasikan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rata-rata waktu pelayanan"
+        },
+        {
+          "id": "b",
+          "text": "Jumlah server (loket pelayanan) yang tersedia"
+        },
+        {
+          "id": "c",
+          "text": "Kapasitas maksimum sistem antrian"
+        },
+        {
+          "id": "d",
+          "text": "Standar deviasi waktu kedatangan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "s = jumlah server dalam notasi M/M/s."
+    },
+    {
+      "id": "q39",
+      "text": "Intensitas lalu lintas (traffic intensity) ρ dalam teori antrian dihitung sebagai…",
+      "options": [
+        {
+          "id": "a",
+          "text": "ρ = μ / λ"
+        },
+        {
+          "id": "b",
+          "text": "ρ = λ × μ"
+        },
+        {
+          "id": "c",
+          "text": "ρ = λ / μ"
+        },
+        {
+          "id": "d",
+          "text": "ρ = μ – λ"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "ρ = λ/μ (utilization factor).",
+      "isFormula": true
+    },
+    {
+      "id": "q40",
+      "text": "Earliest Finish Time (EFT) suatu aktivitas dalam jaringan kerja dihitung sebagai…",
+      "options": [
+        {
+          "id": "a",
+          "text": "EFT = LFT – Durasi aktivitas"
+        },
+        {
+          "id": "b",
+          "text": "EFT = EST + Durasi aktivitas"
+        },
+        {
+          "id": "c",
+          "text": "EFT = EST – Durasi aktivitas"
+        },
+        {
+          "id": "d",
+          "text": "EFT = LFT + Durasi aktivitas"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "EFT = EST + durasi aktivitas.",
+      "isFormula": true
+    },
+    {
+      "id": "q41",
+      "text": "Total float suatu aktivitas dalam jaringan kerja menunjukkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Durasi minimum aktivitas tersebut"
+        },
+        {
+          "id": "b",
+          "text": "Biaya langsung aktivitas tersebut"
+        },
+        {
+          "id": "c",
+          "text": "Jumlah waktu keterlambatan yang diperbolehkan tanpa menunda penyelesaian proyek"
+        },
+        {
+          "id": "d",
+          "text": "Selisih antara biaya normal dan biaya crash"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Total float = keterlambatan maksimum tanpa menunda proyek."
+    },
+    {
+      "id": "q42",
+      "text": "Dalam crashing proyek, aktivitas yang diprioritaskan untuk dipersingkat adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aktivitas non-kritis dengan biaya crash terendah"
+        },
+        {
+          "id": "b",
+          "text": "Aktivitas kritis dengan slope biaya (cost slope) terkecil"
+        },
+        {
+          "id": "c",
+          "text": "Aktivitas dengan durasi terpanjang"
+        },
+        {
+          "id": "d",
+          "text": "Aktivitas yang berada di luar lintasan kritis"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Crash aktivitas kritis dengan cost slope terkecil (efisien biaya)."
+    },
+    {
+      "id": "q43",
+      "text": "Dominance dalam game theory berarti…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Satu pemain selalu menang dalam setiap kondisi"
+        },
+        {
+          "id": "b",
+          "text": "Suatu strategi selalu memberikan hasil lebih baik atau sama dibanding strategi lain"
+        },
+        {
+          "id": "c",
+          "text": "Nilai permainan selalu positif bagi pemain pertama"
+        },
+        {
+          "id": "d",
+          "text": "Kedua pemain memiliki strategi dominan yang sama"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Strategi dominan: selalu lebih baik atau sama vs strategi lain."
+    },
+    {
+      "id": "q44",
+      "text": "Strategi campuran (mixed strategy) dalam game theory digunakan ketika…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Permainan memiliki saddle point"
+        },
+        {
+          "id": "b",
+          "text": "Salah satu pemain mendominasi seluruh permainan"
+        },
+        {
+          "id": "c",
+          "text": "Tidak terdapat saddle point dalam matriks payoff"
+        },
+        {
+          "id": "d",
+          "text": "Nilai permainan sama dengan nol"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Mixed strategy dipakai jika tidak ada saddle point (pure strategy)."
+    },
+    {
+      "id": "q45",
+      "text": "Pada Binary Integer Programming, setiap variabel keputusan hanya dapat bernilai…",
+      "options": [
+        {
+          "id": "a",
+          "text": "0, 1, atau 2"
+        },
+        {
+          "id": "b",
+          "text": "Bilangan bulat positif"
+        },
+        {
+          "id": "c",
+          "text": "0 atau 1"
+        },
+        {
+          "id": "d",
+          "text": "Bilangan real antara 0 dan 1"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Binary IP: variabel hanya 0 atau 1."
+    },
+    {
+      "id": "q46",
+      "text": "Penyimpangan dari Bentuk Standar dalam Linear Programming terjadi ketika kendala menggunakan tanda…",
+      "options": [
+        {
+          "id": "a",
+          "text": "≤ saja"
+        },
+        {
+          "id": "b",
+          "text": "= saja"
+        },
+        {
+          "id": "c",
+          "text": "≥ atau = (bukan hanya ≤)"
+        },
+        {
+          "id": "d",
+          "text": "< atau >"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Bentuk standar umum: kendala ≤; ≥ atau = memerlukan slack/surplus/artificial."
+    },
+    {
+      "id": "q47",
+      "text": "Pada metode Simpleks untuk kendala bertanda ≥, variabel yang ditambahkan ke model adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hanya variabel slack"
+        },
+        {
+          "id": "b",
+          "text": "Variabel surplus dan variabel artificial"
+        },
+        {
+          "id": "c",
+          "text": "Hanya variabel artificial"
+        },
+        {
+          "id": "d",
+          "text": "Variabel slack dan variabel surplus"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kendala ≥: tambah surplus variable dan artificial variable."
+    },
+    {
+      "id": "q48",
+      "text": "Masalah alokasi optimal dalam metode transportasi dapat diselesaikan karena memenuhi sifat…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nonlinearitas fungsi biaya"
+        },
+        {
+          "id": "b",
+          "text": "Adanya kendala integer pada setiap variabel"
+        },
+        {
+          "id": "c",
+          "text": "Setiap sel alokasi bersifat independen satu sama lain"
+        },
+        {
+          "id": "d",
+          "text": "Sifat unimodularity matriks kendala yang menjamin solusi integer otomatis"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Unimodularity: solusi basis feasible transportasi otomatis integer."
+    },
+    {
+      "id": "q49",
+      "text": "Dalam perencanaan penugasan, masalah unbalanced assignment terjadi ketika…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Biaya penugasan tidak diketahui"
+        },
+        {
+          "id": "b",
+          "text": "Jumlah pekerja dan jumlah pekerjaan tidak sama"
+        },
+        {
+          "id": "c",
+          "text": "Semua biaya penugasan bernilai sama"
+        },
+        {
+          "id": "d",
+          "text": "Matriks payoff bersifat simetris"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Unbalanced assignment: jumlah pekerja ≠ jumlah pekerjaan."
+    },
+    {
+      "id": "q50",
+      "text": "Penggunaan software QM for Windows dalam menyelesaikan masalah Linear Programming memberikan keunggulan berupa…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tidak memerlukan formulasi model matematika"
+        },
+        {
+          "id": "b",
+          "text": "Otomatis menghasilkan solusi tanpa input data"
+        },
+        {
+          "id": "c",
+          "text": "Kecepatan komputasi dan kemampuan analisis sensitivitas secara langsung"
+        },
+        {
+          "id": "d",
+          "text": "Menggantikan sepenuhnya pemahaman konsep riset operasi"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "QM for Windows: komputasi cepat + analisis sensitivitas LP."
+    }
+  ]
+}

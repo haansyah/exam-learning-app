@@ -1,0 +1,1205 @@
+{
+  "subjectId": "embs4209",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Manajemen Sumber Daya Manusia (MSDM) pada dasarnya merupakan suatu proses yang mencakup kegiatan… - Contact",
+      "options": [
+        {
+          "id": "a",
+          "text": "Perencanaan, pengorganisasian, pengarahan, dan pengendalian sumber daya manusia"
+        },
+        {
+          "id": "b",
+          "text": "Produksi, distribusi, pemasaran, dan penjualan produk perusahaan"
+        },
+        {
+          "id": "c",
+          "text": "Pengadaan modal, investasi jangka panjang, dan pengelolaan aset tetap"
+        },
+        {
+          "id": "d",
+          "text": "Riset pasar, pengembangan produk, dan strategi penetapan harga"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Perencanaan, pengorganisasian, pengarahan, dan pengendalian sumber daya manusia"
+    },
+    {
+      "id": "q2",
+      "text": "Salah satu fungsi operasional MSDM yang berkaitan langsung dengan upaya mempertahankan karyawan agar tetap produktif adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rekrutmen eksternal melalui media massa"
+        },
+        {
+          "id": "b",
+          "text": "Kompensasi dan pemeliharaan hubungan kerja"
+        },
+        {
+          "id": "c",
+          "text": "Analisis jabatan dan penyusunan struktur organisasi"
+        },
+        {
+          "id": "d",
+          "text": "Perencanaan strategis pada level korporat"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kompensasi dan pemeliharaan hubungan kerja"
+    },
+    {
+      "id": "q3",
+      "text": "Pendekatan yang memandang karyawan sebagai aset strategis yang perlu dikembangkan secara berkelanjutan disebut pendekatan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mekanistik"
+        },
+        {
+          "id": "b",
+          "text": "Paternalistik"
+        },
+        {
+          "id": "c",
+          "text": "Sumber Daya Manusia Strategik"
+        },
+        {
+          "id": "d",
+          "text": "Administratif"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Sumber Daya Manusia Strategik"
+    },
+    {
+      "id": "q4",
+      "text": "Pergeseran peran MSDM dari fungsi administratif menuju peran strategis terutama dipicu oleh…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Meningkatnya jumlah tenaga kerja paruh waktu di perusahaan"
+        },
+        {
+          "id": "b",
+          "text": "Tekanan persaingan global dan kebutuhan inovasi berkelanjutan"
+        },
+        {
+          "id": "c",
+          "text": "Berkurangnya anggaran departemen personalia"
+        },
+        {
+          "id": "d",
+          "text": "Regulasi pemerintah tentang upah minimum regional"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Regulasi pemerintah tentang upah minimum regional"
+    },
+    {
+      "id": "q5",
+      "text": "Pada era manajemen ilmiah (scientific management), pendekatan pengelolaan SDM lebih menitikberatkan pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pengembangan kompetensi soft skill karyawan"
+        },
+        {
+          "id": "b",
+          "text": "Efisiensi kerja melalui standarisasi dan spesialisasi tugas"
+        },
+        {
+          "id": "c",
+          "text": "Partisipasi karyawan dalam pengambilan keputusan"
+        },
+        {
+          "id": "d",
+          "text": "Fleksibilitas jam kerja dan otonomi karyawan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Efisiensi kerja melalui standarisasi dan spesialisasi tugas"
+    },
+    {
+      "id": "q6",
+      "text": "Globalisasi membawa dampak langsung pada MSDM berupa meningkatnya kebutuhan perusahaan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mengurangi jumlah pelatihan karyawan domestik"
+        },
+        {
+          "id": "b",
+          "text": "Membatasi rekrutmen hanya dari pasar tenaga kerja lokal"
+        },
+        {
+          "id": "c",
+          "text": "Mengelola tenaga kerja yang beragam secara budaya dan lintas batas negara"
+        },
+        {
+          "id": "d",
+          "text": "Menyeragamkan seluruh kebijakan SDM tanpa mempertimbangkan konteks lokal"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Mengelola tenaga kerja yang beragam secara budaya dan lintas batas negara"
+    },
+    {
+      "id": "q7",
+      "text": "Keunggulan kompetitif yang bersumber dari SDM disebut berkelanjutan apabila memenuhi syarat, salah satunya adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mudah ditiru oleh pesaing dalam waktu singkat"
+        },
+        {
+          "id": "b",
+          "text": "Hanya bergantung pada teknologi mesin dan otomasi"
+        },
+        {
+          "id": "c",
+          "text": "Bernilai, langka, tidak dapat ditiru, dan tidak dapat disubstitusi"
+        },
+        {
+          "id": "d",
+          "text": "Diperoleh semata-mata melalui akuisisi perusahaan lain"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Bernilai, langka, tidak dapat ditiru, dan tidak dapat disubstitusi"
+    },
+    {
+      "id": "q8",
+      "text": "SDM Strategik berbeda dari manajemen SDM konvensional karena SDM Strategik…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lebih fokus pada penggajian dan absensi karyawan"
+        },
+        {
+          "id": "b",
+          "text": "Menyelaraskan praktik SDM dengan tujuan bisnis jangka panjang perusahaan"
+        },
+        {
+          "id": "c",
+          "text": "Hanya bertugas mengurus rekrutmen dan seleksi karyawan baru"
+        },
+        {
+          "id": "d",
+          "text": "Tidak melibatkan manajer lini dalam pengelolaan sumber daya manusia"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Menyelaraskan praktik SDM dengan tujuan bisnis jangka panjang perusahaan"
+    },
+    {
+      "id": "q9",
+      "text": "Undang-Undang Ketenagakerjaan di Indonesia yang menjadi landasan hukum hubungan kerja antara pengusaha dan pekerja adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "UU No. 13 Tahun 2003"
+        },
+        {
+          "id": "b",
+          "text": "UU No. 5 Tahun 2014"
+        },
+        {
+          "id": "c",
+          "text": "UU No. 40 Tahun 2004"
+        },
+        {
+          "id": "d",
+          "text": "UU No. 24 Tahun 2011"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "UU No. 13 Tahun 2003"
+    },
+    {
+      "id": "q10",
+      "text": "Perjanjian kerja yang dibuat untuk pekerjaan tertentu yang bersifat sementara dan tidak dapat diperpanjang terus-menerus disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Perjanjian Kerja Waktu Tidak Tertentu (PKWTT)"
+        },
+        {
+          "id": "b",
+          "text": "Perjanjian Kerja Bersama (PKB)"
+        },
+        {
+          "id": "c",
+          "text": "Perjanjian Kerja Waktu Tertentu (PKWT)"
+        },
+        {
+          "id": "d",
+          "text": "Kontrak Manajemen"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Perjanjian Kerja Waktu Tertentu (PKWT)"
+    },
+    {
+      "id": "q11",
+      "text": "Ketentuan pokok ketenagakerjaan masa Post Employment di antaranya mencakup…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prosedur rekrutmen dan seleksi karyawan baru"
+        },
+        {
+          "id": "b",
+          "text": "Pesangon, pensiun, dan hak-hak karyawan setelah hubungan kerja berakhir"
+        },
+        {
+          "id": "c",
+          "text": "Tata cara penilaian kinerja selama masa percobaan"
+        },
+        {
+          "id": "d",
+          "text": "Standar upah pokok pada saat pertama kali diterima bekerja"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Pesangon, pensiun, dan hak-hak karyawan setelah hubungan kerja berakhir"
+    },
+    {
+      "id": "q12",
+      "text": "Pegawai Negeri Sipil (PNS) di Indonesia diatur oleh undang-undang tersendiri karena…",
+      "options": [
+        {
+          "id": "a",
+          "text": "PNS tidak tunduk pada hukum ketenagakerjaan apapun"
+        },
+        {
+          "id": "b",
+          "text": "Hubungan kerja PNS bersifat keperdataan murni"
+        },
+        {
+          "id": "c",
+          "text": "Status PNS sebagai aparatur negara memerlukan regulasi khusus yang membedakannya dari pekerja swasta"
+        },
+        {
+          "id": "d",
+          "text": "PNS tidak berhak mendapatkan kompensasi atas pemutusan hubungan kerja"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Status PNS sebagai aparatur negara memerlukan regulasi khusus yang membedakannya dari pekerja swasta"
+    },
+    {
+      "id": "q13",
+      "text": "Analisis jabatan (job analysis) didefinisikan sebagai proses sistematis untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mengevaluasi kinerja karyawan berdasarkan target tahunan"
+        },
+        {
+          "id": "b",
+          "text": "Mengumpulkan informasi tentang tugas, tanggung jawab, dan konteks suatu pekerjaan"
+        },
+        {
+          "id": "c",
+          "text": "Menetapkan besaran gaji dan tunjangan untuk setiap posisi"
+        },
+        {
+          "id": "d",
+          "text": "Merancang program pelatihan berbasis kompetensi teknis"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Mengumpulkan informasi tentang tugas, tanggung jawab, dan konteks suatu pekerjaan"
+    },
+    {
+      "id": "q14",
+      "text": "Hasil utama dari proses analisis jabatan yang menggambarkan tugas dan tanggung jawab suatu posisi secara tertulis disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spesifikasi jabatan"
+        },
+        {
+          "id": "b",
+          "text": "Evaluasi jabatan"
+        },
+        {
+          "id": "c",
+          "text": "Deskripsi jabatan"
+        },
+        {
+          "id": "d",
+          "text": "Klasifikasi jabatan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Deskripsi jabatan"
+    },
+    {
+      "id": "q15",
+      "text": "Spesifikasi jabatan (job specification) berisi informasi tentang…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alur kerja antar departemen dalam organisasi"
+        },
+        {
+          "id": "b",
+          "text": "Persyaratan kualifikasi, keahlian, dan karakteristik yang harus dimiliki oleh pemegang jabatan"
+        },
+        {
+          "id": "c",
+          "text": "Standar operasional prosedur pelaksanaan pekerjaan harian"
+        },
+        {
+          "id": "d",
+          "text": "Daftar peralatan dan teknologi yang digunakan dalam pekerjaan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Persyaratan kualifikasi, keahlian, dan karakteristik yang harus dimiliki oleh pemegang jabatan"
+    },
+    {
+      "id": "q16",
+      "text": "Desain jabatan yang memberikan karyawan kebebasan untuk menentukan jadwal kerja sendiri dikenal dengan istilah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Job enrichment"
+        },
+        {
+          "id": "b",
+          "text": "Job rotation"
+        },
+        {
+          "id": "c",
+          "text": "Job enlargement"
+        },
+        {
+          "id": "d",
+          "text": "Flextime"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Flextime"
+    },
+    {
+      "id": "q17",
+      "text": "Perencanaan SDM yang efektif harus mampu menjawab pertanyaan mendasar, yaitu…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Berapa besar laba yang akan diperoleh perusahaan tahun depan"
+        },
+        {
+          "id": "b",
+          "text": "Jumlah dan jenis SDM apa yang dibutuhkan organisasi untuk mencapai tujuannya"
+        },
+        {
+          "id": "c",
+          "text": "Teknologi apa yang perlu diadopsi untuk menggantikan tenaga kerja manusia"
+        },
+        {
+          "id": "d",
+          "text": "Bagaimana cara mengurangi biaya produksi secara drastis"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Jumlah dan jenis SDM apa yang dibutuhkan organisasi untuk mencapai tujuannya"
+    },
+    {
+      "id": "q18",
+      "text": "Metode peramalan kebutuhan SDM yang menggunakan pendapat para ahli atau manajer senior secara sistematis disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Analisis regresi"
+        },
+        {
+          "id": "b",
+          "text": "Simulasi Monte Carlo"
+        },
+        {
+          "id": "c",
+          "text": "Metode Delphi"
+        },
+        {
+          "id": "d",
+          "text": "Markov chain analysis"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Metode Delphi"
+    },
+    {
+      "id": "q19",
+      "text": "Rekrutmen yang dilakukan dengan mencari calon karyawan dari dalam perusahaan sendiri disebut rekrutmen…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eksternal"
+        },
+        {
+          "id": "b",
+          "text": "Terbuka"
+        },
+        {
+          "id": "c",
+          "text": "Internal"
+        },
+        {
+          "id": "d",
+          "text": "Kompetitif"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Internal"
+    },
+    {
+      "id": "q20",
+      "text": "Salah satu keunggulan rekrutmen eksternal dibandingkan rekrutmen internal adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Biayanya lebih rendah dan prosesnya lebih cepat"
+        },
+        {
+          "id": "b",
+          "text": "Membawa perspektif baru dan ide segar dari luar organisasi"
+        },
+        {
+          "id": "c",
+          "text": "Risiko kegagalan adaptasi karyawan lebih kecil"
+        },
+        {
+          "id": "d",
+          "text": "Tidak memerlukan proses orientasi dan pelatihan awal"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Membawa perspektif baru dan ide segar dari luar organisasi"
+    },
+    {
+      "id": "q21",
+      "text": "Dalam proses seleksi karyawan, wawancara terstruktur dianggap lebih valid dibandingkan wawancara tidak terstruktur karena…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wawancara terstruktur memakan waktu lebih singkat"
+        },
+        {
+          "id": "b",
+          "text": "Pewawancara dapat lebih bebas mengeksplorasi jawaban kandidat"
+        },
+        {
+          "id": "c",
+          "text": "Semua kandidat ditanya pertanyaan yang sama sehingga lebih dapat dibandingkan secara adil"
+        },
+        {
+          "id": "d",
+          "text": "Tidak memerlukan kompetensi khusus dari pewawancara"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Semua kandidat ditanya pertanyaan yang sama sehingga lebih dapat dibandingkan secara adil"
+    },
+    {
+      "id": "q22",
+      "text": "Penempatan karyawan yang tepat berdasarkan prinsip “the right man on the right job” bertujuan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Meminimalkan jumlah karyawan yang dibutuhkan organisasi"
+        },
+        {
+          "id": "b",
+          "text": "Mengoptimalkan kontribusi individu sesuai dengan kompetensi dan jabatannya"
+        },
+        {
+          "id": "c",
+          "text": "Mempercepat proses rotasi jabatan secara berkala"
+        },
+        {
+          "id": "d",
+          "text": "Mengurangi beban kerja departemen SDM"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Mengoptimalkan kontribusi individu sesuai dengan kompetensi dan jabatannya"
+    },
+    {
+      "id": "q23",
+      "text": "Pemutusan hubungan kerja (PHK) yang dilakukan karena perusahaan mengalami kerugian terus-menerus dan tidak dapat dihindari disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "PHK karena kesalahan berat karyawan"
+        },
+        {
+          "id": "b",
+          "text": "PHK karena habisnya masa kontrak"
+        },
+        {
+          "id": "c",
+          "text": "PHK karena efisiensi atau restrukturisasi perusahaan"
+        },
+        {
+          "id": "d",
+          "text": "PHK karena karyawan mengundurkan diri"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "PHK karena efisiensi atau restrukturisasi perusahaan"
+    },
+    {
+      "id": "q24",
+      "text": "Sistem kompensasi yang baik harus memenuhi prinsip keadilan internal, yang berarti…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gaji karyawan harus selalu sama rata untuk semua posisi"
+        },
+        {
+          "id": "b",
+          "text": "Kompensasi disesuaikan dengan standar yang berlaku di pasar tenaga kerja eksternal"
+        },
+        {
+          "id": "c",
+          "text": "Perbedaan upah antar jabatan dalam organisasi mencerminkan perbedaan bobot pekerjaan secara proporsional"
+        },
+        {
+          "id": "d",
+          "text": "Setiap karyawan mendapat bonus yang identik tanpa memandang kontribusinya"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Perbedaan upah antar jabatan dalam organisasi mencerminkan perbedaan bobot pekerjaan secara proporsional"
+    },
+    {
+      "id": "q25",
+      "text": "Komponen kompensasi yang diberikan tidak langsung dalam bentuk uang tunai, melainkan dalam bentuk fasilitas dan perlindungan, disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Upah pokok"
+        },
+        {
+          "id": "b",
+          "text": "Insentif prestasi"
+        },
+        {
+          "id": "c",
+          "text": "Tunjangan (fringe benefits)"
+        },
+        {
+          "id": "d",
+          "text": "Komisi penjualan"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Komisi penjualan"
+    },
+    {
+      "id": "q26",
+      "text": "Program insentif individu yang memberikan tambahan penghasilan berdasarkan jumlah unit yang dihasilkan karyawan disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Profit sharing"
+        },
+        {
+          "id": "b",
+          "text": "Piece-rate system"
+        },
+        {
+          "id": "c",
+          "text": "Gain sharing"
+        },
+        {
+          "id": "d",
+          "text": "Skill-based pay"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Piece-rate system"
+    },
+    {
+      "id": "q27",
+      "text": "Penilaian kinerja (performance appraisal) secara formal berfungsi sebagai alat manajemen untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menentukan jadwal cuti tahunan karyawan"
+        },
+        {
+          "id": "b",
+          "text": "Mengukur pencapaian kinerja karyawan sebagai dasar pengambilan keputusan SDM"
+        },
+        {
+          "id": "c",
+          "text": "Mengatur tata cara pengajuan lembur karyawan"
+        },
+        {
+          "id": "d",
+          "text": "Menyusun standar keselamatan kerja di tempat produksi"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Mengukur pencapaian kinerja karyawan sebagai dasar pengambilan keputusan SDM"
+    },
+    {
+      "id": "q28",
+      "text": "Metode penilaian kinerja yang melibatkan penilaian dari atasan, rekan sejawat, bawahan, dan diri sendiri disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Management by Objectives (MBO)"
+        },
+        {
+          "id": "b",
+          "text": "Behaviorally Anchored Rating Scale (BARS)"
+        },
+        {
+          "id": "c",
+          "text": "Penilaian 360 derajat"
+        },
+        {
+          "id": "d",
+          "text": "Critical Incident Method"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Penilaian 360 derajat"
+    },
+    {
+      "id": "q29",
+      "text": "Kesalahan dalam penilaian kinerja yang terjadi ketika penilai cenderung memberi nilai tinggi kepada semua karyawan tanpa membedakan prestasi mereka disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Halo effect"
+        },
+        {
+          "id": "b",
+          "text": "Leniency bias"
+        },
+        {
+          "id": "c",
+          "text": "Recency error"
+        },
+        {
+          "id": "d",
+          "text": "Central tendency error"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Leniency bias"
+    },
+    {
+      "id": "q30",
+      "text": "Pengembangan karier (career development) dalam organisasi modern lebih dipandang sebagai tanggung jawab…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Semata-mata departemen SDM tanpa keterlibatan karyawan"
+        },
+        {
+          "id": "b",
+          "text": "Pemerintah melalui regulasi tenaga kerja"
+        },
+        {
+          "id": "c",
+          "text": "Bersama antara individu karyawan dan organisasi secara sinergis"
+        },
+        {
+          "id": "d",
+          "text": "Hanya manajemen puncak yang menentukan jalur karier setiap karyawan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Bersama antara individu karyawan dan organisasi secara sinergis"
+    },
+    {
+      "id": "q31",
+      "text": "Pelatihan (training) berbeda dari pengembangan (development) karena pelatihan lebih berfokus pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Peningkatan kemampuan jangka panjang untuk jabatan di masa depan"
+        },
+        {
+          "id": "b",
+          "text": "Peningkatan keterampilan yang dibutuhkan untuk pekerjaan saat ini"
+        },
+        {
+          "id": "c",
+          "text": "Pembentukan kepribadian dan karakter karyawan secara menyeluruh"
+        },
+        {
+          "id": "d",
+          "text": "Perluasan wawasan karyawan tentang industri secara umum"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Peningkatan keterampilan yang dibutuhkan untuk pekerjaan saat ini"
+    },
+    {
+      "id": "q32",
+      "text": "Analisis kebutuhan pelatihan (Training Needs Analysis) dilakukan pada tiga level, yaitu…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Level individu, level tim, dan level industri"
+        },
+        {
+          "id": "b",
+          "text": "Level organisasi, level jabatan/tugas, dan level individu"
+        },
+        {
+          "id": "c",
+          "text": "Level teknis, level manajerial, dan level strategis"
+        },
+        {
+          "id": "d",
+          "text": "Level operasional, level taktis, dan level normatif"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Level organisasi, level jabatan/tugas, dan level individu"
+    },
+    {
+      "id": "q33",
+      "text": "Metode pelatihan on-the-job yang menempatkan karyawan baru di bawah bimbingan karyawan senior yang berpengalaman disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vestibule training"
+        },
+        {
+          "id": "b",
+          "text": "Case study method"
+        },
+        {
+          "id": "c",
+          "text": "Role playing"
+        },
+        {
+          "id": "d",
+          "text": "Apprenticeship / magang"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Apprenticeship / magang"
+    },
+    {
+      "id": "q34",
+      "text": "Desain pelatihan yang baik harus mempertimbangkan prinsip pembelajaran orang dewasa (andragogi), salah satunya adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orang dewasa belajar paling efektif dengan metode ceramah satu arah"
+        },
+        {
+          "id": "b",
+          "text": "Orang dewasa cenderung pasif dalam menerima materi pelatihan"
+        },
+        {
+          "id": "c",
+          "text": "Orang dewasa termotivasi belajar saat materi relevan dengan kebutuhan dan pengalaman nyata mereka"
+        },
+        {
+          "id": "d",
+          "text": "Orang dewasa tidak memerlukan umpan balik selama proses belajar"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Orang dewasa termotivasi belajar saat materi relevan dengan kebutuhan dan pengalaman nyata mereka"
+    },
+    {
+      "id": "q35",
+      "text": "Web-Based Training (WBT) memiliki keunggulan utama dibandingkan pelatihan konvensional di kelas, yaitu…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Interaksi tatap muka antara peserta dan instruktur lebih intensif"
+        },
+        {
+          "id": "b",
+          "text": "Materi pelatihan dapat diakses kapan saja dan di mana saja secara fleksibel"
+        },
+        {
+          "id": "c",
+          "text": "Biaya pengembangan konten lebih rendah dibandingkan modul cetak"
+        },
+        {
+          "id": "d",
+          "text": "Tidak memerlukan koneksi internet dan perangkat komputer"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Materi pelatihan dapat diakses kapan saja dan di mana saja secara fleksibel"
+    },
+    {
+      "id": "q36",
+      "text": "Pengembangan manajemen dan organisasi (Management and Organization Development) bertujuan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Meningkatkan kemampuan teknis karyawan pada level operasional"
+        },
+        {
+          "id": "b",
+          "text": "Menyiapkan pemimpin masa depan dan meningkatkan efektivitas organisasi secara keseluruhan"
+        },
+        {
+          "id": "c",
+          "text": "Menyederhanakan prosedur administrasi dan penggajian karyawan"
+        },
+        {
+          "id": "d",
+          "text": "Mengurangi biaya rekrutmen dengan memperpanjang masa kerja karyawan lama"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Menyiapkan pemimpin masa depan dan meningkatkan efektivitas organisasi secara keseluruhan"
+    },
+    {
+      "id": "q37",
+      "text": "Keselamatan dan Kesehatan Kerja (K3) merupakan kewajiban perusahaan yang bertujuan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Memenuhi target produksi dengan mengabaikan risiko kecelakaan"
+        },
+        {
+          "id": "b",
+          "text": "Melindungi karyawan dari risiko kecelakaan, penyakit akibat kerja, dan lingkungan kerja yang berbahaya"
+        },
+        {
+          "id": "c",
+          "text": "Mengurangi kewajiban perusahaan membayar tunjangan kesehatan"
+        },
+        {
+          "id": "d",
+          "text": "Meningkatkan jam kerja karyawan tanpa batasan waktu"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Melindungi karyawan dari risiko kecelakaan, penyakit akibat kerja, dan lingkungan kerja yang berbahaya"
+    },
+    {
+      "id": "q38",
+      "text": "Program K3 yang dirancang untuk mengidentifikasi potensi bahaya di tempat kerja sebelum terjadi kecelakaan disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Investigasi kecelakaan kerja"
+        },
+        {
+          "id": "b",
+          "text": "Hazard identification and risk assessment"
+        },
+        {
+          "id": "c",
+          "text": "Kompensasi pekerja (workers’ compensation)"
+        },
+        {
+          "id": "d",
+          "text": "Audit keuangan perusahaan"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Audit keuangan perusahaan"
+    },
+    {
+      "id": "q39",
+      "text": "Produktivitas kerja karyawan dapat ditingkatkan melalui kepemimpinan yang efektif, salah satunya dengan menerapkan gaya kepemimpinan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Otoriter yang tidak memberikan ruang bagi karyawan untuk berpendapat"
+        },
+        {
+          "id": "b",
+          "text": "Laissez-faire yang tidak memberi arahan apapun kepada karyawan"
+        },
+        {
+          "id": "c",
+          "text": "Transformasional yang menginspirasi dan memotivasi karyawan mencapai tujuan bersama"
+        },
+        {
+          "id": "d",
+          "text": "Birokratis yang hanya berpedoman pada aturan tertulis secara kaku"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Transformasional yang menginspirasi dan memotivasi karyawan mencapai tujuan bersama"
+    },
+    {
+      "id": "q40",
+      "text": "Pendekatan “sumber daya manusia” (human relations approach) dalam sejarah perkembangan MSDM menekankan pentingnya…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spesialisasi kerja dan standarisasi proses produksi"
+        },
+        {
+          "id": "b",
+          "text": "Hubungan sosial, motivasi, dan kepuasan kerja karyawan"
+        },
+        {
+          "id": "c",
+          "text": "Otomasi dan mekanisasi untuk mengurangi ketergantungan pada manusia"
+        },
+        {
+          "id": "d",
+          "text": "Kontrol ketat oleh manajemen atas seluruh aktivitas karyawan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Hubungan sosial, motivasi, dan kepuasan kerja karyawan"
+    },
+    {
+      "id": "q41",
+      "text": "Survei kompensasi (salary survey) dilakukan perusahaan dengan tujuan utama untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menentukan beban pajak penghasilan karyawan"
+        },
+        {
+          "id": "b",
+          "text": "Mengevaluasi kinerja departemen penggajian"
+        },
+        {
+          "id": "c",
+          "text": "Memastikan kompensasi yang ditawarkan kompetitif di pasar tenaga kerja eksternal"
+        },
+        {
+          "id": "d",
+          "text": "Menetapkan standar disiplin dan sanksi bagi karyawan yang melanggar aturan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Memastikan kompensasi yang ditawarkan kompetitif di pasar tenaga kerja eksternal"
+    },
+    {
+      "id": "q42",
+      "text": "Job enlargement sebagai bentuk desain jabatan bertujuan untuk mengatasi masalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kelebihan beban kerja manajerial"
+        },
+        {
+          "id": "b",
+          "text": "Kebosanan akibat pekerjaan yang terlalu sempit dan repetitif"
+        },
+        {
+          "id": "c",
+          "text": "Konflik antar departemen dalam organisasi"
+        },
+        {
+          "id": "d",
+          "text": "Kurangnya kompetensi teknis karyawan baru"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kelebihan beban kerja manajerial"
+    },
+    {
+      "id": "q43",
+      "text": "Dalam proses rekrutmen, realistic job preview (RJP) diberikan kepada calon karyawan dengan tujuan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Membuat calon karyawan terkesan agar mau menerima tawaran kerja"
+        },
+        {
+          "id": "b",
+          "text": "Menyembunyikan kelemahan organisasi dari calon karyawan"
+        },
+        {
+          "id": "c",
+          "text": "Memberikan gambaran jujur tentang pekerjaan agar turnover dini dapat dikurangi"
+        },
+        {
+          "id": "d",
+          "text": "Mempercepat proses negosiasi gaji antara perusahaan dan kandidat"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Memberikan gambaran jujur tentang pekerjaan agar turnover dini dapat dikurangi"
+    },
+    {
+      "id": "q44",
+      "text": "Evaluasi jabatan dengan metode point factor dilakukan dengan cara…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Membandingkan setiap jabatan secara keseluruhan tanpa pembobotan"
+        },
+        {
+          "id": "b",
+          "text": "Mengelompokkan jabatan ke dalam kelas berdasarkan deskripsi umum"
+        },
+        {
+          "id": "c",
+          "text": "Memberikan poin pada setiap faktor jabatan seperti keterampilan, tanggung jawab, dan kondisi kerja"
+        },
+        {
+          "id": "d",
+          "text": "Menyusun peringkat jabatan berdasarkan persepsi subjektif manajer"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Memberikan poin pada setiap faktor jabatan seperti keterampilan, tanggung jawab, dan kondisi kerja"
+    },
+    {
+      "id": "q45",
+      "text": "Turnover karyawan yang tinggi berdampak negatif bagi organisasi karena…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Membantu peremajaan SDM sehingga selalu menguntungkan perusahaan"
+        },
+        {
+          "id": "b",
+          "text": "Meningkatkan produktivitas karena karyawan baru umumnya lebih bersemangat"
+        },
+        {
+          "id": "c",
+          "text": "Menimbulkan biaya rekrutmen, seleksi, dan pelatihan yang tinggi serta hilangnya pengetahuan institusional"
+        },
+        {
+          "id": "d",
+          "text": "Mempercepat proses promosi karyawan yang tersisa"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Menimbulkan biaya rekrutmen, seleksi, dan pelatihan yang tinggi serta hilangnya pengetahuan institusional"
+    },
+    {
+      "id": "q46",
+      "text": "Model MSDM berbasis kompetensi (competency-based HRM) menekankan bahwa seluruh praktik SDM harus diintegrasikan berdasarkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anggaran departemen yang tersedia setiap tahun fiskal"
+        },
+        {
+          "id": "b",
+          "text": "Profil kompetensi yang dibutuhkan untuk mencapai kinerja unggul"
+        },
+        {
+          "id": "c",
+          "text": "Senioritas dan masa kerja karyawan dalam organisasi"
+        },
+        {
+          "id": "d",
+          "text": "Kebijakan pemerintah terkait standar minimum ketenagakerjaan"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Kebijakan pemerintah terkait standar minimum ketenagakerjaan"
+    },
+    {
+      "id": "q47",
+      "text": "Tujuan utama program orientasi karyawan baru (employee onboarding) adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menilai kemampuan teknis karyawan sebelum penempatan definitif"
+        },
+        {
+          "id": "b",
+          "text": "Memperkenalkan tugas, budaya organisasi, dan lingkungan kerja agar karyawan dapat beradaptasi dengan cepat"
+        },
+        {
+          "id": "c",
+          "text": "Menyelesaikan seluruh persyaratan administratif kontrak kerja"
+        },
+        {
+          "id": "d",
+          "text": "Menetapkan target kinerja untuk periode evaluasi pertama"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Menilai kemampuan teknis karyawan sebelum penempatan definitif"
+    },
+    {
+      "id": "q48",
+      "text": "Gain sharing merupakan program insentif kelompok yang memberikan bonus kepada karyawan berdasarkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pencapaian target penjualan individu setiap bulan"
+        },
+        {
+          "id": "b",
+          "text": "Lamanya masa kerja karyawan dalam organisasi"
+        },
+        {
+          "id": "c",
+          "text": "Keuntungan bersih perusahaan yang dibagikan secara proporsional"
+        },
+        {
+          "id": "d",
+          "text": "Peningkatan produktivitas atau penghematan biaya yang dicapai bersama oleh tim"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Peningkatan produktivitas atau penghematan biaya yang dicapai bersama oleh tim"
+    },
+    {
+      "id": "q49",
+      "text": "Pendekatan integratif dalam MSDM Strategik menyatakan bahwa efektivitas SDM bergantung pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Banyaknya program pelatihan yang diselenggarakan setiap tahun"
+        },
+        {
+          "id": "b",
+          "text": "Kesesuaian (fit) antara praktik SDM, strategi bisnis, dan konteks organisasi"
+        },
+        {
+          "id": "c",
+          "text": "Besarnya anggaran departemen SDM dibandingkan total anggaran perusahaan"
+        },
+        {
+          "id": "d",
+          "text": "Kecanggihan teknologi informasi yang digunakan untuk mengelola data karyawan"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Banyaknya program pelatihan yang diselenggarakan setiap tahun"
+    },
+    {
+      "id": "q50",
+      "text": "Penelitian Hawthorne yang dilakukan Elton Mayo memberikan kontribusi penting bagi MSDM dengan menemukan bahwa…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Produktivitas semata-mata ditentukan oleh kondisi fisik tempat kerja"
+        },
+        {
+          "id": "b",
+          "text": "Insentif finansial adalah satu-satunya motivator yang efektif bagi karyawan"
+        },
+        {
+          "id": "c",
+          "text": "Perhatian sosial, pengakuan, dan dinamika kelompok berpengaruh signifikan terhadap produktivitas"
+        },
+        {
+          "id": "d",
+          "text": "Spesialisasi kerja yang ketat selalu menghasilkan output yang lebih tinggi"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Perhatian sosial, pengakuan, dan dinamika kelompok berpengaruh signifikan terhadap produktivitas"
+    }
+  ]
+}

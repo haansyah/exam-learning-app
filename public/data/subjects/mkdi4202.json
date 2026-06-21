@@ -1,0 +1,1205 @@
+{
+  "subjectId": "mkdi4202",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Ekonomi digital ditandai oleh penggunaan teknologi komputasi digital dan internet dalam proses produksi dan konsumsi. Bagaimana karakteristik ini membedakan ekonomi digital dari ekonomi tradisional… - Contact",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aktivitas ekonomi bergantung penuh pada sumber daya fisik dan pertemuan tatap muka"
+        },
+        {
+          "id": "b",
+          "text": "Teknologi digital menjadi fondasi utama dalam rantai nilai produksi hingga konsumsi"
+        },
+        {
+          "id": "c",
+          "text": "Peran internet hanya sebatas media promosi tanpa memengaruhi proses produksi"
+        },
+        {
+          "id": "d",
+          "text": "Transaksi dilakukan secara eksklusif menggunakan mata uang kripto di seluruh sektor"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Ekonomi digital menjadikan teknologi digital dan internet sebagai fondasi utama yang terintegrasi dalam keseluruhan rantai nilai, berbeda dari ekonomi tradisional yang mengandalkan proses fisik dan tatap muka."
+    },
+    {
+      "id": "q2",
+      "text": "Seorang pekerja lepas menyelesaikan proyek desain grafis melalui platform daring dan setelah itu berpindah ke proyek lain tanpa ikatan kerja jangka panjang. Situasi ini paling tepat menggambarkan konsep…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Otomasi pekerjaan"
+        },
+        {
+          "id": "b",
+          "text": "Ekonomi digital"
+        },
+        {
+          "id": "c",
+          "text": "Gig economy"
+        },
+        {
+          "id": "d",
+          "text": "Pembelajaran informal"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Gig economy merujuk pada pasar tenaga kerja dengan pekerjaan jangka pendek atau lepas yang difasilitasi platform digital, persis seperti yang dialami pekerja lepas tersebut."
+    },
+    {
+      "id": "q3",
+      "text": "Perusahaan manufaktur mengganti sebagian besar lini perakitannya dengan robot yang dikendalikan sistem komputer. Fenomena ini merupakan contoh dari…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ekonomi digital"
+        },
+        {
+          "id": "b",
+          "text": "Gig economy"
+        },
+        {
+          "id": "c",
+          "text": "Kesenjangan digital"
+        },
+        {
+          "id": "d",
+          "text": "Otomasi"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Otomasi adalah penggunaan teknologi untuk menjalankan tugas yang sebelumnya dilakukan manusia, seperti penggantian pekerja perakitan dengan robot dalam contoh ini."
+    },
+    {
+      "id": "q4",
+      "text": "Kreativitas, pemikiran kritis, kolaborasi, dan komunikasi dikelompokkan sebagai keterampilan abad ke-21. Mengapa keempat kemampuan ini menjadi krusial di era digital…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Karena seluruh pekerjaan manual telah sepenuhnya digantikan oleh mesin"
+        },
+        {
+          "id": "b",
+          "text": "Karena teknologi menuntut individu mampu memecahkan masalah kompleks dan bekerja dalam tim lintas disiplin"
+        },
+        {
+          "id": "c",
+          "text": "Karena keterampilan teknis spesifik sudah tidak relevan di dunia kerja modern"
+        },
+        {
+          "id": "d",
+          "text": "Karena sistem pendidikan formal tidak lagi mengajarkan kemampuan dasar"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Era digital menghadirkan masalah kompleks yang memerlukan kreativitas dan pemikiran kritis, sementara kolaborasi dan komunikasi dibutuhkan dalam kerja tim lintas disiplin yang difasilitasi teknologi."
+    },
+    {
+      "id": "q5",
+      "text": "Seseorang bekerja sebagai staf administrasi dengan kontrak satu tahun di sebuah perusahaan dan menerima gaji bulanan tetap. Profil pekerja ini paling tepat dikontraskan dengan konsep…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Otomasi"
+        },
+        {
+          "id": "b",
+          "text": "Ekonomi digital"
+        },
+        {
+          "id": "c",
+          "text": "Keterampilan abad ke-21"
+        },
+        {
+          "id": "d",
+          "text": "Gig economy"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Gig economy bercirikan pekerjaan jangka pendek dan lepas, sementara staf dengan kontrak setahun dan gaji tetap mencerminkan pekerjaan tetap tradisional yang menjadi kontras dari konsep tersebut."
+    },
+    {
+      "id": "q6",
+      "text": "Sebuah universitas menyelenggarakan program sarjana yang seluruh proses perkuliahan, diskusi, dan ujiannya dilakukan melalui platform pembelajaran di internet. Model pendidikan ini disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pendidikan jarak jauh"
+        },
+        {
+          "id": "b",
+          "text": "Massive Open Online Course"
+        },
+        {
+          "id": "c",
+          "text": "Pembelajaran daring"
+        },
+        {
+          "id": "d",
+          "text": "Personalized learning"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Pembelajaran daring adalah penyelenggaraan pendidikan formal yang memanfaatkan jaringan internet untuk akses penuh terhadap proses belajar, seperti yang digambarkan dalam kasus universitas tersebut."
+    },
+    {
+      "id": "q7",
+      "text": "Perbedaan utama antara pendidikan jarak jauh dan Massive Open Online Course (MOOC) terletak pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Penggunaan teknologi digital dalam penyampaian materi"
+        },
+        {
+          "id": "b",
+          "text": "Skala peserta dan sifat keterbukaan akses bagi publik"
+        },
+        {
+          "id": "c",
+          "text": "Pemisahan fisik antara pengajar dan pembelajar"
+        },
+        {
+          "id": "d",
+          "text": "Ketersediaan materi dalam format digital"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "MOOC dirancang untuk partisipasi tanpa batas dan akses terbuka melalui web dalam skala besar, sedangkan pendidikan jarak jauh biasanya memiliki jumlah peserta terbatas dan tidak selalu terbuka bagi publik umum."
+    },
+    {
+      "id": "q8",
+      "text": "Platform pembelajaran daring menampilkan rekomendasi materi yang berbeda untuk setiap mahasiswa berdasarkan hasil asesmen awal dan kecepatan belajar masing-masing. Pendekatan ini dikenal sebagai…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pembelajaran daring"
+        },
+        {
+          "id": "b",
+          "text": "Pendidikan jarak jauh"
+        },
+        {
+          "id": "c",
+          "text": "Massive Open Online Course"
+        },
+        {
+          "id": "d",
+          "text": "Personalized learning"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Personalized learning menyesuaikan konten, kecepatan, dan metode berdasarkan kebutuhan individu pembelajar, tercermin dari rekomendasi materi yang dipersonalisasi sesuai hasil asesmen dan kecepatan belajar."
+    },
+    {
+      "id": "q9",
+      "text": "Pembelajaran daring berbeda dari pembelajaran tatap muka terutama dalam hal…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tingkat keseriusan mahasiswa dalam mengikuti perkuliahan"
+        },
+        {
+          "id": "b",
+          "text": "Keterpisahan fisik dan ketergantungan pada teknologi jaringan untuk interaksi"
+        },
+        {
+          "id": "c",
+          "text": "Kualitas materi ajar yang disampaikan kepada pembelajar"
+        },
+        {
+          "id": "d",
+          "text": "Kualifikasi akademik pengajar yang terlibat"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Ciri utama pembelajaran daring adalah keterpisahan fisik antara pengajar dan pembelajar serta ketergantungan pada teknologi jaringan internet untuk memfasilitasi interaksi pembelajaran."
+    },
+    {
+      "id": "q10",
+      "text": "Mahasiswa yang hanya mampu menggunakan aplikasi pengolah kata tetapi tidak dapat mengevaluasi kredibilitas sumber daring mengalami kesenjangan dalam aspek…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keterampilan digital tanpa literasi digital"
+        },
+        {
+          "id": "b",
+          "text": "Literasi digital tanpa keterampilan digital"
+        },
+        {
+          "id": "c",
+          "text": "Etika digital dan keamanan siber"
+        },
+        {
+          "id": "d",
+          "text": "Personalized learning dan microlearning"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kesenjangan terjadi antara keterampilan digital yang bersifat teknis dan literasi digital yang mencakup kemampuan evaluasi. Mahasiswa tersebut terampil secara teknis namun belum literat secara digital."
+    },
+    {
+      "id": "q11",
+      "text": "Seorang pengguna internet selalu memverifikasi kebenaran informasi sebelum membagikannya dan menghargai privasi orang lain dalam berinteraksi di media sosial. Perilaku ini mencerminkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keterampilan digital"
+        },
+        {
+          "id": "b",
+          "text": "Kesenjangan digital"
+        },
+        {
+          "id": "c",
+          "text": "Literasi digital"
+        },
+        {
+          "id": "d",
+          "text": "Etika digital"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Etika digital adalah prinsip moral yang memandu perilaku di lingkungan digital, termasuk verifikasi informasi dan penghormatan terhadap privasi dalam berinteraksi daring."
+    },
+    {
+      "id": "q12",
+      "text": "Di wilayah pedesaan, masyarakat tidak memiliki akses internet sementara di perkotaan warganya terbiasa bertransaksi secara daring. Kondisi ini disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Literasi digital"
+        },
+        {
+          "id": "b",
+          "text": "Keterampilan digital"
+        },
+        {
+          "id": "c",
+          "text": "Etika digital"
+        },
+        {
+          "id": "d",
+          "text": "Kesenjangan digital"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Kesenjangan digital merujuk pada kesenjangan akses dan kemampuan memanfaatkan teknologi digital antara kelompok yang memiliki akses dengan yang tidak, seperti antara perkotaan dan pedesaan."
+    },
+    {
+      "id": "q13",
+      "text": "Kemampuan mengoperasikan perangkat lunak desain grafis termasuk dalam kategori…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Literasi digital"
+        },
+        {
+          "id": "b",
+          "text": "Keterampilan digital"
+        },
+        {
+          "id": "c",
+          "text": "Etika digital"
+        },
+        {
+          "id": "d",
+          "text": "Kesenjangan digital"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Keterampilan digital adalah kecakapan teknis spesifik dalam mengoperasikan peranti lunak dan aplikasi digital, seperti penguasaan perangkat lunak desain grafis."
+    },
+    {
+      "id": "q14",
+      "text": "Literasi digital berbeda dari keterampilan digital karena literasi digital menekankan pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kecepatan mengetik dan menggunakan perangkat keras"
+        },
+        {
+          "id": "b",
+          "text": "Kemampuan instalasi dan pemeliharaan sistem operasi"
+        },
+        {
+          "id": "c",
+          "text": "Pemahaman kritis dalam menemukan, mengevaluasi, dan mengomunikasikan konten digital"
+        },
+        {
+          "id": "d",
+          "text": "Penguasaan bahasa pemrograman tingkat tinggi"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Literasi digital mencakup dimensi kognitif dan evaluatif dalam menggunakan informasi digital, tidak sekadar penguasaan teknis yang menjadi ranah keterampilan digital."
+    },
+    {
+      "id": "q15",
+      "text": "Seseorang belajar editing video melalui tutorial di kanal YouTube tanpa mengikuti kursus atau program pendidikan formal. Aktivitas ini tergolong sebagai…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pembelajaran daring formal"
+        },
+        {
+          "id": "b",
+          "text": "Microlearning"
+        },
+        {
+          "id": "c",
+          "text": "Pembelajaran informal digital"
+        },
+        {
+          "id": "d",
+          "text": "Personal learning network"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Pembelajaran informal digital adalah proses belajar di luar kurikulum formal yang difasilitasi sumber daya digital, seperti belajar dari tutorial YouTube tanpa terikat program pendidikan resmi."
+    },
+    {
+      "id": "q16",
+      "text": "Sebuah aplikasi menyajikan materi tata bahasa Inggris dalam bentuk modul berdurasi lima menit per topik yang dapat diselesaikan kapan saja. Metode pembelajaran ini disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pembelajaran informal digital"
+        },
+        {
+          "id": "b",
+          "text": "Personal learning network"
+        },
+        {
+          "id": "c",
+          "text": "Pembelajaran daring"
+        },
+        {
+          "id": "d",
+          "text": "Microlearning"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Microlearning adalah penyampaian konten pembelajaran dalam unit-unit kecil dan fokus yang dirancang untuk dipelajari dalam waktu singkat, seperti modul lima menit pada aplikasi tersebut."
+    },
+    {
+      "id": "q17",
+      "text": "Berbeda dari pembelajaran formal, pembelajaran informal digital memiliki karakteristik utama berupa…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Adanya kurikulum terstruktur dan sertifikasi resmi"
+        },
+        {
+          "id": "b",
+          "text": "Proses belajar yang terjadi secara spontan di luar struktur institusi pendidikan"
+        },
+        {
+          "id": "c",
+          "text": "Ketergantungan pada interaksi tatap muka dengan instruktur"
+        },
+        {
+          "id": "d",
+          "text": "Pembatasan akses hanya bagi peserta yang terdaftar"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Pembelajaran informal digital berlangsung di luar kurikulum dan institusi formal, terjadi secara spontan melalui sumber daya digital tanpa struktur pendidikan yang baku."
+    },
+    {
+      "id": "q18",
+      "text": "Seseorang bergabung dalam grup diskusi profesi di media sosial, mengikuti pakar di bidangnya, dan rutin bertukar informasi melalui platform digital untuk mendukung pengembangan kompetensinya…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Microlearning"
+        },
+        {
+          "id": "b",
+          "text": "Pembelajaran informal digital"
+        },
+        {
+          "id": "c",
+          "text": "Personal learning network"
+        },
+        {
+          "id": "d",
+          "text": "Massive Open Online Course"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Personal learning network adalah jaringan koneksi daring yang sengaja dibangun individu untuk berinteraksi dan bertukar informasi demi mendukung pembelajaran profesional dan pribadi, sesuai dengan aktivitas yang digambarkan dalam soal."
+    },
+    {
+      "id": "q19",
+      "text": "Berbeda dengan mengikuti kursus daring terstruktur yang memiliki silabus dan penilaian formal, kegiatan menyimak diskusi pakar di Twitter Space tentang isu terkini termasuk dalam kategori…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pelatihan tersertifikasi"
+        },
+        {
+          "id": "b",
+          "text": "Pendidikan jarak jauh"
+        },
+        {
+          "id": "c",
+          "text": "Blended learning"
+        },
+        {
+          "id": "d",
+          "text": "Pembelajaran informal digital"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Pembelajaran informal digital adalah proses belajar di luar kurikulum formal yang difasilitasi sumber daya digital seperti forum, video tutorial, dan media sosial."
+    },
+    {
+      "id": "q20",
+      "text": "Sebuah platform menyajikan materi keamanan siber dalam potongan video berdurasi 3 menit yang masing-masing hanya membahas satu sub-topik spesifik seperti membuat kata sandi kuat. Pendekatan ini disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gamifikasi"
+        },
+        {
+          "id": "b",
+          "text": "Blended learning"
+        },
+        {
+          "id": "c",
+          "text": "Microlearning"
+        },
+        {
+          "id": "d",
+          "text": "Pembelajaran informal digital"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Microlearning adalah metode penyampaian konten pembelajaran dalam unit-unit kecil dan fokus yang dirancang untuk dipelajari dalam waktu singkat, seperti video 3 menit per sub-topik."
+    },
+    {
+      "id": "q21",
+      "text": "Seorang dosen mencari materi ajar yang dapat digunakan, diadaptasi, dan dibagikan secara legal tanpa perlu meminta izin langsung kepada penciptanya. Jenis materi yang ia butuhkan adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Materi berhak cipta penuh"
+        },
+        {
+          "id": "b",
+          "text": "E-book berbayar"
+        },
+        {
+          "id": "c",
+          "text": "Jurnal berlangganan"
+        },
+        {
+          "id": "d",
+          "text": "Open Educational Resources (OER)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Open Educational Resources (OER) adalah materi pembelajaran yang dirilis di bawah lisensi terbuka sehingga pengguna memiliki izin legal untuk menggunakan, mengadaptasi, dan membagikannya tanpa perlu meminta izin langsung."
+    },
+    {
+      "id": "q22",
+      "text": "Strategi pencarian materi pembelajaran terbuka yang paling efektif ketika seseorang ingin membatasi hasil pencarian hanya pada file PDF dari domain universitas adalah menggunakan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mesin pencari dengan operator khusus seperti site:edu filetype:pdf"
+        },
+        {
+          "id": "b",
+          "text": "Kata kunci biasa tanpa filter"
+        },
+        {
+          "id": "c",
+          "text": "Membuka direktori web universitas satu per satu"
+        },
+        {
+          "id": "d",
+          "text": "Hanya mengandalkan rekomendasi media sosial"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Strategi pencarian daring yang efektif menggunakan operator khusus seperti site: dan filetype: pada mesin pencari untuk menemukan materi secara presisi."
+    },
+    {
+      "id": "q23",
+      "text": "Ketika mengevaluasi sebuah artikel daring yang mengklaim metode belajar tertentu mampu meningkatkan daya ingat hingga 90%, aspek kredibilitas yang paling kritis untuk diperiksa terlebih dahulu adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Desain visual situs web"
+        },
+        {
+          "id": "b",
+          "text": "Otoritas dan akurasi sumber yang mendukung klaim"
+        },
+        {
+          "id": "c",
+          "text": "Popularitas artikel di media sosial"
+        },
+        {
+          "id": "d",
+          "text": "Panjang artikel"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Evaluasi kredibilitas sumber yang paling kritis dilakukan dengan memeriksa otoritas (keahlian penulis) dan akurasi (dukungan sumber tepercaya) dari klaim yang dibuat."
+    },
+    {
+      "id": "q24",
+      "text": "Seorang guru menemukan infografis berlisensi CC BY-NC di internet dan ingin menggunakannya dalam buku ajar yang akan dijual. Berdasarkan lisensi tersebut, tindakan guru ini…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tidak diperbolehkan karena melanggar ketentuan NonKomersial"
+        },
+        {
+          "id": "b",
+          "text": "Diperbolehkan hanya jika mencantumkan atribusi"
+        },
+        {
+          "id": "c",
+          "text": "Diperbolehkan tanpa syarat"
+        },
+        {
+          "id": "d",
+          "text": "Tidak diperbolehkan karena infografis tidak boleh dicetak"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Lisensi CC BY-NC (NonKomersial) membatasi penggunaan ulang karya hanya untuk tujuan non-profit; menjual buku ajar termasuk penggunaan komersial yang melanggar lisensi."
+    },
+    {
+      "id": "q25",
+      "text": "Perbedaan mendasar antara OER yang berlisensi terbuka dengan materi gratis yang tersedia di internet tetapi tidak berlisensi terbuka adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Izin legal untuk merevisi dan mendistribusikan ulang"
+        },
+        {
+          "id": "b",
+          "text": "Format filenya"
+        },
+        {
+          "id": "c",
+          "text": "Harga aksesnya"
+        },
+        {
+          "id": "d",
+          "text": "Kualitas kontennya"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Izin legal untuk merevisi dan mendistribusikan ulang merupakan pembeda mendasar karena lisensi terbuka pada OER memberikan hak tersebut, sedangkan materi gratis biasa tetap memiliki hak cipta penuh yang membatasi adaptasi dan redistribusi."
+    },
+    {
+      "id": "q26",
+      "text": "Mahasiswa menerapkan metode SQ3R saat membaca modul digital. Setelah membaca satu sub-bab, ia menutup layar dan mencoba menjelaskan isinya dengan kata-kata sendiri. Langkah ini termasuk tahap…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Survey"
+        },
+        {
+          "id": "b",
+          "text": "Question"
+        },
+        {
+          "id": "c",
+          "text": "Recite"
+        },
+        {
+          "id": "d",
+          "text": "Read"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Recite adalah tahap dalam SQ3R di mana pembelajar mengingat kembali dan menjelaskan isi bacaan dengan kata-kata sendiri untuk memperkuat pemahaman dan retensi."
+    },
+    {
+      "id": "q27",
+      "text": "Seorang mahasiswa membagi halaman catatannya menjadi kolom sempit di kiri untuk kata kunci dan pertanyaan, kolom luas di kanan untuk catatan utama, serta bagian bawah untuk ringkasan. Sistem ini dikembangkan oleh…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Francis Robinson"
+        },
+        {
+          "id": "b",
+          "text": "Tony Buzan"
+        },
+        {
+          "id": "c",
+          "text": "Walter Pauk"
+        },
+        {
+          "id": "d",
+          "text": "Graham Gibbs"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Cornell notes adalah sistem pencatatan terstruktur yang dikembangkan Walter Pauk, membagi halaman menjadi area isyarat, catatan utama, dan ringkasan."
+    },
+    {
+      "id": "q28",
+      "text": "Seorang manajer proyek membuat diagram yang menempatkan 'Peluncuran Produk' di tengah, lalu mencabangkan menjadi 'Riset', 'Desain', 'Produksi', dan 'Pemasaran' yang masing-masing bercabang lagi hingga ke detail teknis. Teknik mencatat ini termasuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cornell notes"
+        },
+        {
+          "id": "b",
+          "text": "Anotasi digital"
+        },
+        {
+          "id": "c",
+          "text": "Pencatatan linear"
+        },
+        {
+          "id": "d",
+          "text": "Mind mapping"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Mind mapping yang dikembangkan Tony Buzan merepresentasikan ide secara terpancar dari satu topik sentral menggunakan gambar dan kata kunci, sesuai deskripsi diagram tersebut."
+    },
+    {
+      "id": "q29",
+      "text": "Ketika membandingkan mind mapping dengan pencatatan linear tradisional, keunggulan utama mind mapping terletak pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kemampuan merepresentasikan hubungan antar konsep secara visual dan spasial"
+        },
+        {
+          "id": "b",
+          "text": "Kecepatan menulis kata per kata"
+        },
+        {
+          "id": "c",
+          "text": "Kesesuaiannya untuk mencatat kutipan panjang"
+        },
+        {
+          "id": "d",
+          "text": "Formatnya yang lebih rapi dan terstruktur secara numerik"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Mind mapping unggul dalam merepresentasikan hubungan antar konsep secara visual dan spasial melalui struktur terpancar, berbeda dengan pencatatan linear yang bersifat sekuensial."
+    },
+    {
+      "id": "q30",
+      "text": "Seorang mahasiswa menyoroti kalimat penting, menambahkan komentar di margin, dan memberi label pada teks digital artikel jurnal menggunakan aplikasi pembaca PDF. Aktivitas ini disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cornell notes"
+        },
+        {
+          "id": "b",
+          "text": "Anotasi digital"
+        },
+        {
+          "id": "c",
+          "text": "Mind mapping"
+        },
+        {
+          "id": "d",
+          "text": "Refleksi kritis"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Anotasi digital adalah praktik memberikan sorotan, komentar, dan penanda langsung pada teks digital untuk analisis dan kajian ulang."
+    },
+    {
+      "id": "q31",
+      "text": "Setelah menyelesaikan proyek kolaboratif daring, seorang mahasiswa menulis esai yang tidak hanya menceritakan apa yang terjadi, tetapi juga menganalisis asumsi yang ia bawa, mengaitkan pengalaman dengan teori komunikasi, dan merumuskan wawasan baru tentang kerja tim virtual. Tulisan ini merupakan contoh…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ringkasan proyek"
+        },
+        {
+          "id": "b",
+          "text": "Refleksi kritis"
+        },
+        {
+          "id": "c",
+          "text": "Laporan kegiatan"
+        },
+        {
+          "id": "d",
+          "text": "Jurnal harian"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Refleksi kritis mengevaluasi pengalaman secara mendalam dengan menganalisis asumsi, menghubungkan teori dengan praktik, dan merumuskan pembelajaran baru."
+    },
+    {
+      "id": "q32",
+      "text": "Dalam model refleksi Gibbs, setelah mendeskripsikan pengalaman dan mengungkapkan perasaan, langkah selanjutnya yang harus dilakukan adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Membuat rencana tindakan"
+        },
+        {
+          "id": "b",
+          "text": "Menarik kesimpulan"
+        },
+        {
+          "id": "c",
+          "text": "Menganalisis makna"
+        },
+        {
+          "id": "d",
+          "text": "Mengevaluasi pengalaman"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Siklus reflektif Gibbs terdiri dari deskripsi, perasaan, evaluasi, analisis, kesimpulan, dan rencana tindakan. Setelah perasaan, langkah berikutnya adalah evaluasi."
+    },
+    {
+      "id": "q33",
+      "text": "Seorang guru meminta siswa menulis catatan pribadi secara rutin setiap minggu yang mendokumentasikan perkembangan pemahaman mereka tentang materi aljabar, termasuk kesulitan yang dihadapi dan strategi yang berhasil. Guru tersebut menerapkan praktik…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Portofolio tugas"
+        },
+        {
+          "id": "b",
+          "text": "Jurnal belajar"
+        },
+        {
+          "id": "c",
+          "text": "Ujian formatif"
+        },
+        {
+          "id": "d",
+          "text": "Diskusi kelompok"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Jurnal belajar adalah catatan pribadi dan berkelanjutan yang mendokumentasikan proses, kemajuan, dan wawasan yang diperoleh pembelajar selama periode waktu tertentu."
+    },
+    {
+      "id": "q34",
+      "text": "Perbedaan esensial antara menulis refleksi dan menulis ringkasan terletak pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Adanya analisis asumsi, perasaan, dan perumusan pembelajaran baru"
+        },
+        {
+          "id": "b",
+          "text": "Penggunaan bahasa formal"
+        },
+        {
+          "id": "c",
+          "text": "Panjang tulisan"
+        },
+        {
+          "id": "d",
+          "text": "Jumlah paragraf"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Refleksi melibatkan analisis asumsi, perasaan, dan perumusan pembelajaran baru, sedangkan ringkasan hanya menyajikan kembali poin-poin utama tanpa analisis mendalam."
+    },
+    {
+      "id": "q35",
+      "text": "Setelah menyelesaikan program magang, seorang mahasiswa menulis esai yang tidak hanya menceritakan kegiatan harian, tetapi juga mempertanyakan mengapa ia merasa tidak percaya diri saat presentasi, menganalisis penyebabnya berdasarkan konsep self-efficacy, dan menyusun strategi untuk pengembangan diri. Proses berpikir yang dilakukan mahasiswa ini disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "evaluasi formatif"
+        },
+        {
+          "id": "b",
+          "text": "jurnal belajar"
+        },
+        {
+          "id": "c",
+          "text": "refleksi kritis"
+        },
+        {
+          "id": "d",
+          "text": "ringkasan eksekutif"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Refleksi kritis melibatkan evaluasi pengalaman secara mendalam, mempertanyakan asumsi, dan merumuskan pembelajaran baru, bukan sekadar mencatat peristiwa."
+    },
+    {
+      "id": "q36",
+      "text": "Saluran komunikasi yang secara sengaja dirancang untuk menjangkau khalayak dalam jumlah besar secara serentak disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "media sosial"
+        },
+        {
+          "id": "b",
+          "text": "media massa"
+        },
+        {
+          "id": "c",
+          "text": "media alternatif"
+        },
+        {
+          "id": "d",
+          "text": "media interaktif"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Media massa didefinisikan sebagai saluran komunikasi yang ditujukan untuk menjangkau audiens luas secara serentak, seperti surat kabar, radio, dan televisi."
+    },
+    {
+      "id": "q37",
+      "text": "Ketika media secara konsisten menempatkan berita tentang kenaikan harga pangan sebagai tajuk utama setiap hari selama seminggu, publik kemudian meyakini bahwa inflasi adalah isu paling mendesak saat ini. Fenomena ini menggambarkan teori…",
+      "options": [
+        {
+          "id": "a",
+          "text": "agenda setting"
+        },
+        {
+          "id": "b",
+          "text": "gatekeeping"
+        },
+        {
+          "id": "c",
+          "text": "spiral of silence"
+        },
+        {
+          "id": "d",
+          "text": "cultivation"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Teori agenda setting menjelaskan kemampuan media dalam memengaruhi persepsi publik tentang isu apa yang dianggap penting melalui pemilihan dan penonjolan berita secara konsisten."
+    },
+    {
+      "id": "q38",
+      "text": "Seorang editor surat kabar memutuskan untuk tidak memuat berita tentang demonstrasi kecil di daerah karena dianggap kurang signifikan bagi pembaca nasional. Keputusan editor ini mencerminkan proses…",
+      "options": [
+        {
+          "id": "a",
+          "text": "framing"
+        },
+        {
+          "id": "b",
+          "text": "agenda setting"
+        },
+        {
+          "id": "c",
+          "text": "gatekeeping"
+        },
+        {
+          "id": "d",
+          "text": "priming"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Gatekeeping adalah proses penyaringan dan pemilihan informasi yang akan disebarluaskan oleh penjaga gerbang media seperti editor."
+    },
+    {
+      "id": "q39",
+      "text": "Televisi, radio, dan surat kabar termasuk dalam kategori media massa, sedangkan podcast on-demand dan kanal YouTube termasuk dalam kategori media baru. Perbedaan utama di antara keduanya terletak pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "sifat komunikasi yang serentak dan seragam versus fleksibel dan personal"
+        },
+        {
+          "id": "b",
+          "text": "penggunaan teknologi digital versus analog"
+        },
+        {
+          "id": "c",
+          "text": "kredibilitas informasi yang disajikan"
+        },
+        {
+          "id": "d",
+          "text": "kepemilikan oleh korporasi besar versus individu"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Media massa tradisional menyiarkan konten seragam ke khalayak luas secara serentak, sementara media baru memungkinkan konsumsi personal sesuai waktu dan preferensi individu."
+    },
+    {
+      "id": "q40",
+      "text": "Berita yang sama tentang bencana alam disajikan secara berbeda oleh media A yang menonjolkan jumlah korban dan media B yang menonjolkan respons pemerintah. Perbedaan penyajian ini paling tepat dianalisis menggunakan konsep…",
+      "options": [
+        {
+          "id": "a",
+          "text": "difusi inovasi dan uses and gratifications"
+        },
+        {
+          "id": "b",
+          "text": "gatekeeping dan priming"
+        },
+        {
+          "id": "c",
+          "text": "cultivation dan spiral of silence"
+        },
+        {
+          "id": "d",
+          "text": "agenda setting dan framing"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Agenda setting berkaitan dengan pemilihan isu yang ditonjolkan, sedangkan framing berkaitan dengan cara isu tersebut dikemas dan disajikan kepada publik."
+    },
+    {
+      "id": "q41",
+      "text": "Kemampuan mengakses, menganalisis, mengevaluasi, dan menciptakan pesan dalam berbagai bentuk media merupakan definisi dari…",
+      "options": [
+        {
+          "id": "a",
+          "text": "literasi media"
+        },
+        {
+          "id": "b",
+          "text": "literasi informasi"
+        },
+        {
+          "id": "c",
+          "text": "literasi digital"
+        },
+        {
+          "id": "d",
+          "text": "literasi visual"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Literasi media secara spesifik mencakup kemampuan mengakses, menganalisis, mengevaluasi, dan menciptakan pesan di berbagai platform media."
+    },
+    {
+      "id": "q42",
+      "text": "Meskipun Amandemen UUD 1945 menjamin kebebasan pers, seorang jurnalis investigasi ditangkap karena dianggap mencemarkan nama baik pejabat publik yang ia laporkan terlibat korupsi. Situasi ini mencerminkan ketegangan antara…",
+      "options": [
+        {
+          "id": "a",
+          "text": "hak jawab dan kode etik jurnalistik"
+        },
+        {
+          "id": "b",
+          "text": "literasi media dan profesionalitas jurnalistik"
+        },
+        {
+          "id": "c",
+          "text": "kebebasan pers dan penegakan hukum tentang pencemaran nama baik"
+        },
+        {
+          "id": "d",
+          "text": "verifikasi fakta dan kecepatan pemberitaan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Kebebasan pers menjamin hak melaporkan informasi, namun tetap tunduk pada batasan hukum seperti pencemaran nama baik, yang menciptakan ketegangan dalam praktiknya."
+    },
+    {
+      "id": "q43",
+      "text": "Seorang jurnalis menerima informasi dari sumber anonim tentang dugaan penyelewengan dana. Sebelum menerbitkan berita, ia mencari dokumen resmi, mewawancarai saksi lain, dan meminta konfirmasi dari pihak yang dituduh. Tindakan ini merupakan penerapan prinsip…",
+      "options": [
+        {
+          "id": "a",
+          "text": "agenda setting"
+        },
+        {
+          "id": "b",
+          "text": "konfirmasi dan verifikasi"
+        },
+        {
+          "id": "c",
+          "text": "hak tolak"
+        },
+        {
+          "id": "d",
+          "text": "kecepatan berita"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Konfirmasi dan verifikasi adalah prinsip fundamental jurnalisme yang mewajibkan pemeriksaan ulang fakta sebelum informasi dipublikasikan."
+    },
+    {
+      "id": "q44",
+      "text": "Pedoman moral profesional yang mewajibkan jurnalis menyajikan informasi secara akurat, berimbang, dan independen tertuang dalam…",
+      "options": [
+        {
+          "id": "a",
+          "text": "kode etik jurnalistik"
+        },
+        {
+          "id": "b",
+          "text": "undang-undang pers"
+        },
+        {
+          "id": "c",
+          "text": "standar operasional prosedur redaksi"
+        },
+        {
+          "id": "d",
+          "text": "dewan pers"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kode etik jurnalistik merupakan seperangkat pedoman moral yang mengikat jurnalis untuk bekerja secara profesional, akurat, berimbang, dan independen."
+    },
+    {
+      "id": "q45",
+      "text": "Sebuah portal berita daring menggabungkan artikel teks, siaran langsung video, infografis interaktif, dan utas media sosial dalam liputan pemilu. Integrasi berbagai format ini disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "hiperteks"
+        },
+        {
+          "id": "b",
+          "text": "konvergensi media"
+        },
+        {
+          "id": "c",
+          "text": "multimedia"
+        },
+        {
+          "id": "d",
+          "text": "digitalisasi"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Konvergensi media merujuk pada penggabungan berbagai platform dan format media tradisional dengan teknologi digital menghasilkan aliran konten lintas platform."
+    },
+    {
+      "id": "q46",
+      "text": "Dalam sebuah artikel digital, pembaca dapat mengeklik istilah 'blockchain' dan langsung diarahkan ke halaman yang menjelaskan konsep tersebut secara mendalam. Struktur teks semacam ini disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "linear teks"
+        },
+        {
+          "id": "b",
+          "text": "multimedia"
+        },
+        {
+          "id": "c",
+          "text": "hiperteks"
+        },
+        {
+          "id": "d",
+          "text": "metadata"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Hiperteks adalah teks digital yang saling terhubung melalui tautan sehingga memungkinkan navigasi non-linear antar berbagai sumber informasi."
+    },
+    {
+      "id": "q47",
+      "text": "Perbedaan mendasar antara teks linear konvensional dan hiperteks terletak pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "struktur navigasi yang memungkinkan pembaca berpindah secara non-linear"
+        },
+        {
+          "id": "b",
+          "text": "penggunaan bahasa yang lebih informal"
+        },
+        {
+          "id": "c",
+          "text": "kredibilitas informasi yang terkandung"
+        },
+        {
+          "id": "d",
+          "text": "panjang teks yang lebih ringkas"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Hiperteks memungkinkan pembaca bernavigasi secara non-linear melalui tautan, sedangkan teks linear hanya mengalir dalam satu urutan tetap."
+    },
+    {
+      "id": "q48",
+      "text": "Sebuah presentasi pembelajaran daring menggabungkan narasi suara, teks pada layar, animasi proses fotosintesis, dan video pertumbuhan tanaman. Presentasi ini merupakan contoh penggunaan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "konvergensi media"
+        },
+        {
+          "id": "b",
+          "text": "hiperteks"
+        },
+        {
+          "id": "c",
+          "text": "media sosial"
+        },
+        {
+          "id": "d",
+          "text": "multimedia"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Multimedia adalah integrasi teks, audio, gambar, animasi, dan video dalam satu pesan atau presentasi digital."
+    },
+    {
+      "id": "q49",
+      "text": "Seorang pengguna Twitter hanya mengikuti akun-akun yang sepaham dengan pandangan politiknya dan memblokir akun yang berbeda pendapat. Akibatnya, linimasa pengguna tersebut hanya menampilkan informasi yang memperkuat keyakinannya. Fenomena ini disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "selective exposure"
+        },
+        {
+          "id": "b",
+          "text": "filter bubble"
+        },
+        {
+          "id": "c",
+          "text": "digital divide"
+        },
+        {
+          "id": "d",
+          "text": "echo chamber"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Echo chamber terjadi ketika keyakinan diperkuat oleh pengulangan di dalam lingkungan tertutup, terisolasi dari sanggahan, dan sering kali karena pilihan sadar pengguna."
+    },
+    {
+      "id": "q50",
+      "text": "Algoritma platform pencarian berita secara otomatis menyembunyikan artikel yang bertentangan dengan riwayat klik pengguna, meskipun pengguna tidak secara sengaja memilih preferensi tersebut. Situasi ini menggambarkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "echo chamber"
+        },
+        {
+          "id": "b",
+          "text": "filter bubble"
+        },
+        {
+          "id": "c",
+          "text": "selective avoidance"
+        },
+        {
+          "id": "d",
+          "text": "confirmation bias"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Filter bubble menurut Eli Pariser adalah isolasi intelektual yang dihasilkan algoritma, bukan pilihan sadar pengguna, yang hanya menampilkan informasi sesuai riwayat dan minat."
+    }
+  ]
+}

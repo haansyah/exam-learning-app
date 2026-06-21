@@ -15,33 +15,98 @@ if (!subject) {
   throw createError({ statusCode: 404, statusMessage: 'Subject not found' })
 }
 
+const subjectMeta = subject
+
 const questionData = await useSubjectQuestions(subject.questionFile)
 const examStore = useExamStore()
 const historyStore = useHistoryStore()
 const pendingResultStore = usePendingResultStore()
+const examDraftStore = useExamDraftStore()
 
 const questionCount = computed(() => questionData.value?.questions.length ?? 0)
 const timeLimitSeconds = computed(() =>
-  resolveTimeLimitSeconds(questionCount.value, subject.timeLimitMinutes)
+  resolveTimeLimitSeconds(questionCount.value, subjectMeta.timeLimitMinutes)
 )
 
-onMounted(() => {
-  if (!examStore.isActive || examStore.subjectId !== subjectId) {
-    examStore.startExam(
-      subjectId,
-      subject.passThreshold,
-      questionData.value?.questions ?? [],
-      shuffleQuery,
-      timeLimitSeconds.value
-    )
+const unlockStatus = computed(() =>
+  getEnglishLevelUnlockStatus(
+    subjectId,
+    manifest.value ?? [],
+    historyStore.hasPassedSubject
+  )
+)
+
+function initializeExam() {
+  if (!unlockStatus.value.unlocked) {
+    router.replace(`/subjects/${subjectId}`)
+    return
   }
+
+  if (examStore.hasResumableSession(subjectId)) {
+    examStore.resumeExam()
+    return
+  }
+
+  const draft = examDraftStore.getDraft(subjectId)
+  if (draft) {
+    examStore.restoreFromDraft(draft)
+    examStore.resumeExam()
+    return
+  }
+
+  examStore.startExam(
+    subjectId,
+    subjectMeta.passThreshold,
+    questionData.value?.questions ?? [],
+    shuffleQuery,
+    timeLimitSeconds.value
+  )
+}
+
+function pauseAndLeave() {
+  if (examStore.isActive) {
+    examStore.pauseExam()
+  }
+  router.push(`/subjects/${subjectId}`)
+}
+
+function handleBeforeUnload() {
+  if (examStore.isActive) {
+    examStore.pauseExam()
+  }
+}
+
+onMounted(() => {
+  initializeExam()
+  window.addEventListener('beforeunload', handleBeforeUnload)
 })
 
 onUnmounted(() => {
+  window.removeEventListener('beforeunload', handleBeforeUnload)
+
   if (examStore.phase === 'complete') {
     examStore.resetSession()
+  } else if (examStore.isActive) {
+    examStore.pauseExam()
   }
 })
+
+function handleCheckAnswer() {
+  const question = examStore.currentQuestion
+  const selectedOptionId = examStore.currentState?.selectedOptionId
+
+  if (!question || !selectedOptionId) {
+    return
+  }
+
+  examStore.checkAnswer()
+
+  if (selectedOptionId === question.correctOptionId) {
+    playCorrectAnswerSound()
+  } else {
+    playIncorrectAnswerSound()
+  }
+}
 
 function goToResults() {
   const attempt = examStore.buildAttempt()
@@ -49,6 +114,7 @@ function goToResults() {
     return
   }
 
+  examDraftStore.clearDraft(subjectId)
   historyStore.addAttempt(attempt)
   pendingResultStore.set(attempt)
   router.replace(`/subjects/${subjectId}/result/${attempt.attemptId}`)
@@ -64,7 +130,7 @@ watch(
 )
 
 useSeoMeta({
-  title: `Exam — ${subject.name}`
+  title: `Exam — ${subjectMeta.name}`
 })
 </script>
 
@@ -72,13 +138,24 @@ useSeoMeta({
   <UContainer class="py-6 space-y-4 max-w-3xl">
     <template v-if="examStore.phase === 'exam'">
       <div class="flex flex-wrap items-center justify-between gap-3">
-        <UBadge
-          color="neutral"
-          variant="subtle"
-          size="lg"
-        >
-          Question {{ examStore.progressLabel }}
-        </UBadge>
+        <div class="flex flex-wrap items-center gap-2">
+          <UButton
+            icon="i-lucide-arrow-left"
+            variant="ghost"
+            color="neutral"
+            size="sm"
+            @click="pauseAndLeave"
+          >
+            Keluar
+          </UButton>
+          <UBadge
+            color="neutral"
+            variant="subtle"
+            size="lg"
+          >
+            Question {{ examStore.progressLabel }}
+          </UBadge>
+        </div>
         <ExamTimer :seconds-remaining="examStore.timerSecondsRemaining" />
       </div>
 
@@ -94,11 +171,12 @@ useSeoMeta({
       <div class="flex flex-wrap gap-3">
         <UButton
           v-if="!examStore.currentState?.checked"
-          color="primary"
+          :class="examStore.canCheckAnswer ? 'bg-primary' : 'opacity-20 bg-neutral/10'"
+          :color="examStore.canCheckAnswer ? 'primary' : 'neutral'"
           :disabled="!examStore.canCheckAnswer"
-          @click="examStore.checkAnswer"
+          @click="handleCheckAnswer"
         >
-          Check Answer
+          {{ examStore.canCheckAnswer ? 'Check Answer' : 'Select Answer First' }}
         </UButton>
         <UButton
           v-else

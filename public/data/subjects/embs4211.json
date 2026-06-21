@@ -1,0 +1,1205 @@
+{
+  "subjectId": "embs4211",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Manajemen operasi dapat didefinisikan sebagai serangkaian aktivitas yang menghasilkan nilai dalam bentuk barang dan jasa dengan mengubah input menjadi output. Tokoh yang paling dikenal sebagai pelopor manajemen ilmiah (scientific management) adalah… - Contact",
+      "options": [
+        {
+          "id": "a",
+          "text": "Henry Ford"
+        },
+        {
+          "id": "b",
+          "text": "Frank Gilbreth"
+        },
+        {
+          "id": "c",
+          "text": "Frederick W. Taylor"
+        },
+        {
+          "id": "d",
+          "text": "Eli Whitney"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Frederick W. Taylor"
+    },
+    {
+      "id": "q2",
+      "text": "Salah satu tantangan manajemen operasi saat ini adalah persaingan global. Pendekatan yang paling tepat untuk menghadapi tantangan tersebut adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Meningkatkan harga jual produk agar margin lebih besar"
+        },
+        {
+          "id": "b",
+          "text": "Menutup pasar domestik dari produk impor"
+        },
+        {
+          "id": "c",
+          "text": "Mengurangi inovasi untuk menekan biaya riset"
+        },
+        {
+          "id": "d",
+          "text": "Meningkatkan efisiensi proses dan kualitas produk secara berkelanjutan"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Meningkatkan efisiensi proses dan kualitas produk secara berkelanjutan"
+    },
+    {
+      "id": "q3",
+      "text": "Strategi manajemen operasi yang berfokus pada keunggulan biaya rendah disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Diferensiasi produk"
+        },
+        {
+          "id": "b",
+          "text": "Cost leadership"
+        },
+        {
+          "id": "c",
+          "text": "Focus strategy"
+        },
+        {
+          "id": "d",
+          "text": "Market penetration"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Cost leadership"
+    },
+    {
+      "id": "q4",
+      "text": "Dalam konteks manajemen operasi, “produktivitas” diukur dengan cara…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Membagi total biaya dengan total pendapatan"
+        },
+        {
+          "id": "b",
+          "text": "Membagi output yang dihasilkan dengan input yang digunakan"
+        },
+        {
+          "id": "c",
+          "text": "Menghitung selisih antara pendapatan dan biaya operasional"
+        },
+        {
+          "id": "d",
+          "text": "Membandingkan harga jual dengan harga pokok produksi"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Membagi output yang dihasilkan dengan input yang digunakan"
+    },
+    {
+      "id": "q5",
+      "text": "Keputusan desain barang dan jasa dalam rancangan operasi mencakup aspek berikut, kecuali…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pemilihan bahan baku yang digunakan"
+        },
+        {
+          "id": "b",
+          "text": "Penentuan fitur dan fungsi produk"
+        },
+        {
+          "id": "c",
+          "text": "Kebijakan dividen perusahaan"
+        },
+        {
+          "id": "d",
+          "text": "Kapasitas produksi yang dibutuhkan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Kebijakan dividen perusahaan"
+    },
+    {
+      "id": "q6",
+      "text": "Strategi lokasi yang mempertimbangkan kedekatan dengan bahan baku paling cocok diterapkan pada industri…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Perbankan dan keuangan"
+        },
+        {
+          "id": "b",
+          "text": "Konsultasi manajemen"
+        },
+        {
+          "id": "c",
+          "text": "Pengolahan kayu dan pertambangan"
+        },
+        {
+          "id": "d",
+          "text": "Perdagangan eceran online"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Pengolahan kayu dan pertambangan"
+    },
+    {
+      "id": "q7",
+      "text": "Layout yang mengelompokkan mesin atau peralatan berdasarkan fungsi yang sama disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Product layout"
+        },
+        {
+          "id": "b",
+          "text": "Fixed-position layout"
+        },
+        {
+          "id": "c",
+          "text": "Process layout"
+        },
+        {
+          "id": "d",
+          "text": "Cellular layout"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Process layout"
+    },
+    {
+      "id": "q8",
+      "text": "Dalam desain jasa, perbedaan utama dibandingkan desain barang adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jasa selalu lebih murah dari barang"
+        },
+        {
+          "id": "b",
+          "text": "Jasa tidak memerlukan sumber daya manusia"
+        },
+        {
+          "id": "c",
+          "text": "Jasa tidak dapat disimpan dan sering melibatkan pelanggan langsung dalam prosesnya"
+        },
+        {
+          "id": "d",
+          "text": "Jasa tidak dipengaruhi oleh permintaan pasar"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Jasa tidak dapat disimpan dan sering melibatkan pelanggan langsung dalam prosesnya"
+    },
+    {
+      "id": "q9",
+      "text": "Metode factor rating dalam penentuan lokasi digunakan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menghitung biaya transportasi minimum"
+        },
+        {
+          "id": "b",
+          "text": "Membandingkan beberapa lokasi alternatif berdasarkan berbagai faktor tertimbang"
+        },
+        {
+          "id": "c",
+          "text": "Menentukan jadwal produksi optimal"
+        },
+        {
+          "id": "d",
+          "text": "Menganalisis kapasitas gudang"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Membandingkan beberapa lokasi alternatif berdasarkan berbagai faktor tertimbang"
+    },
+    {
+      "id": "q10",
+      "text": "Konsep Total Quality Management (TQM) menekankan bahwa tanggung jawab kualitas ada pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Departemen quality control saja"
+        },
+        {
+          "id": "b",
+          "text": "Manajer produksi"
+        },
+        {
+          "id": "c",
+          "text": "Seluruh anggota organisasi"
+        },
+        {
+          "id": "d",
+          "text": "Pemasok bahan baku"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Seluruh anggota organisasi"
+    },
+    {
+      "id": "q11",
+      "text": "ISO 9001 merupakan standar internasional yang berkaitan dengan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keselamatan dan kesehatan kerja"
+        },
+        {
+          "id": "b",
+          "text": "Sistem manajemen lingkungan"
+        },
+        {
+          "id": "c",
+          "text": "Sistem manajemen kualitas"
+        },
+        {
+          "id": "d",
+          "text": "Standar akuntansi keuangan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Sistem manajemen kualitas"
+    },
+    {
+      "id": "q12",
+      "text": "Diagram sebab-akibat (fishbone diagram) dalam manajemen kualitas digunakan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menghitung biaya produksi"
+        },
+        {
+          "id": "b",
+          "text": "Mengidentifikasi akar penyebab suatu masalah kualitas"
+        },
+        {
+          "id": "c",
+          "text": "Membuat jadwal perawatan mesin"
+        },
+        {
+          "id": "d",
+          "text": "Memprediksi permintaan masa depan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Mengidentifikasi akar penyebab suatu masalah kualitas"
+    },
+    {
+      "id": "q13",
+      "text": "Peta kendali (control chart) dalam Statistical Process Control (SPC) berfungsi untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menyusun anggaran produksi"
+        },
+        {
+          "id": "b",
+          "text": "Menentukan harga pokok produksi"
+        },
+        {
+          "id": "c",
+          "text": "Memantau variasi proses produksi dari waktu ke waktu"
+        },
+        {
+          "id": "d",
+          "text": "Mengatur persediaan bahan baku"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Memantau variasi proses produksi dari waktu ke waktu"
+    },
+    {
+      "id": "q14",
+      "text": "Dalam manajemen proyek, diagram PERT (Program Evaluation and Review Technique) dikembangkan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mengelola persediaan gudang"
+        },
+        {
+          "id": "b",
+          "text": "Merencanakan dan mengendalikan proyek berskala besar dengan ketidakpastian waktu"
+        },
+        {
+          "id": "c",
+          "text": "Menentukan harga jual produk"
+        },
+        {
+          "id": "d",
+          "text": "Menganalisis laporan keuangan proyek"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Merencanakan dan mengendalikan proyek berskala besar dengan ketidakpastian waktu"
+    },
+    {
+      "id": "q15",
+      "text": "Critical Path Method (CPM) dalam manajemen proyek bertujuan untuk menemukan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jalur terpendek dalam jaringan distribusi"
+        },
+        {
+          "id": "b",
+          "text": "Biaya proyek paling murah"
+        },
+        {
+          "id": "c",
+          "text": "Urutan aktivitas terpanjang yang menentukan durasi minimum proyek"
+        },
+        {
+          "id": "d",
+          "text": "Jumlah tenaga kerja yang optimal"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Urutan aktivitas terpanjang yang menentukan durasi minimum proyek"
+    },
+    {
+      "id": "q16",
+      "text": "Jika sebuah aktivitas proyek memiliki slack (float) = 0, maka aktivitas tersebut termasuk dalam…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jalur kritis (critical path)"
+        },
+        {
+          "id": "b",
+          "text": "Jalur alternatif"
+        },
+        {
+          "id": "c",
+          "text": "Aktivitas pendukung"
+        },
+        {
+          "id": "d",
+          "text": "Aktivitas opsional"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Jalur kritis (critical path)"
+    },
+    {
+      "id": "q17",
+      "text": "Crashing dalam manajemen proyek berarti…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menghentikan proyek karena melebihi anggaran"
+        },
+        {
+          "id": "b",
+          "text": "Mempercepat penyelesaian aktivitas kritis dengan menambah sumber daya, biasanya dengan biaya tambahan"
+        },
+        {
+          "id": "c",
+          "text": "Mengalihkan proyek ke kontraktor lain"
+        },
+        {
+          "id": "d",
+          "text": "Mengurangi ruang lingkup proyek"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Mempercepat penyelesaian aktivitas kritis dengan menambah sumber daya, biasanya dengan biaya tambahan"
+    },
+    {
+      "id": "q18",
+      "text": "Biaya dalam manajemen proyek dibagi menjadi dua kategori utama, yaitu…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Biaya tetap dan biaya variabel"
+        },
+        {
+          "id": "b",
+          "text": "Biaya langsung dan biaya tidak langsung"
+        },
+        {
+          "id": "c",
+          "text": "Biaya produksi dan biaya pemasaran"
+        },
+        {
+          "id": "d",
+          "text": "Biaya awal dan biaya akhir"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Biaya langsung dan biaya tidak langsung"
+    },
+    {
+      "id": "q19",
+      "text": "Metode peramalan yang menggunakan rata-rata dari beberapa periode terakhir dengan bobot yang sama disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Exponential smoothing"
+        },
+        {
+          "id": "b",
+          "text": "Regresi linier"
+        },
+        {
+          "id": "c",
+          "text": "Moving average"
+        },
+        {
+          "id": "d",
+          "text": "Trend projection"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Moving average"
+    },
+    {
+      "id": "q20",
+      "text": "Exponential smoothing menggunakan parameter α (alpha). Jika α = 0,9, hal ini berarti…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Peramalan sangat bergantung pada data historis jangka panjang"
+        },
+        {
+          "id": "b",
+          "text": "Bobot lebih besar diberikan pada data terbaru sehingga peramalan sangat responsif terhadap perubahan"
+        },
+        {
+          "id": "c",
+          "text": "Peramalan mengabaikan data terbaru"
+        },
+        {
+          "id": "d",
+          "text": "Tidak ada perbedaan antara data lama dan baru"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Bobot lebih besar diberikan pada data terbaru sehingga peramalan sangat responsif terhadap perubahan"
+    },
+    {
+      "id": "q21",
+      "text": "Mean Absolute Deviation (MAD) digunakan dalam peramalan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mengukur total permintaan selama satu periode"
+        },
+        {
+          "id": "b",
+          "text": "Menghitung biaya kesalahan peramalan"
+        },
+        {
+          "id": "c",
+          "text": "Mengukur rata-rata besarnya kesalahan peramalan tanpa memperhatikan arah kesalahan"
+        },
+        {
+          "id": "d",
+          "text": "Menentukan tren jangka panjang"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Mengukur rata-rata besarnya kesalahan peramalan tanpa memperhatikan arah kesalahan"
+    },
+    {
+      "id": "q22",
+      "text": "Peramalan deret waktu (time-series forecasting) didasarkan pada asumsi bahwa…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Permintaan masa depan dipengaruhi oleh faktor eksternal yang tidak berulang"
+        },
+        {
+          "id": "b",
+          "text": "Pola permintaan masa lalu akan terus berlanjut di masa depan"
+        },
+        {
+          "id": "c",
+          "text": "Permintaan selalu bersifat konstan dari waktu ke waktu"
+        },
+        {
+          "id": "d",
+          "text": "Faktor cuaca adalah satu-satunya penentu permintaan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Pola permintaan masa lalu akan terus berlanjut di masa depan"
+    },
+    {
+      "id": "q23",
+      "text": "Komponen musiman (seasonal component) dalam time-series forecasting menggambarkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Perubahan permintaan yang terjadi secara acak"
+        },
+        {
+          "id": "b",
+          "text": "Kenaikan permintaan jangka panjang yang konsisten"
+        },
+        {
+          "id": "c",
+          "text": "Fluktuasi permintaan yang berulang secara teratur dalam satu tahun atau periode tertentu"
+        },
+        {
+          "id": "d",
+          "text": "Penurunan permintaan akibat persaingan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Fluktuasi permintaan yang berulang secara teratur dalam satu tahun atau periode tertentu"
+    },
+    {
+      "id": "q24",
+      "text": "Manajemen rantai pasok (supply chain management) mencakup pengelolaan aliran…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keuangan perusahaan saja"
+        },
+        {
+          "id": "b",
+          "text": "Barang, informasi, dan keuangan dari pemasok hingga konsumen akhir"
+        },
+        {
+          "id": "c",
+          "text": "Sumber daya manusia dalam organisasi"
+        },
+        {
+          "id": "d",
+          "text": "Teknologi informasi internal perusahaan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Barang, informasi, dan keuangan dari pemasok hingga konsumen akhir"
+    },
+    {
+      "id": "q25",
+      "text": "Bullwhip effect dalam manajemen rantai pasok mengacu pada fenomena…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Penurunan kualitas produk di sepanjang rantai pasok"
+        },
+        {
+          "id": "b",
+          "text": "Amplifikasi variasi permintaan yang semakin besar saat bergerak ke hulu rantai pasok"
+        },
+        {
+          "id": "c",
+          "text": "Peningkatan biaya transportasi secara tiba-tiba"
+        },
+        {
+          "id": "d",
+          "text": "Keterlambatan pembayaran dari konsumen ke pemasok"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Amplifikasi variasi permintaan yang semakin besar saat bergerak ke hulu rantai pasok"
+    },
+    {
+      "id": "q26",
+      "text": "Strategi Just-in-Time (JIT) dalam manajemen persediaan bertujuan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menyimpan persediaan sebanyak mungkin untuk mengantisipasi kekurangan"
+        },
+        {
+          "id": "b",
+          "text": "Menghilangkan pemborosan dengan menerima material tepat saat dibutuhkan dalam jumlah yang tepat"
+        },
+        {
+          "id": "c",
+          "text": "Meningkatkan buffer stock di setiap titik produksi"
+        },
+        {
+          "id": "d",
+          "text": "Memperbanyak pemasok untuk mengurangi ketergantungan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Menghilangkan pemborosan dengan menerima material tepat saat dibutuhkan dalam jumlah yang tepat"
+    },
+    {
+      "id": "q27",
+      "text": "Economic Order Quantity (EOQ) adalah model persediaan yang digunakan untuk menentukan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kapan harus menghentikan produksi"
+        },
+        {
+          "id": "b",
+          "text": "Jumlah pesanan yang meminimalkan total biaya pemesanan dan biaya penyimpanan"
+        },
+        {
+          "id": "c",
+          "text": "Harga beli optimal dari pemasok"
+        },
+        {
+          "id": "d",
+          "text": "Jadwal pengiriman kepada pelanggan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Jumlah pesanan yang meminimalkan total biaya pemesanan dan biaya penyimpanan"
+    },
+    {
+      "id": "q28",
+      "text": "Reorder Point (ROP) dalam manajemen persediaan adalah titik di mana…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Perusahaan menghentikan penjualan produk"
+        },
+        {
+          "id": "b",
+          "text": "Persediaan dinyatakan berlebihan dan harus dijual"
+        },
+        {
+          "id": "c",
+          "text": "Perusahaan harus segera melakukan pemesanan ulang agar tidak terjadi kehabisan stok"
+        },
+        {
+          "id": "d",
+          "text": "Produksi dihentikan sementara untuk perawatan mesin"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Perusahaan harus segera melakukan pemesanan ulang agar tidak terjadi kehabisan stok"
+    },
+    {
+      "id": "q29",
+      "text": "Dalam manajemen rantai pasok, vendor-managed inventory (VMI) berarti…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pelanggan sepenuhnya mengatur jadwal produksi pemasok"
+        },
+        {
+          "id": "b",
+          "text": "Pemasok bertanggung jawab mengelola dan mengisi ulang persediaan di lokasi pelanggan"
+        },
+        {
+          "id": "c",
+          "text": "Perusahaan menggunakan sistem lelang untuk memilih pemasok"
+        },
+        {
+          "id": "d",
+          "text": "Persediaan dikelola oleh pihak ketiga yang independen"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Pemasok bertanggung jawab mengelola dan mengisi ulang persediaan di lokasi pelanggan"
+    },
+    {
+      "id": "q30",
+      "text": "Perencanaan kapasitas jangka panjang dalam manajemen operasi berkaitan dengan keputusan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Penjadwalan shift kerja harian"
+        },
+        {
+          "id": "b",
+          "text": "Pembelian bahan baku mingguan"
+        },
+        {
+          "id": "c",
+          "text": "Investasi pada fasilitas produksi, mesin, dan teknologi baru"
+        },
+        {
+          "id": "d",
+          "text": "Penentuan harga jual produk musiman"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Investasi pada fasilitas produksi, mesin, dan teknologi baru"
+    },
+    {
+      "id": "q31",
+      "text": "Aggregate planning (perencanaan agregat) bertujuan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Merinci jadwal produksi tiap unit produk"
+        },
+        {
+          "id": "b",
+          "text": "Menyesuaikan kapasitas produksi dengan permintaan secara keseluruhan dalam jangka menengah"
+        },
+        {
+          "id": "c",
+          "text": "Menghitung biaya bahan baku per unit"
+        },
+        {
+          "id": "d",
+          "text": "Menentukan lokasi gudang distribusi"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Menyesuaikan kapasitas produksi dengan permintaan secara keseluruhan dalam jangka menengah"
+    },
+    {
+      "id": "q32",
+      "text": "Strategi chase dalam perencanaan agregat berarti…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mempertahankan tingkat produksi yang konstan sepanjang waktu"
+        },
+        {
+          "id": "b",
+          "text": "Menggunakan lembur untuk memenuhi semua permintaan"
+        },
+        {
+          "id": "c",
+          "text": "Menyesuaikan kapasitas produksi (tenaga kerja/mesin) mengikuti fluktuasi permintaan"
+        },
+        {
+          "id": "d",
+          "text": "Mengurangi harga produk saat permintaan tinggi"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Menyesuaikan kapasitas produksi (tenaga kerja/mesin) mengikuti fluktuasi permintaan"
+    },
+    {
+      "id": "q33",
+      "text": "Material Requirements Planning (MRP) membutuhkan tiga input utama, yaitu…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Laporan keuangan, data pemasok, dan harga pasar"
+        },
+        {
+          "id": "b",
+          "text": "Master Production Schedule (MPS), Bill of Materials (BOM), dan catatan persediaan"
+        },
+        {
+          "id": "c",
+          "text": "Data penjualan, anggaran promosi, dan kapasitas gudang"
+        },
+        {
+          "id": "d",
+          "text": "Jadwal pengiriman, kontrak pelanggan, dan data SDM"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Master Production Schedule (MPS), Bill of Materials (BOM), dan catatan persediaan"
+    },
+    {
+      "id": "q34",
+      "text": "Enterprise Resource Planning (ERP) berbeda dari MRP karena ERP…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hanya fokus pada perencanaan produksi"
+        },
+        {
+          "id": "b",
+          "text": "Mengintegrasikan seluruh fungsi bisnis (keuangan, SDM, produksi, pemasaran) dalam satu sistem informasi terpadu"
+        },
+        {
+          "id": "c",
+          "text": "Dirancang khusus untuk usaha kecil"
+        },
+        {
+          "id": "d",
+          "text": "Tidak memerlukan infrastruktur teknologi informasi"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Mengintegrasikan seluruh fungsi bisnis (keuangan, SDM, produksi, pemasaran) dalam satu sistem informasi terpadu"
+    },
+    {
+      "id": "q35",
+      "text": "Lean manufacturing berfokus pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Meningkatkan kecepatan mesin produksi semaksimal mungkin"
+        },
+        {
+          "id": "b",
+          "text": "Penghapusan semua bentuk pemborosan (waste) dalam proses produksi"
+        },
+        {
+          "id": "c",
+          "text": "Penambahan fitur produk sebanyak-banyaknya"
+        },
+        {
+          "id": "d",
+          "text": "Memperbanyak lapisan manajemen untuk kontrol yang lebih ketat"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Penghapusan semua bentuk pemborosan (waste) dalam proses produksi"
+    },
+    {
+      "id": "q36",
+      "text": "Tujuh jenis pemborosan (seven wastes) dalam lean manufacturing mencakup, kecuali…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Overproduction dan waiting"
+        },
+        {
+          "id": "b",
+          "text": "Transportation dan inventory berlebihan"
+        },
+        {
+          "id": "c",
+          "text": "Inovasi produk baru"
+        },
+        {
+          "id": "d",
+          "text": "Defects dan unnecessary motion"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Inovasi produk baru"
+    },
+    {
+      "id": "q37",
+      "text": "Sistem Kanban dalam produksi Just-in-Time berfungsi sebagai…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sistem penggajian karyawan"
+        },
+        {
+          "id": "b",
+          "text": "Sinyal visual untuk mengontrol aliran material dan memicu produksi atau pengisian ulang"
+        },
+        {
+          "id": "c",
+          "text": "Alat untuk mengukur produktivitas individu karyawan"
+        },
+        {
+          "id": "d",
+          "text": "Metode pelatihan tenaga kerja baru"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Sinyal visual untuk mengontrol aliran material dan memicu produksi atau pengisian ulang"
+    },
+    {
+      "id": "q38",
+      "text": "Konsep Kaizen dalam sistem produksi Jepang berarti…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Otomatisasi penuh seluruh lini produksi"
+        },
+        {
+          "id": "b",
+          "text": "Perbaikan berkelanjutan yang melibatkan semua karyawan di semua level"
+        },
+        {
+          "id": "c",
+          "text": "Strategi ekspansi pasar ke luar negeri"
+        },
+        {
+          "id": "d",
+          "text": "Penghapusan semua proses manual"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Perbaikan berkelanjutan yang melibatkan semua karyawan di semua level"
+    },
+    {
+      "id": "q39",
+      "text": "Dalam strategi Just-in-Time, hubungan dengan pemasok yang ideal adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menggunakan sebanyak mungkin pemasok untuk meminimalkan risiko"
+        },
+        {
+          "id": "b",
+          "text": "Tidak perlu kontrak jangka panjang dengan pemasok"
+        },
+        {
+          "id": "c",
+          "text": "Membangun kemitraan jangka panjang dengan sedikit pemasok yang terpercaya dan berkualitas"
+        },
+        {
+          "id": "d",
+          "text": "Selalu mengganti pemasok setiap tahun untuk mendapatkan harga terbaik"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Membangun kemitraan jangka panjang dengan sedikit pemasok yang terpercaya dan berkualitas"
+    },
+    {
+      "id": "q40",
+      "text": "Teknologi informasi yang memungkinkan identifikasi dan pelacakan otomatis aset dalam rantai pasok menggunakan gelombang radio disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Barcode scanner"
+        },
+        {
+          "id": "b",
+          "text": "GPS tracking"
+        },
+        {
+          "id": "c",
+          "text": "RFID (Radio Frequency Identification)"
+        },
+        {
+          "id": "d",
+          "text": "EDI (Electronic Data Interchange)"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "RFID (Radio Frequency Identification)"
+    },
+    {
+      "id": "q41",
+      "text": "E-commerce dalam konteks manajemen operasi memberikan dampak utama berupa…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Peningkatan biaya distribusi secara signifikan"
+        },
+        {
+          "id": "b",
+          "text": "Kemampuan menjangkau pasar yang lebih luas dengan efisiensi transaksi yang lebih tinggi"
+        },
+        {
+          "id": "c",
+          "text": "Penghapusan kebutuhan akan sistem informasi internal"
+        },
+        {
+          "id": "d",
+          "text": "Penurunan kualitas layanan pelanggan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kemampuan menjangkau pasar yang lebih luas dengan efisiensi transaksi yang lebih tinggi"
+    },
+    {
+      "id": "q42",
+      "text": "Tren teknologi informasi dalam manajemen operasi saat ini mencakup penggunaan Artificial Intelligence (AI) untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menggantikan seluruh tenaga kerja manusia tanpa pengecualian"
+        },
+        {
+          "id": "b",
+          "text": "Optimasi jadwal produksi, prediksi permintaan, dan deteksi cacat kualitas secara otomatis"
+        },
+        {
+          "id": "c",
+          "text": "Mengurangi penggunaan komputer di lantai produksi"
+        },
+        {
+          "id": "d",
+          "text": "Menyederhanakan sistem akuntansi perusahaan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Optimasi jadwal produksi, prediksi permintaan, dan deteksi cacat kualitas secara otomatis"
+    },
+    {
+      "id": "q43",
+      "text": "Diagram Pareto dalam alat kendali kualitas didasarkan pada prinsip bahwa…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Semua penyebab masalah kualitas memiliki bobot yang sama"
+        },
+        {
+          "id": "b",
+          "text": "Sekitar 80% masalah kualitas disebabkan oleh sekitar 20% penyebab utama"
+        },
+        {
+          "id": "c",
+          "text": "Masalah kualitas terjadi secara acak dan tidak dapat diprediksi"
+        },
+        {
+          "id": "d",
+          "text": "Kualitas hanya dipengaruhi oleh mesin produksi"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Sekitar 80% masalah kualitas disebabkan oleh sekitar 20% penyebab utama"
+    },
+    {
+      "id": "q44",
+      "text": "Scatter diagram (diagram pencar) dalam manajemen kualitas digunakan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menampilkan distribusi frekuensi cacat produk"
+        },
+        {
+          "id": "b",
+          "text": "Menggambarkan hubungan atau korelasi antara dua variabel"
+        },
+        {
+          "id": "c",
+          "text": "Memantau proses produksi dari waktu ke waktu"
+        },
+        {
+          "id": "d",
+          "text": "Mengidentifikasi sumber pemborosan dalam produksi"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Menggambarkan hubungan atau korelasi antara dua variabel"
+    },
+    {
+      "id": "q45",
+      "text": "Dalam penentuan lokasi fasilitas, metode center-of-gravity digunakan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menentukan lokasi yang meminimalkan biaya transportasi berdasarkan koordinat dan volume distribusi"
+        },
+        {
+          "id": "b",
+          "text": "Memilih lokasi berdasarkan keindahan lingkungan sekitar"
+        },
+        {
+          "id": "c",
+          "text": "Menghitung jarak lurus antara dua kota"
+        },
+        {
+          "id": "d",
+          "text": "Mengukur produktivitas tenaga kerja di berbagai daerah"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Menentukan lokasi yang meminimalkan biaya transportasi berdasarkan koordinat dan volume distribusi"
+    },
+    {
+      "id": "q46",
+      "text": "Perencanaan kapasitas jangka pendek dalam manajemen operasi biasanya dilakukan dengan cara…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Membangun pabrik baru"
+        },
+        {
+          "id": "b",
+          "text": "Mengakuisisi perusahaan kompetitor"
+        },
+        {
+          "id": "c",
+          "text": "Mengatur lembur, subkontrak, atau penggunaan tenaga kerja part-time"
+        },
+        {
+          "id": "d",
+          "text": "Melakukan restrukturisasi organisasi besar-besaran"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Mengatur lembur, subkontrak, atau penggunaan tenaga kerja part-time"
+    },
+    {
+      "id": "q47",
+      "text": "Dalam PERT, waktu yang diperkirakan (expected time) dihitung menggunakan formula yang menggabungkan waktu optimis (a), waktu paling mungkin (m), dan waktu pesimis (b) dengan rumus…",
+      "options": [
+        {
+          "id": "a",
+          "text": "(a + b) / 2"
+        },
+        {
+          "id": "b",
+          "text": "(a + 4m + b) / 6"
+        },
+        {
+          "id": "c",
+          "text": "(a + m + b) / 3"
+        },
+        {
+          "id": "d",
+          "text": "(2a + 3m + b) / 6"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "(a + 4m + b) / 6"
+    },
+    {
+      "id": "q48",
+      "text": "Perbedaan utama antara barang (goods) dan jasa (services) dalam manajemen operasi adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Barang selalu lebih mahal daripada jasa"
+        },
+        {
+          "id": "b",
+          "text": "Jasa dapat diproduksi secara massal, sedangkan barang tidak"
+        },
+        {
+          "id": "c",
+          "text": "Barang bersifat berwujud dan dapat disimpan, sedangkan jasa tidak berwujud dan tidak dapat disimpan"
+        },
+        {
+          "id": "d",
+          "text": "Barang tidak memerlukan proses produksi, sedangkan jasa memerlukan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Barang bersifat berwujud dan dapat disimpan, sedangkan jasa tidak berwujud dan tidak dapat disimpan"
+    },
+    {
+      "id": "q49",
+      "text": "Six Sigma dalam manajemen kualitas bertujuan mencapai tingkat cacat tidak lebih dari…",
+      "options": [
+        {
+          "id": "a",
+          "text": "1.000 cacat per juta kesempatan"
+        },
+        {
+          "id": "b",
+          "text": "10.000 cacat per juta kesempatan"
+        },
+        {
+          "id": "c",
+          "text": "3,4 cacat per juta kesempatan"
+        },
+        {
+          "id": "d",
+          "text": "100 cacat per juta kesempatan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "3,4 cacat per juta kesempatan"
+    },
+    {
+      "id": "q50",
+      "text": "Dalam konteks teknologi informasi manajemen operasi, Cloud Computing memberikan manfaat utama bagi perusahaan berupa…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kebutuhan investasi infrastruktur IT yang lebih besar"
+        },
+        {
+          "id": "b",
+          "text": "Keterbatasan akses data hanya dari satu lokasi"
+        },
+        {
+          "id": "c",
+          "text": "Kemudahan skalabilitas, penghematan biaya infrastruktur, dan akses data dari mana saja secara real-time"
+        },
+        {
+          "id": "d",
+          "text": "Penghapusan kebutuhan akan koneksi internet"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Kemudahan skalabilitas, penghematan biaya infrastruktur, dan akses data dari mana saja secara real-time"
+    }
+  ]
+}

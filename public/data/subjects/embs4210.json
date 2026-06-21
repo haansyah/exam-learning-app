@@ -1,0 +1,1205 @@
+{
+  "subjectId": "embs4210",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Tujuan utama manajemen keuangan dalam perusahaan adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Memaksimalkan volume penjualan produk"
+        },
+        {
+          "id": "b",
+          "text": "Meminimalkan jumlah karyawan perusahaan"
+        },
+        {
+          "id": "c",
+          "text": "Memaksimalkan nilai perusahaan bagi pemegang saham"
+        },
+        {
+          "id": "d",
+          "text": "Meningkatkan pangsa pasar sebesar-besarnya"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Tujuan keputusan keuangan adalah memaksimalkan nilai perusahaan bagi pemegang saham, bukan sekadar memaksimalkan deviden atau penjualan."
+    },
+    {
+      "id": "q2",
+      "text": "Pasar keuangan yang memperdagangkan instrumen jangka pendek (kurang dari satu tahun) disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pasar modal"
+        },
+        {
+          "id": "b",
+          "text": "Pasar uang"
+        },
+        {
+          "id": "c",
+          "text": "Pasar derivatif"
+        },
+        {
+          "id": "d",
+          "text": "Pasar obligasi"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Pasar uang memperdagangkan instrumen keuangan jangka pendek (kurang dari satu tahun), sedangkan pasar modal untuk instrumen jangka panjang."
+    },
+    {
+      "id": "q3",
+      "text": "Berikut ini yang BUKAN merupakan fungsi manajemen keuangan adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keputusan investasi"
+        },
+        {
+          "id": "b",
+          "text": "Keputusan pendanaan"
+        },
+        {
+          "id": "c",
+          "text": "Keputusan produksi massal"
+        },
+        {
+          "id": "d",
+          "text": "Keputusan dividen"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Fungsi manajemen keuangan meliputi keputusan investasi, pendanaan, dan dividen. Keputusan produksi massal termasuk manajemen operasi."
+    },
+    {
+      "id": "q4",
+      "text": "Kompensasi berbasis kinerja yang diberikan kepada manajer untuk menyelaraskan kepentingan antara agen dan prinsipal dikenal sebagai…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gaji pokok tetap bulanan"
+        },
+        {
+          "id": "b",
+          "text": "Tunjangan jabatan struktural"
+        },
+        {
+          "id": "c",
+          "text": "Insentif berbasis saham atau bonus kinerja"
+        },
+        {
+          "id": "d",
+          "text": "Dana pensiun perusahaan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Insentif berbasis saham atau bonus kinerja digunakan untuk mengurangi agency problem dengan menyelaraskan kepentingan manajer dan pemegang saham."
+    },
+    {
+      "id": "q5",
+      "text": "Rasio yang mengukur kemampuan perusahaan melunasi kewajiban jangka pendek dengan aktiva lancar adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Debt to equity ratio"
+        },
+        {
+          "id": "b",
+          "text": "Return on assets"
+        },
+        {
+          "id": "c",
+          "text": "Current ratio"
+        },
+        {
+          "id": "d",
+          "text": "Price to earnings ratio"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Current ratio = Aktiva lancar / Kewajiban lancar, mengukur kemampuan melunasi hutang jangka pendek."
+    },
+    {
+      "id": "q6",
+      "text": "Laporan yang menggambarkan posisi keuangan perusahaan pada satu titik waktu tertentu disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Laporan laba rugi"
+        },
+        {
+          "id": "b",
+          "text": "Laporan arus kas"
+        },
+        {
+          "id": "c",
+          "text": "Laporan perubahan ekuitas"
+        },
+        {
+          "id": "d",
+          "text": "Neraca (balance sheet)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Neraca (balance sheet) menyajikan posisi keuangan perusahaan pada suatu titik waktu tertentu."
+    },
+    {
+      "id": "q7",
+      "text": "Perencanaan keuangan jangka panjang yang mengaitkan target penjualan dengan kebutuhan aset dan pendanaan disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Analisis breakeven"
+        },
+        {
+          "id": "b",
+          "text": "Perencanaan keuangan proforma"
+        },
+        {
+          "id": "c",
+          "text": "Analisis sensitivitas"
+        },
+        {
+          "id": "d",
+          "text": "Penganggaran kas harian"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Perencanaan keuangan proforma mengaitkan proyeksi penjualan dengan kebutuhan aset dan sumber pendanaan jangka panjang."
+    },
+    {
+      "id": "q8",
+      "text": "Modal kerja bersih (net working capital) diperoleh dari…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Total aset dikurangi total hutang"
+        },
+        {
+          "id": "b",
+          "text": "Aktiva lancar dikurangi hutang lancar"
+        },
+        {
+          "id": "c",
+          "text": "Hutang jangka panjang dikurangi ekuitas"
+        },
+        {
+          "id": "d",
+          "text": "Laba bersih ditambah depresiasi"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Net working capital (NWC) = Aktiva lancar − Hutang lancar."
+    },
+    {
+      "id": "q9",
+      "text": "Siklus konversi kas yang semakin pendek menunjukkan bahwa perusahaan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Membutuhkan lebih banyak modal kerja"
+        },
+        {
+          "id": "b",
+          "text": "Semakin tidak efisien dalam operasional"
+        },
+        {
+          "id": "c",
+          "text": "Lebih efisien dalam mengelola modal kerja"
+        },
+        {
+          "id": "d",
+          "text": "Memiliki hutang yang semakin besar"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Cash conversion cycle yang pendek berarti perusahaan lebih cepat mengubah investasi modal kerja menjadi kas."
+    },
+    {
+      "id": "q10",
+      "text": "Manajemen piutang yang baik bertujuan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Meningkatkan nilai persediaan barang"
+        },
+        {
+          "id": "b",
+          "text": "Memperpanjang jangka waktu pembayaran ke pemasok"
+        },
+        {
+          "id": "c",
+          "text": "Mempercepat penerimaan kas dari pelanggan"
+        },
+        {
+          "id": "d",
+          "text": "Mengurangi biaya produksi secara langsung"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Manajemen piutang yang efektif fokus mempercepat penagihan dan penerimaan kas dari pelanggan."
+    },
+    {
+      "id": "q11",
+      "text": "Konsep nilai waktu uang menyatakan bahwa…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nilai uang tidak berubah sepanjang waktu"
+        },
+        {
+          "id": "b",
+          "text": "Uang yang diterima sekarang lebih bernilai daripada uang yang diterima di masa depan"
+        },
+        {
+          "id": "c",
+          "text": "Uang yang diterima di masa depan lebih bernilai karena ada bunga"
+        },
+        {
+          "id": "d",
+          "text": "Inflasi tidak memengaruhi nilai uang"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Time value of money: uang sekarang lebih bernilai karena bisa diinvestasikan untuk menghasilkan return."
+    },
+    {
+      "id": "q12",
+      "text": "Jika tingkat diskonto meningkat, maka nilai sekarang (present value) dari arus kas masa depan akan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Meningkat secara proporsional"
+        },
+        {
+          "id": "b",
+          "text": "Tetap sama tidak terpengaruh"
+        },
+        {
+          "id": "c",
+          "text": "Menurun"
+        },
+        {
+          "id": "d",
+          "text": "Meningkat secara eksponensial"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Semakin tinggi tingkat diskonto, semakin kecil nilai sekarang arus kas masa depan."
+    },
+    {
+      "id": "q13",
+      "text": "Metode penilaian investasi yang memperhitungkan nilai waktu uang adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Payback period sederhana"
+        },
+        {
+          "id": "b",
+          "text": "Net Present Value (NPV)"
+        },
+        {
+          "id": "c",
+          "text": "Accounting rate of return"
+        },
+        {
+          "id": "d",
+          "text": "Rasio profitabilitas akuntansi"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "NPV mendiskontokan arus kas masa depan sehingga memperhitungkan nilai waktu uang."
+    },
+    {
+      "id": "q14",
+      "text": "Penganggaran modal (capital budgeting) adalah proses…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menyusun anggaran kas harian perusahaan"
+        },
+        {
+          "id": "b",
+          "text": "Mengelola hutang jangka pendek"
+        },
+        {
+          "id": "c",
+          "text": "Mengevaluasi dan memilih investasi aset jangka panjang"
+        },
+        {
+          "id": "d",
+          "text": "Menentukan kebijakan dividen tahunan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Capital budgeting adalah proses evaluasi dan pemilihan proyek investasi jangka panjang."
+    },
+    {
+      "id": "q15",
+      "text": "Hubungan antara risiko dan tingkat pengembalian yang diharapkan bersifat…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Berbanding terbalik"
+        },
+        {
+          "id": "b",
+          "text": "Tidak ada hubungan"
+        },
+        {
+          "id": "c",
+          "text": "Berbanding lurus (semakin tinggi risiko, semakin tinggi return yang diharapkan)"
+        },
+        {
+          "id": "d",
+          "text": "Berbentuk kurva U terbalik"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Semakin tinggi risiko, semakin tinggi return yang diharapkan sebagai kompensasi risiko."
+    },
+    {
+      "id": "q16",
+      "text": "Risiko yang tidak dapat dihilangkan melalui diversifikasi portofolio disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Risiko tidak sistematis"
+        },
+        {
+          "id": "b",
+          "text": "Risiko spesifik perusahaan"
+        },
+        {
+          "id": "c",
+          "text": "Risiko sistematis atau risiko pasar"
+        },
+        {
+          "id": "d",
+          "text": "Risiko operasional"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Risiko sistematis (market risk) tidak dapat dihilangkan melalui diversifikasi portofolio."
+    },
+    {
+      "id": "q17",
+      "text": "Biaya modal rata-rata tertimbang (WACC) digunakan sebagai…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ukuran profitabilitas perusahaan"
+        },
+        {
+          "id": "b",
+          "text": "Tingkat diskonto minimum untuk proyek investasi baru"
+        },
+        {
+          "id": "c",
+          "text": "Indikator likuiditas jangka pendek"
+        },
+        {
+          "id": "d",
+          "text": "Rasio hutang terhadap ekuitas optimal"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "WACC digunakan sebagai tingkat diskonto minimum (hurdle rate) untuk mengevaluasi proyek investasi baru."
+    },
+    {
+      "id": "q18",
+      "text": "Beta dalam model CAPM mengukur…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Total risiko suatu aset"
+        },
+        {
+          "id": "b",
+          "text": "Risiko tidak sistematis suatu saham"
+        },
+        {
+          "id": "c",
+          "text": "Sensitivitas return saham terhadap pergerakan pasar"
+        },
+        {
+          "id": "d",
+          "text": "Tingkat dividen yang dibayarkan perusahaan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Beta mengukur sensitivitas return saham terhadap pergerakan return pasar (risiko sistematis)."
+    },
+    {
+      "id": "q19",
+      "text": "Nilai intrinsik saham berdasarkan model Gordon Growth Model bergantung pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Harga pasar saham saat ini"
+        },
+        {
+          "id": "b",
+          "text": "Dividen yang diharapkan, tingkat pertumbuhan, dan required return"
+        },
+        {
+          "id": "c",
+          "text": "Volume perdagangan saham di bursa"
+        },
+        {
+          "id": "d",
+          "text": "Nilai buku ekuitas perusahaan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Model Gordon: P₀ = D₁ / (r − g), bergantung pada dividen, pertumbuhan, dan required return."
+    },
+    {
+      "id": "q20",
+      "text": "Obligasi dengan kupon lebih rendah dari yield to maturity akan diperdagangkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pada nilai nominal (par value)"
+        },
+        {
+          "id": "b",
+          "text": "Di atas nilai nominal (premium)"
+        },
+        {
+          "id": "c",
+          "text": "Di bawah nilai nominal (discount)"
+        },
+        {
+          "id": "d",
+          "text": "Tidak dapat diperdagangkan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Jika kupon < YTM, harga obligasi di bawah par (discount bond)."
+    },
+    {
+      "id": "q21",
+      "text": "Financial leverage mengacu pada penggunaan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Teknologi canggih dalam produksi"
+        },
+        {
+          "id": "b",
+          "text": "Tenaga kerja ahli yang mahal"
+        },
+        {
+          "id": "c",
+          "text": "Hutang dalam struktur modal untuk memperbesar return ekuitas"
+        },
+        {
+          "id": "d",
+          "text": "Aset tetap dalam kegiatan operasional"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Financial leverage adalah penggunaan hutang untuk memperbesar return on equity (ROE)."
+    },
+    {
+      "id": "q22",
+      "text": "Teori struktur modal Modigliani-Miller tanpa pajak menyatakan bahwa…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hutang selalu meningkatkan nilai perusahaan"
+        },
+        {
+          "id": "b",
+          "text": "Nilai perusahaan tidak dipengaruhi oleh struktur modal"
+        },
+        {
+          "id": "c",
+          "text": "Ekuitas lebih murah daripada hutang"
+        },
+        {
+          "id": "d",
+          "text": "Perusahaan harus menghindari penggunaan hutang"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Teori MM tanpa pajak: nilai perusahaan tidak bergantung pada proporsi hutang dan ekuitas."
+    },
+    {
+      "id": "q23",
+      "text": "Initial Public Offering (IPO) adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Penerbitan obligasi perdana di pasar modal"
+        },
+        {
+          "id": "b",
+          "text": "Penawaran saham perdana perusahaan kepada publik di pasar modal"
+        },
+        {
+          "id": "c",
+          "text": "Pembelian kembali saham oleh perusahaan"
+        },
+        {
+          "id": "d",
+          "text": "Penggabungan dua perusahaan di bursa efek"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "IPO adalah penawaran saham perdana perusahaan kepada publik di pasar modal."
+    },
+    {
+      "id": "q24",
+      "text": "Salah satu keunggulan pendanaan melalui hutang jangka panjang dibanding ekuitas adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tidak ada kewajiban pembayaran tetap"
+        },
+        {
+          "id": "b",
+          "text": "Meningkatkan jumlah pemegang saham"
+        },
+        {
+          "id": "c",
+          "text": "Bunga hutang dapat dikurangkan dari pajak (tax shield)"
+        },
+        {
+          "id": "d",
+          "text": "Tidak meningkatkan risiko keuangan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Bunga hutang dapat dikurangkan dari pajak (tax shield), mengurangi biaya hutang efektif."
+    },
+    {
+      "id": "q25",
+      "text": "Leasing operasional berbeda dari leasing keuangan (finance lease) karena…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leasing operasional melibatkan transfer kepemilikan di akhir kontrak"
+        },
+        {
+          "id": "b",
+          "text": "Leasing operasional bersifat jangka panjang dan tidak dapat dibatalkan"
+        },
+        {
+          "id": "c",
+          "text": "Leasing operasional tidak mencatat aset di neraca lessee dan dapat dibatalkan"
+        },
+        {
+          "id": "d",
+          "text": "Leasing operasional selalu lebih mahal dari leasing keuangan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Operating lease tidak mencatat aset di neraca lessee dan kontraknya dapat dibatalkan."
+    },
+    {
+      "id": "q26",
+      "text": "Hybrid securities adalah instrumen pendanaan yang…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hanya berupa saham biasa dengan hak suara"
+        },
+        {
+          "id": "b",
+          "text": "Memiliki karakteristik gabungan antara hutang dan ekuitas"
+        },
+        {
+          "id": "c",
+          "text": "Diterbitkan khusus oleh perusahaan negara"
+        },
+        {
+          "id": "d",
+          "text": "Tidak memiliki nilai pasar yang jelas"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Hybrid securities memiliki karakteristik gabungan antara hutang dan ekuitas (mis. obligasi konversi)."
+    },
+    {
+      "id": "q27",
+      "text": "Kurs tukar yang ditetapkan oleh pemerintah dan tidak boleh berfluktuasi bebas disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kurs mengambang bebas"
+        },
+        {
+          "id": "b",
+          "text": "Kurs spot"
+        },
+        {
+          "id": "c",
+          "text": "Kurs tetap (fixed exchange rate)"
+        },
+        {
+          "id": "d",
+          "text": "Kurs forward"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Fixed exchange rate ditetapkan pemerintah dan tidak berfluktuasi bebas di pasar."
+    },
+    {
+      "id": "q28",
+      "text": "Risiko kurs valuta asing yang dihadapi perusahaan multinasional dapat dimitigasi dengan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Meningkatkan penjualan domestik saja"
+        },
+        {
+          "id": "b",
+          "text": "Menghindari transaksi internasional sepenuhnya"
+        },
+        {
+          "id": "c",
+          "text": "Hedging menggunakan instrumen derivatif seperti forward contract"
+        },
+        {
+          "id": "d",
+          "text": "Menetapkan harga jual hanya dalam rupiah"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Hedging dengan forward contract atau derivatif lain dapat mitigasi risiko kurs valuta asing."
+    },
+    {
+      "id": "q29",
+      "text": "Agency problem dalam manajemen keuangan terjadi karena adanya…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kelebihan kas dalam perusahaan"
+        },
+        {
+          "id": "b",
+          "text": "Konflik kepentingan antara manajer (agen) dan pemegang saham (prinsipal)"
+        },
+        {
+          "id": "c",
+          "text": "Kekurangan modal kerja perusahaan"
+        },
+        {
+          "id": "d",
+          "text": "Persaingan antar perusahaan sejenis"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Agency problem timbul dari konflik kepentingan antara manajer (agen) dan pemegang saham (prinsipal)."
+    },
+    {
+      "id": "q30",
+      "text": "Rasio perputaran persediaan (inventory turnover) yang tinggi mengindikasikan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Perusahaan menyimpan terlalu banyak persediaan"
+        },
+        {
+          "id": "b",
+          "text": "Perusahaan mengalami kekurangan persediaan kronis"
+        },
+        {
+          "id": "c",
+          "text": "Perusahaan efisien dalam mengelola persediaan"
+        },
+        {
+          "id": "d",
+          "text": "Perusahaan memiliki biaya penyimpanan yang besar"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Inventory turnover tinggi menunjukkan persediaan cepat terjual, efisiensi manajemen persediaan baik."
+    },
+    {
+      "id": "q31",
+      "text": "Analisis common size pada laporan laba rugi dilakukan dengan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Membandingkan laporan keuangan dua perusahaan berbeda"
+        },
+        {
+          "id": "b",
+          "text": "Menyatakan setiap pos sebagai persentase dari total penjualan"
+        },
+        {
+          "id": "c",
+          "text": "Mengubah semua angka ke dalam mata uang asing"
+        },
+        {
+          "id": "d",
+          "text": "Membandingkan data keuangan selama 10 tahun"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Common size analysis menyatakan setiap pos laba rugi sebagai persentase dari total penjualan."
+    },
+    {
+      "id": "q32",
+      "text": "Anuitas adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pembayaran satu kali di masa depan"
+        },
+        {
+          "id": "b",
+          "text": "Serangkaian pembayaran yang sama besarnya pada interval waktu yang teratur"
+        },
+        {
+          "id": "c",
+          "text": "Investasi dengan return yang tidak pasti"
+        },
+        {
+          "id": "d",
+          "text": "Obligasi yang tidak membayar kupon"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Anuitas adalah serangkaian pembayaran atau penerimaan yang sama besarnya pada interval waktu teratur."
+    },
+    {
+      "id": "q33",
+      "text": "Tingkat pengembalian internal (IRR) suatu proyek diterima jika…",
+      "options": [
+        {
+          "id": "a",
+          "text": "IRR lebih kecil dari biaya modal (WACC)"
+        },
+        {
+          "id": "b",
+          "text": "IRR sama dengan nol"
+        },
+        {
+          "id": "c",
+          "text": "IRR lebih besar dari biaya modal (WACC)"
+        },
+        {
+          "id": "d",
+          "text": "IRR negatif namun NPV positif"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Proyek diterima jika IRR > WACC (biaya modal)."
+    },
+    {
+      "id": "q34",
+      "text": "Diversifikasi portofolio efektif mengurangi risiko karena…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Meningkatkan return setiap aset secara individual"
+        },
+        {
+          "id": "b",
+          "text": "Menggabungkan aset yang memiliki korelasi sempurna positif"
+        },
+        {
+          "id": "c",
+          "text": "Menggabungkan aset yang tidak berkorelasi sempurna sehingga risiko tidak sistematis berkurang"
+        },
+        {
+          "id": "d",
+          "text": "Menghilangkan seluruh risiko investasi"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Diversifikasi mengurangi risiko tidak sistematis dengan menggabungkan aset yang tidak berkorelasi sempurna."
+    },
+    {
+      "id": "q35",
+      "text": "Biaya ekuitas (cost of equity) dengan menggunakan CAPM dihitung berdasarkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tingkat bunga obligasi pemerintah saja"
+        },
+        {
+          "id": "b",
+          "text": "Risk-free rate ditambah beta dikali premi risiko pasar"
+        },
+        {
+          "id": "c",
+          "text": "Dividen dibagi harga saham"
+        },
+        {
+          "id": "d",
+          "text": "Laba bersih dibagi total ekuitas"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "CAPM: ke = rf + β × (rm − rf)."
+    },
+    {
+      "id": "q36",
+      "text": "Pasar modal primer (primary market) adalah pasar dimana…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Investor menjual saham lama kepada investor lain"
+        },
+        {
+          "id": "b",
+          "text": "Perusahaan menerbitkan dan menjual sekuritas baru kepada investor pertama kali"
+        },
+        {
+          "id": "c",
+          "text": "Obligasi pemerintah diperdagangkan setiap hari"
+        },
+        {
+          "id": "d",
+          "text": "Bank sentral melakukan operasi pasar terbuka"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Primary market adalah pasar penerbitan sekuritas baru (IPO, rights issue, dll.)."
+    },
+    {
+      "id": "q37",
+      "text": "Economic Order Quantity (EOQ) adalah model yang digunakan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menentukan harga jual optimal produk"
+        },
+        {
+          "id": "b",
+          "text": "Menghitung kebutuhan modal kerja minimum"
+        },
+        {
+          "id": "c",
+          "text": "Menentukan jumlah pemesanan persediaan yang meminimalkan total biaya persediaan"
+        },
+        {
+          "id": "d",
+          "text": "Mengatur jadwal produksi harian"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "EOQ = √(2DS/H) menentukan jumlah pesanan optimal yang meminimalkan total biaya persediaan."
+    },
+    {
+      "id": "q38",
+      "text": "Struktur modal optimal adalah komposisi hutang dan ekuitas yang…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Memaksimalkan total aset perusahaan"
+        },
+        {
+          "id": "b",
+          "text": "Meminimalkan WACC dan memaksimalkan nilai perusahaan"
+        },
+        {
+          "id": "c",
+          "text": "Memaksimalkan jumlah hutang jangka panjang"
+        },
+        {
+          "id": "d",
+          "text": "Menyamakan porsi hutang dan ekuitas menjadi 50:50"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Struktur modal optimal meminimalkan WACC dan memaksimalkan nilai perusahaan."
+    },
+    {
+      "id": "q39",
+      "text": "Saham preferen (preferred stock) memiliki karakteristik…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hak suara yang lebih besar dari saham biasa"
+        },
+        {
+          "id": "b",
+          "text": "Dividen yang bersifat variabel mengikuti laba"
+        },
+        {
+          "id": "c",
+          "text": "Klaim atas aset dan dividen yang didahulukan sebelum saham biasa"
+        },
+        {
+          "id": "d",
+          "text": "Jatuh tempo yang pasti seperti obligasi"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Saham preferen memiliki klaim dividen dan aset yang didahulukan sebelum saham biasa."
+    },
+    {
+      "id": "q40",
+      "text": "Dalam analisis laporan keuangan, rasio Return on Equity (ROE) mengukur…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Efisiensi penggunaan total aset untuk menghasilkan laba"
+        },
+        {
+          "id": "b",
+          "text": "Kemampuan perusahaan membayar hutang jangka pendek"
+        },
+        {
+          "id": "c",
+          "text": "Tingkat pengembalian yang diperoleh pemegang saham atas investasi mereka"
+        },
+        {
+          "id": "d",
+          "text": "Margin laba kotor perusahaan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "ROE = Laba bersih / Ekuitas, mengukur return yang diperoleh pemegang saham."
+    },
+    {
+      "id": "q41",
+      "text": "Laporan arus kas operasional yang negatif secara konsisten menunjukkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Perusahaan sedang melakukan ekspansi agresif"
+        },
+        {
+          "id": "b",
+          "text": "Perusahaan memiliki profit margin yang tinggi"
+        },
+        {
+          "id": "c",
+          "text": "Potensi masalah likuiditas karena kegiatan utama tidak menghasilkan kas cukup"
+        },
+        {
+          "id": "d",
+          "text": "Perusahaan aktif membayar dividen kepada pemegang saham"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Arus kas operasional negatif konsisten menandakan kegiatan utama tidak menghasilkan kas cukup."
+    },
+    {
+      "id": "q42",
+      "text": "Konsep paritas daya beli (Purchasing Power Parity) menyatakan bahwa…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tingkat bunga antar negara harus sama"
+        },
+        {
+          "id": "b",
+          "text": "Kurs tukar antara dua mata uang mencerminkan perbedaan tingkat inflasi kedua negara"
+        },
+        {
+          "id": "c",
+          "text": "Nilai tukar ditentukan semata oleh kebijakan bank sentral"
+        },
+        {
+          "id": "d",
+          "text": "Neraca perdagangan tidak memengaruhi kurs valuta asing"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "PPP: kurs tukar mencerminkan perbedaan tingkat inflasi antar negara."
+    },
+    {
+      "id": "q43",
+      "text": "Pengaruh pajak terhadap struktur modal perusahaan menurut Modigliani-Miller dengan pajak adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pajak membuat hutang tidak menguntungkan"
+        },
+        {
+          "id": "b",
+          "text": "Pajak mendorong perusahaan menggunakan 100% ekuitas"
+        },
+        {
+          "id": "c",
+          "text": "Perusahaan dapat meningkatkan nilainya dengan menggunakan hutang karena tax shield bunga"
+        },
+        {
+          "id": "d",
+          "text": "Pajak tidak memengaruhi keputusan pendanaan sama sekali"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "MM dengan pajak: hutang menguntungkan karena bunga dapat dikurangkan dari pajak (tax shield)."
+    },
+    {
+      "id": "q44",
+      "text": "Perbedaan utama antara obligasi (bond) dan saham (stock) adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Obligasi diterbitkan hanya oleh pemerintah"
+        },
+        {
+          "id": "b",
+          "text": "Saham memberikan klaim prioritas atas aset saat likuidasi"
+        },
+        {
+          "id": "c",
+          "text": "Obligasi merupakan instrumen utang dengan kewajiban pembayaran tetap, sedangkan saham merupakan kepemilikan"
+        },
+        {
+          "id": "d",
+          "text": "Obligasi tidak diperdagangkan di pasar modal"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Obligasi = utang dengan kewajiban bunga tetap; saham = kepemilikan ekuitas perusahaan."
+    },
+    {
+      "id": "q45",
+      "text": "Dalam manajemen kas, float adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Biaya bunga pinjaman jangka pendek"
+        },
+        {
+          "id": "b",
+          "text": "Selisih antara saldo kas di buku perusahaan dan saldo kas di bank akibat cek dalam proses"
+        },
+        {
+          "id": "c",
+          "text": "Kas minimal yang harus tersedia di kas besar"
+        },
+        {
+          "id": "d",
+          "text": "Keuntungan dari selisih kurs valuta asing"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Float adalah selisih saldo kas buku perusahaan dan saldo bank akibat cek yang belum dicairkan."
+    },
+    {
+      "id": "q46",
+      "text": "Risiko bisnis (business risk) berbeda dari risiko keuangan (financial risk) karena…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Risiko bisnis timbul dari penggunaan hutang, risiko keuangan dari operasi"
+        },
+        {
+          "id": "b",
+          "text": "Risiko bisnis terkait dengan ketidakpastian laba operasi, risiko keuangan terkait penggunaan hutang"
+        },
+        {
+          "id": "c",
+          "text": "Keduanya identik dan tidak dapat dibedakan"
+        },
+        {
+          "id": "d",
+          "text": "Risiko bisnis hanya memengaruhi perusahaan kecil"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Business risk dari ketidakpastian operasi; financial risk dari penggunaan hutang (leverage)."
+    },
+    {
+      "id": "q47",
+      "text": "Metode mana yang TIDAK termasuk dalam teknik analisis laporan keuangan?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Analisis horizontal (trend)"
+        },
+        {
+          "id": "b",
+          "text": "Analisis vertikal (common size)"
+        },
+        {
+          "id": "c",
+          "text": "Analisis regresi berganda econometrik"
+        },
+        {
+          "id": "d",
+          "text": "Analisis rasio keuangan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Analisis regresi econometrik bukan teknik analisis laporan keuangan standar; yang umum adalah horizontal, vertikal, dan rasio."
+    },
+    {
+      "id": "q48",
+      "text": "Pendanaan jangka panjang melalui penerbitan obligasi konversi memberikan keuntungan bagi perusahaan karena…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Investor wajib mengkonversi obligasi menjadi saham"
+        },
+        {
+          "id": "b",
+          "text": "Kupon obligasi konversi umumnya lebih rendah karena adanya opsi konversi yang menarik investor"
+        },
+        {
+          "id": "c",
+          "text": "Perusahaan tidak perlu membayar bunga sama sekali"
+        },
+        {
+          "id": "d",
+          "text": "Obligasi konversi tidak dicatat sebagai kewajiban"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Obligasi konversi menawarkan opsi konversi ke saham sehingga kuponnya bisa lebih rendah."
+    },
+    {
+      "id": "q49",
+      "text": "Faktor utama yang memengaruhi nilai tukar dalam jangka panjang adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sentimen pasar jangka pendek dan spekulasi"
+        },
+        {
+          "id": "b",
+          "text": "Perbedaan tingkat inflasi, tingkat bunga, dan neraca perdagangan antar negara"
+        },
+        {
+          "id": "c",
+          "text": "Jumlah wisatawan mancanegara yang berkunjung"
+        },
+        {
+          "id": "d",
+          "text": "Kebijakan dividen perusahaan multinasional"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Faktor jangka panjang: inflasi, suku bunga, neraca perdagangan antar negara."
+    },
+    {
+      "id": "q50",
+      "text": "Seorang manajer keuangan yang memutuskan menggunakan kas perusahaan untuk membeli properti pribadi merupakan contoh dari…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keputusan investasi yang rasional"
+        },
+        {
+          "id": "b",
+          "text": "Manajemen risiko yang baik"
+        },
+        {
+          "id": "c",
+          "text": "Pelanggaran prinsip good corporate governance dan agency problem"
+        },
+        {
+          "id": "d",
+          "text": "Strategi diversifikasi aset yang tepat"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Penggunaan kas perusahaan untuk kepentingan pribadi manajer adalah pelanggaran governance dan agency problem."
+    }
+  ]
+}

@@ -1,11 +1,83 @@
 [
   {
+    "id": "mkdi4202",
+    "name": "BELAJAR DI ERA DIGITAL",
+    "description": "Universitas Terbuka — MKDI4202 Belajar di Era Digital. 50 soal: literasi digital, digital citizenship, pemilihan media digital, SPT, dan lisensi Creative Commons.",
+    "passThreshold": 75,
+    "questionFile": "subjects/mkdi4202.json",
+    "category": "kuliah",
+    "timeLimitMinutes": 90
+  },
+  {
+    "id": "mkdi4203",
+    "name": "KEWIRAUSAHAAN DI ERA DIGITAL",
+    "description": "Universitas Terbuka — MKDI4203 Kewirausahaan di Era Digital. 50 soal: era disrupsi, effectuation, design thinking, value proposition canvas, business model canvas, dan pemasaran digital.",
+    "passThreshold": 75,
+    "questionFile": "subjects/mkdi4203.json",
+    "category": "kuliah",
+    "timeLimitMinutes": 90
+  },
+  {
+    "id": "embs4209",
+    "name": "MANAJEMEN SUMBER DAYA MANUSIA",
+    "description": "Universitas Terbuka — EMBS4209 Manajemen SDM (BMP EKMA4214). 50 soal: perencanaan SDM, rekrutmen, seleksi, kompensasi, penilaian kinerja, pelatihan, dan hukum ketenagakerjaan.",
+    "passThreshold": 75,
+    "questionFile": "subjects/embs4209.json",
+    "category": "kuliah",
+    "timeLimitMinutes": 90
+  },
+  {
+    "id": "embs4211",
+    "name": "MANAJEMEN OPERASI",
+    "description": "Universitas Terbuka — EMBS4211 Manajemen Operasi. 50 soal: strategi operasi, TQM, peramalan, supply chain, JIT/lean, MRP/ERP, manajemen proyek, dan perencanaan kapasitas.",
+    "passThreshold": 75,
+    "questionFile": "subjects/embs4211.json",
+    "category": "kuliah",
+    "timeLimitMinutes": 90
+  },
+  {
+    "id": "embs4212",
+    "name": "MANAJEMEN PEMASARAN",
+    "description": "Universitas Terbuka — EMBS4212 Manajemen Pemasaran. 50 soal: pemasaran digital, segmentasi/targeting, iklan daring, media sosial, CRM, green marketing, dan riset pemasaran.",
+    "passThreshold": 75,
+    "questionFile": "subjects/embs4212.json",
+    "category": "kuliah",
+    "timeLimitMinutes": 90
+  },
+  {
+    "id": "embs4208",
+    "name": "RISET OPERASI",
+    "description": "Universitas Terbuka — EMBS4208 Riset Operasi (BMP EKMA4413). 50 soal: LP/simpleks, transportasi, penugasan, antrian, CPM/PERT, persediaan EOQ, probabilitas, dan game theory.",
+    "passThreshold": 75,
+    "questionFile": "subjects/embs4208.json",
+    "category": "kuliah",
+    "timeLimitMinutes": 90
+  },
+  {
+    "id": "econ4103",
+    "name": "MATEMATIKA EKONOMI",
+    "description": "Universitas Terbuka — ECON4103 Matematika Ekonomi (BMP ESPA4122 Edisi 3). 50 soal: himpunan, logaritma, deret, fungsi linier/nonlinier, turunan, keseimbangan pasar, optimasi laba, dan elastisitas.",
+    "passThreshold": 75,
+    "questionFile": "subjects/econ4103.json",
+    "category": "kuliah",
+    "timeLimitMinutes": 90
+  },
+  {
+    "id": "embs4210",
+    "name": "MANAJEMEN KEUANGAN",
+    "description": "Universitas Terbuka — EMBS4210 Manajemen Keuangan. 50 soal pilihan ganda UAS: nilai waktu uang, NPV/IRR, rasio keuangan, struktur modal, WACC, CAPM, manajemen modal kerja, dan pasar keuangan.",
+    "passThreshold": 75,
+    "questionFile": "subjects/embs4210.json",
+    "category": "kuliah",
+    "timeLimitMinutes": 90
+  },
+  {
     "id": "ekma4213",
     "name": "Managerial Accounting",
     "description": "Practice managerial accounting concepts including cost behavior, budgeting, and variance analysis.",
     "passThreshold": 70,
     "questionFile": "subjects/ekma4213.json",
-    "category": "kuliah"
+    "category": "uji-coba"
   },
   {
     "id": "math101",
@@ -13,15 +85,7 @@
     "description": "Core calculus topics: limits, derivatives, and integrals with formula-based questions.",
     "passThreshold": 75,
     "questionFile": "subjects/math101.json",
-    "category": "kuliah"
-  },
-  {
-    "id": "ebma4111",
-    "name": "MATEMATIKA EKONOMI",
-    "description": "Universitas Terbuka — EBMA4111 Matematika Ekonomi. Latihan soal fungsi, turunan, matriks, keseimbangan pasar, bunga majemuk, nilai sekarang, dan program linier.",
-    "passThreshold": 70,
-    "questionFile": "subjects/ebma4111.json",
-    "category": "kuliah"
+    "category": "uji-coba"
   },
   {
     "id": "english-l1",

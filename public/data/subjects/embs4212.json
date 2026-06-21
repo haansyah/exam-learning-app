@@ -1,0 +1,1205 @@
+{
+  "subjectId": "embs4212",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Perkembangan aktivitas pemasaran dari era tradisional ke era digital ditandai terutama oleh… - Contact",
+      "options": [
+        {
+          "id": "a",
+          "text": "Meningkatnya biaya produksi secara signifikan"
+        },
+        {
+          "id": "b",
+          "text": "Pergeseran media komunikasi dari fisik ke berbasis internet dan teknologi"
+        },
+        {
+          "id": "c",
+          "text": "Berkurangnya jumlah konsumen di pasar global"
+        },
+        {
+          "id": "d",
+          "text": "Dominasi pemasaran melalui televisi dan radio"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Pergeseran media komunikasi dari fisik ke berbasis internet dan teknologi"
+    },
+    {
+      "id": "q2",
+      "text": "Konsep pemasaran tradisional berfokus pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Interaksi dua arah antara merek dan konsumen secara real-time"
+        },
+        {
+          "id": "b",
+          "text": "Pemanfaatan media sosial untuk menjangkau audiens"
+        },
+        {
+          "id": "c",
+          "text": "Penyebaran pesan satu arah melalui media massa seperti koran dan brosur"
+        },
+        {
+          "id": "d",
+          "text": "Personalisasi konten berdasarkan data perilaku konsumen"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Penyebaran pesan satu arah melalui media massa seperti koran dan brosur"
+    },
+    {
+      "id": "q3",
+      "text": "Salah satu keunggulan utama pemasaran digital dibandingkan pemasaran tradisional adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tidak memerlukan anggaran sama sekali"
+        },
+        {
+          "id": "b",
+          "text": "Hanya efektif untuk produk teknologi"
+        },
+        {
+          "id": "c",
+          "text": "Pesan selalu diterima positif oleh konsumen"
+        },
+        {
+          "id": "d",
+          "text": "Kemampuan mengukur efektivitas kampanye secara real-time"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Kemampuan mengukur efektivitas kampanye secara real-time"
+    },
+    {
+      "id": "q4",
+      "text": "Dalam konteks bauran pemasaran hijau, manakah yang paling mencerminkan prinsip keberlanjutan?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menggunakan kemasan yang dapat didaur ulang dan ramah lingkungan"
+        },
+        {
+          "id": "b",
+          "text": "Menetapkan harga setinggi mungkin untuk produk premium"
+        },
+        {
+          "id": "c",
+          "text": "Memperluas distribusi ke seluruh wilayah tanpa mempertimbangkan dampak lingkungan"
+        },
+        {
+          "id": "d",
+          "text": "Meningkatkan frekuensi iklan di media cetak"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Menggunakan kemasan yang dapat didaur ulang dan ramah lingkungan"
+    },
+    {
+      "id": "q5",
+      "text": "Isu keberlanjutan dalam lingkungan pemasaran digital era saat ini berkaitan dengan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pengurangan anggaran riset pasar"
+        },
+        {
+          "id": "b",
+          "text": "Tanggung jawab perusahaan terhadap dampak sosial dan lingkungan dari aktivitas pemasaran"
+        },
+        {
+          "id": "c",
+          "text": "Fokus eksklusif pada peningkatan penjualan jangka pendek"
+        },
+        {
+          "id": "d",
+          "text": "Penghapusan semua bentuk iklan berbayar"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Tanggung jawab perusahaan terhadap dampak sosial dan lingkungan dari aktivitas pemasaran"
+    },
+    {
+      "id": "q6",
+      "text": "Platform digital yang menerapkan konsep pemasaran ramah lingkungan biasanya…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mengabaikan preferensi konsumen yang peduli lingkungan"
+        },
+        {
+          "id": "b",
+          "text": "Menghindari penggunaan data konsumen"
+        },
+        {
+          "id": "c",
+          "text": "Memprioritaskan profit di atas segalanya tanpa mempertimbangkan dampak ekologis"
+        },
+        {
+          "id": "d",
+          "text": "Mengintegrasikan pesan keberlanjutan ke dalam strategi konten dan kampanye digital mereka"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Mengintegrasikan pesan keberlanjutan ke dalam strategi konten dan kampanye digital mereka"
+    },
+    {
+      "id": "q7",
+      "text": "Diferensiasi produk pada era digital bertujuan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Membuat produk semirip mungkin dengan kompetitor"
+        },
+        {
+          "id": "b",
+          "text": "Menciptakan keunikan nilai yang membedakan merek dari pesaing di benak konsumen"
+        },
+        {
+          "id": "c",
+          "text": "Mengurangi variasi produk agar lebih mudah diproduksi"
+        },
+        {
+          "id": "d",
+          "text": "Menurunkan harga jual serendah mungkin"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Menciptakan keunikan nilai yang membedakan merek dari pesaing di benak konsumen"
+    },
+    {
+      "id": "q8",
+      "text": "Konsep segmentasi pasar pada era digital memungkinkan pemasar untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mengirimkan pesan yang sama kepada semua konsumen tanpa perbedaan"
+        },
+        {
+          "id": "b",
+          "text": "Mengelompokkan konsumen berdasarkan karakteristik tertentu untuk strategi yang lebih tepat sasaran"
+        },
+        {
+          "id": "c",
+          "text": "Menghindari penggunaan data dalam pengambilan keputusan"
+        },
+        {
+          "id": "d",
+          "text": "Mengabaikan perbedaan kebutuhan antar kelompok konsumen"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Mengelompokkan konsumen berdasarkan karakteristik tertentu untuk strategi yang lebih tepat sasaran"
+    },
+    {
+      "id": "q9",
+      "text": "Targeting dalam pemasaran digital adalah proses…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menjual produk kepada seluruh populasi tanpa seleksi"
+        },
+        {
+          "id": "b",
+          "text": "Membuat produk baru untuk pasar yang belum ada"
+        },
+        {
+          "id": "c",
+          "text": "Memilih segmen pasar yang paling potensial dan relevan untuk dijadikan sasaran kampanye"
+        },
+        {
+          "id": "d",
+          "text": "Menentukan harga berdasarkan lokasi geografis saja"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Memilih segmen pasar yang paling potensial dan relevan untuk dijadikan sasaran kampanye"
+    },
+    {
+      "id": "q10",
+      "text": "Strategi targeting di era digital menjadi lebih efektif karena…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Berkurangnya persaingan di pasar online"
+        },
+        {
+          "id": "b",
+          "text": "Tersedianya data perilaku konsumen yang kaya dan dapat dianalisis secara mendalam"
+        },
+        {
+          "id": "c",
+          "text": "Konsumen digital lebih mudah dipengaruhi dibandingkan konsumen tradisional"
+        },
+        {
+          "id": "d",
+          "text": "Biaya iklan digital jauh lebih murah tanpa kompromi kualitas"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Tersedianya data perilaku konsumen yang kaya dan dapat dianalisis secara mendalam"
+    },
+    {
+      "id": "q11",
+      "text": "Segmentasi pada era digital yang menggunakan data riwayat pembelian dan perilaku browsing disebut segmentasi…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Demografis"
+        },
+        {
+          "id": "b",
+          "text": "Geografis"
+        },
+        {
+          "id": "c",
+          "text": "Psikografis"
+        },
+        {
+          "id": "d",
+          "text": "Behavioral (perilaku)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Behavioral (perilaku)"
+    },
+    {
+      "id": "q12",
+      "text": "Online advertising atau periklanan daring memiliki keunggulan dibandingkan iklan konvensional dalam hal…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kemampuan menjangkau audiens secara spesifik berdasarkan data dan algoritma"
+        },
+        {
+          "id": "b",
+          "text": "Tidak membutuhkan kreativitas dalam pembuatan konten"
+        },
+        {
+          "id": "c",
+          "text": "Selalu menghasilkan konversi penjualan yang instan"
+        },
+        {
+          "id": "d",
+          "text": "Bebas dari regulasi dan aturan etika periklanan"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kemampuan menjangkau audiens secara spesifik berdasarkan data dan algoritma"
+    },
+    {
+      "id": "q13",
+      "text": "Salah satu format umum dalam periklanan daring yang menampilkan iklan visual di website pihak ketiga adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Email marketing"
+        },
+        {
+          "id": "b",
+          "text": "Display advertising (banner ads)"
+        },
+        {
+          "id": "c",
+          "text": "Search engine optimization"
+        },
+        {
+          "id": "d",
+          "text": "Influencer marketing"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Display advertising (banner ads)"
+    },
+    {
+      "id": "q14",
+      "text": "Targeting konsumen dalam periklanan daring dapat dilakukan berdasarkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Warna favorit konsumen"
+        },
+        {
+          "id": "b",
+          "text": "Demografi, minat, perilaku online, dan lokasi geografis"
+        },
+        {
+          "id": "c",
+          "text": "Tinggi badan dan berat badan konsumen"
+        },
+        {
+          "id": "d",
+          "text": "Merek kendaraan yang dimiliki konsumen"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Demografi, minat, perilaku online, dan lokasi geografis"
+    },
+    {
+      "id": "q15",
+      "text": "Analisis periklanan daring yang mengukur perbandingan jumlah klik terhadap jumlah tayangan iklan disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Return on Investment (ROI)"
+        },
+        {
+          "id": "b",
+          "text": "Cost Per Mille (CPM)"
+        },
+        {
+          "id": "c",
+          "text": "Click-Through Rate (CTR)"
+        },
+        {
+          "id": "d",
+          "text": "Conversion Rate Optimization (CRO)"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Click-Through Rate (CTR)"
+    },
+    {
+      "id": "q16",
+      "text": "Manajemen media sosial mencakup aktivitas berikut, KECUALI…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Perencanaan dan penjadwalan konten"
+        },
+        {
+          "id": "b",
+          "text": "Pembuatan laporan keuangan perusahaan"
+        },
+        {
+          "id": "c",
+          "text": "Pengelolaan interaksi dengan audiens"
+        },
+        {
+          "id": "d",
+          "text": "Pemantauan performa konten secara berkala"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Pembuatan laporan keuangan perusahaan"
+    },
+    {
+      "id": "q17",
+      "text": "Strategi pengelolaan media sosial yang efektif harus didasarkan pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Posting konten sebanyak mungkin tanpa memperhatikan kualitas"
+        },
+        {
+          "id": "b",
+          "text": "Pemahaman mendalam tentang audiens, tujuan bisnis, dan karakteristik masing-masing platform"
+        },
+        {
+          "id": "c",
+          "text": "Mengikuti tren viral tanpa relevansi dengan merek"
+        },
+        {
+          "id": "d",
+          "text": "Menghindari interaksi dengan komentar negatif dari konsumen"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Pemahaman mendalam tentang audiens, tujuan bisnis, dan karakteristik masing-masing platform"
+    },
+    {
+      "id": "q18",
+      "text": "Indikator kinerja utama (KPI) yang paling relevan untuk mengukur tingkat keterlibatan di media sosial adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jumlah karyawan yang mengelola akun"
+        },
+        {
+          "id": "b",
+          "text": "Anggaran yang dialokasikan untuk iklan berbayar"
+        },
+        {
+          "id": "c",
+          "text": "Engagement rate (likes, komentar, share relatif terhadap jumlah followers)"
+        },
+        {
+          "id": "d",
+          "text": "Usia domain website perusahaan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Engagement rate (likes, komentar, share relatif terhadap jumlah followers)"
+    },
+    {
+      "id": "q19",
+      "text": "Perilaku konsumen di era digital dipengaruhi oleh faktor berikut, KECUALI…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ulasan dan testimoni online dari konsumen lain"
+        },
+        {
+          "id": "b",
+          "text": "Rekomendasi algoritma platform digital"
+        },
+        {
+          "id": "c",
+          "text": "Warna langit saat konsumen berbelanja"
+        },
+        {
+          "id": "d",
+          "text": "Pengaruh media sosial dan komunitas online"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Warna langit saat konsumen berbelanja"
+    },
+    {
+      "id": "q20",
+      "text": "Strategi keterlibatan konsumen digital (digital consumer engagement) yang efektif melibatkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hanya komunikasi satu arah dari merek ke konsumen"
+        },
+        {
+          "id": "b",
+          "text": "Menciptakan pengalaman interaktif dan personal yang mendorong partisipasi aktif konsumen"
+        },
+        {
+          "id": "c",
+          "text": "Menghindari respons terhadap keluhan konsumen di platform publik"
+        },
+        {
+          "id": "d",
+          "text": "Memfokuskan seluruh upaya hanya pada konsumen baru"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Menciptakan pengalaman interaktif dan personal yang mendorong partisipasi aktif konsumen"
+    },
+    {
+      "id": "q21",
+      "text": "Dalam memahami perilaku konsumen digital, model Customer Decision Journey menggambarkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Proses linear yang selalu berakhir dengan pembelian"
+        },
+        {
+          "id": "b",
+          "text": "Perjalanan konsumen yang bersifat siklus dan melibatkan tahap pertimbangan, evaluasi, serta loyalitas"
+        },
+        {
+          "id": "c",
+          "text": "Keputusan pembelian yang sepenuhnya dipengaruhi oleh harga"
+        },
+        {
+          "id": "d",
+          "text": "Proses yang hanya terjadi pada platform e-commerce"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Perjalanan konsumen yang bersifat siklus dan melibatkan tahap pertimbangan, evaluasi, serta loyalitas"
+    },
+    {
+      "id": "q22",
+      "text": "Manajemen hubungan pelanggan digital (Digital CRM) bertujuan utama untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mengurangi jumlah staf layanan pelanggan secara drastis"
+        },
+        {
+          "id": "b",
+          "text": "Membangun dan mempertahankan hubungan jangka panjang yang saling menguntungkan dengan pelanggan melalui teknologi digital"
+        },
+        {
+          "id": "c",
+          "text": "Mengumpulkan data pelanggan tanpa sepengetahuan mereka"
+        },
+        {
+          "id": "d",
+          "text": "Menggantikan seluruh interaksi manusia dengan chatbot otomatis"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Membangun dan mempertahankan hubungan jangka panjang yang saling menguntungkan dengan pelanggan melalui teknologi digital"
+    },
+    {
+      "id": "q23",
+      "text": "Penerapan manajemen hubungan konsumen digital yang berhasil ditandai dengan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tingginya tingkat perpindahan pelanggan ke kompetitor"
+        },
+        {
+          "id": "b",
+          "text": "Minimnya interaksi antara merek dan pelanggan"
+        },
+        {
+          "id": "c",
+          "text": "Meningkatnya customer lifetime value dan kepuasan pelanggan"
+        },
+        {
+          "id": "d",
+          "text": "Berkurangnya kebutuhan akan inovasi produk"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Meningkatnya customer lifetime value dan kepuasan pelanggan"
+    },
+    {
+      "id": "q24",
+      "text": "Riset pemasaran pada era digital memiliki keunggulan dibandingkan riset konvensional karena…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tidak memerlukan analisis data sama sekali"
+        },
+        {
+          "id": "b",
+          "text": "Dapat dilakukan hanya oleh perusahaan besar"
+        },
+        {
+          "id": "c",
+          "text": "Akses terhadap data yang lebih besar, lebih cepat, dan lebih beragam melalui berbagai sumber digital"
+        },
+        {
+          "id": "d",
+          "text": "Hasilnya selalu 100% akurat dan tidak memerlukan validasi"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Akses terhadap data yang lebih besar, lebih cepat, dan lebih beragam melalui berbagai sumber digital"
+    },
+    {
+      "id": "q25",
+      "text": "Desain riset pemasaran digital yang baik harus mencakup…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pemilihan metode yang relevan, definisi masalah yang jelas, dan rencana analisis data yang sistematis"
+        },
+        {
+          "id": "b",
+          "text": "Penggunaan satu metode tunggal untuk semua situasi"
+        },
+        {
+          "id": "c",
+          "text": "Pengabaian aspek etika dalam pengumpulan data"
+        },
+        {
+          "id": "d",
+          "text": "Fokus eksklusif pada data kuantitatif saja"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Pemilihan metode yang relevan, definisi masalah yang jelas, dan rencana analisis data yang sistematis"
+    },
+    {
+      "id": "q26",
+      "text": "Perbedaan utama antara pemasaran tradisional dan pemasaran digital terletak pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tujuan akhir yang ingin dicapai oleh pemasar"
+        },
+        {
+          "id": "b",
+          "text": "Jenis produk yang dipasarkan kepada konsumen"
+        },
+        {
+          "id": "c",
+          "text": "Media, tingkat interaktivitas, dan kemampuan pengukuran yang digunakan"
+        },
+        {
+          "id": "d",
+          "text": "Ukuran perusahaan yang menggunakannya"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Media, tingkat interaktivitas, dan kemampuan pengukuran yang digunakan"
+    },
+    {
+      "id": "q27",
+      "text": "Konsep “green marketing” atau pemasaran hijau menekankan pentingnya…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menggunakan warna hijau dalam seluruh materi pemasaran"
+        },
+        {
+          "id": "b",
+          "text": "Menjual produk pertanian dan organik secara eksklusif"
+        },
+        {
+          "id": "c",
+          "text": "Mengintegrasikan nilai-nilai lingkungan hidup ke dalam strategi dan praktik pemasaran"
+        },
+        {
+          "id": "d",
+          "text": "Menghindari penggunaan teknologi dalam kegiatan pemasaran"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Mengintegrasikan nilai-nilai lingkungan hidup ke dalam strategi dan praktik pemasaran"
+    },
+    {
+      "id": "q28",
+      "text": "Bauran pemasaran hijau (green marketing mix) mengadaptasi 4P konvensional dengan mempertimbangkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tren warna dan desain yang populer di kalangan milenial"
+        },
+        {
+          "id": "b",
+          "text": "Dampak lingkungan dari setiap elemen produk, harga, distribusi, dan promosi"
+        },
+        {
+          "id": "c",
+          "text": "Preferensi pribadi manajer pemasaran perusahaan"
+        },
+        {
+          "id": "d",
+          "text": "Regulasi perpajakan yang berlaku di negara asal perusahaan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Dampak lingkungan dari setiap elemen produk, harga, distribusi, dan promosi"
+    },
+    {
+      "id": "q29",
+      "text": "Diferensiasi yang berhasil di era digital akan menghasilkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Harga yang selalu lebih rendah dari pesaing"
+        },
+        {
+          "id": "b",
+          "text": "Posisi unik di benak konsumen yang sulit ditiru kompetitor"
+        },
+        {
+          "id": "c",
+          "text": "Produk yang identik dengan pemimpin pasar"
+        },
+        {
+          "id": "d",
+          "text": "Ketergantungan total pada satu saluran distribusi"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Posisi unik di benak konsumen yang sulit ditiru kompetitor"
+    },
+    {
+      "id": "q30",
+      "text": "Retargeting dalam periklanan daring adalah teknik yang digunakan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menarik konsumen baru yang belum pernah mengenal merek"
+        },
+        {
+          "id": "b",
+          "text": "Menargetkan kembali pengguna yang sebelumnya telah mengunjungi website atau berinteraksi dengan konten merek"
+        },
+        {
+          "id": "c",
+          "text": "Menargetkan audiens berdasarkan lokasi geografis secara eksklusif"
+        },
+        {
+          "id": "d",
+          "text": "Menampilkan iklan kepada pesaing bisnis"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Menargetkan kembali pengguna yang sebelumnya telah mengunjungi website atau berinteraksi dengan konten merek"
+    },
+    {
+      "id": "q31",
+      "text": "Pengembangan produk baru dalam konteks pertumbuhan jangka panjang perusahaan berfungsi untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mengurangi beban operasional jangka pendek"
+        },
+        {
+          "id": "b",
+          "text": "Menghindari investasi dalam teknologi baru"
+        },
+        {
+          "id": "c",
+          "text": "Memastikan relevansi perusahaan di pasar yang terus berubah dan mendukung pertumbuhan berkelanjutan"
+        },
+        {
+          "id": "d",
+          "text": "Mempersempit fokus bisnis pada satu lini produk saja"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Memastikan relevansi perusahaan di pasar yang terus berubah dan mendukung pertumbuhan berkelanjutan"
+    },
+    {
+      "id": "q32",
+      "text": "Tahapan dalam proses pengembangan produk baru yang melibatkan uji coba produk di pasar terbatas sebelum peluncuran penuh disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ideation (generasi ide)"
+        },
+        {
+          "id": "b",
+          "text": "Analisis bisnis"
+        },
+        {
+          "id": "c",
+          "text": "Test marketing (uji pasar)"
+        },
+        {
+          "id": "d",
+          "text": "Komersialisasi"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Test marketing (uji pasar)"
+    },
+    {
+      "id": "q33",
+      "text": "Pertumbuhan jangka panjang perusahaan dapat dicapai melalui strategi berikut, KECUALI…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Inovasi produk secara berkelanjutan"
+        },
+        {
+          "id": "b",
+          "text": "Ekspansi ke pasar baru yang belum digarap"
+        },
+        {
+          "id": "c",
+          "text": "Penghapusan seluruh anggaran riset dan pengembangan"
+        },
+        {
+          "id": "d",
+          "text": "Pengembangan kemitraan strategis dengan perusahaan lain"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Penghapusan seluruh anggaran riset dan pengembangan"
+    },
+    {
+      "id": "q34",
+      "text": "Manajemen hubungan pelanggan digital yang baik memanfaatkan data untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menjual data pelanggan kepada pihak ketiga tanpa izin"
+        },
+        {
+          "id": "b",
+          "text": "Mempersonalisasi komunikasi dan penawaran berdasarkan kebutuhan serta preferensi individual pelanggan"
+        },
+        {
+          "id": "c",
+          "text": "Mengurangi frekuensi interaksi dengan pelanggan setia"
+        },
+        {
+          "id": "d",
+          "text": "Memfokuskan layanan hanya pada pelanggan dengan nilai transaksi tertinggi"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Mempersonalisasi komunikasi dan penawaran berdasarkan kebutuhan serta preferensi individual pelanggan"
+    },
+    {
+      "id": "q35",
+      "text": "Riset pemasaran yang menggunakan metode survei online, analisis media sosial, dan big data termasuk dalam kategori…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Riset pemasaran konvensional"
+        },
+        {
+          "id": "b",
+          "text": "Riset etnografis tradisional"
+        },
+        {
+          "id": "c",
+          "text": "Riset pemasaran digital"
+        },
+        {
+          "id": "d",
+          "text": "Riset laboratorium eksperimental"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Riset pemasaran digital"
+    },
+    {
+      "id": "q36",
+      "text": "Dalam konteks media sosial, konten yang dibuat dan disebarkan oleh pengguna bukan oleh brand disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sponsored content"
+        },
+        {
+          "id": "b",
+          "text": "Native advertising"
+        },
+        {
+          "id": "c",
+          "text": "User-Generated Content (UGC)"
+        },
+        {
+          "id": "d",
+          "text": "Editorial content"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "User-Generated Content (UGC)"
+    },
+    {
+      "id": "q37",
+      "text": "Segmentasi psikografis membagi konsumen berdasarkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Usia, jenis kelamin, dan pendapatan"
+        },
+        {
+          "id": "b",
+          "text": "Lokasi tempat tinggal dan iklim daerah"
+        },
+        {
+          "id": "c",
+          "text": "Gaya hidup, nilai, kepribadian, dan minat konsumen"
+        },
+        {
+          "id": "d",
+          "text": "Frekuensi dan pola pembelian produk"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Gaya hidup, nilai, kepribadian, dan minat konsumen"
+    },
+    {
+      "id": "q38",
+      "text": "Konsep “customer lifetime value” (CLV) dalam manajemen pemasaran mengacu pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Usia rata-rata konsumen saat pertama kali membeli produk"
+        },
+        {
+          "id": "b",
+          "text": "Total nilai finansial yang dihasilkan seorang pelanggan selama hubungannya dengan perusahaan"
+        },
+        {
+          "id": "c",
+          "text": "Biaya yang dikeluarkan perusahaan untuk mendapatkan satu pelanggan baru"
+        },
+        {
+          "id": "d",
+          "text": "Jumlah produk yang dibeli konsumen dalam satu transaksi"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Total nilai finansial yang dihasilkan seorang pelanggan selama hubungannya dengan perusahaan"
+    },
+    {
+      "id": "q39",
+      "text": "Platform media sosial mana yang paling cocok untuk strategi pemasaran berbasis konten visual dan estetika produk fashion atau kuliner?",
+      "options": [
+        {
+          "id": "a",
+          "text": "LinkedIn"
+        },
+        {
+          "id": "b",
+          "text": "Twitter/X"
+        },
+        {
+          "id": "c",
+          "text": "Instagram dan Pinterest"
+        },
+        {
+          "id": "d",
+          "text": "Reddit"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Instagram dan Pinterest"
+    },
+    {
+      "id": "q40",
+      "text": "Dalam desain riset pemasaran digital, validitas data mengacu pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kecepatan dalam mengumpulkan data dari responden"
+        },
+        {
+          "id": "b",
+          "text": "Sejauh mana instrumen riset benar-benar mengukur apa yang ingin diukur"
+        },
+        {
+          "id": "c",
+          "text": "Jumlah responden yang berpartisipasi dalam survei"
+        },
+        {
+          "id": "d",
+          "text": "Biaya yang dikeluarkan untuk proses pengumpulan data"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Sejauh mana instrumen riset benar-benar mengukur apa yang ingin diukur"
+    },
+    {
+      "id": "q41",
+      "text": "Wawasan konsumen digital (digital consumer insight) paling efektif diperoleh melalui…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Intuisi dan pengalaman pribadi manajer pemasaran saja"
+        },
+        {
+          "id": "b",
+          "text": "Kombinasi analisis data kuantitatif dan kualitatif dari berbagai sumber digital"
+        },
+        {
+          "id": "c",
+          "text": "Pengamatan fisik di toko ritel konvensional"
+        },
+        {
+          "id": "d",
+          "text": "Survei tahunan yang dikirim melalui pos"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kombinasi analisis data kuantitatif dan kualitatif dari berbagai sumber digital"
+    },
+    {
+      "id": "q42",
+      "text": "Salah satu tantangan utama dalam manajemen media sosial untuk bisnis adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Terlalu banyak platform yang mudah dikelola secara bersamaan"
+        },
+        {
+          "id": "b",
+          "text": "Konsistensi merek, kecepatan respons, dan pengelolaan krisis reputasi online"
+        },
+        {
+          "id": "c",
+          "text": "Biaya produksi konten yang selalu nol rupiah"
+        },
+        {
+          "id": "d",
+          "text": "Kurangnya audiens potensial di platform digital"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Konsistensi merek, kecepatan respons, dan pengelolaan krisis reputasi online"
+    },
+    {
+      "id": "q43",
+      "text": "Periklanan programatik (programmatic advertising) dalam periklanan daring menggunakan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tenaga manusia untuk memilih penempatan iklan secara manual"
+        },
+        {
+          "id": "b",
+          "text": "Teknologi otomasi dan algoritma untuk membeli dan menempatkan iklan secara real-time kepada audiens yang tepat"
+        },
+        {
+          "id": "c",
+          "text": "Metode tradisional berbasis negosiasi langsung dengan penerbit media"
+        },
+        {
+          "id": "d",
+          "text": "Sistem undian acak untuk menentukan penempatan iklan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Teknologi otomasi dan algoritma untuk membeli dan menempatkan iklan secara real-time kepada audiens yang tepat"
+    },
+    {
+      "id": "q44",
+      "text": "Dalam strategi pemasaran digital, omnichannel berarti…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fokus pada satu saluran pemasaran yang paling dominan"
+        },
+        {
+          "id": "b",
+          "text": "Mengintegrasikan semua saluran komunikasi dan distribusi untuk memberikan pengalaman konsumen yang mulus dan konsisten"
+        },
+        {
+          "id": "c",
+          "text": "Menghilangkan saluran offline dan beralih sepenuhnya ke digital"
+        },
+        {
+          "id": "d",
+          "text": "Menggunakan sebanyak mungkin saluran tanpa koordinasi antar saluran"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Mengintegrasikan semua saluran komunikasi dan distribusi untuk memberikan pengalaman konsumen yang mulus dan konsisten"
+    },
+    {
+      "id": "q45",
+      "text": "Prinsip keberlanjutan dalam pemasaran digital era modern menuntut perusahaan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Memaksimalkan produksi tanpa batas untuk memenuhi permintaan pasar"
+        },
+        {
+          "id": "b",
+          "text": "Mengabaikan isu lingkungan demi efisiensi biaya"
+        },
+        {
+          "id": "c",
+          "text": "Menyeimbangkan tujuan bisnis dengan tanggung jawab terhadap lingkungan dan masyarakat"
+        },
+        {
+          "id": "d",
+          "text": "Berfokus hanya pada kepentingan pemegang saham jangka pendek"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Menyeimbangkan tujuan bisnis dengan tanggung jawab terhadap lingkungan dan masyarakat"
+    },
+    {
+      "id": "q46",
+      "text": "Metode A/B testing dalam periklanan daring digunakan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Membandingkan harga produk antara dua platform berbeda"
+        },
+        {
+          "id": "b",
+          "text": "Menguji dua versi iklan atau konten secara bersamaan untuk menentukan mana yang lebih efektif"
+        },
+        {
+          "id": "c",
+          "text": "Mengukur tingkat kepuasan dua kelompok konsumen yang berbeda"
+        },
+        {
+          "id": "d",
+          "text": "Membandingkan performa dua kompetitor di pasar"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Menguji dua versi iklan atau konten secara bersamaan untuk menentukan mana yang lebih efektif"
+    },
+    {
+      "id": "q47",
+      "text": "Loyalitas pelanggan digital dapat dibangun secara efektif melalui…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Penetapan harga yang selalu lebih rendah dari kompetitor tanpa mempertimbangkan nilai"
+        },
+        {
+          "id": "b",
+          "text": "Program loyalitas berbasis poin, personalisasi pengalaman, dan layanan purna jual yang responsif"
+        },
+        {
+          "id": "c",
+          "text": "Pembatasan pilihan produk agar konsumen tidak kebingungan"
+        },
+        {
+          "id": "d",
+          "text": "Pengurangan frekuensi komunikasi agar tidak mengganggu konsumen"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Program loyalitas berbasis poin, personalisasi pengalaman, dan layanan purna jual yang responsif"
+    },
+    {
+      "id": "q48",
+      "text": "Analisis SWOT dalam riset pemasaran digital berfungsi untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mengukur kecepatan akses website perusahaan"
+        },
+        {
+          "id": "b",
+          "text": "Menentukan anggaran iklan yang optimal"
+        },
+        {
+          "id": "c",
+          "text": "Mengevaluasi kekuatan, kelemahan, peluang, dan ancaman yang dihadapi perusahaan dalam lingkungan pemasaran digital"
+        },
+        {
+          "id": "d",
+          "text": "Merancang tampilan antarmuka aplikasi mobile"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Mengevaluasi kekuatan, kelemahan, peluang, dan ancaman yang dihadapi perusahaan dalam lingkungan pemasaran digital"
+    },
+    {
+      "id": "q49",
+      "text": "Inovasi produk yang berkelanjutan dalam strategi pertumbuhan jangka panjang harus berorientasi pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Meniru secara penuh produk terlaris kompetitor"
+        },
+        {
+          "id": "b",
+          "text": "Kebutuhan dan permasalahan nyata konsumen yang belum terpenuhi secara optimal"
+        },
+        {
+          "id": "c",
+          "text": "Selera pribadi tim pengembang produk"
+        },
+        {
+          "id": "d",
+          "text": "Produk yang paling mudah dan murah untuk diproduksi"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kebutuhan dan permasalahan nyata konsumen yang belum terpenuhi secara optimal"
+    },
+    {
+      "id": "q50",
+      "text": "Pemasaran yang berpusat pada konsumen (customer-centric marketing) di era digital menekankan bahwa…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Produk adalah satu-satunya faktor penentu kesuksesan bisnis"
+        },
+        {
+          "id": "b",
+          "text": "Harga murah selalu menjadi keunggulan kompetitif utama"
+        },
+        {
+          "id": "c",
+          "text": "Memahami, melayani, dan menciptakan nilai bagi konsumen adalah inti dari semua strategi pemasaran"
+        },
+        {
+          "id": "d",
+          "text": "Iklan berbayar lebih penting daripada kualitas produk dan layanan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Memahami, melayani, dan menciptakan nilai bagi konsumen adalah inti dari semua strategi pemasaran"
+    }
+  ]
+}

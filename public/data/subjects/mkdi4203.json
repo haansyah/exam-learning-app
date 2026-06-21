@@ -1,0 +1,1205 @@
+{
+  "subjectId": "mkdi4203",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Era disrupsi telah mengubah lanskap bisnis secara fundamental melalui inovasi teknologi. Manakah yang paling tepat menggambarkan karakteristik era disrupsi… - Contact",
+      "options": [
+        {
+          "id": "a",
+          "text": "Perubahan bertahap yang meningkatkan efisiensi produk dan layanan yang sudah ada"
+        },
+        {
+          "id": "b",
+          "text": "Penciptaan pasar dan jaringan baru yang menggantikan pemimpin pasar lama melalui inovasi"
+        },
+        {
+          "id": "c",
+          "text": "Stabilisasi pasar dengan memperkuat posisi perusahaan-perusahaan besar yang sudah mapan"
+        },
+        {
+          "id": "d",
+          "text": "Penggabungan beberapa industri yang sudah matang untuk menciptakan konglomerasi baru"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Era disrupsi ditandai oleh inovasi yang secara fundamental mengubah produk atau layanan mapan sehingga menciptakan pasar dan jaringan baru yang menggantikan pemimpin lama, bukan sekadar peningkatan bertahap."
+    },
+    {
+      "id": "q2",
+      "text": "Seorang individu bernama Budi menginvestasikan dana besar pada sebuah restoran yang sudah memiliki sistem operasional terbukti dan basis pelanggan loyal. Ia fokus menjaga kualitas layanan tanpa mencoba mengubah model bisnis. Berdasarkan fokus aktivitasnya, Budi lebih tepat dikategorikan sebagai…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Businessman karena ia fokus mengelola operasional bisnis yang sudah stabil tanpa inovasi fundamental"
+        },
+        {
+          "id": "b",
+          "text": "Entrepreneur karena ia melihat dan mengevaluasi peluang bisnis untuk diambil alih"
+        },
+        {
+          "id": "c",
+          "text": "Intrapreneur karena ia bekerja di dalam perusahaan yang sudah ada dan mengelola inovasi"
+        },
+        {
+          "id": "d",
+          "text": "Sociopreneur karena ia menciptakan lapangan kerja bagi masyarakat sekitar"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Businessman berfokus pada pengelolaan operasional bisnis yang sudah stabil, bukan pada penciptaan inovasi atau peluang baru seperti entrepreneur. Budi mengelola restoran yang sudah mapan tanpa mengubah model bisnis, sehingga ia lebih tepat disebut businessman."
+    },
+    {
+      "id": "q3",
+      "text": "Perbedaan paling mendasar antara entrepreneur dan businessman terletak pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Besarnya modal yang diinvestasikan dalam kegiatan usaha"
+        },
+        {
+          "id": "b",
+          "text": "Jumlah karyawan yang dipekerjakan dalam organisasi bisnis"
+        },
+        {
+          "id": "c",
+          "text": "Sektor industri tempat mereka menjalankan bisnis, apakah tradisional atau modern"
+        },
+        {
+          "id": "d",
+          "text": "Orientasi terhadap inovasi dan penciptaan peluang baru versus pengelolaan operasional"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Entrepreneur berfokus pada inovasi dan penciptaan peluang baru, sementara businessman berfokus pada pengelolaan operasional bisnis yang sudah stabil. Inilah pembeda utama, bukan jumlah modal atau karyawan."
+    },
+    {
+      "id": "q4",
+      "text": "Kewirausahaan merupakan proses menciptakan sesuatu yang baru dan bernilai. Elemen pengorbanan yang melekat pada proses tersebut mencakup…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Waktu, usaha, dan risiko finansial, psikis, serta sosial"
+        },
+        {
+          "id": "b",
+          "text": "Hanya modal finansial dan waktu yang diinvestasikan di awal usaha"
+        },
+        {
+          "id": "c",
+          "text": "Risiko operasional dan risiko kepatuhan terhadap regulasi pemerintah saja"
+        },
+        {
+          "id": "d",
+          "text": "Kesempatan bekerja di perusahaan besar dan stabilitas karier jangka panjang"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Definisi kewirausahaan mencakup pengorbanan waktu, usaha, serta penanggungan risiko finansial, psikis, dan sosial secara bersamaan sebagai bagian integral dari proses menciptakan nilai."
+    },
+    {
+      "id": "q5",
+      "text": "PT Inovasi Nusantara meluncurkan aplikasi dompet digital yang mengubah cara masyarakat membayar tagihan dan berbelanja. Dalam waktu singkat, bank-bank besar kehilangan pangsa pasar signifikan pada segmen pembayaran ritel. Situasi ini paling tepat menggambarkan fenomena…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Era disrupsi karena inovasi tersebut secara fundamental mengubah industri yang sudah mapan"
+        },
+        {
+          "id": "b",
+          "text": "Resiliensi bisnis karena perusahaan mampu beradaptasi dengan perubahan pasar"
+        },
+        {
+          "id": "c",
+          "text": "Transformasi digital karena perusahaan mengintegrasikan teknologi ke dalam operasionalnya"
+        },
+        {
+          "id": "d",
+          "text": "Kepemimpinan digital karena perusahaan memanfaatkan data untuk pengambilan keputusan"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Situasi tersebut menggambarkan era disrupsi di mana inovasi dompet digital mengubah layanan keuangan mapan secara fundamental serta menciptakan jaringan baru yang menggantikan pemimpin pasar lama."
+    },
+    {
+      "id": "q6",
+      "text": "Keberhasilan usaha di era digital tidak hanya bergantung pada adopsi teknologi semata. Kemampuan usaha untuk beradaptasi dan pulih dengan cepat dari gangguan atau perubahan pasar yang disebabkan oleh teknologi digital disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Transformasi digital"
+        },
+        {
+          "id": "b",
+          "text": "Agile leadership"
+        },
+        {
+          "id": "c",
+          "text": "Resiliensi bisnis"
+        },
+        {
+          "id": "d",
+          "text": "Growth hacking"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Resiliensi bisnis adalah kemampuan beradaptasi dan pulih dengan cepat dari gangguan atau perubahan pasar akibat teknologi digital. Istilah ini khas pada konteks ketahanan dan pemulihan, bukan pada integrasi teknologi atau pertumbuhan."
+    },
+    {
+      "id": "q7",
+      "text": "Integrasi teknologi digital ke dalam semua area bisnis yang secara fundamental mengubah cara beroperasi dan memberikan nilai kepada pelanggan dikenal sebagai…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Resiliensi bisnis"
+        },
+        {
+          "id": "b",
+          "text": "Platform economy"
+        },
+        {
+          "id": "c",
+          "text": "Transformasi digital"
+        },
+        {
+          "id": "d",
+          "text": "Omnichannel"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Transformasi digital adalah integrasi teknologi digital ke seluruh area bisnis yang mengubah cara operasi dan pemberian nilai kepada pelanggan secara fundamental."
+    },
+    {
+      "id": "q8",
+      "text": "Seorang pemimpin perusahaan e-commerce secara konsisten menggunakan analitik data besar untuk memprediksi tren pasar dan mendorong timnya bereksperimen dengan fitur baru setiap bulan. Ia juga membangun sistem kolaborasi berbasis cloud. Praktik ini paling mencerminkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Shared leadership"
+        },
+        {
+          "id": "b",
+          "text": "Kepemimpinan digital"
+        },
+        {
+          "id": "c",
+          "text": "Empowerment"
+        },
+        {
+          "id": "d",
+          "text": "Agile leadership"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kepemimpinan digital adalah kemampuan memimpin dengan memanfaatkan teknologi untuk mendorong inovasi, pengambilan keputusan berbasis data, dan budaya kolaborasi, yang semuanya tercermin dalam deskripsi tersebut."
+    },
+    {
+      "id": "q9",
+      "text": "Ketika menghadapi krisis pandemi, sebuah perusahaan ritel cepat beralih ke penjualan daring dengan memanfaatkan infrastruktur digital yang sudah disiapkan sebelumnya. Kemampuan ini menunjukkan perusahaan memiliki…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kepemimpinan digital yang kuat dalam mengarahkan perubahan strategis"
+        },
+        {
+          "id": "b",
+          "text": "Transformasi digital yang belum selesai sehingga perlu penyesuaian mendadak"
+        },
+        {
+          "id": "c",
+          "text": "Platform economy yang membantu menjangkau segmen pelanggan baru secara luas"
+        },
+        {
+          "id": "d",
+          "text": "Resiliensi bisnis yang memungkinkan adaptasi dan pemulihan dari gangguan pasar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Kemampuan beradaptasi dan pulih dengan cepat dari gangguan seperti pandemi merupakan inti dari resiliensi bisnis. Perusahaan tersebut menunjukkan resiliensi karena mampu beralih kanal dengan memanfaatkan fondasi digital yang sudah ada."
+    },
+    {
+      "id": "q10",
+      "text": "Transformasi digital dan resiliensi bisnis saling terkait dalam konteks keberhasilan usaha era digital. Manakah pernyataan yang paling akurat mengenai hubungan keduanya…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Transformasi digital menjamin resiliensi bisnis tanpa perlu upaya adaptasi tambahan"
+        },
+        {
+          "id": "b",
+          "text": "Transformasi digital membangun fondasi yang memungkinkan resiliensi bisnis saat terjadi gangguan"
+        },
+        {
+          "id": "c",
+          "text": "Resiliensi bisnis dapat dicapai tanpa transformasi digital selama modal cukup kuat"
+        },
+        {
+          "id": "d",
+          "text": "Keduanya adalah konsep yang identik dan dapat digunakan secara bergantian"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Transformasi digital membangun infrastruktur dan kapabilitas digital yang menjadi fondasi resiliensi bisnis sehingga usaha mampu beradaptasi dan pulih saat gangguan terjadi. Keduanya saling melengkapi, bukan identik atau terpisah."
+    },
+    {
+      "id": "q11",
+      "text": "Dalam menjalankan usahanya, seorang wirausaha dihadapkan pada pilihan antara mengoptimalkan efisiensi sumber daya yang sudah dimiliki atau mencari peluang baru di pasar. Karakteristik orientasi peluang berarti wirausaha tersebut akan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Berfokus pada identifikasi dan eksploitasi peluang baru, bukan sekadar efisiensi sumber daya"
+        },
+        {
+          "id": "b",
+          "text": "Menunda ekspansi hingga seluruh sumber daya internal telah dimanfaatkan sepenuhnya"
+        },
+        {
+          "id": "c",
+          "text": "Memprioritaskan penghematan biaya operasional dari sumber daya yang sudah ada"
+        },
+        {
+          "id": "d",
+          "text": "Mengalihkan seluruh sumber daya ke investasi jangka pendek yang paling menguntungkan"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Orientasi peluang berarti wirausaha selalu berfokus pada identifikasi dan eksploitasi peluang baru, bukan sekadar efisiensi atau optimalisasi sumber daya yang sudah ada."
+    },
+    {
+      "id": "q12",
+      "text": "Sociopreneur berbeda dari entrepreneur konvensional pada aspek tujuan utama pendirian usaha. Tujuan utama seorang sociopreneur adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Memaksimalkan keuntungan finansial untuk mempercepat ekspansi ke pasar global"
+        },
+        {
+          "id": "b",
+          "text": "Membangun perusahaan rintisan dengan valuasi tinggi untuk kemudian dijual kepada investor strategis"
+        },
+        {
+          "id": "c",
+          "text": "Menciptakan usaha yang menyelesaikan masalah sosial atau lingkungan tanpa mengutamakan keuntungan maksimal"
+        },
+        {
+          "id": "d",
+          "text": "Menguasai pangsa pasar terbesar dalam industri yang baru terbentuk melalui inovasi disruptif"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Sociopreneur menciptakan usaha dengan tujuan utama menyelesaikan masalah sosial atau lingkungan, tidak mengutamakan keuntungan maksimal seperti entrepreneur konvensional."
+    },
+    {
+      "id": "q13",
+      "text": "Siti dan rekan-rekannya baru saja mendirikan perusahaan rintisan di bidang teknologi pendidikan. Siti sangat yakin bahwa keberhasilan usaha bergantung sepenuhnya pada kerja keras dan keputusan yang ia ambil, sementara rekannya Anton percaya bahwa keberhasilan sangat dipengaruhi oleh tren pasar dan dukungan investor. Perbedaan pandangan ini paling mencerminkan kontras antara…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orientasi peluang versus orientasi efisiensi dalam menjalankan usaha"
+        },
+        {
+          "id": "b",
+          "text": "Locus of control internal versus locus of control eksternal pada wirausaha"
+        },
+        {
+          "id": "c",
+          "text": "Entrepreneur versus intrapreneur dalam konteks organisasi startup"
+        },
+        {
+          "id": "d",
+          "text": "Pengambilan risiko terukur versus spekulasi dalam pengambilan keputusan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Siti menunjukkan locus of control internal dengan meyakini kendali diri sebagai penentu kesuksesan, sementara Anton mencerminkan locus of control eksternal yang menekankan faktor di luar dirinya seperti tren dan investor."
+    },
+    {
+      "id": "q14",
+      "text": "Meskipun intrapreneur dan entrepreneur sama-sama memiliki jiwa kewirausahaan, konteks operasional keduanya berbeda. Perbedaan utama intrapreneur dibandingkan entrepreneur adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Intrapreneur hanya ada di perusahaan teknologi sedangkan entrepreneur ada di semua sektor"
+        },
+        {
+          "id": "b",
+          "text": "Intrapreneur mencari keuntungan pribadi maksimal sedangkan entrepreneur mengutamakan dampak sosial"
+        },
+        {
+          "id": "c",
+          "text": "Intrapreneur menanggung seluruh risiko finansial secara pribadi sedangkan entrepreneur tidak"
+        },
+        {
+          "id": "d",
+          "text": "Intrapreneur beroperasi di dalam organisasi yang sudah ada dan mengembangkan inovasi untuk organisasi tersebut"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Intrapreneur adalah karyawan yang bertindak seperti wirausaha di dalam perusahaan, mengembangkan ide inovatif untuk organisasinya, berbeda dengan entrepreneur yang mendirikan dan menjalankan usaha sendiri."
+    },
+    {
+      "id": "q15",
+      "text": "Seorang karyawan di perusahaan telekomunikasi besar mengusulkan proyek aplikasi microfinance berbasis pulsa untuk komunitas prasejahtera. Ide ini di luar lini bisnis utama perusahaan, namun berpotensi membuka segmen baru dan memberi dampak sosial. Karyawan tersebut paling tepat dikategorikan sebagai…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Intrapreneur"
+        },
+        {
+          "id": "b",
+          "text": "Sociopreneur"
+        },
+        {
+          "id": "c",
+          "text": "Businessman"
+        },
+        {
+          "id": "d",
+          "text": "Entrepreneur"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Intrapreneur adalah karyawan yang bertindak seperti wirausaha di dalam perusahaan dengan mengembangkan ide atau proyek inovatif yang memberi nilai tambah bagi organisasi. Karyawan tersebut berinovasi dalam perusahaan, bukan mendirikan usaha mandiri (entrepreneur), tujuan utama bukan sosial (sociopreneur), dan bukan hanya mengelola bisnis stabil (businessman)."
+    },
+    {
+      "id": "q16",
+      "text": "Wirausaha berbeda dari individu pada umumnya dalam memandang faktor penentu kesuksesan. Seorang wirausaha yang memiliki keyakinan kuat bahwa kerja keras dan keputusan pribadinya menentukan hasil usaha, bukan faktor keberuntungan atau koneksi, mencerminkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Locus of control eksternal yang tinggi"
+        },
+        {
+          "id": "b",
+          "text": "Locus of control internal yang tinggi"
+        },
+        {
+          "id": "c",
+          "text": "Orientasi peluang yang dominan"
+        },
+        {
+          "id": "d",
+          "text": "Keberanian mengambil risiko spekulatif"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Locus of control internal adalah keyakinan bahwa individu mampu mengendalikan nasib sendiri sebagai faktor penentu kesuksesan. Keyakinan pada kerja keras dan keputusan pribadi menunjukkan locus internal, bukan eksternal yang menekankan faktor luar seperti keberuntungan. Ini berbeda dari orientasi peluang maupun risiko spekulatif."
+    },
+    {
+      "id": "q17",
+      "text": "Dalam mempertimbangkan ekspansi bisnis, seorang wirausaha melakukan analisis mendalam terhadap potensi kerugian, mempelajari data pasar, dan menyiapkan rencana mitigasi sebelum memutuskan investasi. Perilaku ini paling mencerminkan karakteristik wirausaha berupa…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orientasi pada efisiensi sumber daya"
+        },
+        {
+          "id": "b",
+          "text": "Pengambilan risiko yang telah diperhitungkan"
+        },
+        {
+          "id": "c",
+          "text": "Locus of control yang eksternal"
+        },
+        {
+          "id": "d",
+          "text": "Penghindaran risiko total"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Wirausaha memiliki keberanian mengambil risiko yang telah diperhitungkan dengan cermat, bukan spekulasi buta. Analisis mendalam dan rencana mitigasi menunjukkan risiko terhitung, bukan dihindari total atau sekadar efisiensi sumber daya. Ini juga berlawanan dengan locus of control eksternal yang mengandalkan faktor luar."
+    },
+    {
+      "id": "q18",
+      "text": "Perbedaan perilaku paling kontras antara wirausaha dengan locus of control internal dan eksternal terlihat ketika menghadapi kegagalan bisnis. Individu dengan locus internal cenderung…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menyalahkan kondisi ekonomi dan persaingan sebagai penyebab kegagalan"
+        },
+        {
+          "id": "b",
+          "text": "Menunggu bantuan pemerintah atau investor sebelum bangkit kembali"
+        },
+        {
+          "id": "c",
+          "text": "Beralih ke bisnis yang sama sekali berbeda tanpa evaluasi"
+        },
+        {
+          "id": "d",
+          "text": "Merefleksikan keputusan sendiri dan menyusun strategi perbaikan"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Individu dengan locus of control internal meyakini bahwa tindakan dan keputusannya sendiri menentukan hasil. Saat gagal, mereka merefleksikan keputusan dan menyusun perbaikan, bukan menyalahkan faktor eksternal atau menunggu bantuan. Ini kontras dengan locus eksternal yang menyalahkan kondisi di luar kendali."
+    },
+    {
+      "id": "q19",
+      "text": "Seorang wirausaha sukses dikenal selalu mencari celah pasar yang belum terlayani, bahkan ketika bisnis utamanya berjalan baik. Ia mengalokasikan sebagian besar waktunya untuk membaca tren dan menjajaki kemitraan baru, bukan mengawasi operasional harian. Karakteristik utama yang ditunjukkan adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orientasi peluang"
+        },
+        {
+          "id": "b",
+          "text": "Pengambilan risiko"
+        },
+        {
+          "id": "c",
+          "text": "Toleransi ambiguitas"
+        },
+        {
+          "id": "d",
+          "text": "Locus of control"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Orientasi peluang berarti wirausaha selalu berfokus pada identifikasi dan eksploitasi peluang baru, bukan sekadar efisiensi sumber daya yang ada. Mencari celah pasar dan menjajaki kemitraan baru sambil tidak terpaku pada operasional harian mencerminkan orientasi peluang, bukan pengambilan risiko atau toleransi ambiguitas."
+    },
+    {
+      "id": "q20",
+      "text": "Membedakan wirausaha berorientasi peluang dari manajer konvensional dapat dilihat dari prioritas alokasi sumber daya. Wirausaha berorientasi peluang akan memprioritaskan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stabilitas dan prediktabilitas arus kas"
+        },
+        {
+          "id": "b",
+          "text": "Optimalisasi proses untuk memaksimalkan margin keuntungan"
+        },
+        {
+          "id": "c",
+          "text": "Pengurangan biaya operasional secara agresif"
+        },
+        {
+          "id": "d",
+          "text": "Eksplorasi inovasi meskipun mengurangi efisiensi jangka pendek"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Wirausaha berorientasi peluang fokus pada eksplorasi inovasi dan peluang baru, meski mungkin mengurangi efisiensi jangka pendek. Manajer konvensional lebih fokus pada optimalisasi, pengurangan biaya, dan stabilitas. Perbedaan mendasar terletak pada prioritas antara eksplorasi (peluang) dan eksploitasi (efisiensi)."
+    },
+    {
+      "id": "q21",
+      "text": "Pemetaan diri sebagai langkah awal identifikasi potensi wirausaha menuntut individu menganalisis beberapa dimensi secara bersamaan. Dimensi yang menjadi objek analisis dalam pemetaan diri mencakup…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Regulasi pemerintah, insentif pajak, dan perizinan"
+        },
+        {
+          "id": "b",
+          "text": "Modal finansial, jaringan bisnis, dan lokasi usaha"
+        },
+        {
+          "id": "c",
+          "text": "Tren pasar, analisis pesaing, dan proyeksi pendapatan"
+        },
+        {
+          "id": "d",
+          "text": "Kekuatan, kelemahan, minat, dan nilai pribadi"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Pemetaan diri adalah proses menganalisis kekuatan, kelemahan, minat, dan nilai pribadi untuk menentukan jenis usaha yang paling sesuai. Dimensi internal individu menjadi fokus, bukan faktor eksternal seperti modal, pasar, atau regulasi."
+    },
+    {
+      "id": "q22",
+      "text": "Rini adalah lulusan teknik pangan yang memiliki hobi fotografi dan aktif di komunitas lingkungan. Ia ingin memulai usaha yang memanfaatkan seluruh potensi dirinya. Berdasarkan prinsip pemetaan diri, langkah paling tepat yang harus dilakukan Rini adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Membuka studio foto karena permintaan pasar tinggi"
+        },
+        {
+          "id": "b",
+          "text": "Mengabaikan hobi dan fokus pada keahlian formal di teknik pangan"
+        },
+        {
+          "id": "c",
+          "text": "Menganalisis keterkaitan antara keahlian, minat, dan nilai lingkungannya untuk menentukan konsep usaha"
+        },
+        {
+          "id": "d",
+          "text": "Memilih usaha katering rumahan karena modalnya paling kecil"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Pemetaan diri menuntut analisis kekuatan, kelemahan, minat, dan nilai pribadi secara terpadu. Rini perlu menganalisis keterkaitan antara keahlian teknik pangan, hobi fotografi, dan nilai lingkungan untuk menemukan konsep usaha yang memanfaatkan seluruh potensinya, bukan hanya mengikuti salah satu dimensi atau faktor eksternal."
+    },
+    {
+      "id": "q23",
+      "text": "Kompetensi wirausaha mencakup tiga elemen yang terpadu dan saling memperkuat. Seseorang yang memahami teori pemasaran digital tetapi gagal menerapkannya karena tidak percaya diri menunjukkan kesenjangan pada elemen…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keterampilan"
+        },
+        {
+          "id": "b",
+          "text": "Pengetahuan"
+        },
+        {
+          "id": "c",
+          "text": "Sikap"
+        },
+        {
+          "id": "d",
+          "text": "Pengalaman"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Kompetensi wirausaha mencakup pengetahuan, keterampilan, dan sikap yang terpadu. Memahami teori menunjukkan pengetahuan memadai, tetapi tidak percaya diri menerapkannya menunjukkan kesenjangan pada elemen sikap. Sikap mencakup keyakinan diri, motivasi, dan karakter yang diperlukan untuk bertindak."
+    },
+    {
+      "id": "q24",
+      "text": "Dalam konteks identifikasi potensi diri, pengetahuan, keterampilan, dan sikap merupakan elemen yang saling terpadu membentuk kompetensi wirausaha. Manakah pernyataan yang paling tepat menggambarkan hubungan antarelemen tersebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pengetahuan adalah elemen paling penting dan harus dimiliki sebelum yang lain"
+        },
+        {
+          "id": "b",
+          "text": "Ketiganya harus terpadu karena pengetahuan tanpa sikap tidak menghasilkan tindakan, dan keterampilan tanpa pengetahuan membatasi adaptasi"
+        },
+        {
+          "id": "c",
+          "text": "Keterampilan dapat menggantikan kelemahan pada elemen sikap"
+        },
+        {
+          "id": "d",
+          "text": "Sikap lebih menentukan keberhasilan sehingga pengetahuan dan keterampilan bersifat opsional"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kompetensi wirausaha menuntut integrasi pengetahuan, keterampilan, dan sikap. Pengetahuan memberi dasar pemahaman, keterampilan memungkinkan eksekusi, dan sikap mendorong tindakan. Tidak ada elemen yang dominan atau opsional; ketiganya saling melengkapi dan ketiadaan satu elemen melemahkan kompetensi secara keseluruhan."
+    },
+    {
+      "id": "q25",
+      "text": "Setelah melakukan pemetaan diri, seorang calon wirausaha menyadari ia memiliki jaringan luas di industri kreatif dan keterampilan desain grafis, tetapi lemah dalam manajemen keuangan. Strategi paling tepat berdasarkan hasil pemetaan ini adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menunda memulai usaha sampai mahir manajemen keuangan"
+        },
+        {
+          "id": "b",
+          "text": "Memilih usaha desain grafis dan merekrut mitra yang kuat dalam keuangan"
+        },
+        {
+          "id": "c",
+          "text": "Mengabaikan kelemahan dan fokus pada kekuatan jaringan saja"
+        },
+        {
+          "id": "d",
+          "text": "Beralih ke bisnis yang tidak memerlukan manajemen keuangan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Pemetaan diri bertujuan mengidentifikasi kekuatan dan kelemahan untuk strategi yang realistis. Memilih usaha yang memanfaatkan kekuatan (desain, jaringan) dan mengkompensasi kelemahan (keuangan) melalui kemitraan adalah strategi optimal. Menunda atau mengabaikan kelemahan tidak menyelesaikan masalah."
+    },
+    {
+      "id": "q26",
+      "text": "Berbeda dengan pendekatan konvensional, seorang wirausaha yang menerapkan logika effectuation saat memulai usaha akan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menetapkan target laba spesifik kemudian menyusun rencana detail untuk mencapainya"
+        },
+        {
+          "id": "b",
+          "text": "Melakukan riset pasar ekstensif sebelum bertindak apapun"
+        },
+        {
+          "id": "c",
+          "text": "Memulai dengan sumber daya yang sudah dimiliki dan memilih hasil yang mungkin dari sana"
+        },
+        {
+          "id": "d",
+          "text": "Mencari investor besar sebagai langkah pertama wajib"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Effectuation adalah logika berpikir yang dimulai dengan sumber daya yang sudah dimiliki (siapa diri, apa yang diketahui, siapa yang dikenal) dan memilih hasil yang mungkin, bukan menetapkan tujuan dulu lalu mencari cara seperti pada causation. Pendekatan ini fleksibel dan iteratif."
+    },
+    {
+      "id": "q27",
+      "text": "Diana adalah lulusan baru yang ingin berwirausaha. Ia memiliki laptop, kemampuan coding, dan berteman dengan beberapa pemilik UMKM. Alih-alih menyusun rencana bisnis kompleks, ia langsung membuat prototipe aplikasi kasir sederhana dan menawarkannya ke teman-temannya. Pendekatan Diana mencerminkan prinsip effectuation, khususnya…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Affordable loss"
+        },
+        {
+          "id": "b",
+          "text": "Crazy quilt"
+        },
+        {
+          "id": "c",
+          "text": "Bird-in-hand"
+        },
+        {
+          "id": "d",
+          "text": "Lemonade"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Prinsip bird-in-hand berarti memulai dengan siapa diri (kemampuan coding), apa yang diketahui (pemrograman), dan siapa yang dikenal (teman UMKM). Diana tidak menunggu sumber daya sempurna, melainkan bertindak dengan apa yang sudah ada di tangan. Ini berbeda dari affordable loss yang fokus pada batasan investasi."
+    },
+    {
+      "id": "q28",
+      "text": "Seorang wirausaha menetapkan batas maksimal Rp50 juta untuk investasi awal, jumlah yang siap ia hilangkan tanpa mengganggu kebutuhan hidup dasarnya. Ia tidak menghitung berapa potensi keuntungan maksimal dari proyeknya. Prinsip effectuation yang diterapkan adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Affordable loss"
+        },
+        {
+          "id": "b",
+          "text": "Pilot-in-the-plane"
+        },
+        {
+          "id": "c",
+          "text": "Bird-in-hand"
+        },
+        {
+          "id": "d",
+          "text": "Crazy quilt"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Affordable loss berarti wirausaha membatasi risiko dengan hanya menginvestasikan sumber daya yang sanggup mereka hilangkan, bukan menghitung potensi keuntungan maksimal. Menetapkan batas investasi yang siap hilang tanpa mengganggu kebutuhan dasar adalah implementasi langsung prinsip ini."
+    },
+    {
+      "id": "q29",
+      "text": "Perbedaan filosofis paling fundamental antara effectuation dan causation terletak pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Urutan logika antara tujuan dan sarana dalam proses kewirausahaan"
+        },
+        {
+          "id": "b",
+          "text": "Jumlah modal yang dibutuhkan untuk memulai usaha"
+        },
+        {
+          "id": "c",
+          "text": "Sektor industri yang cocok untuk masing-masing pendekatan"
+        },
+        {
+          "id": "d",
+          "text": "Kecepatan mencapai titik impas"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Perbedaan paling fundamental antara effectuation dan causation adalah urutan logika. Causation menetapkan tujuan dulu lalu mencari sarana, sedangkan effectuation dimulai dari sarana yang sudah dimiliki lalu memilih tujuan yang mungkin. Ini soal logika berpikir, bukan jumlah modal, sektor industri, atau kecepatan impas."
+    },
+    {
+      "id": "q30",
+      "text": "Setelah menerima warisan tanah seluas 500 meter persegi, Pak Budi memutuskan berwirausaha dengan mempertimbangkan apa yang bisa ia lakukan dengan tanah itu, bukan menentukan terlebih dahulu ingin menjadi pengusaha apa. Ia kemudian memilih membangun tempat parkir karena lokasinya dekat stasiun. Alur pengambilan keputusan Pak Budi menggunakan logika…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Causation, karena ia menyesuaikan dengan kondisi pasar"
+        },
+        {
+          "id": "b",
+          "text": "Effectuation, karena ia memilih usaha yang paling menguntungkan"
+        },
+        {
+          "id": "c",
+          "text": "Causation, karena ia memiliki aset awal"
+        },
+        {
+          "id": "d",
+          "text": "Effectuation, karena ia memulai dari sumber daya yang dimiliki untuk menentukan usaha"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Pak Budi menerapkan logika effectuation karena ia memulai dari sumber daya yang sudah dimiliki (tanah) dan memilih hasil yang mungkin (tempat parkir) berdasarkan sarana itu. Causation bekerja sebaliknya: menetapkan tujuan usaha dulu lalu mencari sumber daya. Alurnya dari sarana ke tujuan, bukan dari tujuan ke sarana."
+    },
+    {
+      "id": "q31",
+      "text": "Kombinasi prinsip bird-in-hand dan affordable loss dalam praktik effectuation akan mendorong wirausaha untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Segera memulai dengan sumber daya terbatas yang siap dipertaruhkan"
+        },
+        {
+          "id": "b",
+          "text": "Menunda tindakan sampai tersedia modal ventura yang cukup besar"
+        },
+        {
+          "id": "c",
+          "text": "Menyusun perencanaan lima tahun sebelum bertindak"
+        },
+        {
+          "id": "d",
+          "text": "Memaksimalkan utang untuk mempercepat pertumbuhan"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Bird-in-hand mendorong wirausaha bertindak dengan apa yang sudah dimiliki, sementara affordable loss membatasi investasi hanya pada jumlah yang siap hilang. Kombinasinya mendorong eksekusi cepat dengan risiko terukur menggunakan sumber daya terbatas, bukan menunda untuk modal besar atau perencanaan panjang."
+    },
+    {
+      "id": "q32",
+      "text": "Seorang wirausaha memulai bisnisnya dengan terlebih dahulu menginventarisasi keahlian memasak, modal tabungan pribadi, dan kontak sesama alumni yang dimilikinya, baru kemudian memutuskan jenis usaha kuliner yang bisa dijalankan. Alur pengambilan keputusan ini paling tepat menggambarkan logika…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Effectuation, karena ia bertolak dari sumber daya yang sudah dimiliki"
+        },
+        {
+          "id": "b",
+          "text": "Causation, karena ia menetapkan tujuan spesifik lalu mencari sumber daya"
+        },
+        {
+          "id": "c",
+          "text": "Deduktif, karena ia menerapkan teori manajemen umum ke kasus spesifik"
+        },
+        {
+          "id": "d",
+          "text": "Induktif, karena ia menyimpulkan peluang dari pengamatan pasar"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Logika effectuation dimulai dari sumber daya yang sudah ada di tangan (who I am, what I know, whom I know), bukan dari tujuan yang ditetapkan di awal."
+    },
+    {
+      "id": "q33",
+      "text": "Prinsip pilot-in-the-plane dalam logika effectuation menekankan bahwa masa depan wirausaha terutama ditentukan oleh…",
+      "options": [
+        {
+          "id": "a",
+          "text": "hasil analisis prediktif berdasarkan data historis industri dan tren pasar yang dikuantifikasi secara ketat…"
+        },
+        {
+          "id": "b",
+          "text": "kekuatan eksternal, keberuntungan, dan siklus ekonomi yang berada di luar kendali individu wirausaha…"
+        },
+        {
+          "id": "c",
+          "text": "tindakan proaktif, keputusan, dan kreativitas wirausaha sendiri dalam menciptakan peluang di tengah ketidakpastian…"
+        },
+        {
+          "id": "d",
+          "text": "rencana bisnis lima tahunan yang disusun secara komprehensif di tahap awal dan dilaksanakan dengan disiplin…"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Prinsip pilot-in-the-plane berfokus pada logika kewirausahaan yang menempatkan wirausaha sebagai 'pilot' yang mengendalikan arah, bukan 'penumpang' yang pasrah pada situasi. Dalam kerangka effectuation, masa depan tidak diprediksi berdasarkan data masa lalu, melainkan diciptakan secara aktif melalui tindakan, keputusan, dan kolaborasi yang diambil wirausaha saat ini. Ini bertolak belakang dengan pandangan bahwa masa depan adalah hasil dari tren eksternal yang harus diikuti atau rencana statis yang harus dijalankan."
+    },
+    {
+      "id": "q34",
+      "text": "Rizal mencermati bahwa banyak lansia di lingkungannya kesulitan memesan transportasi online karena antarmuka aplikasi yang rumit. Ia melihat ini sebagai situasi di mana produk baru dapat diciptakan untuk memenuhi kebutuhan tersebut. Proses kognitif yang dialami Rizal dikenal sebagai…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Validasi ide"
+        },
+        {
+          "id": "b",
+          "text": "Pengenalan peluang"
+        },
+        {
+          "id": "c",
+          "text": "Pengembangan MVP"
+        },
+        {
+          "id": "d",
+          "text": "Design thinking"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Pengenalan peluang adalah proses kognitif mengidentifikasi situasi di mana produk atau layanan baru dapat diciptakan untuk memenuhi kebutuhan pasar yang belum terlayani."
+    },
+    {
+      "id": "q35",
+      "text": "Sebelum mengembangkan aplikasi pemesanan makanan secara penuh, PT Digital Rasa meluncurkan versi sangat sederhana yang hanya memungkinkan pengguna memesan dari tiga restoran mitra awal. Tujuan utama peluncuran versi sederhana ini adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menghasilkan pendapatan secepat mungkin untuk menutup biaya pengembangan"
+        },
+        {
+          "id": "b",
+          "text": "Memenangkan persaingan dengan menjadi yang pertama di pasar"
+        },
+        {
+          "id": "c",
+          "text": "Menguji asumsi bisnis dan mendapatkan umpan balik dari pengguna awal"
+        },
+        {
+          "id": "d",
+          "text": "Menunjukkan prototipe final kepada calon investor besar"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Versi produk dengan fitur minimal yang diluncurkan untuk menguji asumsi bisnis terhadap pasar nyata disebut Minimum Viable Product (MVP), yang bertujuan memperoleh umpan balik pengguna awal."
+    },
+    {
+      "id": "q36",
+      "text": "Startup Edutech mengembangkan platform pembelajaran daring. Sebelum menghabiskan dana untuk fitur gamifikasi dan AI, mereka memberikan akses gratis ke 50 pengajar untuk menguji apakah platform dasar benar-benar digunakan dan menyelesaikan masalah pengajar. Aktivitas ini merupakan bagian dari tahapan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Validasi ide, karena mereka menguji asumsi terhadap pasar nyata"
+        },
+        {
+          "id": "b",
+          "text": "Pengenalan peluang, karena mereka mengidentifikasi kebutuhan pengajar"
+        },
+        {
+          "id": "c",
+          "text": "Pengembangan MVP, karena mereka membuat versi fitur minimal untuk diuji"
+        },
+        {
+          "id": "d",
+          "text": "Go-to-market, karena mereka sudah siap meluncurkan ke seluruh Indonesia"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Validasi ide adalah proses pengujian asumsi bisnis terhadap pasar nyata menggunakan eksperimen cepat dan umpan balik pelanggan sebelum mengembangkan produk secara penuh."
+    },
+    {
+      "id": "q37",
+      "text": "Minimum Viable Product (MVP) berbeda dari prototipe awal internal karena MVP…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Harus memiliki semua fitur yang direncanakan dalam visi produk akhir"
+        },
+        {
+          "id": "b",
+          "text": "Dirancang khusus untuk menarik investor tanpa perlu diuji ke pengguna"
+        },
+        {
+          "id": "c",
+          "text": "Diluncurkan ke pengguna nyata untuk mendapatkan umpan balik validasi"
+        },
+        {
+          "id": "d",
+          "text": "Hanya berupa gambar desain antarmuka tanpa fungsi yang bekerja"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "MVP adalah versi produk dengan fitur minimal yang cukup untuk diluncurkan kepada pengguna awal guna memperoleh umpan balik nyata, berbeda dari prototipe internal yang tidak diuji ke pasar."
+    },
+    {
+      "id": "q38",
+      "text": "Setelah mengidentifikasi peluang aplikasi kesehatan mental untuk mahasiswa, tim startup melakukan wawancara mendalam dengan 30 mahasiswa dari berbagai kampus untuk memahami kebiasaan, tekanan, dan preferensi mereka dalam mengakses layanan konseling. Proses pengujian asumsi ini termasuk tahap…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pengenalan peluang"
+        },
+        {
+          "id": "b",
+          "text": "Pengembangan MVP"
+        },
+        {
+          "id": "c",
+          "text": "Validasi ide"
+        },
+        {
+          "id": "d",
+          "text": "Peluncuran penuh"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Melakukan wawancara mendalam untuk menguji asumsi tentang kebutuhan pengguna sebelum membangun produk adalah inti dari validasi ide."
+    },
+    {
+      "id": "q39",
+      "text": "Perbedaan utama antara tahap pengenalan peluang dan validasi ide dalam memulai aktivitas kewirausahaan digital terletak pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pengenalan peluang mensyaratkan pembuatan MVP, validasi ide cukup dengan survei"
+        },
+        {
+          "id": "b",
+          "text": "Pengenalan peluang hanya dilakukan oleh entrepreneur, validasi ide oleh intrapreneur"
+        },
+        {
+          "id": "c",
+          "text": "Validasi ide selalu mendahului pengenalan peluang dalam urutan wirausaha"
+        },
+        {
+          "id": "d",
+          "text": "Pengenalan peluang bersifat kognitif, sedangkan validasi ide melibatkan pengujian empiris ke pasar"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Pengenalan peluang adalah proses kognitif mengidentifikasi kemungkinan, sementara validasi ide adalah langkah empiris berikutnya untuk menguji apakah peluang tersebut nyata melalui eksperimen pasar."
+    },
+    {
+      "id": "q40",
+      "text": "Design thinking sebagai pendekatan inovasi menempatkan fokus integrasi pada tiga elemen, yaitu…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kebutuhan pengguna, kemungkinan teknologi, dan kelayakan bisnis"
+        },
+        {
+          "id": "b",
+          "text": "Kecepatan produksi, efisiensi biaya, dan skala pemasaran"
+        },
+        {
+          "id": "c",
+          "text": "Modal ventura, hak paten, dan strategi ekspansi"
+        },
+        {
+          "id": "d",
+          "text": "Desain visual, bahasa pemrograman, dan arsitektur server"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Design thinking mengintegrasikan kebutuhan pengguna (desirability), kemungkinan teknologi (feasibility), dan kelayakan bisnis (viability) dalam menemukan solusi inovatif."
+    },
+    {
+      "id": "q41",
+      "text": "Dalam proyek pengembangan layanan kesehatan digital, tim melakukan observasi langsung ke puskesmas dan menemukan bahwa pasien lansia sering kebingungan mengisi formulir digital karena tulisan terlalu kecil dan istilah medis yang asing. Tim sedang menjalankan tahap…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Empati"
+        },
+        {
+          "id": "b",
+          "text": "Prototyping"
+        },
+        {
+          "id": "c",
+          "text": "Ideasi"
+        },
+        {
+          "id": "d",
+          "text": "Pengujian"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Empati adalah tahap pertama design thinking yang bertujuan memahami kebutuhan, keinginan, dan konteks pengguna secara mendalam melalui observasi dan interaksi langsung."
+    },
+    {
+      "id": "q42",
+      "text": "Tim inovasi PT Telkomsel membuat tiruan antarmuka aplikasi baru dari kertas untuk disimulasikan kepada calon pengguna sebelum menulis kode program. Mereka mengumpulkan masukan dan langsung merevisi desain keesokan harinya. Aktivitas ini paling mencerminkan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Empati, karena mereka memahami perasaan pengguna"
+        },
+        {
+          "id": "b",
+          "text": "Validasi ide, karena mereka menguji kelayakan pasar"
+        },
+        {
+          "id": "c",
+          "text": "Pengenalan peluang, karena mereka menemukan celah pasar baru"
+        },
+        {
+          "id": "d",
+          "text": "Prototyping, karena mereka membuat model sederhana untuk menguji ide secara cepat"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Prototyping adalah pembuatan model sederhana dan murah untuk menguji ide solusi secara cepat dan mendapatkan umpan balik guna perbaikan iteratif, seperti tiruan kertas antarmuka aplikasi."
+    },
+    {
+      "id": "q43",
+      "text": "Seorang desainer produk mendatangi rumah pengguna kursi roda untuk melihat langsung bagaimana mereka beraktivitas di dapur. Ia mencatat kesulitan menjangkau rak tinggi dan mencuci piring. Informasi ini akan menjadi dasar tahap ideasi. Tahap yang sedang dijalani desainer tersebut adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prototyping"
+        },
+        {
+          "id": "b",
+          "text": "Empati"
+        },
+        {
+          "id": "c",
+          "text": "Pengujian"
+        },
+        {
+          "id": "d",
+          "text": "Implementasi"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Mengamati dan berinteraksi langsung dengan pengguna dalam konteks nyata mereka untuk memahami permasalahan secara mendalam merupakan praktik inti tahap empati dalam design thinking."
+    },
+    {
+      "id": "q44",
+      "text": "Perbedaan antara empati dan simpati dalam konteks design thinking terletak pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Empati dilakukan pada tahap awal, simpati pada tahap akhir"
+        },
+        {
+          "id": "b",
+          "text": "Empati menggunakan data kuantitatif, simpati menggunakan data kualitatif"
+        },
+        {
+          "id": "c",
+          "text": "Empati melibatkan pemahaman mendalam, simpati hanya perasaan iba tanpa pemahaman konteks"
+        },
+        {
+          "id": "d",
+          "text": "Empati diperuntukkan bagi pengguna, simpati bagi pemangku kepentingan bisnis"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Empati adalah upaya memahami kebutuhan dan perasaan pengguna secara mendalam melalui observasi, berbeda dari simpati yang hanya berupa rasa prihatin tanpa pemahaman konteks pengguna."
+    },
+    {
+      "id": "q45",
+      "text": "Setelah mewawancarai pengguna, tim merumuskan pernyataan masalah: \"Bagaimana cara membantu mahasiswa rantau mengelola keuangan bulanan dengan penghasilan tidak tetap?\" Selanjutnya tim membuat sketsa cepat berbagai alternatif solusi dan menempelkannya di papan untuk didiskusikan. Rangkaian aktivitas ini berada dalam design thinking pada tahap…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Empati dan definisi masalah, dilanjutkan ke ideasi"
+        },
+        {
+          "id": "b",
+          "text": "Prototyping, karena sudah membuat sketsa"
+        },
+        {
+          "id": "c",
+          "text": "Pengujian, karena melibatkan calon pengguna"
+        },
+        {
+          "id": "d",
+          "text": "Empati saja, karena fokus pada wawancara"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Wawancara adalah bagian dari empati, merumuskan pernyataan masalah adalah definisi, dan membuat sketsa alternatif solusi adalah awal ideasi. Ketiganya adalah tahapan berurutan dalam design thinking."
+    },
+    {
+      "id": "q46",
+      "text": "Seorang analis UX memetakan seluruh interaksi yang dialami pengguna aplikasi travel, mulai dari melihat iklan di media sosial, mengunduh aplikasi, mencari tiket, melakukan pembayaran, hingga menulis ulasan. Rangkaian lengkap titik sentuh ini dalam konteks konsumen digital disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Segmentasi pasar"
+        },
+        {
+          "id": "b",
+          "text": "Value proposition"
+        },
+        {
+          "id": "c",
+          "text": "Conversion funnel"
+        },
+        {
+          "id": "d",
+          "text": "Customer journey"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Customer journey adalah rangkaian interaksi dan titik sentuh yang dialami konsumen dengan merek dari tahap kesadaran hingga advokasi di lingkungan digital."
+    },
+    {
+      "id": "q47",
+      "text": "Perilaku konsumen digital berbeda dari konsumen konvensional terutama karena…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Konsumen digital hanya membeli produk murah, sedangkan konsumen konvensional membeli produk premium"
+        },
+        {
+          "id": "b",
+          "text": "Konsumen digital memiliki akses informasi luas dan berinteraksi secara real-time dengan penjual dan sesama pembeli"
+        },
+        {
+          "id": "c",
+          "text": "Konsumen digital tidak pernah dipengaruhi oleh ulasan atau rekomendasi daring"
+        },
+        {
+          "id": "d",
+          "text": "Konsumen digital selalu membeli secara impulsif tanpa pertimbangan rasional"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Perilaku konsumen digital dicirikan oleh akses informasi yang luas dan kemampuan interaksi real-time melalui platform digital, yang membedakannya dari konsumen konvensional."
+    },
+    {
+      "id": "q48",
+      "text": "Rani mencari sepatu lari secara daring, membaca ulasan di beberapa situs, membandingkan harga di marketplace, menonton video ulasan di YouTube, lalu membeli melalui tautan di media sosial. Proses pengambilan keputusan Rani yang melibatkan banyak platform dan sumber informasi ini merupakan contoh…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Customer journey yang hanya terjadi di satu platform marketplace"
+        },
+        {
+          "id": "b",
+          "text": "Perilaku konsumen digital yang memanfaatkan akses informasi luas dan interaksi multi-platform"
+        },
+        {
+          "id": "c",
+          "text": "Perilaku konsumen konvensional yang terbawa ke lingkungan digital"
+        },
+        {
+          "id": "d",
+          "text": "Segmentasi pasar berdasarkan demografi pengguna internet"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Rani memanfaatkan berbagai platform digital untuk mencari informasi dan membandingkan sebelum membeli, yang mencerminkan karakteristik perilaku konsumen digital dengan akses informasi luas dan interaksi multi-platform."
+    },
+    {
+      "id": "q49",
+      "text": "Seorang manajer pemasaran menganalisis data bahwa konsumen kini membaca ulasan daring, membandingkan harga di beberapa marketplace, menonton video unboxing, lalu membeli melalui tautan afiliasi di media sosial. Perubahan paling fundamental yang membedakan proses tersebut dari perilaku konsumen konvensional adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pembelian dilakukan setelah melihat produk secara fisik di toko"
+        },
+        {
+          "id": "b",
+          "text": "Ketergantungan pada rekomendasi teman dan keluarga secara lisan"
+        },
+        {
+          "id": "c",
+          "text": "Akses informasi yang lebih luas dan interaksi real-time di berbagai platform digital"
+        },
+        {
+          "id": "d",
+          "text": "Pengaruh iklan televisi sebagai sumber informasi utama"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Perilaku konsumen digital ditandai oleh akses informasi luas dan interaksi real-time melalui berbagai platform digital sebelum memutuskan pembelian, berbeda dari konsumen konvensional yang lebih mengandalkan informasi terbatas dan interaksi langsung."
+    },
+    {
+      "id": "q50",
+      "text": "Rani mencari sepatu lari secara daring, membaca ulasan di beberapa situs, membandingkan harga di marketplace, menonton video ulasan di YouTube, lalu membeli melalui tautan di media sosial. Rangkaian lengkap interaksi yang dialami Rani dari awal hingga pembelian dalam perspektif pemasaran digital disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sales pipeline"
+        },
+        {
+          "id": "b",
+          "text": "Customer journey"
+        },
+        {
+          "id": "c",
+          "text": "Brand experience"
+        },
+        {
+          "id": "d",
+          "text": "Market segmentation"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Customer journey adalah rangkaian interaksi dan titik sentuh yang dialami konsumen dengan merek dari tahap kesadaran hingga advokasi di lingkungan digital, mencakup seluruh proses yang dilalui Rani."
+    }
+  ]
+}

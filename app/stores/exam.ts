@@ -1,6 +1,7 @@
 import { defineStore } from 'pinia'
-import type { ExamAttempt, Question, QuestionSessionState } from '~/types/exam'
+import type { ExamAttempt, ExamDraftSession, Question, QuestionSessionState } from '~/types/exam'
 import { EXAM_DURATION_SECONDS } from '~/types/exam'
+import { useExamDraftStore } from '~/stores/exam-draft'
 import {
   buildResponses,
   calculateScorePercent,
@@ -67,6 +68,13 @@ export const useExamStore = defineStore('exam', {
 
     isActive(state): boolean {
       return state.phase === 'exam' || state.phase === 'skipped-summary'
+    },
+
+    hasResumableSession(state) {
+      return (subjectId: string) =>
+        (state.phase === 'exam' || state.phase === 'skipped-summary')
+        && state.subjectId === subjectId
+        && state.questions.length > 0
     }
   },
 
@@ -78,6 +86,7 @@ export const useExamStore = defineStore('exam', {
       shuffleEnabled: boolean,
       durationSeconds: number = EXAM_DURATION_SECONDS
     ) {
+      useExamDraftStore().clearDraft(subjectId)
       this.resetSession()
       const prepared = prepareExamQuestions(questions, shuffleEnabled)
 
@@ -213,7 +222,56 @@ export const useExamStore = defineStore('exam', {
       }
     },
 
+    exportDraft(): ExamDraftSession | null {
+      if (!this.isActive || !this.subjectId || !this.startedAt) {
+        return null
+      }
+
+      return {
+        subjectId: this.subjectId,
+        passThreshold: this.passThreshold,
+        shuffleEnabled: this.shuffleEnabled,
+        questions: this.questions,
+        questionStates: this.questionStates,
+        currentIndex: this.currentIndex,
+        startedAt: this.startedAt,
+        timerDurationSeconds: this.timerDurationSeconds,
+        timerSecondsRemaining: this.timerSecondsRemaining,
+        phase: this.phase as ExamDraftSession['phase'],
+        savedAt: new Date().toISOString()
+      }
+    },
+
+    pauseExam() {
+      const draft = this.exportDraft()
+      if (draft) {
+        useExamDraftStore().saveDraft(draft)
+      }
+      this.stopTimer()
+    },
+
+    restoreFromDraft(draft: ExamDraftSession) {
+      this.stopTimer()
+      this.subjectId = draft.subjectId
+      this.passThreshold = draft.passThreshold
+      this.shuffleEnabled = draft.shuffleEnabled
+      this.questions = draft.questions
+      this.questionStates = draft.questionStates
+      this.currentIndex = draft.currentIndex
+      this.startedAt = draft.startedAt
+      this.timerDurationSeconds = draft.timerDurationSeconds
+      this.timerSecondsRemaining = draft.timerSecondsRemaining
+      this.phase = draft.phase
+    },
+
+    resumeExam() {
+      if (this.phase === 'exam') {
+        this.startTimer()
+      }
+    },
+
     resetSession() {
+      const subjectId = this.subjectId
       this.stopTimer()
       this.subjectId = null
       this.passThreshold = 70
@@ -225,6 +283,9 @@ export const useExamStore = defineStore('exam', {
       this.timerDurationSeconds = EXAM_DURATION_SECONDS
       this.timerSecondsRemaining = EXAM_DURATION_SECONDS
       this.phase = 'idle'
+      if (subjectId) {
+        useExamDraftStore().clearDraft(subjectId)
+      }
     }
   }
 })

@@ -16,11 +16,18 @@ if (!subject) {
 
 const pendingResultStore = usePendingResultStore()
 const historyStore = useHistoryStore()
-const attempt = pendingResultStore.take(attemptId)
+const freshAttempt = pendingResultStore.take(attemptId)
+const attempt = freshAttempt
   ?? historyStore.getAttemptById(attemptId)
   ?? null
 
 const questionData = await useSubjectQuestions(subject.questionFile)
+
+onMounted(() => {
+  if (freshAttempt?.passed) {
+    playPassSound()
+  }
+})
 
 useSeoMeta({
   title: `Result — ${subject.name}`

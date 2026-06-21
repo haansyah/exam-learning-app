@@ -1,6 +1,6 @@
 import type { Question, QuestionOption, SubjectCategory, SubjectManifestEntry, SubjectQuestionFile } from '~/types/exam'
 
-const VALID_CATEGORIES: SubjectCategory[] = ['kuliah', 'bahasa']
+const VALID_CATEGORIES: SubjectCategory[] = ['kuliah', 'bahasa', 'uji-coba']
 
 export function validateManifest(manifest: SubjectManifestEntry[]): string[] {
   const errors: string[] = []

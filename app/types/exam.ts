@@ -1,4 +1,4 @@
-export type SubjectCategory = 'kuliah' | 'bahasa'
+export type SubjectCategory = 'kuliah' | 'bahasa' | 'uji-coba'
 
 export interface SubjectManifestEntry {
   id: string
@@ -58,6 +58,22 @@ export interface QuestionSessionState {
   selectedOptionId: string | null
   checked: boolean
   wasSkipped: boolean
+}
+
+export type ResumableExamPhase = 'exam' | 'skipped-summary'
+
+export interface ExamDraftSession {
+  subjectId: string
+  passThreshold: number
+  shuffleEnabled: boolean
+  questions: Question[]
+  questionStates: QuestionSessionState[]
+  currentIndex: number
+  startedAt: string
+  timerDurationSeconds: number
+  timerSecondsRemaining: number
+  phase: ResumableExamPhase
+  savedAt: string
 }
 
 export const DEFAULT_TIME_LIMIT_MINUTES = 40

@@ -33,6 +33,12 @@ useSeoMeta({
       {{ subject.name }} — History
     </h1>
 
+    <SubjectScoreChart
+      v-if="subjectAttempts.length > 0"
+      :attempts="subjectAttempts"
+      :pass-threshold="subject.passThreshold"
+    />
+
     <HistoryList
       :attempts="subjectAttempts"
       :subjects="manifest ?? []"

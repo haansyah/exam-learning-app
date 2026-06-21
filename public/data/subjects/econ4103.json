@@ -1,0 +1,1231 @@
+{
+  "subjectId": "econ4103",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Himpunan bilangan real mencakup semua bilangan berikut, kecuali…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bilangan irasional"
+        },
+        {
+          "id": "b",
+          "text": "Bilangan imajiner"
+        },
+        {
+          "id": "c",
+          "text": "Bilangan bulat negatif"
+        },
+        {
+          "id": "d",
+          "text": "Bilangan pecahan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Bilangan imajiner (mis. √−1) bukan anggota himpunan bilangan real."
+    },
+    {
+      "id": "q2",
+      "text": "Jika A = {1, 2, 3} dan B = {2, 3, 4, 5}, maka A ∩ B adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "{1, 2, 3, 4, 5}"
+        },
+        {
+          "id": "b",
+          "text": "{1, 4, 5}"
+        },
+        {
+          "id": "c",
+          "text": "{2, 3}"
+        },
+        {
+          "id": "d",
+          "text": "{1, 2, 3, 4}"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Irisan A ∩ B = elemen yang ada di A dan B = {2, 3}."
+    },
+    {
+      "id": "q3",
+      "text": "Nilai dari log₂ 64 adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "8"
+        },
+        {
+          "id": "c",
+          "text": "32"
+        },
+        {
+          "id": "d",
+          "text": "6"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "log₂ 64 = 6 karena 2⁶ = 64.",
+      "isFormula": true
+    },
+    {
+      "id": "q4",
+      "text": "Deret geometri dengan suku pertama 3 dan rasio 2 memiliki suku ke-5 sebesar…",
+      "options": [
+        {
+          "id": "a",
+          "text": "96"
+        },
+        {
+          "id": "b",
+          "text": "48"
+        },
+        {
+          "id": "c",
+          "text": "24"
+        },
+        {
+          "id": "d",
+          "text": "64"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "U₅ = a·r⁴ = 3 × 2⁴ = 3 × 16 = 48."
+    },
+    {
+      "id": "q5",
+      "text": "Fungsi f(x) = 3x + 7 merupakan contoh dari…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fungsi kuadrat"
+        },
+        {
+          "id": "b",
+          "text": "Fungsi eksponensial"
+        },
+        {
+          "id": "c",
+          "text": "Fungsi linier"
+        },
+        {
+          "id": "d",
+          "text": "Fungsi logaritma"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "f(x) = 3x + 7 berbentuk ax + b, yaitu fungsi linier.",
+      "isFormula": true
+    },
+    {
+      "id": "q6",
+      "text": "Dalam hukum permintaan, fungsi permintaan umumnya menunjukkan hubungan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Positif antara harga dan kuantitas"
+        },
+        {
+          "id": "b",
+          "text": "Tidak ada hubungan antara harga dan kuantitas"
+        },
+        {
+          "id": "c",
+          "text": "Negatif antara harga dan kuantitas"
+        },
+        {
+          "id": "d",
+          "text": "Konstan antara harga dan kuantitas"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Hukum permintaan: harga naik → kuantitas diminta turun (hubungan negatif)."
+    },
+    {
+      "id": "q7",
+      "text": "Himpunan semesta adalah himpunan yang…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tidak memiliki anggota"
+        },
+        {
+          "id": "b",
+          "text": "Hanya memiliki satu anggota"
+        },
+        {
+          "id": "c",
+          "text": "Memuat semua himpunan yang sedang dibahas"
+        },
+        {
+          "id": "d",
+          "text": "Merupakan gabungan dua himpunan"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Himpunan semesta (U) memuat semua elemen/objek yang sedang dibahas."
+    },
+    {
+      "id": "q8",
+      "text": "Sifat logaritma yang menyatakan log(a × b) = log a + log b disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sifat pembagian logaritma"
+        },
+        {
+          "id": "b",
+          "text": "Sifat perkalian logaritma"
+        },
+        {
+          "id": "c",
+          "text": "Sifat perpangkatan logaritma"
+        },
+        {
+          "id": "d",
+          "text": "Sifat penjumlahan logaritma"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "log(a × b) = log a + log b adalah sifat perkalian logaritma.",
+      "isFormula": true
+    },
+    {
+      "id": "q9",
+      "text": "Jika fungsi tabungan S = -200 + 0,3Y, maka pada pendapatan Y = 1000, nilai tabungan adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "100"
+        },
+        {
+          "id": "b",
+          "text": "50"
+        },
+        {
+          "id": "c",
+          "text": "300"
+        },
+        {
+          "id": "d",
+          "text": "200"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "S = -200 + 0,3(1000) = -200 + 300 = 100.",
+      "isFormula": true
+    },
+    {
+      "id": "q10",
+      "text": "Bentuk 5³ × 5² = …",
+      "options": [
+        {
+          "id": "a",
+          "text": "5⁶"
+        },
+        {
+          "id": "b",
+          "text": "25⁵"
+        },
+        {
+          "id": "c",
+          "text": "5⁵"
+        },
+        {
+          "id": "d",
+          "text": "5¹"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "5³ × 5² = 5³⁺² = 5⁵.",
+      "isFormula": true
+    },
+    {
+      "id": "q11",
+      "text": "Titik potong fungsi penawaran Qs = 2P − 4 dengan sumbu harga (P) terjadi pada…",
+      "options": [
+        {
+          "id": "a",
+          "text": "P = 4"
+        },
+        {
+          "id": "b",
+          "text": "P = 1"
+        },
+        {
+          "id": "c",
+          "text": "P = 3"
+        },
+        {
+          "id": "d",
+          "text": "P = 2"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Qs = 0 → 2P − 4 = 0 → P = 2.",
+      "isFormula": true
+    },
+    {
+      "id": "q12",
+      "text": "Grafik fungsi kuadrat f(x) = ax² + bx + c membuka ke atas jika…",
+      "options": [
+        {
+          "id": "a",
+          "text": "a < 0"
+        },
+        {
+          "id": "b",
+          "text": "b > 0"
+        },
+        {
+          "id": "c",
+          "text": "a > 0"
+        },
+        {
+          "id": "d",
+          "text": "c < 0"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Parabola membuka ke atas jika koefisien a > 0.",
+      "isFormula": true
+    },
+    {
+      "id": "q13",
+      "text": "Turunan pertama dari f(x) = 4x³ adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "4x²"
+        },
+        {
+          "id": "b",
+          "text": "12x"
+        },
+        {
+          "id": "c",
+          "text": "4x"
+        },
+        {
+          "id": "d",
+          "text": "12x²"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "f'(x) = 12x².",
+      "isFormula": true
+    },
+    {
+      "id": "q14",
+      "text": "Konsep limit digunakan dalam ekonomi terutama untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menentukan nilai rata-rata fungsi"
+        },
+        {
+          "id": "b",
+          "text": "Menganalisis perilaku fungsi saat variabel mendekati suatu nilai tertentu"
+        },
+        {
+          "id": "c",
+          "text": "Menghitung luas kurva permintaan"
+        },
+        {
+          "id": "d",
+          "text": "Mencari nilai maksimum dari himpunan bilangan"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Limit menganalisis perilaku fungsi saat variabel mendekati suatu nilai tertentu."
+    },
+    {
+      "id": "q15",
+      "text": "Jika fungsi permintaan Qd = 100 − 2P dan fungsi penawaran Qs = 20 + 3P, maka harga keseimbangan adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "P = 18"
+        },
+        {
+          "id": "b",
+          "text": "P = 20"
+        },
+        {
+          "id": "c",
+          "text": "P = 16"
+        },
+        {
+          "id": "d",
+          "text": "P = 22"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "100 − 2P = 20 + 3P → 80 = 5P → P = 16.",
+      "isFormula": true
+    },
+    {
+      "id": "q16",
+      "text": "Deret aritmetika dengan suku pertama 5 dan beda 3 memiliki suku ke-10 sebesar…",
+      "options": [
+        {
+          "id": "a",
+          "text": "30"
+        },
+        {
+          "id": "b",
+          "text": "35"
+        },
+        {
+          "id": "c",
+          "text": "32"
+        },
+        {
+          "id": "d",
+          "text": "28"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "U₁₀ = a + (n−1)d = 5 + 9(3) = 32."
+    },
+    {
+      "id": "q17",
+      "text": "Turunan fungsi biaya total TC digunakan untuk memperoleh…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Biaya tetap rata-rata"
+        },
+        {
+          "id": "b",
+          "text": "Biaya marjinal"
+        },
+        {
+          "id": "c",
+          "text": "Penerimaan rata-rata"
+        },
+        {
+          "id": "d",
+          "text": "Keuntungan maksimum"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Biaya marjinal (MC) = turunan pertama dari fungsi biaya total TC."
+    },
+    {
+      "id": "q18",
+      "text": "Kurva indifference menggambarkan kombinasi dua barang yang memberikan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pendapatan maksimum konsumen"
+        },
+        {
+          "id": "b",
+          "text": "Biaya minimum produksi"
+        },
+        {
+          "id": "c",
+          "text": "Tingkat kepuasan yang sama bagi konsumen"
+        },
+        {
+          "id": "d",
+          "text": "Harga yang sama untuk dua barang"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Kurva indifference = kombinasi barang dengan tingkat kepuasan (utilitas) yang sama."
+    },
+    {
+      "id": "q19",
+      "text": "Fungsi nonlinier yang paling umum dijumpai dalam analisis ekonomi adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fungsi eksponensial dan kuadrat"
+        },
+        {
+          "id": "b",
+          "text": "Fungsi akar dan logaritma"
+        },
+        {
+          "id": "c",
+          "text": "Fungsi linier dan konstan"
+        },
+        {
+          "id": "d",
+          "text": "Fungsi trigonometri"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Fungsi eksponensial dan kuadrat paling umum dalam model ekonomi nonlinier."
+    },
+    {
+      "id": "q20",
+      "text": "Himpunan kosong dilambangkan dengan simbol…",
+      "options": [
+        {
+          "id": "a",
+          "text": "{0}"
+        },
+        {
+          "id": "b",
+          "text": "{ }"
+        },
+        {
+          "id": "c",
+          "text": "{∞}"
+        },
+        {
+          "id": "d",
+          "text": "{1}"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Himpunan kosong dilambangkan { } atau ∅."
+    },
+    {
+      "id": "q21",
+      "text": "Jika f(x) = 5x² − 3x + 2, maka f'(x) adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "5x − 3"
+        },
+        {
+          "id": "b",
+          "text": "10x² − 3"
+        },
+        {
+          "id": "c",
+          "text": "10x − 3"
+        },
+        {
+          "id": "d",
+          "text": "5x − 6"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "f'(x) = 10x − 3.",
+      "isFormula": true
+    },
+    {
+      "id": "q22",
+      "text": "Persamaan garis dengan gradien m dan melewati titik (x₁, y₁) dirumuskan sebagai…",
+      "options": [
+        {
+          "id": "a",
+          "text": "y = mx + b"
+        },
+        {
+          "id": "b",
+          "text": "y − y₁ = m(x − x₁)"
+        },
+        {
+          "id": "c",
+          "text": "y = x + m"
+        },
+        {
+          "id": "d",
+          "text": "y₁ = mx₁"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Bentuk titik-kemiringan: y − y₁ = m(x − x₁).",
+      "isFormula": true
+    },
+    {
+      "id": "q23",
+      "text": "Pada analisis fungsi konsumsi C = a + bY, nilai b disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Konsumsi otonom"
+        },
+        {
+          "id": "b",
+          "text": "Tabungan marginal"
+        },
+        {
+          "id": "c",
+          "text": "Hasrat mengkonsumsi rata-rata"
+        },
+        {
+          "id": "d",
+          "text": "Hasrat mengkonsumsi marginal"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "b = MPC (marginal propensity to consume) = hasrat mengkonsumsi marginal.",
+      "isFormula": true
+    },
+    {
+      "id": "q24",
+      "text": "Suatu fungsi f(x) mencapai nilai maksimum lokal pada titik x₀ jika…",
+      "options": [
+        {
+          "id": "a",
+          "text": "f'(x₀) > 0 dan f''(x₀) > 0"
+        },
+        {
+          "id": "b",
+          "text": "f'(x₀) = 0 dan f''(x₀) < 0"
+        },
+        {
+          "id": "c",
+          "text": "f'(x₀) = 0 dan f''(x₀) = 0"
+        },
+        {
+          "id": "d",
+          "text": "f'(x₀) < 0 dan f''(x₀) = 0"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Syarat maksimum lokal: f'(x₀) = 0 dan f''(x₀) < 0.",
+      "isFormula": true
+    },
+    {
+      "id": "q25",
+      "text": "Jika TC = 100 + 5Q dan TR = 20Q, maka keuntungan maksimum terjadi ketika…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Q = 20"
+        },
+        {
+          "id": "b",
+          "text": "Q = 5"
+        },
+        {
+          "id": "c",
+          "text": "Q = 10"
+        },
+        {
+          "id": "d",
+          "text": "Tidak ada keuntungan"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "π = TR − TC = 15Q − 100. MC = 5, MR = 20. MR > MC selalu → laba naik terus, tidak ada maksimum interior.",
+      "isFormula": true
+    },
+    {
+      "id": "q26",
+      "text": "Akar persamaan kuadrat x² − 5x + 6 = 0 adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "x = 2 dan x = 3"
+        },
+        {
+          "id": "b",
+          "text": "x = 1 dan x = 6"
+        },
+        {
+          "id": "c",
+          "text": "x = −2 dan x = −3"
+        },
+        {
+          "id": "d",
+          "text": "x = −1 dan x = 6"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "x² − 5x + 6 = (x−2)(x−3) = 0 → x = 2 atau x = 3.",
+      "isFormula": true
+    },
+    {
+      "id": "q27",
+      "text": "Kurva penawaran nonlinier Qs = P² − 2 pada P = 3 menghasilkan kuantitas…",
+      "options": [
+        {
+          "id": "a",
+          "text": "5"
+        },
+        {
+          "id": "b",
+          "text": "9"
+        },
+        {
+          "id": "c",
+          "text": "11"
+        },
+        {
+          "id": "d",
+          "text": "7"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Qs = 3² − 2 = 9 − 2 = 7.",
+      "isFormula": true
+    },
+    {
+      "id": "q28",
+      "text": "Dalam teori produsen, keuntungan (π) didefinisikan sebagai…",
+      "options": [
+        {
+          "id": "a",
+          "text": "TR − TC"
+        },
+        {
+          "id": "b",
+          "text": "TR + TC"
+        },
+        {
+          "id": "c",
+          "text": "TC − TR"
+        },
+        {
+          "id": "d",
+          "text": "TR × TC"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Keuntungan π = Total Revenue (TR) − Total Cost (TC).",
+      "isFormula": true
+    },
+    {
+      "id": "q29",
+      "text": "Jika jumlah semua rasio geometri tak hingga konvergen, syarat yang harus dipenuhi adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "|r| > 1"
+        },
+        {
+          "id": "b",
+          "text": "|r| = 1"
+        },
+        {
+          "id": "c",
+          "text": "|r| < 1"
+        },
+        {
+          "id": "d",
+          "text": "r = 0"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Deret geometri tak hingga konvergen jika |r| < 1."
+    },
+    {
+      "id": "q30",
+      "text": "Penggunaan turunan dalam perilaku konsumen digunakan untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menentukan pendapatan nasional"
+        },
+        {
+          "id": "b",
+          "text": "Mencari titik kepuasan maksimum"
+        },
+        {
+          "id": "c",
+          "text": "Menghitung biaya marginal"
+        },
+        {
+          "id": "d",
+          "text": "Menganalisis inflasi"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Turunan digunakan untuk optimasi utilitas konsumen (kepuasan maksimum)."
+    },
+    {
+      "id": "q31",
+      "text": "Jika f(x) = ln(x), maka turunan f'(x) adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "ln(x)/x"
+        },
+        {
+          "id": "b",
+          "text": "x"
+        },
+        {
+          "id": "c",
+          "text": "1/x"
+        },
+        {
+          "id": "d",
+          "text": "eˣ"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Turunan ln(x) = 1/x.",
+      "isFormula": true
+    },
+    {
+      "id": "q32",
+      "text": "Dalam matematika ekonomi, fungsi dengan domain dan kodomain berupa himpunan bilangan real disebut…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fungsi diskrit"
+        },
+        {
+          "id": "b",
+          "text": "Fungsi kontinu"
+        },
+        {
+          "id": "c",
+          "text": "Fungsi biner"
+        },
+        {
+          "id": "d",
+          "text": "Fungsi invers"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Fungsi real-valued dengan domain dan kodomain ℝ disebut fungsi kontinu (real)."
+    },
+    {
+      "id": "q33",
+      "text": "Nilai lim(x→2) (x² − 4)/(x − 2) adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "0"
+        },
+        {
+          "id": "b",
+          "text": "2"
+        },
+        {
+          "id": "c",
+          "text": "Tidak terdefinisi"
+        },
+        {
+          "id": "d",
+          "text": "4"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Faktorkan: (x−2)(x+2)/(x−2) = x+2 → limit = 4.",
+      "isFormula": true
+    },
+    {
+      "id": "q34",
+      "text": "Fungsi biaya marjinal MC = 3Q² − 4Q + 10 mencapai nilai minimum pada Q = …",
+      "options": [
+        {
+          "id": "a",
+          "text": "3/2"
+        },
+        {
+          "id": "b",
+          "text": "2/3"
+        },
+        {
+          "id": "c",
+          "text": "4/3"
+        },
+        {
+          "id": "d",
+          "text": "1"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "MC' = 6Q − 4 = 0 → Q = 4/6 = 2/3.",
+      "isFormula": true
+    },
+    {
+      "id": "q35",
+      "text": "Sistem bilangan yang hanya menggunakan angka 0 dan 1 disebut sistem bilangan…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Desimal"
+        },
+        {
+          "id": "b",
+          "text": "Heksadesimal"
+        },
+        {
+          "id": "c",
+          "text": "Oktal"
+        },
+        {
+          "id": "d",
+          "text": "Biner"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Sistem biner hanya menggunakan digit 0 dan 1."
+    },
+    {
+      "id": "q36",
+      "text": "Persamaan fungsi konsumsi C = 150 + 0,75Y menunjukkan bahwa ketika pendapatan bertambah Rp1.000, konsumsi bertambah sebesar…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rp1.000"
+        },
+        {
+          "id": "b",
+          "text": "Rp900"
+        },
+        {
+          "id": "c",
+          "text": "Rp750"
+        },
+        {
+          "id": "d",
+          "text": "Rp150"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "MPC = 0,75 → konsumsi naik 0,75 × 1.000 = Rp750.",
+      "isFormula": true
+    },
+    {
+      "id": "q37",
+      "text": "Jika diketahui AR (Average Revenue) = 50 − 2Q, maka fungsi TR adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "TR = 50Q + 2Q²"
+        },
+        {
+          "id": "b",
+          "text": "TR = 50 − 2Q²"
+        },
+        {
+          "id": "c",
+          "text": "TR = 50Q − 2Q²"
+        },
+        {
+          "id": "d",
+          "text": "TR = 25Q − Q²"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "TR = AR × Q = (50 − 2Q)Q = 50Q − 2Q².",
+      "isFormula": true
+    },
+    {
+      "id": "q38",
+      "text": "Grafik kurva nonlinier berbentuk parabola terbuka ke bawah jika koefisien x² bernilai…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lebih dari 1"
+        },
+        {
+          "id": "b",
+          "text": "Sama dengan nol"
+        },
+        {
+          "id": "c",
+          "text": "Lebih dari nol"
+        },
+        {
+          "id": "d",
+          "text": "Kurang dari nol"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Parabola terbuka ke bawah jika koefisien x² < 0."
+    },
+    {
+      "id": "q39",
+      "text": "Dalam analisis biaya produksi, biaya tetap (fixed cost) adalah biaya yang…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Berubah seiring perubahan output"
+        },
+        {
+          "id": "b",
+          "text": "Tidak terpengaruh perubahan jumlah produksi"
+        },
+        {
+          "id": "c",
+          "text": "Selalu lebih besar dari biaya variabel"
+        },
+        {
+          "id": "d",
+          "text": "Sama dengan biaya marjinal pada output tertentu"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Biaya tetap tidak berubah meskipun output berubah (dalam rentang relevan)."
+    },
+    {
+      "id": "q40",
+      "text": "Diketahui barisan aritmetika: 2, 5, 8, 11, … Jumlah 10 suku pertama adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "155"
+        },
+        {
+          "id": "b",
+          "text": "175"
+        },
+        {
+          "id": "c",
+          "text": "145"
+        },
+        {
+          "id": "d",
+          "text": "165"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "S₁₀ = n/2(2a + (n−1)d) = 10/2(4 + 27) = 5 × 31 = 155."
+    },
+    {
+      "id": "q41",
+      "text": "Fungsi f disebut fungsi satu-satu (injektif) jika…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Setiap elemen kodomain dipetakan ke semua elemen domain"
+        },
+        {
+          "id": "b",
+          "text": "Dua elemen domain berbeda selalu dipetakan ke elemen kodomain yang berbeda"
+        },
+        {
+          "id": "c",
+          "text": "Satu elemen domain dipetakan ke banyak elemen kodomain"
+        },
+        {
+          "id": "d",
+          "text": "Semua elemen domain memiliki nilai yang sama"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Fungsi injektif: x₁ ≠ x₂ → f(x₁) ≠ f(x₂)."
+    },
+    {
+      "id": "q42",
+      "text": "Pada analisis penggunaan fungsi nonlinier, kurva permintaan kuadratik umumnya berbentuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Garis lurus miring ke kanan"
+        },
+        {
+          "id": "b",
+          "text": "Parabola membuka ke atas"
+        },
+        {
+          "id": "c",
+          "text": "Parabola terbalik (membuka ke bawah)"
+        },
+        {
+          "id": "d",
+          "text": "Garis horizontal"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Kurva permintaan kuadratik umumnya parabola terbalik (a < 0)."
+    },
+    {
+      "id": "q43",
+      "text": "Turunan dari f(x) = eˣ adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "xeˣ⁻¹"
+        },
+        {
+          "id": "b",
+          "text": "eˣ"
+        },
+        {
+          "id": "c",
+          "text": "e"
+        },
+        {
+          "id": "d",
+          "text": "1/eˣ"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Turunan eˣ = eˣ.",
+      "isFormula": true
+    },
+    {
+      "id": "q44",
+      "text": "Keuntungan produsen maksimum tercapai ketika…",
+      "options": [
+        {
+          "id": "a",
+          "text": "MR = AC"
+        },
+        {
+          "id": "b",
+          "text": "TR = TC"
+        },
+        {
+          "id": "c",
+          "text": "MR = MC"
+        },
+        {
+          "id": "d",
+          "text": "MC = AC"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Keuntungan maksimum saat MR = MC (marginal revenue = marginal cost)."
+    },
+    {
+      "id": "q45",
+      "text": "Jika fungsi permintaan Qd = 80 − 4P, nilai elastisitas harga permintaan pada P = 10 adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "−0,5"
+        },
+        {
+          "id": "b",
+          "text": "−2"
+        },
+        {
+          "id": "c",
+          "text": "−1"
+        },
+        {
+          "id": "d",
+          "text": "−4"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "E = (dQ/dP)(P/Q) = (−4)(10/40) = −1.",
+      "isFormula": true
+    },
+    {
+      "id": "q46",
+      "text": "Bilangan irasional adalah bilangan yang…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dapat dinyatakan sebagai pecahan p/q dengan q ≠ 0"
+        },
+        {
+          "id": "b",
+          "text": "Selalu bernilai negatif"
+        },
+        {
+          "id": "c",
+          "text": "Tidak dapat dinyatakan sebagai pecahan p/q"
+        },
+        {
+          "id": "d",
+          "text": "Hanya terdiri dari bilangan bulat"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Bilangan irasional tidak dapat dinyatakan sebagai pecahan p/q (mis. π, √2)."
+    },
+    {
+      "id": "q47",
+      "text": "Penggunaan turunan kedua f''(x) dalam ekonomi berfungsi untuk…",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menentukan titik potong fungsi dengan sumbu X"
+        },
+        {
+          "id": "b",
+          "text": "Menghitung nilai rata-rata fungsi"
+        },
+        {
+          "id": "c",
+          "text": "Menentukan apakah titik stasioner merupakan maksimum atau minimum"
+        },
+        {
+          "id": "d",
+          "text": "Menghitung integral fungsi"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Turunan kedua menentukan apakah titik stasioner (f'=0) adalah maksimum atau minimum."
+    },
+    {
+      "id": "q48",
+      "text": "Jumlah tak hingga deret geometri dengan a = 10 dan r = 0,5 adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "30"
+        },
+        {
+          "id": "b",
+          "text": "10"
+        },
+        {
+          "id": "c",
+          "text": "25"
+        },
+        {
+          "id": "d",
+          "text": "20"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "S∞ = a/(1−r) = 10/(1−0,5) = 10/0,5 = 20."
+    },
+    {
+      "id": "q49",
+      "text": "Suatu perusahaan memiliki fungsi penerimaan TR = 100Q − Q². Penerimaan marjinal (MR) adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "100 − Q"
+        },
+        {
+          "id": "b",
+          "text": "100Q − 2Q"
+        },
+        {
+          "id": "c",
+          "text": "100 − 2Q"
+        },
+        {
+          "id": "d",
+          "text": "50 − Q"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "MR = dTR/dQ = 100 − 2Q.",
+      "isFormula": true
+    },
+    {
+      "id": "q50",
+      "text": "Pada analisis maksimum dan minimum suatu fungsi ekonomi, syarat perlu (necessary condition) adalah…",
+      "options": [
+        {
+          "id": "a",
+          "text": "f''(x) < 0"
+        },
+        {
+          "id": "b",
+          "text": "f'(x) = 0"
+        },
+        {
+          "id": "c",
+          "text": "f(x) = 0"
+        },
+        {
+          "id": "d",
+          "text": "f''(x) > 0"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Syarat perlu ekstrem: turunan pertama = 0 (titik stasioner).",
+      "isFormula": true
+    }
+  ]
+}
