@@ -42,9 +42,9 @@ const sections: { id: SubjectCategory, title: string, description: string, icon:
 
 const subjectsByCategory = computed(() => {
   const grouped: Record<SubjectCategory, SubjectManifestEntry[]> = {
-    kuliah: [],
+    'kuliah': [],
     'uji-coba': [],
-    bahasa: []
+    'bahasa': []
   }
 
   for (const subject of manifest.value ?? []) {

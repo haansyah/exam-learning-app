@@ -232,8 +232,8 @@ useSeoMeta({
         size="lg"
         :icon="unlockStatus.unlocked ? 'i-lucide-play' : 'i-lucide-lock'"
         :disabled="!unlockStatus.unlocked"
-        @click="startExam"
         class="cursor-pointer"
+        @click="startExam"
       >
         Start Exam
       </UButton>

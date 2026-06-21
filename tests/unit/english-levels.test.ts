@@ -63,7 +63,7 @@ describe('english level helpers', () => {
   it('locks later english levels until previous level is passed', () => {
     const passedLevels = new Set<string>()
 
-    const hasPassed = (subjectId: string, passThreshold: number) => {
+    const hasPassed = (subjectId: string, _passThreshold: number) => {
       if (subjectId === 'english-l1') {
         return passedLevels.has('english-l1')
       }

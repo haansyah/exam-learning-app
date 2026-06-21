@@ -23,7 +23,8 @@ export const useExamDraftStore = defineStore('exam-draft', {
     },
 
     clearDraft(subjectId: string) {
-      delete this.drafts[subjectId]
+      const { [subjectId]: _removed, ...remaining } = this.drafts
+      this.drafts = remaining
     }
   },
 
