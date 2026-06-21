@@ -36,6 +36,12 @@ const unlockStatus = computed(() =>
   )
 )
 
+const showMinimap = ref(false)
+
+function handleMinimapNavigate(index: number) {
+  examStore.goToQuestion(index)
+}
+
 function initializeExam() {
   if (!unlockStatus.value.unlocked) {
     router.replace(`/subjects/${subjectId}`)
@@ -148,6 +154,15 @@ useSeoMeta({
           >
             Keluar
           </UButton>
+          <UButton
+            icon="i-lucide-layout-grid"
+            variant="outline"
+            color="neutral"
+            size="sm"
+            @click="showMinimap = true"
+          >
+            Minimap
+          </UButton>
           <UBadge
             color="neutral"
             variant="subtle"
@@ -179,14 +194,31 @@ useSeoMeta({
           {{ examStore.canCheckAnswer ? 'Check Answer' : 'Select Answer First' }}
         </UButton>
         <UButton
+          v-if="examStore.canSkipQuestion"
+          variant="outline"
+          color="warning"
+          icon="i-lucide-skip-forward"
+          @click="examStore.skipQuestion"
+        >
+          Skip
+        </UButton>
+        <UButton
           v-else
           color="primary"
           icon="i-lucide-arrow-right"
           @click="examStore.goNext"
         >
-          {{ examStore.isLastQuestion ? 'Finish' : 'Next' }}
+          {{ examStore.shouldShowFinish ? 'Finish' : 'Next' }}
         </UButton>
       </div>
+
+      <ExamMinimap
+        v-model:open="showMinimap"
+        :questions="examStore.questions"
+        :question-states="examStore.questionStates"
+        :current-index="examStore.currentIndex"
+        @navigate="handleMinimapNavigate"
+      />
     </template>
 
     <template v-else-if="examStore.phase === 'complete'">

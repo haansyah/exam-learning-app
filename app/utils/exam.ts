@@ -4,6 +4,26 @@ import { DEFAULT_TIME_LIMIT_MINUTES } from '~/types/exam'
 const SECONDS_PER_QUESTION = 48
 const MIN_TIME_LIMIT_MINUTES = 10
 
+export function getOptionLetter(index: number): string {
+  return String.fromCharCode(65 + index)
+}
+
+export function getOptionLetterById(
+  question: Question,
+  optionId: string | null
+): string | null {
+  if (!optionId) {
+    return null
+  }
+
+  const index = question.options.findIndex(option => option.id === optionId)
+  return index >= 0 ? getOptionLetter(index) : null
+}
+
+export function formatOptionLabel(letter: string, text: string): string {
+  return `${letter}. ${text}`
+}
+
 export function shuffleArray<T>(items: T[]): T[] {
   const result = [...items]
   for (let i = result.length - 1; i > 0; i--) {

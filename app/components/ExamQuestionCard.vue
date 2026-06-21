@@ -39,9 +39,10 @@ const emit = defineEmits<{
 
       <div class="space-y-2">
         <ExamOption
-          v-for="option in question.options"
+          v-for="(option, index) in question.options"
           :key="option.id"
           :option="option"
+          :label="getOptionLetter(index)"
           :selected="selectedOptionId === option.id"
           :correct="checked && option.id === correctOptionId"
           :incorrect="checked && selectedOptionId === option.id && option.id !== correctOptionId"

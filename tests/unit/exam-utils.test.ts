@@ -3,6 +3,9 @@ import {
   buildResponses,
   calculateScorePercent,
   determinePass,
+  getOptionLetter,
+  getOptionLetterById,
+  formatOptionLabel,
   prepareExamQuestions,
   resolveTimeLimitMinutes,
   shuffleArray
@@ -92,5 +95,12 @@ describe('exam utils', () => {
     expect(resolveTimeLimitMinutes(3)).toBe(10)
     expect(resolveTimeLimitMinutes(0)).toBe(40)
     expect(resolveTimeLimitMinutes(50, 60)).toBe(60)
+  })
+
+  it('maps option indexes to A-D letters', () => {
+    expect(getOptionLetter(0)).toBe('A')
+    expect(getOptionLetter(3)).toBe('D')
+    expect(getOptionLetterById(sampleQuestions[0]!, 'b')).toBe('B')
+    expect(formatOptionLabel('C', 'Choice text')).toBe('C. Choice text')
   })
 })

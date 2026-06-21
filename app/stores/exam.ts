@@ -66,6 +66,33 @@ export const useExamStore = defineStore('exam', {
       return Boolean(current?.checked)
     },
 
+    canSkipQuestion(state): boolean {
+      const current = state.questionStates[state.currentIndex]
+      return Boolean(current && !current.checked)
+    },
+
+    hasPendingSkippedQuestions(state): boolean {
+      return state.questionStates.some(questionState =>
+        questionState.wasSkipped && !questionState.checked
+      )
+    },
+
+    shouldShowFinish(state): boolean {
+      const current = state.questionStates[state.currentIndex]
+      if (!current?.checked) {
+        return false
+      }
+
+      if (state.questionStates.some(questionState =>
+        questionState.wasSkipped && !questionState.checked
+      )) {
+        return false
+      }
+
+      const allChecked = state.questionStates.every(questionState => questionState.checked)
+      return state.currentIndex >= state.questions.length - 1 || allChecked
+    },
+
     isActive(state): boolean {
       return state.phase === 'exam' || state.phase === 'skipped-summary'
     },
@@ -121,7 +148,40 @@ export const useExamStore = defineStore('exam', {
       if (!current || current.checked || !current.selectedOptionId) {
         return
       }
+      current.wasSkipped = false
       current.checked = true
+    },
+
+    skipQuestion() {
+      const current = this.questionStates[this.currentIndex]
+      if (!current || current.checked) {
+        return
+      }
+
+      current.wasSkipped = true
+      current.selectedOptionId = null
+
+      if (!this.isLastQuestion) {
+        this.currentIndex += 1
+        return
+      }
+
+      const pendingSkippedIndex = this.findFirstPendingSkippedIndex()
+      if (pendingSkippedIndex !== -1 && pendingSkippedIndex !== this.currentIndex) {
+        this.currentIndex = pendingSkippedIndex
+      }
+    },
+
+    goToQuestion(index: number) {
+      if (this.phase !== 'exam') {
+        return
+      }
+
+      if (index < 0 || index >= this.questions.length) {
+        return
+      }
+
+      this.currentIndex = index
     },
 
     goNext() {
@@ -131,6 +191,12 @@ export const useExamStore = defineStore('exam', {
       }
 
       if (this.isLastQuestion) {
+        const pendingSkippedIndex = this.findFirstPendingSkippedIndex()
+        if (pendingSkippedIndex !== -1) {
+          this.currentIndex = pendingSkippedIndex
+          return
+        }
+
         this.finishExam()
         return
       }
@@ -138,12 +204,14 @@ export const useExamStore = defineStore('exam', {
       this.currentIndex += 1
     },
 
+    findFirstPendingSkippedIndex(): number {
+      return this.questionStates.findIndex(questionState =>
+        questionState.wasSkipped && !questionState.checked
+      )
+    },
+
     markRemainingAsSkipped() {
-      for (let index = this.currentIndex; index < this.questionStates.length; index++) {
-        const state = this.questionStates[index]
-        if (!state) {
-          continue
-        }
+      for (const state of this.questionStates) {
         if (!state.checked) {
           state.wasSkipped = true
           state.checked = true
@@ -163,6 +231,7 @@ export const useExamStore = defineStore('exam', {
     },
 
     finishExam() {
+      this.markRemainingAsSkipped()
       this.stopTimer()
       this.phase = 'complete'
     },

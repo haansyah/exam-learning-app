@@ -18,7 +18,14 @@ function getOptionText(question: Question | undefined, optionId: string | null) 
   if (!question) {
     return optionId
   }
-  return question.options.find(option => option.id === optionId)?.text ?? optionId
+
+  const option = question.options.find(entry => entry.id === optionId)
+  if (!option) {
+    return optionId
+  }
+
+  const letter = getOptionLetterById(question, optionId)
+  return letter ? formatOptionLabel(letter, option.text) : option.text
 }
 
 function getQuestionText(questionId: string) {
